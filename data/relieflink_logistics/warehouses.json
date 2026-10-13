@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "LOG-WAREHOUSES-001",
+    "area_id": "INC-AREAS-001",
+    "warehouse_name": "Relief warehouse 001",
+    "capacity_units": 10001,
+    "manager_code": "Store manager 001",
+    "contact_code": "Warehouse desk 001",
+    "storage_type": "ambient",
+    "loading_bays": 3,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-002",
+    "area_id": "INC-AREAS-002",
+    "warehouse_name": "Relief warehouse 002",
+    "capacity_units": 10002,
+    "manager_code": "Store manager 002",
+    "contact_code": "Warehouse desk 002",
+    "storage_type": "ambient",
+    "loading_bays": 4,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-003",
+    "area_id": "INC-AREAS-003",
+    "warehouse_name": "Relief warehouse 003",
+    "capacity_units": 10003,
+    "manager_code": "Store manager 003",
+    "contact_code": "Warehouse desk 003",
+    "storage_type": "ambient",
+    "loading_bays": 5,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-004",
+    "area_id": "INC-AREAS-004",
+    "warehouse_name": "Relief warehouse 004",
+    "capacity_units": 10004,
+    "manager_code": "Store manager 004",
+    "contact_code": "Warehouse desk 004",
+    "storage_type": "ambient",
+    "loading_bays": 6,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-005",
+    "area_id": "INC-AREAS-005",
+    "warehouse_name": "Relief warehouse 005",
+    "capacity_units": 10000,
+    "manager_code": "Store manager 005",
+    "contact_code": "Warehouse desk 005",
+    "storage_type": "ambient",
+    "loading_bays": 2,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-006",
+    "area_id": "INC-AREAS-006",
+    "warehouse_name": "Relief warehouse 006",
+    "capacity_units": 10001,
+    "manager_code": "Store manager 006",
+    "contact_code": "Warehouse desk 006",
+    "storage_type": "ambient",
+    "loading_bays": 3,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-007",
+    "area_id": "INC-AREAS-007",
+    "warehouse_name": "Relief warehouse 007",
+    "capacity_units": 10002,
+    "manager_code": "Store manager 007",
+    "contact_code": "Warehouse desk 007",
+    "storage_type": "ambient",
+    "loading_bays": 4,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-008",
+    "area_id": "INC-AREAS-008",
+    "warehouse_name": "Relief warehouse 008",
+    "capacity_units": 10003,
+    "manager_code": "Store manager 008",
+    "contact_code": "Warehouse desk 008",
+    "storage_type": "ambient",
+    "loading_bays": 5,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-009",
+    "area_id": "INC-AREAS-009",
+    "warehouse_name": "Relief warehouse 009",
+    "capacity_units": 10004,
+    "manager_code": "Store manager 009",
+    "contact_code": "Warehouse desk 009",
+    "storage_type": "ambient",
+    "loading_bays": 6,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-010",
+    "area_id": "INC-AREAS-010",
+    "warehouse_name": "Relief warehouse 010",
+    "capacity_units": 10000,
+    "manager_code": "Store manager 010",
+    "contact_code": "Warehouse desk 010",
+    "storage_type": "ambient",
+    "loading_bays": 2,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-011",
+    "area_id": "INC-AREAS-011",
+    "warehouse_name": "Relief warehouse 011",
+    "capacity_units": 10001,
+    "manager_code": "Store manager 011",
+    "contact_code": "Warehouse desk 011",
+    "storage_type": "ambient",
+    "loading_bays": 3,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-012",
+    "area_id": "INC-AREAS-012",
+    "warehouse_name": "Relief warehouse 012",
+    "capacity_units": 10002,
+    "manager_code": "Store manager 012",
+    "contact_code": "Warehouse desk 012",
+    "storage_type": "ambient",
+    "loading_bays": 4,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-013",
+    "area_id": "INC-AREAS-013",
+    "warehouse_name": "Relief warehouse 013",
+    "capacity_units": 10003,
+    "manager_code": "Store manager 013",
+    "contact_code": "Warehouse desk 013",
+    "storage_type": "ambient",
+    "loading_bays": 5,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-014",
+    "area_id": "INC-AREAS-014",
+    "warehouse_name": "Relief warehouse 014",
+    "capacity_units": 10004,
+    "manager_code": "Store manager 014",
+    "contact_code": "Warehouse desk 014",
+    "storage_type": "ambient",
+    "loading_bays": 6,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-015",
+    "area_id": "INC-AREAS-015",
+    "warehouse_name": "Relief warehouse 015",
+    "capacity_units": 10000,
+    "manager_code": "Store manager 015",
+    "contact_code": "Warehouse desk 015",
+    "storage_type": "ambient",
+    "loading_bays": 2,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-016",
+    "area_id": "INC-AREAS-016",
+    "warehouse_name": "Relief warehouse 016",
+    "capacity_units": 10001,
+    "manager_code": "Store manager 016",
+    "contact_code": "Warehouse desk 016",
+    "storage_type": "ambient",
+    "loading_bays": 3,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-017",
+    "area_id": "INC-AREAS-017",
+    "warehouse_name": "Relief warehouse 017",
+    "capacity_units": 10002,
+    "manager_code": "Store manager 017",
+    "contact_code": "Warehouse desk 017",
+    "storage_type": "ambient",
+    "loading_bays": 4,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-018",
+    "area_id": "INC-AREAS-018",
+    "warehouse_name": "Relief warehouse 018",
+    "capacity_units": 10003,
+    "manager_code": "Store manager 018",
+    "contact_code": "Warehouse desk 018",
+    "storage_type": "ambient",
+    "loading_bays": 5,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-019",
+    "area_id": "INC-AREAS-019",
+    "warehouse_name": "Relief warehouse 019",
+    "capacity_units": 10004,
+    "manager_code": "Store manager 019",
+    "contact_code": "Warehouse desk 019",
+    "storage_type": "ambient",
+    "loading_bays": 6,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-020",
+    "area_id": "INC-AREAS-020",
+    "warehouse_name": "Relief warehouse 020",
+    "capacity_units": 10000,
+    "manager_code": "Store manager 020",
+    "contact_code": "Warehouse desk 020",
+    "storage_type": "ambient",
+    "loading_bays": 2,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-021",
+    "area_id": "INC-AREAS-021",
+    "warehouse_name": "Relief warehouse 021",
+    "capacity_units": 10001,
+    "manager_code": "Store manager 021",
+    "contact_code": "Warehouse desk 021",
+    "storage_type": "ambient",
+    "loading_bays": 3,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-022",
+    "area_id": "INC-AREAS-022",
+    "warehouse_name": "Relief warehouse 022",
+    "capacity_units": 10002,
+    "manager_code": "Store manager 022",
+    "contact_code": "Warehouse desk 022",
+    "storage_type": "ambient",
+    "loading_bays": 4,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-023",
+    "area_id": "INC-AREAS-023",
+    "warehouse_name": "Relief warehouse 023",
+    "capacity_units": 10003,
+    "manager_code": "Store manager 023",
+    "contact_code": "Warehouse desk 023",
+    "storage_type": "ambient",
+    "loading_bays": 5,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-024",
+    "area_id": "INC-AREAS-024",
+    "warehouse_name": "Relief warehouse 024",
+    "capacity_units": 10004,
+    "manager_code": "Store manager 024",
+    "contact_code": "Warehouse desk 024",
+    "storage_type": "ambient",
+    "loading_bays": 6,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-025",
+    "area_id": "INC-AREAS-025",
+    "warehouse_name": "Relief warehouse 025",
+    "capacity_units": 10000,
+    "manager_code": "Store manager 025",
+    "contact_code": "Warehouse desk 025",
+    "storage_type": "ambient",
+    "loading_bays": 2,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-026",
+    "area_id": "INC-AREAS-026",
+    "warehouse_name": "Relief warehouse 026",
+    "capacity_units": 10001,
+    "manager_code": "Store manager 026",
+    "contact_code": "Warehouse desk 026",
+    "storage_type": "ambient",
+    "loading_bays": 3,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-027",
+    "area_id": "INC-AREAS-027",
+    "warehouse_name": "Relief warehouse 027",
+    "capacity_units": 10002,
+    "manager_code": "Store manager 027",
+    "contact_code": "Warehouse desk 027",
+    "storage_type": "ambient",
+    "loading_bays": 4,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-028",
+    "area_id": "INC-AREAS-028",
+    "warehouse_name": "Relief warehouse 028",
+    "capacity_units": 10003,
+    "manager_code": "Store manager 028",
+    "contact_code": "Warehouse desk 028",
+    "storage_type": "ambient",
+    "loading_bays": 5,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-029",
+    "area_id": "INC-AREAS-029",
+    "warehouse_name": "Relief warehouse 029",
+    "capacity_units": 10004,
+    "manager_code": "Store manager 029",
+    "contact_code": "Warehouse desk 029",
+    "storage_type": "ambient",
+    "loading_bays": 6,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-030",
+    "area_id": "INC-AREAS-030",
+    "warehouse_name": "Relief warehouse 030",
+    "capacity_units": 10000,
+    "manager_code": "Store manager 030",
+    "contact_code": "Warehouse desk 030",
+    "storage_type": "ambient",
+    "loading_bays": 2,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-031",
+    "area_id": "INC-AREAS-031",
+    "warehouse_name": "Relief warehouse 031",
+    "capacity_units": 10001,
+    "manager_code": "Store manager 031",
+    "contact_code": "Warehouse desk 031",
+    "storage_type": "ambient",
+    "loading_bays": 3,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-032",
+    "area_id": "INC-AREAS-032",
+    "warehouse_name": "Relief warehouse 032",
+    "capacity_units": 10002,
+    "manager_code": "Store manager 032",
+    "contact_code": "Warehouse desk 032",
+    "storage_type": "ambient",
+    "loading_bays": 4,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-033",
+    "area_id": "INC-AREAS-033",
+    "warehouse_name": "Relief warehouse 033",
+    "capacity_units": 10003,
+    "manager_code": "Store manager 033",
+    "contact_code": "Warehouse desk 033",
+    "storage_type": "ambient",
+    "loading_bays": 5,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-034",
+    "area_id": "INC-AREAS-034",
+    "warehouse_name": "Relief warehouse 034",
+    "capacity_units": 10004,
+    "manager_code": "Store manager 034",
+    "contact_code": "Warehouse desk 034",
+    "storage_type": "ambient",
+    "loading_bays": 6,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-035",
+    "area_id": "INC-AREAS-035",
+    "warehouse_name": "Relief warehouse 035",
+    "capacity_units": 10000,
+    "manager_code": "Store manager 035",
+    "contact_code": "Warehouse desk 035",
+    "storage_type": "ambient",
+    "loading_bays": 2,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-036",
+    "area_id": "INC-AREAS-036",
+    "warehouse_name": "Relief warehouse 036",
+    "capacity_units": 10001,
+    "manager_code": "Store manager 036",
+    "contact_code": "Warehouse desk 036",
+    "storage_type": "ambient",
+    "loading_bays": 3,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-037",
+    "area_id": "INC-AREAS-037",
+    "warehouse_name": "Relief warehouse 037",
+    "capacity_units": 10002,
+    "manager_code": "Store manager 037",
+    "contact_code": "Warehouse desk 037",
+    "storage_type": "ambient",
+    "loading_bays": 4,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-038",
+    "area_id": "INC-AREAS-038",
+    "warehouse_name": "Relief warehouse 038",
+    "capacity_units": 10003,
+    "manager_code": "Store manager 038",
+    "contact_code": "Warehouse desk 038",
+    "storage_type": "ambient",
+    "loading_bays": 5,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-039",
+    "area_id": "INC-AREAS-039",
+    "warehouse_name": "Relief warehouse 039",
+    "capacity_units": 10004,
+    "manager_code": "Store manager 039",
+    "contact_code": "Warehouse desk 039",
+    "storage_type": "ambient",
+    "loading_bays": 6,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-040",
+    "area_id": "INC-AREAS-040",
+    "warehouse_name": "Relief warehouse 040",
+    "capacity_units": 10000,
+    "manager_code": "Store manager 040",
+    "contact_code": "Warehouse desk 040",
+    "storage_type": "ambient",
+    "loading_bays": 2,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-041",
+    "area_id": "INC-AREAS-041",
+    "warehouse_name": "Relief warehouse 041",
+    "capacity_units": 10001,
+    "manager_code": "Store manager 041",
+    "contact_code": "Warehouse desk 041",
+    "storage_type": "ambient",
+    "loading_bays": 3,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-042",
+    "area_id": "INC-AREAS-042",
+    "warehouse_name": "Relief warehouse 042",
+    "capacity_units": 10002,
+    "manager_code": "Store manager 042",
+    "contact_code": "Warehouse desk 042",
+    "storage_type": "ambient",
+    "loading_bays": 4,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-043",
+    "area_id": "INC-AREAS-043",
+    "warehouse_name": "Relief warehouse 043",
+    "capacity_units": 10003,
+    "manager_code": "Store manager 043",
+    "contact_code": "Warehouse desk 043",
+    "storage_type": "ambient",
+    "loading_bays": 5,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-044",
+    "area_id": "INC-AREAS-044",
+    "warehouse_name": "Relief warehouse 044",
+    "capacity_units": 10004,
+    "manager_code": "Store manager 044",
+    "contact_code": "Warehouse desk 044",
+    "storage_type": "ambient",
+    "loading_bays": 6,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-045",
+    "area_id": "INC-AREAS-045",
+    "warehouse_name": "Relief warehouse 045",
+    "capacity_units": 10000,
+    "manager_code": "Store manager 045",
+    "contact_code": "Warehouse desk 045",
+    "storage_type": "ambient",
+    "loading_bays": 2,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-046",
+    "area_id": "INC-AREAS-046",
+    "warehouse_name": "Relief warehouse 046",
+    "capacity_units": 10001,
+    "manager_code": "Store manager 046",
+    "contact_code": "Warehouse desk 046",
+    "storage_type": "ambient",
+    "loading_bays": 3,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-047",
+    "area_id": "INC-AREAS-047",
+    "warehouse_name": "Relief warehouse 047",
+    "capacity_units": 10002,
+    "manager_code": "Store manager 047",
+    "contact_code": "Warehouse desk 047",
+    "storage_type": "ambient",
+    "loading_bays": 4,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-048",
+    "area_id": "INC-AREAS-048",
+    "warehouse_name": "Relief warehouse 048",
+    "capacity_units": 10003,
+    "manager_code": "Store manager 048",
+    "contact_code": "Warehouse desk 048",
+    "storage_type": "ambient",
+    "loading_bays": 5,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-049",
+    "area_id": "INC-AREAS-049",
+    "warehouse_name": "Relief warehouse 049",
+    "capacity_units": 10004,
+    "manager_code": "Store manager 049",
+    "contact_code": "Warehouse desk 049",
+    "storage_type": "ambient",
+    "loading_bays": 6,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-WAREHOUSES-050",
+    "area_id": "INC-AREAS-050",
+    "warehouse_name": "Relief warehouse 050",
+    "capacity_units": 10000,
+    "manager_code": "Store manager 050",
+    "contact_code": "Warehouse desk 050",
+    "storage_type": "ambient",
+    "loading_bays": 2,
+    "power_backup": true,
+    "inspection_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "warehouse_state": "active",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

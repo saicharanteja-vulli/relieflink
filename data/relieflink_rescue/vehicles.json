@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "RES-VEHICLES-001",
+    "vehicle_code": "Rescue vehicle 001",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-001",
+    "seat_capacity": 13,
+    "fuel_pct": 51,
+    "inspection_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 001",
+    "base_area_id": "INC-AREAS-001",
+    "operator_code": "Operator 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-002",
+    "vehicle_code": "Rescue vehicle 002",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-002",
+    "seat_capacity": 14,
+    "fuel_pct": 52,
+    "inspection_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 002",
+    "base_area_id": "INC-AREAS-002",
+    "operator_code": "Operator 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-003",
+    "vehicle_code": "Rescue vehicle 003",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-003",
+    "seat_capacity": 15,
+    "fuel_pct": 53,
+    "inspection_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 003",
+    "base_area_id": "INC-AREAS-003",
+    "operator_code": "Operator 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-004",
+    "vehicle_code": "Rescue vehicle 004",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-004",
+    "seat_capacity": 16,
+    "fuel_pct": 54,
+    "inspection_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 004",
+    "base_area_id": "INC-AREAS-004",
+    "operator_code": "Operator 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-005",
+    "vehicle_code": "Rescue vehicle 005",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-005",
+    "seat_capacity": 12,
+    "fuel_pct": 50,
+    "inspection_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 005",
+    "base_area_id": "INC-AREAS-005",
+    "operator_code": "Operator 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-006",
+    "vehicle_code": "Rescue vehicle 006",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-006",
+    "seat_capacity": 13,
+    "fuel_pct": 51,
+    "inspection_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 006",
+    "base_area_id": "INC-AREAS-006",
+    "operator_code": "Operator 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-007",
+    "vehicle_code": "Rescue vehicle 007",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-007",
+    "seat_capacity": 14,
+    "fuel_pct": 52,
+    "inspection_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 007",
+    "base_area_id": "INC-AREAS-007",
+    "operator_code": "Operator 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-008",
+    "vehicle_code": "Rescue vehicle 008",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-008",
+    "seat_capacity": 15,
+    "fuel_pct": 53,
+    "inspection_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 008",
+    "base_area_id": "INC-AREAS-008",
+    "operator_code": "Operator 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-009",
+    "vehicle_code": "Rescue vehicle 009",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-009",
+    "seat_capacity": 16,
+    "fuel_pct": 54,
+    "inspection_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 009",
+    "base_area_id": "INC-AREAS-009",
+    "operator_code": "Operator 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-010",
+    "vehicle_code": "Rescue vehicle 010",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-010",
+    "seat_capacity": 12,
+    "fuel_pct": 50,
+    "inspection_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 010",
+    "base_area_id": "INC-AREAS-010",
+    "operator_code": "Operator 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-011",
+    "vehicle_code": "Rescue vehicle 011",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-011",
+    "seat_capacity": 13,
+    "fuel_pct": 51,
+    "inspection_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 011",
+    "base_area_id": "INC-AREAS-011",
+    "operator_code": "Operator 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-012",
+    "vehicle_code": "Rescue vehicle 012",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-012",
+    "seat_capacity": 14,
+    "fuel_pct": 52,
+    "inspection_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 012",
+    "base_area_id": "INC-AREAS-012",
+    "operator_code": "Operator 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-013",
+    "vehicle_code": "Rescue vehicle 013",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-013",
+    "seat_capacity": 15,
+    "fuel_pct": 53,
+    "inspection_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 013",
+    "base_area_id": "INC-AREAS-013",
+    "operator_code": "Operator 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-014",
+    "vehicle_code": "Rescue vehicle 014",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-014",
+    "seat_capacity": 16,
+    "fuel_pct": 54,
+    "inspection_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 014",
+    "base_area_id": "INC-AREAS-014",
+    "operator_code": "Operator 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-015",
+    "vehicle_code": "Rescue vehicle 015",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-015",
+    "seat_capacity": 12,
+    "fuel_pct": 50,
+    "inspection_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 015",
+    "base_area_id": "INC-AREAS-015",
+    "operator_code": "Operator 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-016",
+    "vehicle_code": "Rescue vehicle 016",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-016",
+    "seat_capacity": 13,
+    "fuel_pct": 51,
+    "inspection_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 016",
+    "base_area_id": "INC-AREAS-016",
+    "operator_code": "Operator 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-017",
+    "vehicle_code": "Rescue vehicle 017",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-017",
+    "seat_capacity": 14,
+    "fuel_pct": 52,
+    "inspection_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 017",
+    "base_area_id": "INC-AREAS-017",
+    "operator_code": "Operator 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-018",
+    "vehicle_code": "Rescue vehicle 018",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-018",
+    "seat_capacity": 15,
+    "fuel_pct": 53,
+    "inspection_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 018",
+    "base_area_id": "INC-AREAS-018",
+    "operator_code": "Operator 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-019",
+    "vehicle_code": "Rescue vehicle 019",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-019",
+    "seat_capacity": 16,
+    "fuel_pct": 54,
+    "inspection_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 019",
+    "base_area_id": "INC-AREAS-019",
+    "operator_code": "Operator 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-020",
+    "vehicle_code": "Rescue vehicle 020",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-020",
+    "seat_capacity": 12,
+    "fuel_pct": 50,
+    "inspection_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 020",
+    "base_area_id": "INC-AREAS-020",
+    "operator_code": "Operator 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-021",
+    "vehicle_code": "Rescue vehicle 021",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-021",
+    "seat_capacity": 13,
+    "fuel_pct": 51,
+    "inspection_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 021",
+    "base_area_id": "INC-AREAS-021",
+    "operator_code": "Operator 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-022",
+    "vehicle_code": "Rescue vehicle 022",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-022",
+    "seat_capacity": 14,
+    "fuel_pct": 52,
+    "inspection_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 022",
+    "base_area_id": "INC-AREAS-022",
+    "operator_code": "Operator 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-023",
+    "vehicle_code": "Rescue vehicle 023",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-023",
+    "seat_capacity": 15,
+    "fuel_pct": 53,
+    "inspection_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 023",
+    "base_area_id": "INC-AREAS-023",
+    "operator_code": "Operator 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-024",
+    "vehicle_code": "Rescue vehicle 024",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-024",
+    "seat_capacity": 16,
+    "fuel_pct": 54,
+    "inspection_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 024",
+    "base_area_id": "INC-AREAS-024",
+    "operator_code": "Operator 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-025",
+    "vehicle_code": "Rescue vehicle 025",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-025",
+    "seat_capacity": 12,
+    "fuel_pct": 50,
+    "inspection_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 025",
+    "base_area_id": "INC-AREAS-025",
+    "operator_code": "Operator 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-026",
+    "vehicle_code": "Rescue vehicle 026",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-026",
+    "seat_capacity": 13,
+    "fuel_pct": 51,
+    "inspection_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 026",
+    "base_area_id": "INC-AREAS-026",
+    "operator_code": "Operator 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-027",
+    "vehicle_code": "Rescue vehicle 027",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-027",
+    "seat_capacity": 14,
+    "fuel_pct": 52,
+    "inspection_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 027",
+    "base_area_id": "INC-AREAS-027",
+    "operator_code": "Operator 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-028",
+    "vehicle_code": "Rescue vehicle 028",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-028",
+    "seat_capacity": 15,
+    "fuel_pct": 53,
+    "inspection_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 028",
+    "base_area_id": "INC-AREAS-028",
+    "operator_code": "Operator 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-029",
+    "vehicle_code": "Rescue vehicle 029",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-029",
+    "seat_capacity": 16,
+    "fuel_pct": 54,
+    "inspection_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 029",
+    "base_area_id": "INC-AREAS-029",
+    "operator_code": "Operator 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-030",
+    "vehicle_code": "Rescue vehicle 030",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-030",
+    "seat_capacity": 12,
+    "fuel_pct": 50,
+    "inspection_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 030",
+    "base_area_id": "INC-AREAS-030",
+    "operator_code": "Operator 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-031",
+    "vehicle_code": "Rescue vehicle 031",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-031",
+    "seat_capacity": 13,
+    "fuel_pct": 51,
+    "inspection_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 031",
+    "base_area_id": "INC-AREAS-031",
+    "operator_code": "Operator 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-032",
+    "vehicle_code": "Rescue vehicle 032",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-032",
+    "seat_capacity": 14,
+    "fuel_pct": 52,
+    "inspection_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 032",
+    "base_area_id": "INC-AREAS-032",
+    "operator_code": "Operator 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-033",
+    "vehicle_code": "Rescue vehicle 033",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-033",
+    "seat_capacity": 15,
+    "fuel_pct": 53,
+    "inspection_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 033",
+    "base_area_id": "INC-AREAS-033",
+    "operator_code": "Operator 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-034",
+    "vehicle_code": "Rescue vehicle 034",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-034",
+    "seat_capacity": 16,
+    "fuel_pct": 54,
+    "inspection_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 034",
+    "base_area_id": "INC-AREAS-034",
+    "operator_code": "Operator 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-035",
+    "vehicle_code": "Rescue vehicle 035",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-035",
+    "seat_capacity": 12,
+    "fuel_pct": 50,
+    "inspection_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 035",
+    "base_area_id": "INC-AREAS-035",
+    "operator_code": "Operator 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-036",
+    "vehicle_code": "Rescue vehicle 036",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-036",
+    "seat_capacity": 13,
+    "fuel_pct": 51,
+    "inspection_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 036",
+    "base_area_id": "INC-AREAS-036",
+    "operator_code": "Operator 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-037",
+    "vehicle_code": "Rescue vehicle 037",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-037",
+    "seat_capacity": 14,
+    "fuel_pct": 52,
+    "inspection_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 037",
+    "base_area_id": "INC-AREAS-037",
+    "operator_code": "Operator 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-038",
+    "vehicle_code": "Rescue vehicle 038",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-038",
+    "seat_capacity": 15,
+    "fuel_pct": 53,
+    "inspection_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 038",
+    "base_area_id": "INC-AREAS-038",
+    "operator_code": "Operator 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-039",
+    "vehicle_code": "Rescue vehicle 039",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-039",
+    "seat_capacity": 16,
+    "fuel_pct": 54,
+    "inspection_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 039",
+    "base_area_id": "INC-AREAS-039",
+    "operator_code": "Operator 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-040",
+    "vehicle_code": "Rescue vehicle 040",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-040",
+    "seat_capacity": 12,
+    "fuel_pct": 50,
+    "inspection_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 040",
+    "base_area_id": "INC-AREAS-040",
+    "operator_code": "Operator 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-041",
+    "vehicle_code": "Rescue vehicle 041",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-041",
+    "seat_capacity": 13,
+    "fuel_pct": 51,
+    "inspection_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 041",
+    "base_area_id": "INC-AREAS-041",
+    "operator_code": "Operator 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-042",
+    "vehicle_code": "Rescue vehicle 042",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-042",
+    "seat_capacity": 14,
+    "fuel_pct": 52,
+    "inspection_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 042",
+    "base_area_id": "INC-AREAS-042",
+    "operator_code": "Operator 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-043",
+    "vehicle_code": "Rescue vehicle 043",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-043",
+    "seat_capacity": 15,
+    "fuel_pct": 53,
+    "inspection_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 043",
+    "base_area_id": "INC-AREAS-043",
+    "operator_code": "Operator 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-044",
+    "vehicle_code": "Rescue vehicle 044",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-044",
+    "seat_capacity": 16,
+    "fuel_pct": 54,
+    "inspection_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 044",
+    "base_area_id": "INC-AREAS-044",
+    "operator_code": "Operator 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-045",
+    "vehicle_code": "Rescue vehicle 045",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-045",
+    "seat_capacity": 12,
+    "fuel_pct": 50,
+    "inspection_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 045",
+    "base_area_id": "INC-AREAS-045",
+    "operator_code": "Operator 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-046",
+    "vehicle_code": "Rescue vehicle 046",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-046",
+    "seat_capacity": 13,
+    "fuel_pct": 51,
+    "inspection_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 046",
+    "base_area_id": "INC-AREAS-046",
+    "operator_code": "Operator 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-047",
+    "vehicle_code": "Rescue vehicle 047",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-047",
+    "seat_capacity": 14,
+    "fuel_pct": 52,
+    "inspection_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 047",
+    "base_area_id": "INC-AREAS-047",
+    "operator_code": "Operator 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-048",
+    "vehicle_code": "Rescue vehicle 048",
+    "vehicle_type": "van",
+    "team_id": "RES-TEAMS-048",
+    "seat_capacity": 15,
+    "fuel_pct": 53,
+    "inspection_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 048",
+    "base_area_id": "INC-AREAS-048",
+    "operator_code": "Operator 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-049",
+    "vehicle_code": "Rescue vehicle 049",
+    "vehicle_type": "boat",
+    "team_id": "RES-TEAMS-049",
+    "seat_capacity": 16,
+    "fuel_pct": 54,
+    "inspection_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 049",
+    "base_area_id": "INC-AREAS-049",
+    "operator_code": "Operator 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-VEHICLES-050",
+    "vehicle_code": "Rescue vehicle 050",
+    "vehicle_type": "ambulance",
+    "team_id": "RES-TEAMS-050",
+    "seat_capacity": 12,
+    "fuel_pct": 50,
+    "inspection_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "service_state": "ready",
+    "radio_code": "Radio 050",
+    "base_area_id": "INC-AREAS-050",
+    "operator_code": "Operator 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

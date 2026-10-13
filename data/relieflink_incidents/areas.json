@@ -1,0 +1,1052 @@
+[
+  {
+    "_id": "INC-AREAS-001",
+    "area_name": "Sector 001",
+    "district": "North",
+    "state": "Demo State 001",
+    "latitude": 18,
+    "longitude": 79,
+    "population": 2001,
+    "household_count": 401,
+    "risk_level": "high",
+    "road_access": "open",
+    "evacuation_zone": "Zone 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-002",
+    "area_name": "Sector 002",
+    "district": "South",
+    "state": "Demo State 002",
+    "latitude": 19,
+    "longitude": 80,
+    "population": 2002,
+    "household_count": 402,
+    "risk_level": "medium",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-003",
+    "area_name": "Sector 003",
+    "district": "East",
+    "state": "Demo State 003",
+    "latitude": 20,
+    "longitude": 81,
+    "population": 2003,
+    "household_count": 403,
+    "risk_level": "low",
+    "road_access": "open",
+    "evacuation_zone": "Zone 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-004",
+    "area_name": "Sector 004",
+    "district": "West",
+    "state": "Demo State 004",
+    "latitude": 21,
+    "longitude": 82,
+    "population": 2004,
+    "household_count": 404,
+    "risk_level": "high",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-005",
+    "area_name": "Sector 005",
+    "district": "Central",
+    "state": "Demo State 005",
+    "latitude": 17,
+    "longitude": 78,
+    "population": 2000,
+    "household_count": 400,
+    "risk_level": "medium",
+    "road_access": "open",
+    "evacuation_zone": "Zone 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-006",
+    "area_name": "Sector 006",
+    "district": "North",
+    "state": "Demo State 006",
+    "latitude": 18,
+    "longitude": 79,
+    "population": 2001,
+    "household_count": 401,
+    "risk_level": "low",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-007",
+    "area_name": "Sector 007",
+    "district": "South",
+    "state": "Demo State 007",
+    "latitude": 19,
+    "longitude": 80,
+    "population": 2002,
+    "household_count": 402,
+    "risk_level": "high",
+    "road_access": "open",
+    "evacuation_zone": "Zone 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-008",
+    "area_name": "Sector 008",
+    "district": "East",
+    "state": "Demo State 008",
+    "latitude": 20,
+    "longitude": 81,
+    "population": 2003,
+    "household_count": 403,
+    "risk_level": "medium",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-009",
+    "area_name": "Sector 009",
+    "district": "West",
+    "state": "Demo State 009",
+    "latitude": 21,
+    "longitude": 82,
+    "population": 2004,
+    "household_count": 404,
+    "risk_level": "low",
+    "road_access": "open",
+    "evacuation_zone": "Zone 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-010",
+    "area_name": "Sector 010",
+    "district": "Central",
+    "state": "Demo State 010",
+    "latitude": 17,
+    "longitude": 78,
+    "population": 2000,
+    "household_count": 400,
+    "risk_level": "high",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-011",
+    "area_name": "Sector 011",
+    "district": "North",
+    "state": "Demo State 011",
+    "latitude": 18,
+    "longitude": 79,
+    "population": 2001,
+    "household_count": 401,
+    "risk_level": "medium",
+    "road_access": "open",
+    "evacuation_zone": "Zone 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-012",
+    "area_name": "Sector 012",
+    "district": "South",
+    "state": "Demo State 012",
+    "latitude": 19,
+    "longitude": 80,
+    "population": 2002,
+    "household_count": 402,
+    "risk_level": "low",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-013",
+    "area_name": "Sector 013",
+    "district": "East",
+    "state": "Demo State 013",
+    "latitude": 20,
+    "longitude": 81,
+    "population": 2003,
+    "household_count": 403,
+    "risk_level": "high",
+    "road_access": "open",
+    "evacuation_zone": "Zone 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-014",
+    "area_name": "Sector 014",
+    "district": "West",
+    "state": "Demo State 014",
+    "latitude": 21,
+    "longitude": 82,
+    "population": 2004,
+    "household_count": 404,
+    "risk_level": "medium",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-015",
+    "area_name": "Sector 015",
+    "district": "Central",
+    "state": "Demo State 015",
+    "latitude": 17,
+    "longitude": 78,
+    "population": 2000,
+    "household_count": 400,
+    "risk_level": "low",
+    "road_access": "open",
+    "evacuation_zone": "Zone 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-016",
+    "area_name": "Sector 016",
+    "district": "North",
+    "state": "Demo State 016",
+    "latitude": 18,
+    "longitude": 79,
+    "population": 2001,
+    "household_count": 401,
+    "risk_level": "high",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-017",
+    "area_name": "Sector 017",
+    "district": "South",
+    "state": "Demo State 017",
+    "latitude": 19,
+    "longitude": 80,
+    "population": 2002,
+    "household_count": 402,
+    "risk_level": "medium",
+    "road_access": "open",
+    "evacuation_zone": "Zone 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-018",
+    "area_name": "Sector 018",
+    "district": "East",
+    "state": "Demo State 018",
+    "latitude": 20,
+    "longitude": 81,
+    "population": 2003,
+    "household_count": 403,
+    "risk_level": "low",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-019",
+    "area_name": "Sector 019",
+    "district": "West",
+    "state": "Demo State 019",
+    "latitude": 21,
+    "longitude": 82,
+    "population": 2004,
+    "household_count": 404,
+    "risk_level": "high",
+    "road_access": "open",
+    "evacuation_zone": "Zone 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-020",
+    "area_name": "Sector 020",
+    "district": "Central",
+    "state": "Demo State 020",
+    "latitude": 17,
+    "longitude": 78,
+    "population": 2000,
+    "household_count": 400,
+    "risk_level": "medium",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-021",
+    "area_name": "Sector 021",
+    "district": "North",
+    "state": "Demo State 021",
+    "latitude": 18,
+    "longitude": 79,
+    "population": 2001,
+    "household_count": 401,
+    "risk_level": "low",
+    "road_access": "open",
+    "evacuation_zone": "Zone 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-022",
+    "area_name": "Sector 022",
+    "district": "South",
+    "state": "Demo State 022",
+    "latitude": 19,
+    "longitude": 80,
+    "population": 2002,
+    "household_count": 402,
+    "risk_level": "high",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-023",
+    "area_name": "Sector 023",
+    "district": "East",
+    "state": "Demo State 023",
+    "latitude": 20,
+    "longitude": 81,
+    "population": 2003,
+    "household_count": 403,
+    "risk_level": "medium",
+    "road_access": "open",
+    "evacuation_zone": "Zone 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-024",
+    "area_name": "Sector 024",
+    "district": "West",
+    "state": "Demo State 024",
+    "latitude": 21,
+    "longitude": 82,
+    "population": 2004,
+    "household_count": 404,
+    "risk_level": "low",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-025",
+    "area_name": "Sector 025",
+    "district": "Central",
+    "state": "Demo State 025",
+    "latitude": 17,
+    "longitude": 78,
+    "population": 2000,
+    "household_count": 400,
+    "risk_level": "high",
+    "road_access": "open",
+    "evacuation_zone": "Zone 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-026",
+    "area_name": "Sector 026",
+    "district": "North",
+    "state": "Demo State 026",
+    "latitude": 18,
+    "longitude": 79,
+    "population": 2001,
+    "household_count": 401,
+    "risk_level": "medium",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-027",
+    "area_name": "Sector 027",
+    "district": "South",
+    "state": "Demo State 027",
+    "latitude": 19,
+    "longitude": 80,
+    "population": 2002,
+    "household_count": 402,
+    "risk_level": "low",
+    "road_access": "open",
+    "evacuation_zone": "Zone 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-028",
+    "area_name": "Sector 028",
+    "district": "East",
+    "state": "Demo State 028",
+    "latitude": 20,
+    "longitude": 81,
+    "population": 2003,
+    "household_count": 403,
+    "risk_level": "high",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-029",
+    "area_name": "Sector 029",
+    "district": "West",
+    "state": "Demo State 029",
+    "latitude": 21,
+    "longitude": 82,
+    "population": 2004,
+    "household_count": 404,
+    "risk_level": "medium",
+    "road_access": "open",
+    "evacuation_zone": "Zone 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-030",
+    "area_name": "Sector 030",
+    "district": "Central",
+    "state": "Demo State 030",
+    "latitude": 17,
+    "longitude": 78,
+    "population": 2000,
+    "household_count": 400,
+    "risk_level": "low",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-031",
+    "area_name": "Sector 031",
+    "district": "North",
+    "state": "Demo State 031",
+    "latitude": 18,
+    "longitude": 79,
+    "population": 2001,
+    "household_count": 401,
+    "risk_level": "high",
+    "road_access": "open",
+    "evacuation_zone": "Zone 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-032",
+    "area_name": "Sector 032",
+    "district": "South",
+    "state": "Demo State 032",
+    "latitude": 19,
+    "longitude": 80,
+    "population": 2002,
+    "household_count": 402,
+    "risk_level": "medium",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-033",
+    "area_name": "Sector 033",
+    "district": "East",
+    "state": "Demo State 033",
+    "latitude": 20,
+    "longitude": 81,
+    "population": 2003,
+    "household_count": 403,
+    "risk_level": "low",
+    "road_access": "open",
+    "evacuation_zone": "Zone 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-034",
+    "area_name": "Sector 034",
+    "district": "West",
+    "state": "Demo State 034",
+    "latitude": 21,
+    "longitude": 82,
+    "population": 2004,
+    "household_count": 404,
+    "risk_level": "high",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-035",
+    "area_name": "Sector 035",
+    "district": "Central",
+    "state": "Demo State 035",
+    "latitude": 17,
+    "longitude": 78,
+    "population": 2000,
+    "household_count": 400,
+    "risk_level": "medium",
+    "road_access": "open",
+    "evacuation_zone": "Zone 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-036",
+    "area_name": "Sector 036",
+    "district": "North",
+    "state": "Demo State 036",
+    "latitude": 18,
+    "longitude": 79,
+    "population": 2001,
+    "household_count": 401,
+    "risk_level": "low",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-037",
+    "area_name": "Sector 037",
+    "district": "South",
+    "state": "Demo State 037",
+    "latitude": 19,
+    "longitude": 80,
+    "population": 2002,
+    "household_count": 402,
+    "risk_level": "high",
+    "road_access": "open",
+    "evacuation_zone": "Zone 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-038",
+    "area_name": "Sector 038",
+    "district": "East",
+    "state": "Demo State 038",
+    "latitude": 20,
+    "longitude": 81,
+    "population": 2003,
+    "household_count": 403,
+    "risk_level": "medium",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-039",
+    "area_name": "Sector 039",
+    "district": "West",
+    "state": "Demo State 039",
+    "latitude": 21,
+    "longitude": 82,
+    "population": 2004,
+    "household_count": 404,
+    "risk_level": "low",
+    "road_access": "open",
+    "evacuation_zone": "Zone 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-040",
+    "area_name": "Sector 040",
+    "district": "Central",
+    "state": "Demo State 040",
+    "latitude": 17,
+    "longitude": 78,
+    "population": 2000,
+    "household_count": 400,
+    "risk_level": "high",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-041",
+    "area_name": "Sector 041",
+    "district": "North",
+    "state": "Demo State 041",
+    "latitude": 18,
+    "longitude": 79,
+    "population": 2001,
+    "household_count": 401,
+    "risk_level": "medium",
+    "road_access": "open",
+    "evacuation_zone": "Zone 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-042",
+    "area_name": "Sector 042",
+    "district": "South",
+    "state": "Demo State 042",
+    "latitude": 19,
+    "longitude": 80,
+    "population": 2002,
+    "household_count": 402,
+    "risk_level": "low",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-043",
+    "area_name": "Sector 043",
+    "district": "East",
+    "state": "Demo State 043",
+    "latitude": 20,
+    "longitude": 81,
+    "population": 2003,
+    "household_count": 403,
+    "risk_level": "high",
+    "road_access": "open",
+    "evacuation_zone": "Zone 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-044",
+    "area_name": "Sector 044",
+    "district": "West",
+    "state": "Demo State 044",
+    "latitude": 21,
+    "longitude": 82,
+    "population": 2004,
+    "household_count": 404,
+    "risk_level": "medium",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-045",
+    "area_name": "Sector 045",
+    "district": "Central",
+    "state": "Demo State 045",
+    "latitude": 17,
+    "longitude": 78,
+    "population": 2000,
+    "household_count": 400,
+    "risk_level": "low",
+    "road_access": "open",
+    "evacuation_zone": "Zone 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-046",
+    "area_name": "Sector 046",
+    "district": "North",
+    "state": "Demo State 046",
+    "latitude": 18,
+    "longitude": 79,
+    "population": 2001,
+    "household_count": 401,
+    "risk_level": "high",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-047",
+    "area_name": "Sector 047",
+    "district": "South",
+    "state": "Demo State 047",
+    "latitude": 19,
+    "longitude": 80,
+    "population": 2002,
+    "household_count": 402,
+    "risk_level": "medium",
+    "road_access": "open",
+    "evacuation_zone": "Zone 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-048",
+    "area_name": "Sector 048",
+    "district": "East",
+    "state": "Demo State 048",
+    "latitude": 20,
+    "longitude": 81,
+    "population": 2003,
+    "household_count": 403,
+    "risk_level": "low",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-049",
+    "area_name": "Sector 049",
+    "district": "West",
+    "state": "Demo State 049",
+    "latitude": 21,
+    "longitude": 82,
+    "population": 2004,
+    "household_count": 404,
+    "risk_level": "high",
+    "road_access": "open",
+    "evacuation_zone": "Zone 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AREAS-050",
+    "area_name": "Sector 050",
+    "district": "Central",
+    "state": "Demo State 050",
+    "latitude": 17,
+    "longitude": 78,
+    "population": 2000,
+    "household_count": 400,
+    "risk_level": "medium",
+    "road_access": "restricted",
+    "evacuation_zone": "Zone 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

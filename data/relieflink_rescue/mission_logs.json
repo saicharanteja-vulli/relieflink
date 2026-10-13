@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "RES-MISSION_LOGS-001",
+    "team_id": "RES-TEAMS-001",
+    "request_id": "RES-REQUESTS-001",
+    "logged_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 001",
+    "people_assisted": 3,
+    "hours_worked": 3,
+    "fuel_used_litres": 4,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 001",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-002",
+    "team_id": "RES-TEAMS-002",
+    "request_id": "RES-REQUESTS-002",
+    "logged_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 002",
+    "people_assisted": 4,
+    "hours_worked": 4,
+    "fuel_used_litres": 5,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 002",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-003",
+    "team_id": "RES-TEAMS-003",
+    "request_id": "RES-REQUESTS-003",
+    "logged_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 003",
+    "people_assisted": 5,
+    "hours_worked": 5,
+    "fuel_used_litres": 6,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 003",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-004",
+    "team_id": "RES-TEAMS-004",
+    "request_id": "RES-REQUESTS-004",
+    "logged_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 004",
+    "people_assisted": 6,
+    "hours_worked": 6,
+    "fuel_used_litres": 7,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 004",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-005",
+    "team_id": "RES-TEAMS-005",
+    "request_id": "RES-REQUESTS-005",
+    "logged_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 005",
+    "people_assisted": 2,
+    "hours_worked": 2,
+    "fuel_used_litres": 3,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 005",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-006",
+    "team_id": "RES-TEAMS-006",
+    "request_id": "RES-REQUESTS-006",
+    "logged_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 006",
+    "people_assisted": 3,
+    "hours_worked": 3,
+    "fuel_used_litres": 4,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 006",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-007",
+    "team_id": "RES-TEAMS-007",
+    "request_id": "RES-REQUESTS-007",
+    "logged_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 007",
+    "people_assisted": 4,
+    "hours_worked": 4,
+    "fuel_used_litres": 5,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 007",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-008",
+    "team_id": "RES-TEAMS-008",
+    "request_id": "RES-REQUESTS-008",
+    "logged_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 008",
+    "people_assisted": 5,
+    "hours_worked": 5,
+    "fuel_used_litres": 6,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 008",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-009",
+    "team_id": "RES-TEAMS-009",
+    "request_id": "RES-REQUESTS-009",
+    "logged_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 009",
+    "people_assisted": 6,
+    "hours_worked": 6,
+    "fuel_used_litres": 7,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 009",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-010",
+    "team_id": "RES-TEAMS-010",
+    "request_id": "RES-REQUESTS-010",
+    "logged_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 010",
+    "people_assisted": 2,
+    "hours_worked": 2,
+    "fuel_used_litres": 3,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 010",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-011",
+    "team_id": "RES-TEAMS-011",
+    "request_id": "RES-REQUESTS-011",
+    "logged_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 011",
+    "people_assisted": 3,
+    "hours_worked": 3,
+    "fuel_used_litres": 4,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 011",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-012",
+    "team_id": "RES-TEAMS-012",
+    "request_id": "RES-REQUESTS-012",
+    "logged_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 012",
+    "people_assisted": 4,
+    "hours_worked": 4,
+    "fuel_used_litres": 5,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 012",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-013",
+    "team_id": "RES-TEAMS-013",
+    "request_id": "RES-REQUESTS-013",
+    "logged_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 013",
+    "people_assisted": 5,
+    "hours_worked": 5,
+    "fuel_used_litres": 6,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 013",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-014",
+    "team_id": "RES-TEAMS-014",
+    "request_id": "RES-REQUESTS-014",
+    "logged_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 014",
+    "people_assisted": 6,
+    "hours_worked": 6,
+    "fuel_used_litres": 7,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 014",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-015",
+    "team_id": "RES-TEAMS-015",
+    "request_id": "RES-REQUESTS-015",
+    "logged_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 015",
+    "people_assisted": 2,
+    "hours_worked": 2,
+    "fuel_used_litres": 3,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 015",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-016",
+    "team_id": "RES-TEAMS-016",
+    "request_id": "RES-REQUESTS-016",
+    "logged_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 016",
+    "people_assisted": 3,
+    "hours_worked": 3,
+    "fuel_used_litres": 4,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 016",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-017",
+    "team_id": "RES-TEAMS-017",
+    "request_id": "RES-REQUESTS-017",
+    "logged_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 017",
+    "people_assisted": 4,
+    "hours_worked": 4,
+    "fuel_used_litres": 5,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 017",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-018",
+    "team_id": "RES-TEAMS-018",
+    "request_id": "RES-REQUESTS-018",
+    "logged_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 018",
+    "people_assisted": 5,
+    "hours_worked": 5,
+    "fuel_used_litres": 6,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 018",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-019",
+    "team_id": "RES-TEAMS-019",
+    "request_id": "RES-REQUESTS-019",
+    "logged_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 019",
+    "people_assisted": 6,
+    "hours_worked": 6,
+    "fuel_used_litres": 7,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 019",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-020",
+    "team_id": "RES-TEAMS-020",
+    "request_id": "RES-REQUESTS-020",
+    "logged_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 020",
+    "people_assisted": 2,
+    "hours_worked": 2,
+    "fuel_used_litres": 3,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 020",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-021",
+    "team_id": "RES-TEAMS-021",
+    "request_id": "RES-REQUESTS-021",
+    "logged_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 021",
+    "people_assisted": 3,
+    "hours_worked": 3,
+    "fuel_used_litres": 4,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 021",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-022",
+    "team_id": "RES-TEAMS-022",
+    "request_id": "RES-REQUESTS-022",
+    "logged_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 022",
+    "people_assisted": 4,
+    "hours_worked": 4,
+    "fuel_used_litres": 5,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 022",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-023",
+    "team_id": "RES-TEAMS-023",
+    "request_id": "RES-REQUESTS-023",
+    "logged_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 023",
+    "people_assisted": 5,
+    "hours_worked": 5,
+    "fuel_used_litres": 6,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 023",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-024",
+    "team_id": "RES-TEAMS-024",
+    "request_id": "RES-REQUESTS-024",
+    "logged_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 024",
+    "people_assisted": 6,
+    "hours_worked": 6,
+    "fuel_used_litres": 7,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 024",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-025",
+    "team_id": "RES-TEAMS-025",
+    "request_id": "RES-REQUESTS-025",
+    "logged_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 025",
+    "people_assisted": 2,
+    "hours_worked": 2,
+    "fuel_used_litres": 3,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 025",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-026",
+    "team_id": "RES-TEAMS-026",
+    "request_id": "RES-REQUESTS-026",
+    "logged_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 026",
+    "people_assisted": 3,
+    "hours_worked": 3,
+    "fuel_used_litres": 4,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 026",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-027",
+    "team_id": "RES-TEAMS-027",
+    "request_id": "RES-REQUESTS-027",
+    "logged_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 027",
+    "people_assisted": 4,
+    "hours_worked": 4,
+    "fuel_used_litres": 5,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 027",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-028",
+    "team_id": "RES-TEAMS-028",
+    "request_id": "RES-REQUESTS-028",
+    "logged_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 028",
+    "people_assisted": 5,
+    "hours_worked": 5,
+    "fuel_used_litres": 6,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 028",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-029",
+    "team_id": "RES-TEAMS-029",
+    "request_id": "RES-REQUESTS-029",
+    "logged_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 029",
+    "people_assisted": 6,
+    "hours_worked": 6,
+    "fuel_used_litres": 7,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 029",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-030",
+    "team_id": "RES-TEAMS-030",
+    "request_id": "RES-REQUESTS-030",
+    "logged_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 030",
+    "people_assisted": 2,
+    "hours_worked": 2,
+    "fuel_used_litres": 3,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 030",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-031",
+    "team_id": "RES-TEAMS-031",
+    "request_id": "RES-REQUESTS-031",
+    "logged_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 031",
+    "people_assisted": 3,
+    "hours_worked": 3,
+    "fuel_used_litres": 4,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 031",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-032",
+    "team_id": "RES-TEAMS-032",
+    "request_id": "RES-REQUESTS-032",
+    "logged_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 032",
+    "people_assisted": 4,
+    "hours_worked": 4,
+    "fuel_used_litres": 5,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 032",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-033",
+    "team_id": "RES-TEAMS-033",
+    "request_id": "RES-REQUESTS-033",
+    "logged_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 033",
+    "people_assisted": 5,
+    "hours_worked": 5,
+    "fuel_used_litres": 6,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 033",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-034",
+    "team_id": "RES-TEAMS-034",
+    "request_id": "RES-REQUESTS-034",
+    "logged_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 034",
+    "people_assisted": 6,
+    "hours_worked": 6,
+    "fuel_used_litres": 7,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 034",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-035",
+    "team_id": "RES-TEAMS-035",
+    "request_id": "RES-REQUESTS-035",
+    "logged_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 035",
+    "people_assisted": 2,
+    "hours_worked": 2,
+    "fuel_used_litres": 3,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 035",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-036",
+    "team_id": "RES-TEAMS-036",
+    "request_id": "RES-REQUESTS-036",
+    "logged_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 036",
+    "people_assisted": 3,
+    "hours_worked": 3,
+    "fuel_used_litres": 4,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 036",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-037",
+    "team_id": "RES-TEAMS-037",
+    "request_id": "RES-REQUESTS-037",
+    "logged_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 037",
+    "people_assisted": 4,
+    "hours_worked": 4,
+    "fuel_used_litres": 5,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 037",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-038",
+    "team_id": "RES-TEAMS-038",
+    "request_id": "RES-REQUESTS-038",
+    "logged_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 038",
+    "people_assisted": 5,
+    "hours_worked": 5,
+    "fuel_used_litres": 6,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 038",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-039",
+    "team_id": "RES-TEAMS-039",
+    "request_id": "RES-REQUESTS-039",
+    "logged_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 039",
+    "people_assisted": 6,
+    "hours_worked": 6,
+    "fuel_used_litres": 7,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 039",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-040",
+    "team_id": "RES-TEAMS-040",
+    "request_id": "RES-REQUESTS-040",
+    "logged_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 040",
+    "people_assisted": 2,
+    "hours_worked": 2,
+    "fuel_used_litres": 3,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 040",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-041",
+    "team_id": "RES-TEAMS-041",
+    "request_id": "RES-REQUESTS-041",
+    "logged_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 041",
+    "people_assisted": 3,
+    "hours_worked": 3,
+    "fuel_used_litres": 4,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 041",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-042",
+    "team_id": "RES-TEAMS-042",
+    "request_id": "RES-REQUESTS-042",
+    "logged_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 042",
+    "people_assisted": 4,
+    "hours_worked": 4,
+    "fuel_used_litres": 5,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 042",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-043",
+    "team_id": "RES-TEAMS-043",
+    "request_id": "RES-REQUESTS-043",
+    "logged_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 043",
+    "people_assisted": 5,
+    "hours_worked": 5,
+    "fuel_used_litres": 6,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 043",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-044",
+    "team_id": "RES-TEAMS-044",
+    "request_id": "RES-REQUESTS-044",
+    "logged_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 044",
+    "people_assisted": 6,
+    "hours_worked": 6,
+    "fuel_used_litres": 7,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 044",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-045",
+    "team_id": "RES-TEAMS-045",
+    "request_id": "RES-REQUESTS-045",
+    "logged_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 045",
+    "people_assisted": 2,
+    "hours_worked": 2,
+    "fuel_used_litres": 3,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 045",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-046",
+    "team_id": "RES-TEAMS-046",
+    "request_id": "RES-REQUESTS-046",
+    "logged_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 046",
+    "people_assisted": 3,
+    "hours_worked": 3,
+    "fuel_used_litres": 4,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 046",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-047",
+    "team_id": "RES-TEAMS-047",
+    "request_id": "RES-REQUESTS-047",
+    "logged_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 047",
+    "people_assisted": 4,
+    "hours_worked": 4,
+    "fuel_used_litres": 5,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 047",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-048",
+    "team_id": "RES-TEAMS-048",
+    "request_id": "RES-REQUESTS-048",
+    "logged_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 048",
+    "people_assisted": 5,
+    "hours_worked": 5,
+    "fuel_used_litres": 6,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 048",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-049",
+    "team_id": "RES-TEAMS-049",
+    "request_id": "RES-REQUESTS-049",
+    "logged_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 049",
+    "people_assisted": 6,
+    "hours_worked": 6,
+    "fuel_used_litres": 7,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 049",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MISSION_LOGS-050",
+    "team_id": "RES-TEAMS-050",
+    "request_id": "RES-REQUESTS-050",
+    "logged_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "activity": "Rescue exercise completed 050",
+    "people_assisted": 2,
+    "hours_worked": 2,
+    "fuel_used_litres": 3,
+    "safety_issue": false,
+    "supervisor_code": "Supervisor 050",
+    "outcome": "completed",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

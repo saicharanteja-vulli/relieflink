@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "VOL-REIMBURSEMENTS-001",
+    "volunteer_id": "VOL-PROFILES-001",
+    "assignment_id": "VOL-ASSIGNMENTS-001",
+    "claimed_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "expense_type": "travel 001",
+    "amount_inr": 201,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 001",
+    "receipt_code": "Travel receipt 001",
+    "paid_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-002",
+    "volunteer_id": "VOL-PROFILES-002",
+    "assignment_id": "VOL-ASSIGNMENTS-002",
+    "claimed_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "expense_type": "travel 002",
+    "amount_inr": 202,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 002",
+    "receipt_code": "Travel receipt 002",
+    "paid_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-003",
+    "volunteer_id": "VOL-PROFILES-003",
+    "assignment_id": "VOL-ASSIGNMENTS-003",
+    "claimed_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "expense_type": "travel 003",
+    "amount_inr": 203,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 003",
+    "receipt_code": "Travel receipt 003",
+    "paid_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-004",
+    "volunteer_id": "VOL-PROFILES-004",
+    "assignment_id": "VOL-ASSIGNMENTS-004",
+    "claimed_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "expense_type": "travel 004",
+    "amount_inr": 204,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 004",
+    "receipt_code": "Travel receipt 004",
+    "paid_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-005",
+    "volunteer_id": "VOL-PROFILES-005",
+    "assignment_id": "VOL-ASSIGNMENTS-005",
+    "claimed_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "expense_type": "travel 005",
+    "amount_inr": 200,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 005",
+    "receipt_code": "Travel receipt 005",
+    "paid_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-006",
+    "volunteer_id": "VOL-PROFILES-006",
+    "assignment_id": "VOL-ASSIGNMENTS-006",
+    "claimed_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "expense_type": "travel 006",
+    "amount_inr": 201,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 006",
+    "receipt_code": "Travel receipt 006",
+    "paid_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-007",
+    "volunteer_id": "VOL-PROFILES-007",
+    "assignment_id": "VOL-ASSIGNMENTS-007",
+    "claimed_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "expense_type": "travel 007",
+    "amount_inr": 202,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 007",
+    "receipt_code": "Travel receipt 007",
+    "paid_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-008",
+    "volunteer_id": "VOL-PROFILES-008",
+    "assignment_id": "VOL-ASSIGNMENTS-008",
+    "claimed_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "expense_type": "travel 008",
+    "amount_inr": 203,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 008",
+    "receipt_code": "Travel receipt 008",
+    "paid_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-009",
+    "volunteer_id": "VOL-PROFILES-009",
+    "assignment_id": "VOL-ASSIGNMENTS-009",
+    "claimed_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "expense_type": "travel 009",
+    "amount_inr": 204,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 009",
+    "receipt_code": "Travel receipt 009",
+    "paid_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-010",
+    "volunteer_id": "VOL-PROFILES-010",
+    "assignment_id": "VOL-ASSIGNMENTS-010",
+    "claimed_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "expense_type": "travel 010",
+    "amount_inr": 200,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 010",
+    "receipt_code": "Travel receipt 010",
+    "paid_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-011",
+    "volunteer_id": "VOL-PROFILES-011",
+    "assignment_id": "VOL-ASSIGNMENTS-011",
+    "claimed_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "expense_type": "travel 011",
+    "amount_inr": 201,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 011",
+    "receipt_code": "Travel receipt 011",
+    "paid_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-012",
+    "volunteer_id": "VOL-PROFILES-012",
+    "assignment_id": "VOL-ASSIGNMENTS-012",
+    "claimed_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "expense_type": "travel 012",
+    "amount_inr": 202,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 012",
+    "receipt_code": "Travel receipt 012",
+    "paid_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-013",
+    "volunteer_id": "VOL-PROFILES-013",
+    "assignment_id": "VOL-ASSIGNMENTS-013",
+    "claimed_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "expense_type": "travel 013",
+    "amount_inr": 203,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 013",
+    "receipt_code": "Travel receipt 013",
+    "paid_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-014",
+    "volunteer_id": "VOL-PROFILES-014",
+    "assignment_id": "VOL-ASSIGNMENTS-014",
+    "claimed_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "expense_type": "travel 014",
+    "amount_inr": 204,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 014",
+    "receipt_code": "Travel receipt 014",
+    "paid_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-015",
+    "volunteer_id": "VOL-PROFILES-015",
+    "assignment_id": "VOL-ASSIGNMENTS-015",
+    "claimed_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "expense_type": "travel 015",
+    "amount_inr": 200,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 015",
+    "receipt_code": "Travel receipt 015",
+    "paid_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-016",
+    "volunteer_id": "VOL-PROFILES-016",
+    "assignment_id": "VOL-ASSIGNMENTS-016",
+    "claimed_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "expense_type": "travel 016",
+    "amount_inr": 201,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 016",
+    "receipt_code": "Travel receipt 016",
+    "paid_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-017",
+    "volunteer_id": "VOL-PROFILES-017",
+    "assignment_id": "VOL-ASSIGNMENTS-017",
+    "claimed_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "expense_type": "travel 017",
+    "amount_inr": 202,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 017",
+    "receipt_code": "Travel receipt 017",
+    "paid_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-018",
+    "volunteer_id": "VOL-PROFILES-018",
+    "assignment_id": "VOL-ASSIGNMENTS-018",
+    "claimed_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "expense_type": "travel 018",
+    "amount_inr": 203,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 018",
+    "receipt_code": "Travel receipt 018",
+    "paid_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-019",
+    "volunteer_id": "VOL-PROFILES-019",
+    "assignment_id": "VOL-ASSIGNMENTS-019",
+    "claimed_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "expense_type": "travel 019",
+    "amount_inr": 204,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 019",
+    "receipt_code": "Travel receipt 019",
+    "paid_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-020",
+    "volunteer_id": "VOL-PROFILES-020",
+    "assignment_id": "VOL-ASSIGNMENTS-020",
+    "claimed_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "expense_type": "travel 020",
+    "amount_inr": 200,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 020",
+    "receipt_code": "Travel receipt 020",
+    "paid_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-021",
+    "volunteer_id": "VOL-PROFILES-021",
+    "assignment_id": "VOL-ASSIGNMENTS-021",
+    "claimed_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "expense_type": "travel 021",
+    "amount_inr": 201,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 021",
+    "receipt_code": "Travel receipt 021",
+    "paid_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-022",
+    "volunteer_id": "VOL-PROFILES-022",
+    "assignment_id": "VOL-ASSIGNMENTS-022",
+    "claimed_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "expense_type": "travel 022",
+    "amount_inr": 202,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 022",
+    "receipt_code": "Travel receipt 022",
+    "paid_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-023",
+    "volunteer_id": "VOL-PROFILES-023",
+    "assignment_id": "VOL-ASSIGNMENTS-023",
+    "claimed_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "expense_type": "travel 023",
+    "amount_inr": 203,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 023",
+    "receipt_code": "Travel receipt 023",
+    "paid_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-024",
+    "volunteer_id": "VOL-PROFILES-024",
+    "assignment_id": "VOL-ASSIGNMENTS-024",
+    "claimed_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "expense_type": "travel 024",
+    "amount_inr": 204,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 024",
+    "receipt_code": "Travel receipt 024",
+    "paid_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-025",
+    "volunteer_id": "VOL-PROFILES-025",
+    "assignment_id": "VOL-ASSIGNMENTS-025",
+    "claimed_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "expense_type": "travel 025",
+    "amount_inr": 200,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 025",
+    "receipt_code": "Travel receipt 025",
+    "paid_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-026",
+    "volunteer_id": "VOL-PROFILES-026",
+    "assignment_id": "VOL-ASSIGNMENTS-026",
+    "claimed_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "expense_type": "travel 026",
+    "amount_inr": 201,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 026",
+    "receipt_code": "Travel receipt 026",
+    "paid_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-027",
+    "volunteer_id": "VOL-PROFILES-027",
+    "assignment_id": "VOL-ASSIGNMENTS-027",
+    "claimed_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "expense_type": "travel 027",
+    "amount_inr": 202,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 027",
+    "receipt_code": "Travel receipt 027",
+    "paid_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-028",
+    "volunteer_id": "VOL-PROFILES-028",
+    "assignment_id": "VOL-ASSIGNMENTS-028",
+    "claimed_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "expense_type": "travel 028",
+    "amount_inr": 203,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 028",
+    "receipt_code": "Travel receipt 028",
+    "paid_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-029",
+    "volunteer_id": "VOL-PROFILES-029",
+    "assignment_id": "VOL-ASSIGNMENTS-029",
+    "claimed_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "expense_type": "travel 029",
+    "amount_inr": 204,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 029",
+    "receipt_code": "Travel receipt 029",
+    "paid_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-030",
+    "volunteer_id": "VOL-PROFILES-030",
+    "assignment_id": "VOL-ASSIGNMENTS-030",
+    "claimed_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "expense_type": "travel 030",
+    "amount_inr": 200,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 030",
+    "receipt_code": "Travel receipt 030",
+    "paid_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-031",
+    "volunteer_id": "VOL-PROFILES-031",
+    "assignment_id": "VOL-ASSIGNMENTS-031",
+    "claimed_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "expense_type": "travel 031",
+    "amount_inr": 201,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 031",
+    "receipt_code": "Travel receipt 031",
+    "paid_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-032",
+    "volunteer_id": "VOL-PROFILES-032",
+    "assignment_id": "VOL-ASSIGNMENTS-032",
+    "claimed_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "expense_type": "travel 032",
+    "amount_inr": 202,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 032",
+    "receipt_code": "Travel receipt 032",
+    "paid_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-033",
+    "volunteer_id": "VOL-PROFILES-033",
+    "assignment_id": "VOL-ASSIGNMENTS-033",
+    "claimed_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "expense_type": "travel 033",
+    "amount_inr": 203,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 033",
+    "receipt_code": "Travel receipt 033",
+    "paid_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-034",
+    "volunteer_id": "VOL-PROFILES-034",
+    "assignment_id": "VOL-ASSIGNMENTS-034",
+    "claimed_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "expense_type": "travel 034",
+    "amount_inr": 204,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 034",
+    "receipt_code": "Travel receipt 034",
+    "paid_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-035",
+    "volunteer_id": "VOL-PROFILES-035",
+    "assignment_id": "VOL-ASSIGNMENTS-035",
+    "claimed_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "expense_type": "travel 035",
+    "amount_inr": 200,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 035",
+    "receipt_code": "Travel receipt 035",
+    "paid_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-036",
+    "volunteer_id": "VOL-PROFILES-036",
+    "assignment_id": "VOL-ASSIGNMENTS-036",
+    "claimed_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "expense_type": "travel 036",
+    "amount_inr": 201,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 036",
+    "receipt_code": "Travel receipt 036",
+    "paid_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-037",
+    "volunteer_id": "VOL-PROFILES-037",
+    "assignment_id": "VOL-ASSIGNMENTS-037",
+    "claimed_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "expense_type": "travel 037",
+    "amount_inr": 202,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 037",
+    "receipt_code": "Travel receipt 037",
+    "paid_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-038",
+    "volunteer_id": "VOL-PROFILES-038",
+    "assignment_id": "VOL-ASSIGNMENTS-038",
+    "claimed_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "expense_type": "travel 038",
+    "amount_inr": 203,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 038",
+    "receipt_code": "Travel receipt 038",
+    "paid_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-039",
+    "volunteer_id": "VOL-PROFILES-039",
+    "assignment_id": "VOL-ASSIGNMENTS-039",
+    "claimed_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "expense_type": "travel 039",
+    "amount_inr": 204,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 039",
+    "receipt_code": "Travel receipt 039",
+    "paid_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-040",
+    "volunteer_id": "VOL-PROFILES-040",
+    "assignment_id": "VOL-ASSIGNMENTS-040",
+    "claimed_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "expense_type": "travel 040",
+    "amount_inr": 200,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 040",
+    "receipt_code": "Travel receipt 040",
+    "paid_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-041",
+    "volunteer_id": "VOL-PROFILES-041",
+    "assignment_id": "VOL-ASSIGNMENTS-041",
+    "claimed_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "expense_type": "travel 041",
+    "amount_inr": 201,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 041",
+    "receipt_code": "Travel receipt 041",
+    "paid_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-042",
+    "volunteer_id": "VOL-PROFILES-042",
+    "assignment_id": "VOL-ASSIGNMENTS-042",
+    "claimed_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "expense_type": "travel 042",
+    "amount_inr": 202,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 042",
+    "receipt_code": "Travel receipt 042",
+    "paid_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-043",
+    "volunteer_id": "VOL-PROFILES-043",
+    "assignment_id": "VOL-ASSIGNMENTS-043",
+    "claimed_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "expense_type": "travel 043",
+    "amount_inr": 203,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 043",
+    "receipt_code": "Travel receipt 043",
+    "paid_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-044",
+    "volunteer_id": "VOL-PROFILES-044",
+    "assignment_id": "VOL-ASSIGNMENTS-044",
+    "claimed_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "expense_type": "travel 044",
+    "amount_inr": 204,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 044",
+    "receipt_code": "Travel receipt 044",
+    "paid_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-045",
+    "volunteer_id": "VOL-PROFILES-045",
+    "assignment_id": "VOL-ASSIGNMENTS-045",
+    "claimed_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "expense_type": "travel 045",
+    "amount_inr": 200,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 045",
+    "receipt_code": "Travel receipt 045",
+    "paid_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-046",
+    "volunteer_id": "VOL-PROFILES-046",
+    "assignment_id": "VOL-ASSIGNMENTS-046",
+    "claimed_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "expense_type": "travel 046",
+    "amount_inr": 201,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 046",
+    "receipt_code": "Travel receipt 046",
+    "paid_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-047",
+    "volunteer_id": "VOL-PROFILES-047",
+    "assignment_id": "VOL-ASSIGNMENTS-047",
+    "claimed_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "expense_type": "travel 047",
+    "amount_inr": 202,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 047",
+    "receipt_code": "Travel receipt 047",
+    "paid_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-048",
+    "volunteer_id": "VOL-PROFILES-048",
+    "assignment_id": "VOL-ASSIGNMENTS-048",
+    "claimed_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "expense_type": "travel 048",
+    "amount_inr": 203,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 048",
+    "receipt_code": "Travel receipt 048",
+    "paid_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-049",
+    "volunteer_id": "VOL-PROFILES-049",
+    "assignment_id": "VOL-ASSIGNMENTS-049",
+    "claimed_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "expense_type": "travel 049",
+    "amount_inr": 204,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 049",
+    "receipt_code": "Travel receipt 049",
+    "paid_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-REIMBURSEMENTS-050",
+    "volunteer_id": "VOL-PROFILES-050",
+    "assignment_id": "VOL-ASSIGNMENTS-050",
+    "claimed_at": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "expense_type": "travel 050",
+    "amount_inr": 200,
+    "currency": "INR",
+    "claim_state": "approved",
+    "approved_by": "Coordinator 050",
+    "receipt_code": "Travel receipt 050",
+    "paid_at": {
+      "$date": "2026-06-06T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "RES-SAFETY_CHECKS-001",
+    "team_id": "RES-TEAMS-001",
+    "vehicle_id": "RES-VEHICLES-001",
+    "checked_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "checked_by": "Safety officer 001",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-002",
+    "team_id": "RES-TEAMS-002",
+    "vehicle_id": "RES-VEHICLES-002",
+    "checked_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "checked_by": "Safety officer 002",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-003",
+    "team_id": "RES-TEAMS-003",
+    "vehicle_id": "RES-VEHICLES-003",
+    "checked_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "checked_by": "Safety officer 003",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-004",
+    "team_id": "RES-TEAMS-004",
+    "vehicle_id": "RES-VEHICLES-004",
+    "checked_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "checked_by": "Safety officer 004",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-005",
+    "team_id": "RES-TEAMS-005",
+    "vehicle_id": "RES-VEHICLES-005",
+    "checked_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "checked_by": "Safety officer 005",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-006",
+    "team_id": "RES-TEAMS-006",
+    "vehicle_id": "RES-VEHICLES-006",
+    "checked_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "checked_by": "Safety officer 006",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-007",
+    "team_id": "RES-TEAMS-007",
+    "vehicle_id": "RES-VEHICLES-007",
+    "checked_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "checked_by": "Safety officer 007",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-008",
+    "team_id": "RES-TEAMS-008",
+    "vehicle_id": "RES-VEHICLES-008",
+    "checked_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "checked_by": "Safety officer 008",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-009",
+    "team_id": "RES-TEAMS-009",
+    "vehicle_id": "RES-VEHICLES-009",
+    "checked_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "checked_by": "Safety officer 009",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-010",
+    "team_id": "RES-TEAMS-010",
+    "vehicle_id": "RES-VEHICLES-010",
+    "checked_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "checked_by": "Safety officer 010",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-011",
+    "team_id": "RES-TEAMS-011",
+    "vehicle_id": "RES-VEHICLES-011",
+    "checked_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "checked_by": "Safety officer 011",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-012",
+    "team_id": "RES-TEAMS-012",
+    "vehicle_id": "RES-VEHICLES-012",
+    "checked_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "checked_by": "Safety officer 012",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-013",
+    "team_id": "RES-TEAMS-013",
+    "vehicle_id": "RES-VEHICLES-013",
+    "checked_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "checked_by": "Safety officer 013",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-014",
+    "team_id": "RES-TEAMS-014",
+    "vehicle_id": "RES-VEHICLES-014",
+    "checked_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "checked_by": "Safety officer 014",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-015",
+    "team_id": "RES-TEAMS-015",
+    "vehicle_id": "RES-VEHICLES-015",
+    "checked_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "checked_by": "Safety officer 015",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-016",
+    "team_id": "RES-TEAMS-016",
+    "vehicle_id": "RES-VEHICLES-016",
+    "checked_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "checked_by": "Safety officer 016",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-017",
+    "team_id": "RES-TEAMS-017",
+    "vehicle_id": "RES-VEHICLES-017",
+    "checked_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "checked_by": "Safety officer 017",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-018",
+    "team_id": "RES-TEAMS-018",
+    "vehicle_id": "RES-VEHICLES-018",
+    "checked_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "checked_by": "Safety officer 018",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-019",
+    "team_id": "RES-TEAMS-019",
+    "vehicle_id": "RES-VEHICLES-019",
+    "checked_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "checked_by": "Safety officer 019",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-020",
+    "team_id": "RES-TEAMS-020",
+    "vehicle_id": "RES-VEHICLES-020",
+    "checked_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "checked_by": "Safety officer 020",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-021",
+    "team_id": "RES-TEAMS-021",
+    "vehicle_id": "RES-VEHICLES-021",
+    "checked_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "checked_by": "Safety officer 021",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-022",
+    "team_id": "RES-TEAMS-022",
+    "vehicle_id": "RES-VEHICLES-022",
+    "checked_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "checked_by": "Safety officer 022",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-023",
+    "team_id": "RES-TEAMS-023",
+    "vehicle_id": "RES-VEHICLES-023",
+    "checked_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "checked_by": "Safety officer 023",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-024",
+    "team_id": "RES-TEAMS-024",
+    "vehicle_id": "RES-VEHICLES-024",
+    "checked_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "checked_by": "Safety officer 024",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-025",
+    "team_id": "RES-TEAMS-025",
+    "vehicle_id": "RES-VEHICLES-025",
+    "checked_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "checked_by": "Safety officer 025",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-026",
+    "team_id": "RES-TEAMS-026",
+    "vehicle_id": "RES-VEHICLES-026",
+    "checked_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "checked_by": "Safety officer 026",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-027",
+    "team_id": "RES-TEAMS-027",
+    "vehicle_id": "RES-VEHICLES-027",
+    "checked_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "checked_by": "Safety officer 027",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-028",
+    "team_id": "RES-TEAMS-028",
+    "vehicle_id": "RES-VEHICLES-028",
+    "checked_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "checked_by": "Safety officer 028",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-029",
+    "team_id": "RES-TEAMS-029",
+    "vehicle_id": "RES-VEHICLES-029",
+    "checked_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "checked_by": "Safety officer 029",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-030",
+    "team_id": "RES-TEAMS-030",
+    "vehicle_id": "RES-VEHICLES-030",
+    "checked_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "checked_by": "Safety officer 030",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-031",
+    "team_id": "RES-TEAMS-031",
+    "vehicle_id": "RES-VEHICLES-031",
+    "checked_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "checked_by": "Safety officer 031",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-032",
+    "team_id": "RES-TEAMS-032",
+    "vehicle_id": "RES-VEHICLES-032",
+    "checked_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "checked_by": "Safety officer 032",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-033",
+    "team_id": "RES-TEAMS-033",
+    "vehicle_id": "RES-VEHICLES-033",
+    "checked_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "checked_by": "Safety officer 033",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-034",
+    "team_id": "RES-TEAMS-034",
+    "vehicle_id": "RES-VEHICLES-034",
+    "checked_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "checked_by": "Safety officer 034",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-035",
+    "team_id": "RES-TEAMS-035",
+    "vehicle_id": "RES-VEHICLES-035",
+    "checked_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "checked_by": "Safety officer 035",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-036",
+    "team_id": "RES-TEAMS-036",
+    "vehicle_id": "RES-VEHICLES-036",
+    "checked_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "checked_by": "Safety officer 036",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-037",
+    "team_id": "RES-TEAMS-037",
+    "vehicle_id": "RES-VEHICLES-037",
+    "checked_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "checked_by": "Safety officer 037",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-038",
+    "team_id": "RES-TEAMS-038",
+    "vehicle_id": "RES-VEHICLES-038",
+    "checked_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "checked_by": "Safety officer 038",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-039",
+    "team_id": "RES-TEAMS-039",
+    "vehicle_id": "RES-VEHICLES-039",
+    "checked_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "checked_by": "Safety officer 039",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-040",
+    "team_id": "RES-TEAMS-040",
+    "vehicle_id": "RES-VEHICLES-040",
+    "checked_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "checked_by": "Safety officer 040",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-041",
+    "team_id": "RES-TEAMS-041",
+    "vehicle_id": "RES-VEHICLES-041",
+    "checked_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "checked_by": "Safety officer 041",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-042",
+    "team_id": "RES-TEAMS-042",
+    "vehicle_id": "RES-VEHICLES-042",
+    "checked_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "checked_by": "Safety officer 042",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-043",
+    "team_id": "RES-TEAMS-043",
+    "vehicle_id": "RES-VEHICLES-043",
+    "checked_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "checked_by": "Safety officer 043",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-044",
+    "team_id": "RES-TEAMS-044",
+    "vehicle_id": "RES-VEHICLES-044",
+    "checked_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "checked_by": "Safety officer 044",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-045",
+    "team_id": "RES-TEAMS-045",
+    "vehicle_id": "RES-VEHICLES-045",
+    "checked_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "checked_by": "Safety officer 045",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-046",
+    "team_id": "RES-TEAMS-046",
+    "vehicle_id": "RES-VEHICLES-046",
+    "checked_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "checked_by": "Safety officer 046",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-047",
+    "team_id": "RES-TEAMS-047",
+    "vehicle_id": "RES-VEHICLES-047",
+    "checked_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "checked_by": "Safety officer 047",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-048",
+    "team_id": "RES-TEAMS-048",
+    "vehicle_id": "RES-VEHICLES-048",
+    "checked_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "checked_by": "Safety officer 048",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-049",
+    "team_id": "RES-TEAMS-049",
+    "vehicle_id": "RES-VEHICLES-049",
+    "checked_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "checked_by": "Safety officer 049",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-SAFETY_CHECKS-050",
+    "team_id": "RES-TEAMS-050",
+    "vehicle_id": "RES-VEHICLES-050",
+    "checked_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "checked_by": "Safety officer 050",
+    "radio_ok": true,
+    "first_aid_ok": true,
+    "fuel_ok": true,
+    "ppe_ok": true,
+    "check_result": "pass",
+    "next_check_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "DON-ALLOCATIONS-001",
+    "donation_id": "DON-DONATIONS-001",
+    "event_id": "INC-EVENTS-001",
+    "allocated_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "amount_inr": 5001,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 001",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-001",
+    "reference_code": "Allocation 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-002",
+    "donation_id": "DON-DONATIONS-002",
+    "event_id": "INC-EVENTS-002",
+    "allocated_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "amount_inr": 5002,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 002",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-002",
+    "reference_code": "Allocation 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-003",
+    "donation_id": "DON-DONATIONS-003",
+    "event_id": "INC-EVENTS-003",
+    "allocated_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "amount_inr": 5003,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 003",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-003",
+    "reference_code": "Allocation 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-004",
+    "donation_id": "DON-DONATIONS-004",
+    "event_id": "INC-EVENTS-004",
+    "allocated_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "amount_inr": 5004,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 004",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-004",
+    "reference_code": "Allocation 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-005",
+    "donation_id": "DON-DONATIONS-005",
+    "event_id": "INC-EVENTS-005",
+    "allocated_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "amount_inr": 5000,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 005",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-005",
+    "reference_code": "Allocation 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-006",
+    "donation_id": "DON-DONATIONS-006",
+    "event_id": "INC-EVENTS-006",
+    "allocated_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "amount_inr": 5001,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 006",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-006",
+    "reference_code": "Allocation 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-007",
+    "donation_id": "DON-DONATIONS-007",
+    "event_id": "INC-EVENTS-007",
+    "allocated_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "amount_inr": 5002,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 007",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-007",
+    "reference_code": "Allocation 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-008",
+    "donation_id": "DON-DONATIONS-008",
+    "event_id": "INC-EVENTS-008",
+    "allocated_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "amount_inr": 5003,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 008",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-008",
+    "reference_code": "Allocation 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-009",
+    "donation_id": "DON-DONATIONS-009",
+    "event_id": "INC-EVENTS-009",
+    "allocated_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "amount_inr": 5004,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 009",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-009",
+    "reference_code": "Allocation 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-010",
+    "donation_id": "DON-DONATIONS-010",
+    "event_id": "INC-EVENTS-010",
+    "allocated_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "amount_inr": 5000,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 010",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-010",
+    "reference_code": "Allocation 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-011",
+    "donation_id": "DON-DONATIONS-011",
+    "event_id": "INC-EVENTS-011",
+    "allocated_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "amount_inr": 5001,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 011",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-011",
+    "reference_code": "Allocation 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-012",
+    "donation_id": "DON-DONATIONS-012",
+    "event_id": "INC-EVENTS-012",
+    "allocated_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "amount_inr": 5002,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 012",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-012",
+    "reference_code": "Allocation 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-013",
+    "donation_id": "DON-DONATIONS-013",
+    "event_id": "INC-EVENTS-013",
+    "allocated_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "amount_inr": 5003,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 013",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-013",
+    "reference_code": "Allocation 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-014",
+    "donation_id": "DON-DONATIONS-014",
+    "event_id": "INC-EVENTS-014",
+    "allocated_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "amount_inr": 5004,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 014",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-014",
+    "reference_code": "Allocation 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-015",
+    "donation_id": "DON-DONATIONS-015",
+    "event_id": "INC-EVENTS-015",
+    "allocated_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "amount_inr": 5000,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 015",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-015",
+    "reference_code": "Allocation 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-016",
+    "donation_id": "DON-DONATIONS-016",
+    "event_id": "INC-EVENTS-016",
+    "allocated_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "amount_inr": 5001,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 016",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-016",
+    "reference_code": "Allocation 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-017",
+    "donation_id": "DON-DONATIONS-017",
+    "event_id": "INC-EVENTS-017",
+    "allocated_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "amount_inr": 5002,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 017",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-017",
+    "reference_code": "Allocation 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-018",
+    "donation_id": "DON-DONATIONS-018",
+    "event_id": "INC-EVENTS-018",
+    "allocated_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "amount_inr": 5003,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 018",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-018",
+    "reference_code": "Allocation 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-019",
+    "donation_id": "DON-DONATIONS-019",
+    "event_id": "INC-EVENTS-019",
+    "allocated_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "amount_inr": 5004,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 019",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-019",
+    "reference_code": "Allocation 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-020",
+    "donation_id": "DON-DONATIONS-020",
+    "event_id": "INC-EVENTS-020",
+    "allocated_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "amount_inr": 5000,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 020",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-020",
+    "reference_code": "Allocation 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-021",
+    "donation_id": "DON-DONATIONS-021",
+    "event_id": "INC-EVENTS-021",
+    "allocated_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "amount_inr": 5001,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 021",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-021",
+    "reference_code": "Allocation 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-022",
+    "donation_id": "DON-DONATIONS-022",
+    "event_id": "INC-EVENTS-022",
+    "allocated_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "amount_inr": 5002,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 022",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-022",
+    "reference_code": "Allocation 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-023",
+    "donation_id": "DON-DONATIONS-023",
+    "event_id": "INC-EVENTS-023",
+    "allocated_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "amount_inr": 5003,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 023",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-023",
+    "reference_code": "Allocation 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-024",
+    "donation_id": "DON-DONATIONS-024",
+    "event_id": "INC-EVENTS-024",
+    "allocated_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "amount_inr": 5004,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 024",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-024",
+    "reference_code": "Allocation 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-025",
+    "donation_id": "DON-DONATIONS-025",
+    "event_id": "INC-EVENTS-025",
+    "allocated_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "amount_inr": 5000,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 025",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-025",
+    "reference_code": "Allocation 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-026",
+    "donation_id": "DON-DONATIONS-026",
+    "event_id": "INC-EVENTS-026",
+    "allocated_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "amount_inr": 5001,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 026",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-026",
+    "reference_code": "Allocation 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-027",
+    "donation_id": "DON-DONATIONS-027",
+    "event_id": "INC-EVENTS-027",
+    "allocated_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "amount_inr": 5002,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 027",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-027",
+    "reference_code": "Allocation 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-028",
+    "donation_id": "DON-DONATIONS-028",
+    "event_id": "INC-EVENTS-028",
+    "allocated_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "amount_inr": 5003,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 028",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-028",
+    "reference_code": "Allocation 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-029",
+    "donation_id": "DON-DONATIONS-029",
+    "event_id": "INC-EVENTS-029",
+    "allocated_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "amount_inr": 5004,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 029",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-029",
+    "reference_code": "Allocation 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-030",
+    "donation_id": "DON-DONATIONS-030",
+    "event_id": "INC-EVENTS-030",
+    "allocated_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "amount_inr": 5000,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 030",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-030",
+    "reference_code": "Allocation 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-031",
+    "donation_id": "DON-DONATIONS-031",
+    "event_id": "INC-EVENTS-031",
+    "allocated_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "amount_inr": 5001,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 031",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-031",
+    "reference_code": "Allocation 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-032",
+    "donation_id": "DON-DONATIONS-032",
+    "event_id": "INC-EVENTS-032",
+    "allocated_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "amount_inr": 5002,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 032",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-032",
+    "reference_code": "Allocation 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-033",
+    "donation_id": "DON-DONATIONS-033",
+    "event_id": "INC-EVENTS-033",
+    "allocated_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "amount_inr": 5003,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 033",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-033",
+    "reference_code": "Allocation 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-034",
+    "donation_id": "DON-DONATIONS-034",
+    "event_id": "INC-EVENTS-034",
+    "allocated_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "amount_inr": 5004,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 034",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-034",
+    "reference_code": "Allocation 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-035",
+    "donation_id": "DON-DONATIONS-035",
+    "event_id": "INC-EVENTS-035",
+    "allocated_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "amount_inr": 5000,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 035",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-035",
+    "reference_code": "Allocation 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-036",
+    "donation_id": "DON-DONATIONS-036",
+    "event_id": "INC-EVENTS-036",
+    "allocated_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "amount_inr": 5001,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 036",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-036",
+    "reference_code": "Allocation 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-037",
+    "donation_id": "DON-DONATIONS-037",
+    "event_id": "INC-EVENTS-037",
+    "allocated_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "amount_inr": 5002,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 037",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-037",
+    "reference_code": "Allocation 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-038",
+    "donation_id": "DON-DONATIONS-038",
+    "event_id": "INC-EVENTS-038",
+    "allocated_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "amount_inr": 5003,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 038",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-038",
+    "reference_code": "Allocation 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-039",
+    "donation_id": "DON-DONATIONS-039",
+    "event_id": "INC-EVENTS-039",
+    "allocated_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "amount_inr": 5004,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 039",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-039",
+    "reference_code": "Allocation 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-040",
+    "donation_id": "DON-DONATIONS-040",
+    "event_id": "INC-EVENTS-040",
+    "allocated_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "amount_inr": 5000,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 040",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-040",
+    "reference_code": "Allocation 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-041",
+    "donation_id": "DON-DONATIONS-041",
+    "event_id": "INC-EVENTS-041",
+    "allocated_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "amount_inr": 5001,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 041",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-041",
+    "reference_code": "Allocation 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-042",
+    "donation_id": "DON-DONATIONS-042",
+    "event_id": "INC-EVENTS-042",
+    "allocated_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "amount_inr": 5002,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 042",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-042",
+    "reference_code": "Allocation 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-043",
+    "donation_id": "DON-DONATIONS-043",
+    "event_id": "INC-EVENTS-043",
+    "allocated_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "amount_inr": 5003,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 043",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-043",
+    "reference_code": "Allocation 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-044",
+    "donation_id": "DON-DONATIONS-044",
+    "event_id": "INC-EVENTS-044",
+    "allocated_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "amount_inr": 5004,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 044",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-044",
+    "reference_code": "Allocation 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-045",
+    "donation_id": "DON-DONATIONS-045",
+    "event_id": "INC-EVENTS-045",
+    "allocated_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "amount_inr": 5000,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 045",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-045",
+    "reference_code": "Allocation 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-046",
+    "donation_id": "DON-DONATIONS-046",
+    "event_id": "INC-EVENTS-046",
+    "allocated_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "amount_inr": 5001,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 046",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-046",
+    "reference_code": "Allocation 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-047",
+    "donation_id": "DON-DONATIONS-047",
+    "event_id": "INC-EVENTS-047",
+    "allocated_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "amount_inr": 5002,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 047",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-047",
+    "reference_code": "Allocation 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-048",
+    "donation_id": "DON-DONATIONS-048",
+    "event_id": "INC-EVENTS-048",
+    "allocated_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "amount_inr": 5003,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 048",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-048",
+    "reference_code": "Allocation 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-049",
+    "donation_id": "DON-DONATIONS-049",
+    "event_id": "INC-EVENTS-049",
+    "allocated_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "amount_inr": 5004,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 049",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-049",
+    "reference_code": "Allocation 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-ALLOCATIONS-050",
+    "donation_id": "DON-DONATIONS-050",
+    "event_id": "INC-EVENTS-050",
+    "allocated_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "amount_inr": 5000,
+    "currency": "INR",
+    "purpose": "relief_supplies",
+    "approved_by": "Finance lead 050",
+    "allocation_state": "approved",
+    "beneficiary_area_id": "INC-AREAS-050",
+    "reference_code": "Allocation 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

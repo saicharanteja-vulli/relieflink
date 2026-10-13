@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-001",
+    "shelter_id": "SHE-SHELTERS-001",
+    "requested_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 21,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "requested_by": "Manager 001",
+    "purpose": "Resident support 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-002",
+    "shelter_id": "SHE-SHELTERS-002",
+    "requested_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 22,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "requested_by": "Manager 002",
+    "purpose": "Resident support 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-003",
+    "shelter_id": "SHE-SHELTERS-003",
+    "requested_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 23,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "requested_by": "Manager 003",
+    "purpose": "Resident support 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-004",
+    "shelter_id": "SHE-SHELTERS-004",
+    "requested_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 24,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "requested_by": "Manager 004",
+    "purpose": "Resident support 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-005",
+    "shelter_id": "SHE-SHELTERS-005",
+    "requested_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 20,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "requested_by": "Manager 005",
+    "purpose": "Resident support 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-006",
+    "shelter_id": "SHE-SHELTERS-006",
+    "requested_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 21,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "requested_by": "Manager 006",
+    "purpose": "Resident support 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-007",
+    "shelter_id": "SHE-SHELTERS-007",
+    "requested_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 22,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "requested_by": "Manager 007",
+    "purpose": "Resident support 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-008",
+    "shelter_id": "SHE-SHELTERS-008",
+    "requested_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 23,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "requested_by": "Manager 008",
+    "purpose": "Resident support 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-009",
+    "shelter_id": "SHE-SHELTERS-009",
+    "requested_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 24,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "requested_by": "Manager 009",
+    "purpose": "Resident support 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-010",
+    "shelter_id": "SHE-SHELTERS-010",
+    "requested_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 20,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "requested_by": "Manager 010",
+    "purpose": "Resident support 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-011",
+    "shelter_id": "SHE-SHELTERS-011",
+    "requested_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 21,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "requested_by": "Manager 011",
+    "purpose": "Resident support 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-012",
+    "shelter_id": "SHE-SHELTERS-012",
+    "requested_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 22,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "requested_by": "Manager 012",
+    "purpose": "Resident support 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-013",
+    "shelter_id": "SHE-SHELTERS-013",
+    "requested_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 23,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "requested_by": "Manager 013",
+    "purpose": "Resident support 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-014",
+    "shelter_id": "SHE-SHELTERS-014",
+    "requested_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 24,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "requested_by": "Manager 014",
+    "purpose": "Resident support 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-015",
+    "shelter_id": "SHE-SHELTERS-015",
+    "requested_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 20,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "requested_by": "Manager 015",
+    "purpose": "Resident support 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-016",
+    "shelter_id": "SHE-SHELTERS-016",
+    "requested_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 21,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "requested_by": "Manager 016",
+    "purpose": "Resident support 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-017",
+    "shelter_id": "SHE-SHELTERS-017",
+    "requested_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 22,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "requested_by": "Manager 017",
+    "purpose": "Resident support 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-018",
+    "shelter_id": "SHE-SHELTERS-018",
+    "requested_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 23,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "requested_by": "Manager 018",
+    "purpose": "Resident support 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-019",
+    "shelter_id": "SHE-SHELTERS-019",
+    "requested_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 24,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "requested_by": "Manager 019",
+    "purpose": "Resident support 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-020",
+    "shelter_id": "SHE-SHELTERS-020",
+    "requested_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 20,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "requested_by": "Manager 020",
+    "purpose": "Resident support 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-021",
+    "shelter_id": "SHE-SHELTERS-021",
+    "requested_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 21,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "requested_by": "Manager 021",
+    "purpose": "Resident support 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-022",
+    "shelter_id": "SHE-SHELTERS-022",
+    "requested_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 22,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "requested_by": "Manager 022",
+    "purpose": "Resident support 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-023",
+    "shelter_id": "SHE-SHELTERS-023",
+    "requested_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 23,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "requested_by": "Manager 023",
+    "purpose": "Resident support 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-024",
+    "shelter_id": "SHE-SHELTERS-024",
+    "requested_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 24,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "requested_by": "Manager 024",
+    "purpose": "Resident support 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-025",
+    "shelter_id": "SHE-SHELTERS-025",
+    "requested_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 20,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "requested_by": "Manager 025",
+    "purpose": "Resident support 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-026",
+    "shelter_id": "SHE-SHELTERS-026",
+    "requested_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 21,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "requested_by": "Manager 026",
+    "purpose": "Resident support 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-027",
+    "shelter_id": "SHE-SHELTERS-027",
+    "requested_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 22,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "requested_by": "Manager 027",
+    "purpose": "Resident support 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-028",
+    "shelter_id": "SHE-SHELTERS-028",
+    "requested_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 23,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "requested_by": "Manager 028",
+    "purpose": "Resident support 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-029",
+    "shelter_id": "SHE-SHELTERS-029",
+    "requested_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 24,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "requested_by": "Manager 029",
+    "purpose": "Resident support 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-030",
+    "shelter_id": "SHE-SHELTERS-030",
+    "requested_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 20,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "requested_by": "Manager 030",
+    "purpose": "Resident support 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-031",
+    "shelter_id": "SHE-SHELTERS-031",
+    "requested_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 21,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "requested_by": "Manager 031",
+    "purpose": "Resident support 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-032",
+    "shelter_id": "SHE-SHELTERS-032",
+    "requested_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 22,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "requested_by": "Manager 032",
+    "purpose": "Resident support 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-033",
+    "shelter_id": "SHE-SHELTERS-033",
+    "requested_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 23,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "requested_by": "Manager 033",
+    "purpose": "Resident support 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-034",
+    "shelter_id": "SHE-SHELTERS-034",
+    "requested_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 24,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "requested_by": "Manager 034",
+    "purpose": "Resident support 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-035",
+    "shelter_id": "SHE-SHELTERS-035",
+    "requested_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 20,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "requested_by": "Manager 035",
+    "purpose": "Resident support 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-036",
+    "shelter_id": "SHE-SHELTERS-036",
+    "requested_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 21,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "requested_by": "Manager 036",
+    "purpose": "Resident support 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-037",
+    "shelter_id": "SHE-SHELTERS-037",
+    "requested_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 22,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "requested_by": "Manager 037",
+    "purpose": "Resident support 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-038",
+    "shelter_id": "SHE-SHELTERS-038",
+    "requested_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 23,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "requested_by": "Manager 038",
+    "purpose": "Resident support 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-039",
+    "shelter_id": "SHE-SHELTERS-039",
+    "requested_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 24,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "requested_by": "Manager 039",
+    "purpose": "Resident support 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-040",
+    "shelter_id": "SHE-SHELTERS-040",
+    "requested_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 20,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "requested_by": "Manager 040",
+    "purpose": "Resident support 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-041",
+    "shelter_id": "SHE-SHELTERS-041",
+    "requested_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 21,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "requested_by": "Manager 041",
+    "purpose": "Resident support 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-042",
+    "shelter_id": "SHE-SHELTERS-042",
+    "requested_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 22,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "requested_by": "Manager 042",
+    "purpose": "Resident support 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-043",
+    "shelter_id": "SHE-SHELTERS-043",
+    "requested_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 23,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "requested_by": "Manager 043",
+    "purpose": "Resident support 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-044",
+    "shelter_id": "SHE-SHELTERS-044",
+    "requested_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 24,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "requested_by": "Manager 044",
+    "purpose": "Resident support 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-045",
+    "shelter_id": "SHE-SHELTERS-045",
+    "requested_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 20,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "requested_by": "Manager 045",
+    "purpose": "Resident support 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-046",
+    "shelter_id": "SHE-SHELTERS-046",
+    "requested_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 21,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "requested_by": "Manager 046",
+    "purpose": "Resident support 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-047",
+    "shelter_id": "SHE-SHELTERS-047",
+    "requested_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 22,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "requested_by": "Manager 047",
+    "purpose": "Resident support 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-048",
+    "shelter_id": "SHE-SHELTERS-048",
+    "requested_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "item_name": "soap",
+    "quantity_requested": 23,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "requested_by": "Manager 048",
+    "purpose": "Resident support 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-049",
+    "shelter_id": "SHE-SHELTERS-049",
+    "requested_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "item_name": "blanket",
+    "quantity_requested": 24,
+    "unit": "units",
+    "priority": "high",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "requested_by": "Manager 049",
+    "purpose": "Resident support 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-SUPPLY_REQUESTS-050",
+    "shelter_id": "SHE-SHELTERS-050",
+    "requested_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "item_name": "water",
+    "quantity_requested": 20,
+    "unit": "units",
+    "priority": "medium",
+    "request_state": "approved",
+    "required_by": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "requested_by": "Manager 050",
+    "purpose": "Resident support 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

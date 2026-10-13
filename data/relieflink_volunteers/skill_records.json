@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "VOL-SKILL_RECORDS-001",
+    "volunteer_id": "VOL-PROFILES-001",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "assessor_code": "Trainer 001",
+    "verified": true,
+    "practice_hours": 11,
+    "assessment_score": 61,
+    "valid_until": {
+      "$date": "2026-10-31T00:00:00Z"
+    },
+    "evidence_code": "Skill record 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-002",
+    "volunteer_id": "VOL-PROFILES-002",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "assessor_code": "Trainer 002",
+    "verified": true,
+    "practice_hours": 12,
+    "assessment_score": 62,
+    "valid_until": {
+      "$date": "2026-11-03T00:00:00Z"
+    },
+    "evidence_code": "Skill record 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-003",
+    "volunteer_id": "VOL-PROFILES-003",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "assessor_code": "Trainer 003",
+    "verified": true,
+    "practice_hours": 13,
+    "assessment_score": 63,
+    "valid_until": {
+      "$date": "2026-11-06T00:00:00Z"
+    },
+    "evidence_code": "Skill record 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-004",
+    "volunteer_id": "VOL-PROFILES-004",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "assessor_code": "Trainer 004",
+    "verified": true,
+    "practice_hours": 14,
+    "assessment_score": 64,
+    "valid_until": {
+      "$date": "2026-11-09T00:00:00Z"
+    },
+    "evidence_code": "Skill record 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-005",
+    "volunteer_id": "VOL-PROFILES-005",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "assessor_code": "Trainer 005",
+    "verified": true,
+    "practice_hours": 10,
+    "assessment_score": 60,
+    "valid_until": {
+      "$date": "2026-11-12T00:00:00Z"
+    },
+    "evidence_code": "Skill record 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-006",
+    "volunteer_id": "VOL-PROFILES-006",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "assessor_code": "Trainer 006",
+    "verified": true,
+    "practice_hours": 11,
+    "assessment_score": 61,
+    "valid_until": {
+      "$date": "2026-11-15T00:00:00Z"
+    },
+    "evidence_code": "Skill record 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-007",
+    "volunteer_id": "VOL-PROFILES-007",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "assessor_code": "Trainer 007",
+    "verified": true,
+    "practice_hours": 12,
+    "assessment_score": 62,
+    "valid_until": {
+      "$date": "2026-11-18T00:00:00Z"
+    },
+    "evidence_code": "Skill record 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-008",
+    "volunteer_id": "VOL-PROFILES-008",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "assessor_code": "Trainer 008",
+    "verified": true,
+    "practice_hours": 13,
+    "assessment_score": 63,
+    "valid_until": {
+      "$date": "2026-11-21T00:00:00Z"
+    },
+    "evidence_code": "Skill record 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-009",
+    "volunteer_id": "VOL-PROFILES-009",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "assessor_code": "Trainer 009",
+    "verified": true,
+    "practice_hours": 14,
+    "assessment_score": 64,
+    "valid_until": {
+      "$date": "2026-11-24T00:00:00Z"
+    },
+    "evidence_code": "Skill record 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-010",
+    "volunteer_id": "VOL-PROFILES-010",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "assessor_code": "Trainer 010",
+    "verified": true,
+    "practice_hours": 10,
+    "assessment_score": 60,
+    "valid_until": {
+      "$date": "2026-11-27T00:00:00Z"
+    },
+    "evidence_code": "Skill record 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-011",
+    "volunteer_id": "VOL-PROFILES-011",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "assessor_code": "Trainer 011",
+    "verified": true,
+    "practice_hours": 11,
+    "assessment_score": 61,
+    "valid_until": {
+      "$date": "2026-11-30T00:00:00Z"
+    },
+    "evidence_code": "Skill record 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-012",
+    "volunteer_id": "VOL-PROFILES-012",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "assessor_code": "Trainer 012",
+    "verified": true,
+    "practice_hours": 12,
+    "assessment_score": 62,
+    "valid_until": {
+      "$date": "2026-12-03T00:00:00Z"
+    },
+    "evidence_code": "Skill record 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-013",
+    "volunteer_id": "VOL-PROFILES-013",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "assessor_code": "Trainer 013",
+    "verified": true,
+    "practice_hours": 13,
+    "assessment_score": 63,
+    "valid_until": {
+      "$date": "2026-12-06T00:00:00Z"
+    },
+    "evidence_code": "Skill record 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-014",
+    "volunteer_id": "VOL-PROFILES-014",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "assessor_code": "Trainer 014",
+    "verified": true,
+    "practice_hours": 14,
+    "assessment_score": 64,
+    "valid_until": {
+      "$date": "2026-12-09T00:00:00Z"
+    },
+    "evidence_code": "Skill record 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-015",
+    "volunteer_id": "VOL-PROFILES-015",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "assessor_code": "Trainer 015",
+    "verified": true,
+    "practice_hours": 10,
+    "assessment_score": 60,
+    "valid_until": {
+      "$date": "2026-12-12T00:00:00Z"
+    },
+    "evidence_code": "Skill record 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-016",
+    "volunteer_id": "VOL-PROFILES-016",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "assessor_code": "Trainer 016",
+    "verified": true,
+    "practice_hours": 11,
+    "assessment_score": 61,
+    "valid_until": {
+      "$date": "2026-12-15T00:00:00Z"
+    },
+    "evidence_code": "Skill record 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-017",
+    "volunteer_id": "VOL-PROFILES-017",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "assessor_code": "Trainer 017",
+    "verified": true,
+    "practice_hours": 12,
+    "assessment_score": 62,
+    "valid_until": {
+      "$date": "2026-12-18T00:00:00Z"
+    },
+    "evidence_code": "Skill record 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-018",
+    "volunteer_id": "VOL-PROFILES-018",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "assessor_code": "Trainer 018",
+    "verified": true,
+    "practice_hours": 13,
+    "assessment_score": 63,
+    "valid_until": {
+      "$date": "2026-12-21T00:00:00Z"
+    },
+    "evidence_code": "Skill record 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-019",
+    "volunteer_id": "VOL-PROFILES-019",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "assessor_code": "Trainer 019",
+    "verified": true,
+    "practice_hours": 14,
+    "assessment_score": 64,
+    "valid_until": {
+      "$date": "2026-12-24T00:00:00Z"
+    },
+    "evidence_code": "Skill record 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-020",
+    "volunteer_id": "VOL-PROFILES-020",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "assessor_code": "Trainer 020",
+    "verified": true,
+    "practice_hours": 10,
+    "assessment_score": 60,
+    "valid_until": {
+      "$date": "2026-12-27T00:00:00Z"
+    },
+    "evidence_code": "Skill record 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-021",
+    "volunteer_id": "VOL-PROFILES-021",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "assessor_code": "Trainer 021",
+    "verified": true,
+    "practice_hours": 11,
+    "assessment_score": 61,
+    "valid_until": {
+      "$date": "2026-12-30T00:00:00Z"
+    },
+    "evidence_code": "Skill record 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-022",
+    "volunteer_id": "VOL-PROFILES-022",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "assessor_code": "Trainer 022",
+    "verified": true,
+    "practice_hours": 12,
+    "assessment_score": 62,
+    "valid_until": {
+      "$date": "2027-01-02T00:00:00Z"
+    },
+    "evidence_code": "Skill record 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-023",
+    "volunteer_id": "VOL-PROFILES-023",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "assessor_code": "Trainer 023",
+    "verified": true,
+    "practice_hours": 13,
+    "assessment_score": 63,
+    "valid_until": {
+      "$date": "2027-01-05T00:00:00Z"
+    },
+    "evidence_code": "Skill record 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-024",
+    "volunteer_id": "VOL-PROFILES-024",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "assessor_code": "Trainer 024",
+    "verified": true,
+    "practice_hours": 14,
+    "assessment_score": 64,
+    "valid_until": {
+      "$date": "2027-01-08T00:00:00Z"
+    },
+    "evidence_code": "Skill record 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-025",
+    "volunteer_id": "VOL-PROFILES-025",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "assessor_code": "Trainer 025",
+    "verified": true,
+    "practice_hours": 10,
+    "assessment_score": 60,
+    "valid_until": {
+      "$date": "2027-01-11T00:00:00Z"
+    },
+    "evidence_code": "Skill record 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-026",
+    "volunteer_id": "VOL-PROFILES-026",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "assessor_code": "Trainer 026",
+    "verified": true,
+    "practice_hours": 11,
+    "assessment_score": 61,
+    "valid_until": {
+      "$date": "2027-01-14T00:00:00Z"
+    },
+    "evidence_code": "Skill record 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-027",
+    "volunteer_id": "VOL-PROFILES-027",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "assessor_code": "Trainer 027",
+    "verified": true,
+    "practice_hours": 12,
+    "assessment_score": 62,
+    "valid_until": {
+      "$date": "2027-01-17T00:00:00Z"
+    },
+    "evidence_code": "Skill record 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-028",
+    "volunteer_id": "VOL-PROFILES-028",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "assessor_code": "Trainer 028",
+    "verified": true,
+    "practice_hours": 13,
+    "assessment_score": 63,
+    "valid_until": {
+      "$date": "2027-01-20T00:00:00Z"
+    },
+    "evidence_code": "Skill record 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-029",
+    "volunteer_id": "VOL-PROFILES-029",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "assessor_code": "Trainer 029",
+    "verified": true,
+    "practice_hours": 14,
+    "assessment_score": 64,
+    "valid_until": {
+      "$date": "2027-01-23T00:00:00Z"
+    },
+    "evidence_code": "Skill record 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-030",
+    "volunteer_id": "VOL-PROFILES-030",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "assessor_code": "Trainer 030",
+    "verified": true,
+    "practice_hours": 10,
+    "assessment_score": 60,
+    "valid_until": {
+      "$date": "2027-01-26T00:00:00Z"
+    },
+    "evidence_code": "Skill record 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-031",
+    "volunteer_id": "VOL-PROFILES-031",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "assessor_code": "Trainer 031",
+    "verified": true,
+    "practice_hours": 11,
+    "assessment_score": 61,
+    "valid_until": {
+      "$date": "2027-01-29T00:00:00Z"
+    },
+    "evidence_code": "Skill record 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-032",
+    "volunteer_id": "VOL-PROFILES-032",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "assessor_code": "Trainer 032",
+    "verified": true,
+    "practice_hours": 12,
+    "assessment_score": 62,
+    "valid_until": {
+      "$date": "2027-02-01T00:00:00Z"
+    },
+    "evidence_code": "Skill record 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-033",
+    "volunteer_id": "VOL-PROFILES-033",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "assessor_code": "Trainer 033",
+    "verified": true,
+    "practice_hours": 13,
+    "assessment_score": 63,
+    "valid_until": {
+      "$date": "2027-02-04T00:00:00Z"
+    },
+    "evidence_code": "Skill record 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-034",
+    "volunteer_id": "VOL-PROFILES-034",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "assessor_code": "Trainer 034",
+    "verified": true,
+    "practice_hours": 14,
+    "assessment_score": 64,
+    "valid_until": {
+      "$date": "2027-02-07T00:00:00Z"
+    },
+    "evidence_code": "Skill record 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-035",
+    "volunteer_id": "VOL-PROFILES-035",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "assessor_code": "Trainer 035",
+    "verified": true,
+    "practice_hours": 10,
+    "assessment_score": 60,
+    "valid_until": {
+      "$date": "2027-02-10T00:00:00Z"
+    },
+    "evidence_code": "Skill record 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-036",
+    "volunteer_id": "VOL-PROFILES-036",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "assessor_code": "Trainer 036",
+    "verified": true,
+    "practice_hours": 11,
+    "assessment_score": 61,
+    "valid_until": {
+      "$date": "2027-02-13T00:00:00Z"
+    },
+    "evidence_code": "Skill record 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-037",
+    "volunteer_id": "VOL-PROFILES-037",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "assessor_code": "Trainer 037",
+    "verified": true,
+    "practice_hours": 12,
+    "assessment_score": 62,
+    "valid_until": {
+      "$date": "2027-02-16T00:00:00Z"
+    },
+    "evidence_code": "Skill record 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-038",
+    "volunteer_id": "VOL-PROFILES-038",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "assessor_code": "Trainer 038",
+    "verified": true,
+    "practice_hours": 13,
+    "assessment_score": 63,
+    "valid_until": {
+      "$date": "2027-02-19T00:00:00Z"
+    },
+    "evidence_code": "Skill record 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-039",
+    "volunteer_id": "VOL-PROFILES-039",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "assessor_code": "Trainer 039",
+    "verified": true,
+    "practice_hours": 14,
+    "assessment_score": 64,
+    "valid_until": {
+      "$date": "2027-02-22T00:00:00Z"
+    },
+    "evidence_code": "Skill record 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-040",
+    "volunteer_id": "VOL-PROFILES-040",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "assessor_code": "Trainer 040",
+    "verified": true,
+    "practice_hours": 10,
+    "assessment_score": 60,
+    "valid_until": {
+      "$date": "2027-02-25T00:00:00Z"
+    },
+    "evidence_code": "Skill record 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-041",
+    "volunteer_id": "VOL-PROFILES-041",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "assessor_code": "Trainer 041",
+    "verified": true,
+    "practice_hours": 11,
+    "assessment_score": 61,
+    "valid_until": {
+      "$date": "2027-02-28T00:00:00Z"
+    },
+    "evidence_code": "Skill record 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-042",
+    "volunteer_id": "VOL-PROFILES-042",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "assessor_code": "Trainer 042",
+    "verified": true,
+    "practice_hours": 12,
+    "assessment_score": 62,
+    "valid_until": {
+      "$date": "2027-03-03T00:00:00Z"
+    },
+    "evidence_code": "Skill record 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-043",
+    "volunteer_id": "VOL-PROFILES-043",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "assessor_code": "Trainer 043",
+    "verified": true,
+    "practice_hours": 13,
+    "assessment_score": 63,
+    "valid_until": {
+      "$date": "2027-03-06T00:00:00Z"
+    },
+    "evidence_code": "Skill record 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-044",
+    "volunteer_id": "VOL-PROFILES-044",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "assessor_code": "Trainer 044",
+    "verified": true,
+    "practice_hours": 14,
+    "assessment_score": 64,
+    "valid_until": {
+      "$date": "2027-03-09T00:00:00Z"
+    },
+    "evidence_code": "Skill record 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-045",
+    "volunteer_id": "VOL-PROFILES-045",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "assessor_code": "Trainer 045",
+    "verified": true,
+    "practice_hours": 10,
+    "assessment_score": 60,
+    "valid_until": {
+      "$date": "2027-03-12T00:00:00Z"
+    },
+    "evidence_code": "Skill record 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-046",
+    "volunteer_id": "VOL-PROFILES-046",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "assessor_code": "Trainer 046",
+    "verified": true,
+    "practice_hours": 11,
+    "assessment_score": 61,
+    "valid_until": {
+      "$date": "2027-03-15T00:00:00Z"
+    },
+    "evidence_code": "Skill record 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-047",
+    "volunteer_id": "VOL-PROFILES-047",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "assessor_code": "Trainer 047",
+    "verified": true,
+    "practice_hours": 12,
+    "assessment_score": 62,
+    "valid_until": {
+      "$date": "2027-03-18T00:00:00Z"
+    },
+    "evidence_code": "Skill record 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-048",
+    "volunteer_id": "VOL-PROFILES-048",
+    "skill_name": "logistics",
+    "proficiency": "advanced",
+    "assessed_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "assessor_code": "Trainer 048",
+    "verified": true,
+    "practice_hours": 13,
+    "assessment_score": 63,
+    "valid_until": {
+      "$date": "2027-03-21T00:00:00Z"
+    },
+    "evidence_code": "Skill record 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-049",
+    "volunteer_id": "VOL-PROFILES-049",
+    "skill_name": "first_aid",
+    "proficiency": "basic",
+    "assessed_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "assessor_code": "Trainer 049",
+    "verified": true,
+    "practice_hours": 14,
+    "assessment_score": 64,
+    "valid_until": {
+      "$date": "2027-03-24T00:00:00Z"
+    },
+    "evidence_code": "Skill record 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-SKILL_RECORDS-050",
+    "volunteer_id": "VOL-PROFILES-050",
+    "skill_name": "driving",
+    "proficiency": "intermediate",
+    "assessed_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "assessor_code": "Trainer 050",
+    "verified": true,
+    "practice_hours": 10,
+    "assessment_score": 60,
+    "valid_until": {
+      "$date": "2027-03-27T00:00:00Z"
+    },
+    "evidence_code": "Skill record 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

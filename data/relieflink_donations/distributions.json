@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "DON-DISTRIBUTIONS-001",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-001",
+    "expense_id": "DON-EXPENSES-001",
+    "distributed_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "item_description": "Relief kit 001",
+    "quantity": 21,
+    "unit": "kits",
+    "distributed_by": "Field officer 001",
+    "acknowledgment_code": "Distribution proof 001",
+    "distribution_state": "completed",
+    "location_label": "Community point 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-002",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-002",
+    "expense_id": "DON-EXPENSES-002",
+    "distributed_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "item_description": "Relief kit 002",
+    "quantity": 22,
+    "unit": "kits",
+    "distributed_by": "Field officer 002",
+    "acknowledgment_code": "Distribution proof 002",
+    "distribution_state": "completed",
+    "location_label": "Community point 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-003",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-003",
+    "expense_id": "DON-EXPENSES-003",
+    "distributed_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "item_description": "Relief kit 003",
+    "quantity": 23,
+    "unit": "kits",
+    "distributed_by": "Field officer 003",
+    "acknowledgment_code": "Distribution proof 003",
+    "distribution_state": "completed",
+    "location_label": "Community point 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-004",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-004",
+    "expense_id": "DON-EXPENSES-004",
+    "distributed_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "item_description": "Relief kit 004",
+    "quantity": 24,
+    "unit": "kits",
+    "distributed_by": "Field officer 004",
+    "acknowledgment_code": "Distribution proof 004",
+    "distribution_state": "completed",
+    "location_label": "Community point 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-005",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-005",
+    "expense_id": "DON-EXPENSES-005",
+    "distributed_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "item_description": "Relief kit 005",
+    "quantity": 20,
+    "unit": "kits",
+    "distributed_by": "Field officer 005",
+    "acknowledgment_code": "Distribution proof 005",
+    "distribution_state": "completed",
+    "location_label": "Community point 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-006",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-006",
+    "expense_id": "DON-EXPENSES-006",
+    "distributed_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "item_description": "Relief kit 006",
+    "quantity": 21,
+    "unit": "kits",
+    "distributed_by": "Field officer 006",
+    "acknowledgment_code": "Distribution proof 006",
+    "distribution_state": "completed",
+    "location_label": "Community point 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-007",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-007",
+    "expense_id": "DON-EXPENSES-007",
+    "distributed_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "item_description": "Relief kit 007",
+    "quantity": 22,
+    "unit": "kits",
+    "distributed_by": "Field officer 007",
+    "acknowledgment_code": "Distribution proof 007",
+    "distribution_state": "completed",
+    "location_label": "Community point 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-008",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-008",
+    "expense_id": "DON-EXPENSES-008",
+    "distributed_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "item_description": "Relief kit 008",
+    "quantity": 23,
+    "unit": "kits",
+    "distributed_by": "Field officer 008",
+    "acknowledgment_code": "Distribution proof 008",
+    "distribution_state": "completed",
+    "location_label": "Community point 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-009",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-009",
+    "expense_id": "DON-EXPENSES-009",
+    "distributed_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "item_description": "Relief kit 009",
+    "quantity": 24,
+    "unit": "kits",
+    "distributed_by": "Field officer 009",
+    "acknowledgment_code": "Distribution proof 009",
+    "distribution_state": "completed",
+    "location_label": "Community point 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-010",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-010",
+    "expense_id": "DON-EXPENSES-010",
+    "distributed_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "item_description": "Relief kit 010",
+    "quantity": 20,
+    "unit": "kits",
+    "distributed_by": "Field officer 010",
+    "acknowledgment_code": "Distribution proof 010",
+    "distribution_state": "completed",
+    "location_label": "Community point 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-011",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-011",
+    "expense_id": "DON-EXPENSES-011",
+    "distributed_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "item_description": "Relief kit 011",
+    "quantity": 21,
+    "unit": "kits",
+    "distributed_by": "Field officer 011",
+    "acknowledgment_code": "Distribution proof 011",
+    "distribution_state": "completed",
+    "location_label": "Community point 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-012",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-012",
+    "expense_id": "DON-EXPENSES-012",
+    "distributed_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "item_description": "Relief kit 012",
+    "quantity": 22,
+    "unit": "kits",
+    "distributed_by": "Field officer 012",
+    "acknowledgment_code": "Distribution proof 012",
+    "distribution_state": "completed",
+    "location_label": "Community point 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-013",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-013",
+    "expense_id": "DON-EXPENSES-013",
+    "distributed_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "item_description": "Relief kit 013",
+    "quantity": 23,
+    "unit": "kits",
+    "distributed_by": "Field officer 013",
+    "acknowledgment_code": "Distribution proof 013",
+    "distribution_state": "completed",
+    "location_label": "Community point 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-014",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-014",
+    "expense_id": "DON-EXPENSES-014",
+    "distributed_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "item_description": "Relief kit 014",
+    "quantity": 24,
+    "unit": "kits",
+    "distributed_by": "Field officer 014",
+    "acknowledgment_code": "Distribution proof 014",
+    "distribution_state": "completed",
+    "location_label": "Community point 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-015",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-015",
+    "expense_id": "DON-EXPENSES-015",
+    "distributed_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "item_description": "Relief kit 015",
+    "quantity": 20,
+    "unit": "kits",
+    "distributed_by": "Field officer 015",
+    "acknowledgment_code": "Distribution proof 015",
+    "distribution_state": "completed",
+    "location_label": "Community point 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-016",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-016",
+    "expense_id": "DON-EXPENSES-016",
+    "distributed_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "item_description": "Relief kit 016",
+    "quantity": 21,
+    "unit": "kits",
+    "distributed_by": "Field officer 016",
+    "acknowledgment_code": "Distribution proof 016",
+    "distribution_state": "completed",
+    "location_label": "Community point 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-017",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-017",
+    "expense_id": "DON-EXPENSES-017",
+    "distributed_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "item_description": "Relief kit 017",
+    "quantity": 22,
+    "unit": "kits",
+    "distributed_by": "Field officer 017",
+    "acknowledgment_code": "Distribution proof 017",
+    "distribution_state": "completed",
+    "location_label": "Community point 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-018",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-018",
+    "expense_id": "DON-EXPENSES-018",
+    "distributed_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "item_description": "Relief kit 018",
+    "quantity": 23,
+    "unit": "kits",
+    "distributed_by": "Field officer 018",
+    "acknowledgment_code": "Distribution proof 018",
+    "distribution_state": "completed",
+    "location_label": "Community point 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-019",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-019",
+    "expense_id": "DON-EXPENSES-019",
+    "distributed_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "item_description": "Relief kit 019",
+    "quantity": 24,
+    "unit": "kits",
+    "distributed_by": "Field officer 019",
+    "acknowledgment_code": "Distribution proof 019",
+    "distribution_state": "completed",
+    "location_label": "Community point 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-020",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-020",
+    "expense_id": "DON-EXPENSES-020",
+    "distributed_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "item_description": "Relief kit 020",
+    "quantity": 20,
+    "unit": "kits",
+    "distributed_by": "Field officer 020",
+    "acknowledgment_code": "Distribution proof 020",
+    "distribution_state": "completed",
+    "location_label": "Community point 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-021",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-021",
+    "expense_id": "DON-EXPENSES-021",
+    "distributed_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "item_description": "Relief kit 021",
+    "quantity": 21,
+    "unit": "kits",
+    "distributed_by": "Field officer 021",
+    "acknowledgment_code": "Distribution proof 021",
+    "distribution_state": "completed",
+    "location_label": "Community point 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-022",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-022",
+    "expense_id": "DON-EXPENSES-022",
+    "distributed_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "item_description": "Relief kit 022",
+    "quantity": 22,
+    "unit": "kits",
+    "distributed_by": "Field officer 022",
+    "acknowledgment_code": "Distribution proof 022",
+    "distribution_state": "completed",
+    "location_label": "Community point 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-023",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-023",
+    "expense_id": "DON-EXPENSES-023",
+    "distributed_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "item_description": "Relief kit 023",
+    "quantity": 23,
+    "unit": "kits",
+    "distributed_by": "Field officer 023",
+    "acknowledgment_code": "Distribution proof 023",
+    "distribution_state": "completed",
+    "location_label": "Community point 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-024",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-024",
+    "expense_id": "DON-EXPENSES-024",
+    "distributed_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "item_description": "Relief kit 024",
+    "quantity": 24,
+    "unit": "kits",
+    "distributed_by": "Field officer 024",
+    "acknowledgment_code": "Distribution proof 024",
+    "distribution_state": "completed",
+    "location_label": "Community point 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-025",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-025",
+    "expense_id": "DON-EXPENSES-025",
+    "distributed_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "item_description": "Relief kit 025",
+    "quantity": 20,
+    "unit": "kits",
+    "distributed_by": "Field officer 025",
+    "acknowledgment_code": "Distribution proof 025",
+    "distribution_state": "completed",
+    "location_label": "Community point 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-026",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-026",
+    "expense_id": "DON-EXPENSES-026",
+    "distributed_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "item_description": "Relief kit 026",
+    "quantity": 21,
+    "unit": "kits",
+    "distributed_by": "Field officer 026",
+    "acknowledgment_code": "Distribution proof 026",
+    "distribution_state": "completed",
+    "location_label": "Community point 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-027",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-027",
+    "expense_id": "DON-EXPENSES-027",
+    "distributed_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "item_description": "Relief kit 027",
+    "quantity": 22,
+    "unit": "kits",
+    "distributed_by": "Field officer 027",
+    "acknowledgment_code": "Distribution proof 027",
+    "distribution_state": "completed",
+    "location_label": "Community point 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-028",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-028",
+    "expense_id": "DON-EXPENSES-028",
+    "distributed_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "item_description": "Relief kit 028",
+    "quantity": 23,
+    "unit": "kits",
+    "distributed_by": "Field officer 028",
+    "acknowledgment_code": "Distribution proof 028",
+    "distribution_state": "completed",
+    "location_label": "Community point 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-029",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-029",
+    "expense_id": "DON-EXPENSES-029",
+    "distributed_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "item_description": "Relief kit 029",
+    "quantity": 24,
+    "unit": "kits",
+    "distributed_by": "Field officer 029",
+    "acknowledgment_code": "Distribution proof 029",
+    "distribution_state": "completed",
+    "location_label": "Community point 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-030",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-030",
+    "expense_id": "DON-EXPENSES-030",
+    "distributed_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "item_description": "Relief kit 030",
+    "quantity": 20,
+    "unit": "kits",
+    "distributed_by": "Field officer 030",
+    "acknowledgment_code": "Distribution proof 030",
+    "distribution_state": "completed",
+    "location_label": "Community point 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-031",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-031",
+    "expense_id": "DON-EXPENSES-031",
+    "distributed_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "item_description": "Relief kit 031",
+    "quantity": 21,
+    "unit": "kits",
+    "distributed_by": "Field officer 031",
+    "acknowledgment_code": "Distribution proof 031",
+    "distribution_state": "completed",
+    "location_label": "Community point 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-032",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-032",
+    "expense_id": "DON-EXPENSES-032",
+    "distributed_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "item_description": "Relief kit 032",
+    "quantity": 22,
+    "unit": "kits",
+    "distributed_by": "Field officer 032",
+    "acknowledgment_code": "Distribution proof 032",
+    "distribution_state": "completed",
+    "location_label": "Community point 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-033",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-033",
+    "expense_id": "DON-EXPENSES-033",
+    "distributed_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "item_description": "Relief kit 033",
+    "quantity": 23,
+    "unit": "kits",
+    "distributed_by": "Field officer 033",
+    "acknowledgment_code": "Distribution proof 033",
+    "distribution_state": "completed",
+    "location_label": "Community point 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-034",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-034",
+    "expense_id": "DON-EXPENSES-034",
+    "distributed_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "item_description": "Relief kit 034",
+    "quantity": 24,
+    "unit": "kits",
+    "distributed_by": "Field officer 034",
+    "acknowledgment_code": "Distribution proof 034",
+    "distribution_state": "completed",
+    "location_label": "Community point 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-035",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-035",
+    "expense_id": "DON-EXPENSES-035",
+    "distributed_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "item_description": "Relief kit 035",
+    "quantity": 20,
+    "unit": "kits",
+    "distributed_by": "Field officer 035",
+    "acknowledgment_code": "Distribution proof 035",
+    "distribution_state": "completed",
+    "location_label": "Community point 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-036",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-036",
+    "expense_id": "DON-EXPENSES-036",
+    "distributed_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "item_description": "Relief kit 036",
+    "quantity": 21,
+    "unit": "kits",
+    "distributed_by": "Field officer 036",
+    "acknowledgment_code": "Distribution proof 036",
+    "distribution_state": "completed",
+    "location_label": "Community point 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-037",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-037",
+    "expense_id": "DON-EXPENSES-037",
+    "distributed_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "item_description": "Relief kit 037",
+    "quantity": 22,
+    "unit": "kits",
+    "distributed_by": "Field officer 037",
+    "acknowledgment_code": "Distribution proof 037",
+    "distribution_state": "completed",
+    "location_label": "Community point 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-038",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-038",
+    "expense_id": "DON-EXPENSES-038",
+    "distributed_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "item_description": "Relief kit 038",
+    "quantity": 23,
+    "unit": "kits",
+    "distributed_by": "Field officer 038",
+    "acknowledgment_code": "Distribution proof 038",
+    "distribution_state": "completed",
+    "location_label": "Community point 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-039",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-039",
+    "expense_id": "DON-EXPENSES-039",
+    "distributed_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "item_description": "Relief kit 039",
+    "quantity": 24,
+    "unit": "kits",
+    "distributed_by": "Field officer 039",
+    "acknowledgment_code": "Distribution proof 039",
+    "distribution_state": "completed",
+    "location_label": "Community point 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-040",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-040",
+    "expense_id": "DON-EXPENSES-040",
+    "distributed_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "item_description": "Relief kit 040",
+    "quantity": 20,
+    "unit": "kits",
+    "distributed_by": "Field officer 040",
+    "acknowledgment_code": "Distribution proof 040",
+    "distribution_state": "completed",
+    "location_label": "Community point 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-041",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-041",
+    "expense_id": "DON-EXPENSES-041",
+    "distributed_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "item_description": "Relief kit 041",
+    "quantity": 21,
+    "unit": "kits",
+    "distributed_by": "Field officer 041",
+    "acknowledgment_code": "Distribution proof 041",
+    "distribution_state": "completed",
+    "location_label": "Community point 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-042",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-042",
+    "expense_id": "DON-EXPENSES-042",
+    "distributed_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "item_description": "Relief kit 042",
+    "quantity": 22,
+    "unit": "kits",
+    "distributed_by": "Field officer 042",
+    "acknowledgment_code": "Distribution proof 042",
+    "distribution_state": "completed",
+    "location_label": "Community point 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-043",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-043",
+    "expense_id": "DON-EXPENSES-043",
+    "distributed_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "item_description": "Relief kit 043",
+    "quantity": 23,
+    "unit": "kits",
+    "distributed_by": "Field officer 043",
+    "acknowledgment_code": "Distribution proof 043",
+    "distribution_state": "completed",
+    "location_label": "Community point 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-044",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-044",
+    "expense_id": "DON-EXPENSES-044",
+    "distributed_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "item_description": "Relief kit 044",
+    "quantity": 24,
+    "unit": "kits",
+    "distributed_by": "Field officer 044",
+    "acknowledgment_code": "Distribution proof 044",
+    "distribution_state": "completed",
+    "location_label": "Community point 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-045",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-045",
+    "expense_id": "DON-EXPENSES-045",
+    "distributed_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "item_description": "Relief kit 045",
+    "quantity": 20,
+    "unit": "kits",
+    "distributed_by": "Field officer 045",
+    "acknowledgment_code": "Distribution proof 045",
+    "distribution_state": "completed",
+    "location_label": "Community point 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-046",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-046",
+    "expense_id": "DON-EXPENSES-046",
+    "distributed_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "item_description": "Relief kit 046",
+    "quantity": 21,
+    "unit": "kits",
+    "distributed_by": "Field officer 046",
+    "acknowledgment_code": "Distribution proof 046",
+    "distribution_state": "completed",
+    "location_label": "Community point 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-047",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-047",
+    "expense_id": "DON-EXPENSES-047",
+    "distributed_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "item_description": "Relief kit 047",
+    "quantity": 22,
+    "unit": "kits",
+    "distributed_by": "Field officer 047",
+    "acknowledgment_code": "Distribution proof 047",
+    "distribution_state": "completed",
+    "location_label": "Community point 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-048",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-048",
+    "expense_id": "DON-EXPENSES-048",
+    "distributed_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "item_description": "Relief kit 048",
+    "quantity": 23,
+    "unit": "kits",
+    "distributed_by": "Field officer 048",
+    "acknowledgment_code": "Distribution proof 048",
+    "distribution_state": "completed",
+    "location_label": "Community point 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-049",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-049",
+    "expense_id": "DON-EXPENSES-049",
+    "distributed_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "item_description": "Relief kit 049",
+    "quantity": 24,
+    "unit": "kits",
+    "distributed_by": "Field officer 049",
+    "acknowledgment_code": "Distribution proof 049",
+    "distribution_state": "completed",
+    "location_label": "Community point 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DISTRIBUTIONS-050",
+    "beneficiary_group_id": "DON-BENEFICIARY_GROUPS-050",
+    "expense_id": "DON-EXPENSES-050",
+    "distributed_at": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "item_description": "Relief kit 050",
+    "quantity": 20,
+    "unit": "kits",
+    "distributed_by": "Field officer 050",
+    "acknowledgment_code": "Distribution proof 050",
+    "distribution_state": "completed",
+    "location_label": "Community point 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

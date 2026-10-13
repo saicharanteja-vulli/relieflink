@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-001",
+    "volunteer_id": "VOL-PROFILES-001",
+    "session_id": "VOL-TRAINING_SESSIONS-001",
+    "enrolled_at": {
+      "$date": "2025-12-15T00:00:00Z"
+    },
+    "attendance_state": "attended 001",
+    "score": 61,
+    "passed": true,
+    "certificate_code": "Certificate 001",
+    "completed_at": {
+      "$date": "2025-12-21T00:00:00Z"
+    },
+    "feedback_score": 2,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-002",
+    "volunteer_id": "VOL-PROFILES-002",
+    "session_id": "VOL-TRAINING_SESSIONS-002",
+    "enrolled_at": {
+      "$date": "2025-12-18T00:00:00Z"
+    },
+    "attendance_state": "attended 002",
+    "score": 62,
+    "passed": true,
+    "certificate_code": "Certificate 002",
+    "completed_at": {
+      "$date": "2025-12-24T00:00:00Z"
+    },
+    "feedback_score": 3,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-003",
+    "volunteer_id": "VOL-PROFILES-003",
+    "session_id": "VOL-TRAINING_SESSIONS-003",
+    "enrolled_at": {
+      "$date": "2025-12-21T00:00:00Z"
+    },
+    "attendance_state": "attended 003",
+    "score": 63,
+    "passed": true,
+    "certificate_code": "Certificate 003",
+    "completed_at": {
+      "$date": "2025-12-27T00:00:00Z"
+    },
+    "feedback_score": 4,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-004",
+    "volunteer_id": "VOL-PROFILES-004",
+    "session_id": "VOL-TRAINING_SESSIONS-004",
+    "enrolled_at": {
+      "$date": "2025-12-24T00:00:00Z"
+    },
+    "attendance_state": "attended 004",
+    "score": 64,
+    "passed": true,
+    "certificate_code": "Certificate 004",
+    "completed_at": {
+      "$date": "2025-12-30T00:00:00Z"
+    },
+    "feedback_score": 5,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-005",
+    "volunteer_id": "VOL-PROFILES-005",
+    "session_id": "VOL-TRAINING_SESSIONS-005",
+    "enrolled_at": {
+      "$date": "2025-12-27T00:00:00Z"
+    },
+    "attendance_state": "attended 005",
+    "score": 60,
+    "passed": true,
+    "certificate_code": "Certificate 005",
+    "completed_at": {
+      "$date": "2026-01-02T00:00:00Z"
+    },
+    "feedback_score": 1,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-006",
+    "volunteer_id": "VOL-PROFILES-006",
+    "session_id": "VOL-TRAINING_SESSIONS-006",
+    "enrolled_at": {
+      "$date": "2025-12-30T00:00:00Z"
+    },
+    "attendance_state": "attended 006",
+    "score": 61,
+    "passed": true,
+    "certificate_code": "Certificate 006",
+    "completed_at": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "feedback_score": 2,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-007",
+    "volunteer_id": "VOL-PROFILES-007",
+    "session_id": "VOL-TRAINING_SESSIONS-007",
+    "enrolled_at": {
+      "$date": "2026-01-02T00:00:00Z"
+    },
+    "attendance_state": "attended 007",
+    "score": 62,
+    "passed": true,
+    "certificate_code": "Certificate 007",
+    "completed_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "feedback_score": 3,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-008",
+    "volunteer_id": "VOL-PROFILES-008",
+    "session_id": "VOL-TRAINING_SESSIONS-008",
+    "enrolled_at": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "attendance_state": "attended 008",
+    "score": 63,
+    "passed": true,
+    "certificate_code": "Certificate 008",
+    "completed_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "feedback_score": 4,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-009",
+    "volunteer_id": "VOL-PROFILES-009",
+    "session_id": "VOL-TRAINING_SESSIONS-009",
+    "enrolled_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "attendance_state": "attended 009",
+    "score": 64,
+    "passed": true,
+    "certificate_code": "Certificate 009",
+    "completed_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "feedback_score": 5,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-010",
+    "volunteer_id": "VOL-PROFILES-010",
+    "session_id": "VOL-TRAINING_SESSIONS-010",
+    "enrolled_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "attendance_state": "attended 010",
+    "score": 60,
+    "passed": true,
+    "certificate_code": "Certificate 010",
+    "completed_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "feedback_score": 1,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-011",
+    "volunteer_id": "VOL-PROFILES-011",
+    "session_id": "VOL-TRAINING_SESSIONS-011",
+    "enrolled_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "attendance_state": "attended 011",
+    "score": 61,
+    "passed": true,
+    "certificate_code": "Certificate 011",
+    "completed_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "feedback_score": 2,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-012",
+    "volunteer_id": "VOL-PROFILES-012",
+    "session_id": "VOL-TRAINING_SESSIONS-012",
+    "enrolled_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "attendance_state": "attended 012",
+    "score": 62,
+    "passed": true,
+    "certificate_code": "Certificate 012",
+    "completed_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "feedback_score": 3,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-013",
+    "volunteer_id": "VOL-PROFILES-013",
+    "session_id": "VOL-TRAINING_SESSIONS-013",
+    "enrolled_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "attendance_state": "attended 013",
+    "score": 63,
+    "passed": true,
+    "certificate_code": "Certificate 013",
+    "completed_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "feedback_score": 4,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-014",
+    "volunteer_id": "VOL-PROFILES-014",
+    "session_id": "VOL-TRAINING_SESSIONS-014",
+    "enrolled_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "attendance_state": "attended 014",
+    "score": 64,
+    "passed": true,
+    "certificate_code": "Certificate 014",
+    "completed_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "feedback_score": 5,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-015",
+    "volunteer_id": "VOL-PROFILES-015",
+    "session_id": "VOL-TRAINING_SESSIONS-015",
+    "enrolled_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "attendance_state": "attended 015",
+    "score": 60,
+    "passed": true,
+    "certificate_code": "Certificate 015",
+    "completed_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "feedback_score": 1,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-016",
+    "volunteer_id": "VOL-PROFILES-016",
+    "session_id": "VOL-TRAINING_SESSIONS-016",
+    "enrolled_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "attendance_state": "attended 016",
+    "score": 61,
+    "passed": true,
+    "certificate_code": "Certificate 016",
+    "completed_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "feedback_score": 2,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-017",
+    "volunteer_id": "VOL-PROFILES-017",
+    "session_id": "VOL-TRAINING_SESSIONS-017",
+    "enrolled_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "attendance_state": "attended 017",
+    "score": 62,
+    "passed": true,
+    "certificate_code": "Certificate 017",
+    "completed_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "feedback_score": 3,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-018",
+    "volunteer_id": "VOL-PROFILES-018",
+    "session_id": "VOL-TRAINING_SESSIONS-018",
+    "enrolled_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "attendance_state": "attended 018",
+    "score": 63,
+    "passed": true,
+    "certificate_code": "Certificate 018",
+    "completed_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "feedback_score": 4,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-019",
+    "volunteer_id": "VOL-PROFILES-019",
+    "session_id": "VOL-TRAINING_SESSIONS-019",
+    "enrolled_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "attendance_state": "attended 019",
+    "score": 64,
+    "passed": true,
+    "certificate_code": "Certificate 019",
+    "completed_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "feedback_score": 5,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-020",
+    "volunteer_id": "VOL-PROFILES-020",
+    "session_id": "VOL-TRAINING_SESSIONS-020",
+    "enrolled_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "attendance_state": "attended 020",
+    "score": 60,
+    "passed": true,
+    "certificate_code": "Certificate 020",
+    "completed_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "feedback_score": 1,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-021",
+    "volunteer_id": "VOL-PROFILES-021",
+    "session_id": "VOL-TRAINING_SESSIONS-021",
+    "enrolled_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "attendance_state": "attended 021",
+    "score": 61,
+    "passed": true,
+    "certificate_code": "Certificate 021",
+    "completed_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "feedback_score": 2,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-022",
+    "volunteer_id": "VOL-PROFILES-022",
+    "session_id": "VOL-TRAINING_SESSIONS-022",
+    "enrolled_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "attendance_state": "attended 022",
+    "score": 62,
+    "passed": true,
+    "certificate_code": "Certificate 022",
+    "completed_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "feedback_score": 3,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-023",
+    "volunteer_id": "VOL-PROFILES-023",
+    "session_id": "VOL-TRAINING_SESSIONS-023",
+    "enrolled_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "attendance_state": "attended 023",
+    "score": 63,
+    "passed": true,
+    "certificate_code": "Certificate 023",
+    "completed_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "feedback_score": 4,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-024",
+    "volunteer_id": "VOL-PROFILES-024",
+    "session_id": "VOL-TRAINING_SESSIONS-024",
+    "enrolled_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "attendance_state": "attended 024",
+    "score": 64,
+    "passed": true,
+    "certificate_code": "Certificate 024",
+    "completed_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "feedback_score": 5,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-025",
+    "volunteer_id": "VOL-PROFILES-025",
+    "session_id": "VOL-TRAINING_SESSIONS-025",
+    "enrolled_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "attendance_state": "attended 025",
+    "score": 60,
+    "passed": true,
+    "certificate_code": "Certificate 025",
+    "completed_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "feedback_score": 1,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-026",
+    "volunteer_id": "VOL-PROFILES-026",
+    "session_id": "VOL-TRAINING_SESSIONS-026",
+    "enrolled_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "attendance_state": "attended 026",
+    "score": 61,
+    "passed": true,
+    "certificate_code": "Certificate 026",
+    "completed_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "feedback_score": 2,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-027",
+    "volunteer_id": "VOL-PROFILES-027",
+    "session_id": "VOL-TRAINING_SESSIONS-027",
+    "enrolled_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "attendance_state": "attended 027",
+    "score": 62,
+    "passed": true,
+    "certificate_code": "Certificate 027",
+    "completed_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "feedback_score": 3,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-028",
+    "volunteer_id": "VOL-PROFILES-028",
+    "session_id": "VOL-TRAINING_SESSIONS-028",
+    "enrolled_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "attendance_state": "attended 028",
+    "score": 63,
+    "passed": true,
+    "certificate_code": "Certificate 028",
+    "completed_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "feedback_score": 4,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-029",
+    "volunteer_id": "VOL-PROFILES-029",
+    "session_id": "VOL-TRAINING_SESSIONS-029",
+    "enrolled_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "attendance_state": "attended 029",
+    "score": 64,
+    "passed": true,
+    "certificate_code": "Certificate 029",
+    "completed_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "feedback_score": 5,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-030",
+    "volunteer_id": "VOL-PROFILES-030",
+    "session_id": "VOL-TRAINING_SESSIONS-030",
+    "enrolled_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "attendance_state": "attended 030",
+    "score": 60,
+    "passed": true,
+    "certificate_code": "Certificate 030",
+    "completed_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "feedback_score": 1,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-031",
+    "volunteer_id": "VOL-PROFILES-031",
+    "session_id": "VOL-TRAINING_SESSIONS-031",
+    "enrolled_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "attendance_state": "attended 031",
+    "score": 61,
+    "passed": true,
+    "certificate_code": "Certificate 031",
+    "completed_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "feedback_score": 2,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-032",
+    "volunteer_id": "VOL-PROFILES-032",
+    "session_id": "VOL-TRAINING_SESSIONS-032",
+    "enrolled_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "attendance_state": "attended 032",
+    "score": 62,
+    "passed": true,
+    "certificate_code": "Certificate 032",
+    "completed_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "feedback_score": 3,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-033",
+    "volunteer_id": "VOL-PROFILES-033",
+    "session_id": "VOL-TRAINING_SESSIONS-033",
+    "enrolled_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "attendance_state": "attended 033",
+    "score": 63,
+    "passed": true,
+    "certificate_code": "Certificate 033",
+    "completed_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "feedback_score": 4,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-034",
+    "volunteer_id": "VOL-PROFILES-034",
+    "session_id": "VOL-TRAINING_SESSIONS-034",
+    "enrolled_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "attendance_state": "attended 034",
+    "score": 64,
+    "passed": true,
+    "certificate_code": "Certificate 034",
+    "completed_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "feedback_score": 5,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-035",
+    "volunteer_id": "VOL-PROFILES-035",
+    "session_id": "VOL-TRAINING_SESSIONS-035",
+    "enrolled_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "attendance_state": "attended 035",
+    "score": 60,
+    "passed": true,
+    "certificate_code": "Certificate 035",
+    "completed_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "feedback_score": 1,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-036",
+    "volunteer_id": "VOL-PROFILES-036",
+    "session_id": "VOL-TRAINING_SESSIONS-036",
+    "enrolled_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "attendance_state": "attended 036",
+    "score": 61,
+    "passed": true,
+    "certificate_code": "Certificate 036",
+    "completed_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "feedback_score": 2,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-037",
+    "volunteer_id": "VOL-PROFILES-037",
+    "session_id": "VOL-TRAINING_SESSIONS-037",
+    "enrolled_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "attendance_state": "attended 037",
+    "score": 62,
+    "passed": true,
+    "certificate_code": "Certificate 037",
+    "completed_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "feedback_score": 3,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-038",
+    "volunteer_id": "VOL-PROFILES-038",
+    "session_id": "VOL-TRAINING_SESSIONS-038",
+    "enrolled_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "attendance_state": "attended 038",
+    "score": 63,
+    "passed": true,
+    "certificate_code": "Certificate 038",
+    "completed_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "feedback_score": 4,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-039",
+    "volunteer_id": "VOL-PROFILES-039",
+    "session_id": "VOL-TRAINING_SESSIONS-039",
+    "enrolled_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "attendance_state": "attended 039",
+    "score": 64,
+    "passed": true,
+    "certificate_code": "Certificate 039",
+    "completed_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "feedback_score": 5,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-040",
+    "volunteer_id": "VOL-PROFILES-040",
+    "session_id": "VOL-TRAINING_SESSIONS-040",
+    "enrolled_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "attendance_state": "attended 040",
+    "score": 60,
+    "passed": true,
+    "certificate_code": "Certificate 040",
+    "completed_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "feedback_score": 1,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-041",
+    "volunteer_id": "VOL-PROFILES-041",
+    "session_id": "VOL-TRAINING_SESSIONS-041",
+    "enrolled_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "attendance_state": "attended 041",
+    "score": 61,
+    "passed": true,
+    "certificate_code": "Certificate 041",
+    "completed_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "feedback_score": 2,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-042",
+    "volunteer_id": "VOL-PROFILES-042",
+    "session_id": "VOL-TRAINING_SESSIONS-042",
+    "enrolled_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "attendance_state": "attended 042",
+    "score": 62,
+    "passed": true,
+    "certificate_code": "Certificate 042",
+    "completed_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "feedback_score": 3,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-043",
+    "volunteer_id": "VOL-PROFILES-043",
+    "session_id": "VOL-TRAINING_SESSIONS-043",
+    "enrolled_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "attendance_state": "attended 043",
+    "score": 63,
+    "passed": true,
+    "certificate_code": "Certificate 043",
+    "completed_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "feedback_score": 4,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-044",
+    "volunteer_id": "VOL-PROFILES-044",
+    "session_id": "VOL-TRAINING_SESSIONS-044",
+    "enrolled_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "attendance_state": "attended 044",
+    "score": 64,
+    "passed": true,
+    "certificate_code": "Certificate 044",
+    "completed_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "feedback_score": 5,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-045",
+    "volunteer_id": "VOL-PROFILES-045",
+    "session_id": "VOL-TRAINING_SESSIONS-045",
+    "enrolled_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "attendance_state": "attended 045",
+    "score": 60,
+    "passed": true,
+    "certificate_code": "Certificate 045",
+    "completed_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "feedback_score": 1,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-046",
+    "volunteer_id": "VOL-PROFILES-046",
+    "session_id": "VOL-TRAINING_SESSIONS-046",
+    "enrolled_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "attendance_state": "attended 046",
+    "score": 61,
+    "passed": true,
+    "certificate_code": "Certificate 046",
+    "completed_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "feedback_score": 2,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-047",
+    "volunteer_id": "VOL-PROFILES-047",
+    "session_id": "VOL-TRAINING_SESSIONS-047",
+    "enrolled_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "attendance_state": "attended 047",
+    "score": 62,
+    "passed": true,
+    "certificate_code": "Certificate 047",
+    "completed_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "feedback_score": 3,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-048",
+    "volunteer_id": "VOL-PROFILES-048",
+    "session_id": "VOL-TRAINING_SESSIONS-048",
+    "enrolled_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "attendance_state": "attended 048",
+    "score": 63,
+    "passed": true,
+    "certificate_code": "Certificate 048",
+    "completed_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "feedback_score": 4,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-049",
+    "volunteer_id": "VOL-PROFILES-049",
+    "session_id": "VOL-TRAINING_SESSIONS-049",
+    "enrolled_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "attendance_state": "attended 049",
+    "score": 64,
+    "passed": true,
+    "certificate_code": "Certificate 049",
+    "completed_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "feedback_score": 5,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-TRAINING_ENROLLMENTS-050",
+    "volunteer_id": "VOL-PROFILES-050",
+    "session_id": "VOL-TRAINING_SESSIONS-050",
+    "enrolled_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "attendance_state": "attended 050",
+    "score": 60,
+    "passed": true,
+    "certificate_code": "Certificate 050",
+    "completed_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "feedback_score": 1,
+    "enrollment_state": "completed",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

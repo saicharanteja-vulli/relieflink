@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "SHE-FEEDBACK_CASES-001",
+    "shelter_id": "SHE-SHELTERS-001",
+    "household_id": "SHE-HOUSEHOLDS-001",
+    "submitted_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "low",
+    "description": "Exercise service feedback 001",
+    "case_state": "open",
+    "assigned_to": "Manager 001",
+    "target_resolution": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "channel": "help_desk 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-002",
+    "shelter_id": "SHE-SHELTERS-002",
+    "household_id": "SHE-HOUSEHOLDS-002",
+    "submitted_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "medium",
+    "description": "Exercise service feedback 002",
+    "case_state": "open",
+    "assigned_to": "Manager 002",
+    "target_resolution": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "channel": "help_desk 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-003",
+    "shelter_id": "SHE-SHELTERS-003",
+    "household_id": "SHE-HOUSEHOLDS-003",
+    "submitted_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "low",
+    "description": "Exercise service feedback 003",
+    "case_state": "open",
+    "assigned_to": "Manager 003",
+    "target_resolution": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "channel": "help_desk 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-004",
+    "shelter_id": "SHE-SHELTERS-004",
+    "household_id": "SHE-HOUSEHOLDS-004",
+    "submitted_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "medium",
+    "description": "Exercise service feedback 004",
+    "case_state": "open",
+    "assigned_to": "Manager 004",
+    "target_resolution": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "channel": "help_desk 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-005",
+    "shelter_id": "SHE-SHELTERS-005",
+    "household_id": "SHE-HOUSEHOLDS-005",
+    "submitted_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "low",
+    "description": "Exercise service feedback 005",
+    "case_state": "open",
+    "assigned_to": "Manager 005",
+    "target_resolution": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "channel": "help_desk 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-006",
+    "shelter_id": "SHE-SHELTERS-006",
+    "household_id": "SHE-HOUSEHOLDS-006",
+    "submitted_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "medium",
+    "description": "Exercise service feedback 006",
+    "case_state": "open",
+    "assigned_to": "Manager 006",
+    "target_resolution": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "channel": "help_desk 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-007",
+    "shelter_id": "SHE-SHELTERS-007",
+    "household_id": "SHE-HOUSEHOLDS-007",
+    "submitted_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "low",
+    "description": "Exercise service feedback 007",
+    "case_state": "open",
+    "assigned_to": "Manager 007",
+    "target_resolution": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "channel": "help_desk 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-008",
+    "shelter_id": "SHE-SHELTERS-008",
+    "household_id": "SHE-HOUSEHOLDS-008",
+    "submitted_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "medium",
+    "description": "Exercise service feedback 008",
+    "case_state": "open",
+    "assigned_to": "Manager 008",
+    "target_resolution": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "channel": "help_desk 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-009",
+    "shelter_id": "SHE-SHELTERS-009",
+    "household_id": "SHE-HOUSEHOLDS-009",
+    "submitted_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "low",
+    "description": "Exercise service feedback 009",
+    "case_state": "open",
+    "assigned_to": "Manager 009",
+    "target_resolution": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "channel": "help_desk 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-010",
+    "shelter_id": "SHE-SHELTERS-010",
+    "household_id": "SHE-HOUSEHOLDS-010",
+    "submitted_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "medium",
+    "description": "Exercise service feedback 010",
+    "case_state": "open",
+    "assigned_to": "Manager 010",
+    "target_resolution": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "channel": "help_desk 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-011",
+    "shelter_id": "SHE-SHELTERS-011",
+    "household_id": "SHE-HOUSEHOLDS-011",
+    "submitted_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "low",
+    "description": "Exercise service feedback 011",
+    "case_state": "open",
+    "assigned_to": "Manager 011",
+    "target_resolution": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "channel": "help_desk 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-012",
+    "shelter_id": "SHE-SHELTERS-012",
+    "household_id": "SHE-HOUSEHOLDS-012",
+    "submitted_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "medium",
+    "description": "Exercise service feedback 012",
+    "case_state": "open",
+    "assigned_to": "Manager 012",
+    "target_resolution": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "channel": "help_desk 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-013",
+    "shelter_id": "SHE-SHELTERS-013",
+    "household_id": "SHE-HOUSEHOLDS-013",
+    "submitted_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "low",
+    "description": "Exercise service feedback 013",
+    "case_state": "open",
+    "assigned_to": "Manager 013",
+    "target_resolution": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "channel": "help_desk 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-014",
+    "shelter_id": "SHE-SHELTERS-014",
+    "household_id": "SHE-HOUSEHOLDS-014",
+    "submitted_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "medium",
+    "description": "Exercise service feedback 014",
+    "case_state": "open",
+    "assigned_to": "Manager 014",
+    "target_resolution": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "channel": "help_desk 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-015",
+    "shelter_id": "SHE-SHELTERS-015",
+    "household_id": "SHE-HOUSEHOLDS-015",
+    "submitted_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "low",
+    "description": "Exercise service feedback 015",
+    "case_state": "open",
+    "assigned_to": "Manager 015",
+    "target_resolution": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "channel": "help_desk 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-016",
+    "shelter_id": "SHE-SHELTERS-016",
+    "household_id": "SHE-HOUSEHOLDS-016",
+    "submitted_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "medium",
+    "description": "Exercise service feedback 016",
+    "case_state": "open",
+    "assigned_to": "Manager 016",
+    "target_resolution": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "channel": "help_desk 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-017",
+    "shelter_id": "SHE-SHELTERS-017",
+    "household_id": "SHE-HOUSEHOLDS-017",
+    "submitted_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "low",
+    "description": "Exercise service feedback 017",
+    "case_state": "open",
+    "assigned_to": "Manager 017",
+    "target_resolution": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "channel": "help_desk 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-018",
+    "shelter_id": "SHE-SHELTERS-018",
+    "household_id": "SHE-HOUSEHOLDS-018",
+    "submitted_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "medium",
+    "description": "Exercise service feedback 018",
+    "case_state": "open",
+    "assigned_to": "Manager 018",
+    "target_resolution": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "channel": "help_desk 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-019",
+    "shelter_id": "SHE-SHELTERS-019",
+    "household_id": "SHE-HOUSEHOLDS-019",
+    "submitted_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "low",
+    "description": "Exercise service feedback 019",
+    "case_state": "open",
+    "assigned_to": "Manager 019",
+    "target_resolution": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "channel": "help_desk 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-020",
+    "shelter_id": "SHE-SHELTERS-020",
+    "household_id": "SHE-HOUSEHOLDS-020",
+    "submitted_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "medium",
+    "description": "Exercise service feedback 020",
+    "case_state": "open",
+    "assigned_to": "Manager 020",
+    "target_resolution": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "channel": "help_desk 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-021",
+    "shelter_id": "SHE-SHELTERS-021",
+    "household_id": "SHE-HOUSEHOLDS-021",
+    "submitted_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "low",
+    "description": "Exercise service feedback 021",
+    "case_state": "open",
+    "assigned_to": "Manager 021",
+    "target_resolution": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "channel": "help_desk 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-022",
+    "shelter_id": "SHE-SHELTERS-022",
+    "household_id": "SHE-HOUSEHOLDS-022",
+    "submitted_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "medium",
+    "description": "Exercise service feedback 022",
+    "case_state": "open",
+    "assigned_to": "Manager 022",
+    "target_resolution": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "channel": "help_desk 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-023",
+    "shelter_id": "SHE-SHELTERS-023",
+    "household_id": "SHE-HOUSEHOLDS-023",
+    "submitted_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "low",
+    "description": "Exercise service feedback 023",
+    "case_state": "open",
+    "assigned_to": "Manager 023",
+    "target_resolution": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "channel": "help_desk 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-024",
+    "shelter_id": "SHE-SHELTERS-024",
+    "household_id": "SHE-HOUSEHOLDS-024",
+    "submitted_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "medium",
+    "description": "Exercise service feedback 024",
+    "case_state": "open",
+    "assigned_to": "Manager 024",
+    "target_resolution": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "channel": "help_desk 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-025",
+    "shelter_id": "SHE-SHELTERS-025",
+    "household_id": "SHE-HOUSEHOLDS-025",
+    "submitted_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "low",
+    "description": "Exercise service feedback 025",
+    "case_state": "open",
+    "assigned_to": "Manager 025",
+    "target_resolution": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "channel": "help_desk 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-026",
+    "shelter_id": "SHE-SHELTERS-026",
+    "household_id": "SHE-HOUSEHOLDS-026",
+    "submitted_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "medium",
+    "description": "Exercise service feedback 026",
+    "case_state": "open",
+    "assigned_to": "Manager 026",
+    "target_resolution": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "channel": "help_desk 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-027",
+    "shelter_id": "SHE-SHELTERS-027",
+    "household_id": "SHE-HOUSEHOLDS-027",
+    "submitted_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "low",
+    "description": "Exercise service feedback 027",
+    "case_state": "open",
+    "assigned_to": "Manager 027",
+    "target_resolution": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "channel": "help_desk 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-028",
+    "shelter_id": "SHE-SHELTERS-028",
+    "household_id": "SHE-HOUSEHOLDS-028",
+    "submitted_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "medium",
+    "description": "Exercise service feedback 028",
+    "case_state": "open",
+    "assigned_to": "Manager 028",
+    "target_resolution": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "channel": "help_desk 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-029",
+    "shelter_id": "SHE-SHELTERS-029",
+    "household_id": "SHE-HOUSEHOLDS-029",
+    "submitted_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "low",
+    "description": "Exercise service feedback 029",
+    "case_state": "open",
+    "assigned_to": "Manager 029",
+    "target_resolution": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "channel": "help_desk 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-030",
+    "shelter_id": "SHE-SHELTERS-030",
+    "household_id": "SHE-HOUSEHOLDS-030",
+    "submitted_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "medium",
+    "description": "Exercise service feedback 030",
+    "case_state": "open",
+    "assigned_to": "Manager 030",
+    "target_resolution": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "channel": "help_desk 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-031",
+    "shelter_id": "SHE-SHELTERS-031",
+    "household_id": "SHE-HOUSEHOLDS-031",
+    "submitted_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "low",
+    "description": "Exercise service feedback 031",
+    "case_state": "open",
+    "assigned_to": "Manager 031",
+    "target_resolution": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "channel": "help_desk 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-032",
+    "shelter_id": "SHE-SHELTERS-032",
+    "household_id": "SHE-HOUSEHOLDS-032",
+    "submitted_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "medium",
+    "description": "Exercise service feedback 032",
+    "case_state": "open",
+    "assigned_to": "Manager 032",
+    "target_resolution": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "channel": "help_desk 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-033",
+    "shelter_id": "SHE-SHELTERS-033",
+    "household_id": "SHE-HOUSEHOLDS-033",
+    "submitted_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "low",
+    "description": "Exercise service feedback 033",
+    "case_state": "open",
+    "assigned_to": "Manager 033",
+    "target_resolution": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "channel": "help_desk 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-034",
+    "shelter_id": "SHE-SHELTERS-034",
+    "household_id": "SHE-HOUSEHOLDS-034",
+    "submitted_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "medium",
+    "description": "Exercise service feedback 034",
+    "case_state": "open",
+    "assigned_to": "Manager 034",
+    "target_resolution": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "channel": "help_desk 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-035",
+    "shelter_id": "SHE-SHELTERS-035",
+    "household_id": "SHE-HOUSEHOLDS-035",
+    "submitted_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "low",
+    "description": "Exercise service feedback 035",
+    "case_state": "open",
+    "assigned_to": "Manager 035",
+    "target_resolution": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "channel": "help_desk 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-036",
+    "shelter_id": "SHE-SHELTERS-036",
+    "household_id": "SHE-HOUSEHOLDS-036",
+    "submitted_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "medium",
+    "description": "Exercise service feedback 036",
+    "case_state": "open",
+    "assigned_to": "Manager 036",
+    "target_resolution": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "channel": "help_desk 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-037",
+    "shelter_id": "SHE-SHELTERS-037",
+    "household_id": "SHE-HOUSEHOLDS-037",
+    "submitted_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "low",
+    "description": "Exercise service feedback 037",
+    "case_state": "open",
+    "assigned_to": "Manager 037",
+    "target_resolution": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "channel": "help_desk 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-038",
+    "shelter_id": "SHE-SHELTERS-038",
+    "household_id": "SHE-HOUSEHOLDS-038",
+    "submitted_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "medium",
+    "description": "Exercise service feedback 038",
+    "case_state": "open",
+    "assigned_to": "Manager 038",
+    "target_resolution": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "channel": "help_desk 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-039",
+    "shelter_id": "SHE-SHELTERS-039",
+    "household_id": "SHE-HOUSEHOLDS-039",
+    "submitted_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "low",
+    "description": "Exercise service feedback 039",
+    "case_state": "open",
+    "assigned_to": "Manager 039",
+    "target_resolution": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "channel": "help_desk 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-040",
+    "shelter_id": "SHE-SHELTERS-040",
+    "household_id": "SHE-HOUSEHOLDS-040",
+    "submitted_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "medium",
+    "description": "Exercise service feedback 040",
+    "case_state": "open",
+    "assigned_to": "Manager 040",
+    "target_resolution": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "channel": "help_desk 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-041",
+    "shelter_id": "SHE-SHELTERS-041",
+    "household_id": "SHE-HOUSEHOLDS-041",
+    "submitted_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "low",
+    "description": "Exercise service feedback 041",
+    "case_state": "open",
+    "assigned_to": "Manager 041",
+    "target_resolution": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "channel": "help_desk 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-042",
+    "shelter_id": "SHE-SHELTERS-042",
+    "household_id": "SHE-HOUSEHOLDS-042",
+    "submitted_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "medium",
+    "description": "Exercise service feedback 042",
+    "case_state": "open",
+    "assigned_to": "Manager 042",
+    "target_resolution": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "channel": "help_desk 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-043",
+    "shelter_id": "SHE-SHELTERS-043",
+    "household_id": "SHE-HOUSEHOLDS-043",
+    "submitted_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "low",
+    "description": "Exercise service feedback 043",
+    "case_state": "open",
+    "assigned_to": "Manager 043",
+    "target_resolution": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "channel": "help_desk 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-044",
+    "shelter_id": "SHE-SHELTERS-044",
+    "household_id": "SHE-HOUSEHOLDS-044",
+    "submitted_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "medium",
+    "description": "Exercise service feedback 044",
+    "case_state": "open",
+    "assigned_to": "Manager 044",
+    "target_resolution": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "channel": "help_desk 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-045",
+    "shelter_id": "SHE-SHELTERS-045",
+    "household_id": "SHE-HOUSEHOLDS-045",
+    "submitted_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "low",
+    "description": "Exercise service feedback 045",
+    "case_state": "open",
+    "assigned_to": "Manager 045",
+    "target_resolution": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "channel": "help_desk 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-046",
+    "shelter_id": "SHE-SHELTERS-046",
+    "household_id": "SHE-HOUSEHOLDS-046",
+    "submitted_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "medium",
+    "description": "Exercise service feedback 046",
+    "case_state": "open",
+    "assigned_to": "Manager 046",
+    "target_resolution": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "channel": "help_desk 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-047",
+    "shelter_id": "SHE-SHELTERS-047",
+    "household_id": "SHE-HOUSEHOLDS-047",
+    "submitted_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "low",
+    "description": "Exercise service feedback 047",
+    "case_state": "open",
+    "assigned_to": "Manager 047",
+    "target_resolution": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "channel": "help_desk 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-048",
+    "shelter_id": "SHE-SHELTERS-048",
+    "household_id": "SHE-HOUSEHOLDS-048",
+    "submitted_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "category": "bedding",
+    "priority": "medium",
+    "description": "Exercise service feedback 048",
+    "case_state": "open",
+    "assigned_to": "Manager 048",
+    "target_resolution": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "channel": "help_desk 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-049",
+    "shelter_id": "SHE-SHELTERS-049",
+    "household_id": "SHE-HOUSEHOLDS-049",
+    "submitted_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "category": "food",
+    "priority": "low",
+    "description": "Exercise service feedback 049",
+    "case_state": "open",
+    "assigned_to": "Manager 049",
+    "target_resolution": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "channel": "help_desk 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-FEEDBACK_CASES-050",
+    "shelter_id": "SHE-SHELTERS-050",
+    "household_id": "SHE-HOUSEHOLDS-050",
+    "submitted_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "category": "water",
+    "priority": "medium",
+    "description": "Exercise service feedback 050",
+    "case_state": "open",
+    "assigned_to": "Manager 050",
+    "target_resolution": {
+      "$date": "2026-06-06T00:00:00Z"
+    },
+    "channel": "help_desk 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

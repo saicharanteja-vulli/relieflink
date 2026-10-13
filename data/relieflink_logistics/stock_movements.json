@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-001",
+    "batch_id": "LOG-STOCK_BATCHES-001",
+    "shipment_id": "LOG-SHIPMENTS-001",
+    "movement_type": "outbound",
+    "quantity": 21,
+    "moved_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "authorized_by": "Store manager 001",
+    "handled_by": "Store assistant 001",
+    "source_bin": "Bin 001",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-002",
+    "batch_id": "LOG-STOCK_BATCHES-002",
+    "shipment_id": "LOG-SHIPMENTS-002",
+    "movement_type": "outbound",
+    "quantity": 22,
+    "moved_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "authorized_by": "Store manager 002",
+    "handled_by": "Store assistant 002",
+    "source_bin": "Bin 002",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-003",
+    "batch_id": "LOG-STOCK_BATCHES-003",
+    "shipment_id": "LOG-SHIPMENTS-003",
+    "movement_type": "outbound",
+    "quantity": 23,
+    "moved_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "authorized_by": "Store manager 003",
+    "handled_by": "Store assistant 003",
+    "source_bin": "Bin 003",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-004",
+    "batch_id": "LOG-STOCK_BATCHES-004",
+    "shipment_id": "LOG-SHIPMENTS-004",
+    "movement_type": "outbound",
+    "quantity": 24,
+    "moved_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "authorized_by": "Store manager 004",
+    "handled_by": "Store assistant 004",
+    "source_bin": "Bin 004",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-005",
+    "batch_id": "LOG-STOCK_BATCHES-005",
+    "shipment_id": "LOG-SHIPMENTS-005",
+    "movement_type": "outbound",
+    "quantity": 20,
+    "moved_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "authorized_by": "Store manager 005",
+    "handled_by": "Store assistant 005",
+    "source_bin": "Bin 005",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-006",
+    "batch_id": "LOG-STOCK_BATCHES-006",
+    "shipment_id": "LOG-SHIPMENTS-006",
+    "movement_type": "outbound",
+    "quantity": 21,
+    "moved_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "authorized_by": "Store manager 006",
+    "handled_by": "Store assistant 006",
+    "source_bin": "Bin 006",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-007",
+    "batch_id": "LOG-STOCK_BATCHES-007",
+    "shipment_id": "LOG-SHIPMENTS-007",
+    "movement_type": "outbound",
+    "quantity": 22,
+    "moved_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "authorized_by": "Store manager 007",
+    "handled_by": "Store assistant 007",
+    "source_bin": "Bin 007",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-008",
+    "batch_id": "LOG-STOCK_BATCHES-008",
+    "shipment_id": "LOG-SHIPMENTS-008",
+    "movement_type": "outbound",
+    "quantity": 23,
+    "moved_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "authorized_by": "Store manager 008",
+    "handled_by": "Store assistant 008",
+    "source_bin": "Bin 008",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-009",
+    "batch_id": "LOG-STOCK_BATCHES-009",
+    "shipment_id": "LOG-SHIPMENTS-009",
+    "movement_type": "outbound",
+    "quantity": 24,
+    "moved_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "authorized_by": "Store manager 009",
+    "handled_by": "Store assistant 009",
+    "source_bin": "Bin 009",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-010",
+    "batch_id": "LOG-STOCK_BATCHES-010",
+    "shipment_id": "LOG-SHIPMENTS-010",
+    "movement_type": "outbound",
+    "quantity": 20,
+    "moved_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "authorized_by": "Store manager 010",
+    "handled_by": "Store assistant 010",
+    "source_bin": "Bin 010",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-011",
+    "batch_id": "LOG-STOCK_BATCHES-011",
+    "shipment_id": "LOG-SHIPMENTS-011",
+    "movement_type": "outbound",
+    "quantity": 21,
+    "moved_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "authorized_by": "Store manager 011",
+    "handled_by": "Store assistant 011",
+    "source_bin": "Bin 011",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-012",
+    "batch_id": "LOG-STOCK_BATCHES-012",
+    "shipment_id": "LOG-SHIPMENTS-012",
+    "movement_type": "outbound",
+    "quantity": 22,
+    "moved_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "authorized_by": "Store manager 012",
+    "handled_by": "Store assistant 012",
+    "source_bin": "Bin 012",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-013",
+    "batch_id": "LOG-STOCK_BATCHES-013",
+    "shipment_id": "LOG-SHIPMENTS-013",
+    "movement_type": "outbound",
+    "quantity": 23,
+    "moved_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "authorized_by": "Store manager 013",
+    "handled_by": "Store assistant 013",
+    "source_bin": "Bin 013",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-014",
+    "batch_id": "LOG-STOCK_BATCHES-014",
+    "shipment_id": "LOG-SHIPMENTS-014",
+    "movement_type": "outbound",
+    "quantity": 24,
+    "moved_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "authorized_by": "Store manager 014",
+    "handled_by": "Store assistant 014",
+    "source_bin": "Bin 014",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-015",
+    "batch_id": "LOG-STOCK_BATCHES-015",
+    "shipment_id": "LOG-SHIPMENTS-015",
+    "movement_type": "outbound",
+    "quantity": 20,
+    "moved_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "authorized_by": "Store manager 015",
+    "handled_by": "Store assistant 015",
+    "source_bin": "Bin 015",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-016",
+    "batch_id": "LOG-STOCK_BATCHES-016",
+    "shipment_id": "LOG-SHIPMENTS-016",
+    "movement_type": "outbound",
+    "quantity": 21,
+    "moved_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "authorized_by": "Store manager 016",
+    "handled_by": "Store assistant 016",
+    "source_bin": "Bin 016",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-017",
+    "batch_id": "LOG-STOCK_BATCHES-017",
+    "shipment_id": "LOG-SHIPMENTS-017",
+    "movement_type": "outbound",
+    "quantity": 22,
+    "moved_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "authorized_by": "Store manager 017",
+    "handled_by": "Store assistant 017",
+    "source_bin": "Bin 017",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-018",
+    "batch_id": "LOG-STOCK_BATCHES-018",
+    "shipment_id": "LOG-SHIPMENTS-018",
+    "movement_type": "outbound",
+    "quantity": 23,
+    "moved_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "authorized_by": "Store manager 018",
+    "handled_by": "Store assistant 018",
+    "source_bin": "Bin 018",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-019",
+    "batch_id": "LOG-STOCK_BATCHES-019",
+    "shipment_id": "LOG-SHIPMENTS-019",
+    "movement_type": "outbound",
+    "quantity": 24,
+    "moved_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "authorized_by": "Store manager 019",
+    "handled_by": "Store assistant 019",
+    "source_bin": "Bin 019",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-020",
+    "batch_id": "LOG-STOCK_BATCHES-020",
+    "shipment_id": "LOG-SHIPMENTS-020",
+    "movement_type": "outbound",
+    "quantity": 20,
+    "moved_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "authorized_by": "Store manager 020",
+    "handled_by": "Store assistant 020",
+    "source_bin": "Bin 020",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-021",
+    "batch_id": "LOG-STOCK_BATCHES-021",
+    "shipment_id": "LOG-SHIPMENTS-021",
+    "movement_type": "outbound",
+    "quantity": 21,
+    "moved_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "authorized_by": "Store manager 021",
+    "handled_by": "Store assistant 021",
+    "source_bin": "Bin 021",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-022",
+    "batch_id": "LOG-STOCK_BATCHES-022",
+    "shipment_id": "LOG-SHIPMENTS-022",
+    "movement_type": "outbound",
+    "quantity": 22,
+    "moved_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "authorized_by": "Store manager 022",
+    "handled_by": "Store assistant 022",
+    "source_bin": "Bin 022",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-023",
+    "batch_id": "LOG-STOCK_BATCHES-023",
+    "shipment_id": "LOG-SHIPMENTS-023",
+    "movement_type": "outbound",
+    "quantity": 23,
+    "moved_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "authorized_by": "Store manager 023",
+    "handled_by": "Store assistant 023",
+    "source_bin": "Bin 023",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-024",
+    "batch_id": "LOG-STOCK_BATCHES-024",
+    "shipment_id": "LOG-SHIPMENTS-024",
+    "movement_type": "outbound",
+    "quantity": 24,
+    "moved_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "authorized_by": "Store manager 024",
+    "handled_by": "Store assistant 024",
+    "source_bin": "Bin 024",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-025",
+    "batch_id": "LOG-STOCK_BATCHES-025",
+    "shipment_id": "LOG-SHIPMENTS-025",
+    "movement_type": "outbound",
+    "quantity": 20,
+    "moved_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "authorized_by": "Store manager 025",
+    "handled_by": "Store assistant 025",
+    "source_bin": "Bin 025",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-026",
+    "batch_id": "LOG-STOCK_BATCHES-026",
+    "shipment_id": "LOG-SHIPMENTS-026",
+    "movement_type": "outbound",
+    "quantity": 21,
+    "moved_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "authorized_by": "Store manager 026",
+    "handled_by": "Store assistant 026",
+    "source_bin": "Bin 026",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-027",
+    "batch_id": "LOG-STOCK_BATCHES-027",
+    "shipment_id": "LOG-SHIPMENTS-027",
+    "movement_type": "outbound",
+    "quantity": 22,
+    "moved_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "authorized_by": "Store manager 027",
+    "handled_by": "Store assistant 027",
+    "source_bin": "Bin 027",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-028",
+    "batch_id": "LOG-STOCK_BATCHES-028",
+    "shipment_id": "LOG-SHIPMENTS-028",
+    "movement_type": "outbound",
+    "quantity": 23,
+    "moved_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "authorized_by": "Store manager 028",
+    "handled_by": "Store assistant 028",
+    "source_bin": "Bin 028",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-029",
+    "batch_id": "LOG-STOCK_BATCHES-029",
+    "shipment_id": "LOG-SHIPMENTS-029",
+    "movement_type": "outbound",
+    "quantity": 24,
+    "moved_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "authorized_by": "Store manager 029",
+    "handled_by": "Store assistant 029",
+    "source_bin": "Bin 029",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-030",
+    "batch_id": "LOG-STOCK_BATCHES-030",
+    "shipment_id": "LOG-SHIPMENTS-030",
+    "movement_type": "outbound",
+    "quantity": 20,
+    "moved_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "authorized_by": "Store manager 030",
+    "handled_by": "Store assistant 030",
+    "source_bin": "Bin 030",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-031",
+    "batch_id": "LOG-STOCK_BATCHES-031",
+    "shipment_id": "LOG-SHIPMENTS-031",
+    "movement_type": "outbound",
+    "quantity": 21,
+    "moved_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "authorized_by": "Store manager 031",
+    "handled_by": "Store assistant 031",
+    "source_bin": "Bin 031",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-032",
+    "batch_id": "LOG-STOCK_BATCHES-032",
+    "shipment_id": "LOG-SHIPMENTS-032",
+    "movement_type": "outbound",
+    "quantity": 22,
+    "moved_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "authorized_by": "Store manager 032",
+    "handled_by": "Store assistant 032",
+    "source_bin": "Bin 032",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-033",
+    "batch_id": "LOG-STOCK_BATCHES-033",
+    "shipment_id": "LOG-SHIPMENTS-033",
+    "movement_type": "outbound",
+    "quantity": 23,
+    "moved_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "authorized_by": "Store manager 033",
+    "handled_by": "Store assistant 033",
+    "source_bin": "Bin 033",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-034",
+    "batch_id": "LOG-STOCK_BATCHES-034",
+    "shipment_id": "LOG-SHIPMENTS-034",
+    "movement_type": "outbound",
+    "quantity": 24,
+    "moved_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "authorized_by": "Store manager 034",
+    "handled_by": "Store assistant 034",
+    "source_bin": "Bin 034",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-035",
+    "batch_id": "LOG-STOCK_BATCHES-035",
+    "shipment_id": "LOG-SHIPMENTS-035",
+    "movement_type": "outbound",
+    "quantity": 20,
+    "moved_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "authorized_by": "Store manager 035",
+    "handled_by": "Store assistant 035",
+    "source_bin": "Bin 035",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-036",
+    "batch_id": "LOG-STOCK_BATCHES-036",
+    "shipment_id": "LOG-SHIPMENTS-036",
+    "movement_type": "outbound",
+    "quantity": 21,
+    "moved_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "authorized_by": "Store manager 036",
+    "handled_by": "Store assistant 036",
+    "source_bin": "Bin 036",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-037",
+    "batch_id": "LOG-STOCK_BATCHES-037",
+    "shipment_id": "LOG-SHIPMENTS-037",
+    "movement_type": "outbound",
+    "quantity": 22,
+    "moved_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "authorized_by": "Store manager 037",
+    "handled_by": "Store assistant 037",
+    "source_bin": "Bin 037",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-038",
+    "batch_id": "LOG-STOCK_BATCHES-038",
+    "shipment_id": "LOG-SHIPMENTS-038",
+    "movement_type": "outbound",
+    "quantity": 23,
+    "moved_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "authorized_by": "Store manager 038",
+    "handled_by": "Store assistant 038",
+    "source_bin": "Bin 038",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-039",
+    "batch_id": "LOG-STOCK_BATCHES-039",
+    "shipment_id": "LOG-SHIPMENTS-039",
+    "movement_type": "outbound",
+    "quantity": 24,
+    "moved_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "authorized_by": "Store manager 039",
+    "handled_by": "Store assistant 039",
+    "source_bin": "Bin 039",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-040",
+    "batch_id": "LOG-STOCK_BATCHES-040",
+    "shipment_id": "LOG-SHIPMENTS-040",
+    "movement_type": "outbound",
+    "quantity": 20,
+    "moved_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "authorized_by": "Store manager 040",
+    "handled_by": "Store assistant 040",
+    "source_bin": "Bin 040",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-041",
+    "batch_id": "LOG-STOCK_BATCHES-041",
+    "shipment_id": "LOG-SHIPMENTS-041",
+    "movement_type": "outbound",
+    "quantity": 21,
+    "moved_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "authorized_by": "Store manager 041",
+    "handled_by": "Store assistant 041",
+    "source_bin": "Bin 041",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-042",
+    "batch_id": "LOG-STOCK_BATCHES-042",
+    "shipment_id": "LOG-SHIPMENTS-042",
+    "movement_type": "outbound",
+    "quantity": 22,
+    "moved_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "authorized_by": "Store manager 042",
+    "handled_by": "Store assistant 042",
+    "source_bin": "Bin 042",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-043",
+    "batch_id": "LOG-STOCK_BATCHES-043",
+    "shipment_id": "LOG-SHIPMENTS-043",
+    "movement_type": "outbound",
+    "quantity": 23,
+    "moved_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "authorized_by": "Store manager 043",
+    "handled_by": "Store assistant 043",
+    "source_bin": "Bin 043",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-044",
+    "batch_id": "LOG-STOCK_BATCHES-044",
+    "shipment_id": "LOG-SHIPMENTS-044",
+    "movement_type": "outbound",
+    "quantity": 24,
+    "moved_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "authorized_by": "Store manager 044",
+    "handled_by": "Store assistant 044",
+    "source_bin": "Bin 044",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-045",
+    "batch_id": "LOG-STOCK_BATCHES-045",
+    "shipment_id": "LOG-SHIPMENTS-045",
+    "movement_type": "outbound",
+    "quantity": 20,
+    "moved_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "authorized_by": "Store manager 045",
+    "handled_by": "Store assistant 045",
+    "source_bin": "Bin 045",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-046",
+    "batch_id": "LOG-STOCK_BATCHES-046",
+    "shipment_id": "LOG-SHIPMENTS-046",
+    "movement_type": "outbound",
+    "quantity": 21,
+    "moved_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "authorized_by": "Store manager 046",
+    "handled_by": "Store assistant 046",
+    "source_bin": "Bin 046",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-047",
+    "batch_id": "LOG-STOCK_BATCHES-047",
+    "shipment_id": "LOG-SHIPMENTS-047",
+    "movement_type": "outbound",
+    "quantity": 22,
+    "moved_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "authorized_by": "Store manager 047",
+    "handled_by": "Store assistant 047",
+    "source_bin": "Bin 047",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-048",
+    "batch_id": "LOG-STOCK_BATCHES-048",
+    "shipment_id": "LOG-SHIPMENTS-048",
+    "movement_type": "outbound",
+    "quantity": 23,
+    "moved_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "authorized_by": "Store manager 048",
+    "handled_by": "Store assistant 048",
+    "source_bin": "Bin 048",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-049",
+    "batch_id": "LOG-STOCK_BATCHES-049",
+    "shipment_id": "LOG-SHIPMENTS-049",
+    "movement_type": "outbound",
+    "quantity": 24,
+    "moved_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "authorized_by": "Store manager 049",
+    "handled_by": "Store assistant 049",
+    "source_bin": "Bin 049",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_MOVEMENTS-050",
+    "batch_id": "LOG-STOCK_BATCHES-050",
+    "shipment_id": "LOG-SHIPMENTS-050",
+    "movement_type": "outbound",
+    "quantity": 20,
+    "moved_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "authorized_by": "Store manager 050",
+    "handled_by": "Store assistant 050",
+    "source_bin": "Bin 050",
+    "destination_type": "shelter",
+    "movement_state": "posted",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

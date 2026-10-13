@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "VOL-ATTENDANCE-001",
+    "volunteer_id": "VOL-PROFILES-001",
+    "assignment_id": "VOL-ASSIGNMENTS-001",
+    "check_in": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 001",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-002",
+    "volunteer_id": "VOL-PROFILES-002",
+    "assignment_id": "VOL-ASSIGNMENTS-002",
+    "check_in": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 002",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-003",
+    "volunteer_id": "VOL-PROFILES-003",
+    "assignment_id": "VOL-ASSIGNMENTS-003",
+    "check_in": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 003",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-004",
+    "volunteer_id": "VOL-PROFILES-004",
+    "assignment_id": "VOL-ASSIGNMENTS-004",
+    "check_in": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 004",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-005",
+    "volunteer_id": "VOL-PROFILES-005",
+    "assignment_id": "VOL-ASSIGNMENTS-005",
+    "check_in": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 005",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-006",
+    "volunteer_id": "VOL-PROFILES-006",
+    "assignment_id": "VOL-ASSIGNMENTS-006",
+    "check_in": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 006",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-007",
+    "volunteer_id": "VOL-PROFILES-007",
+    "assignment_id": "VOL-ASSIGNMENTS-007",
+    "check_in": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 007",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-008",
+    "volunteer_id": "VOL-PROFILES-008",
+    "assignment_id": "VOL-ASSIGNMENTS-008",
+    "check_in": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 008",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-009",
+    "volunteer_id": "VOL-PROFILES-009",
+    "assignment_id": "VOL-ASSIGNMENTS-009",
+    "check_in": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 009",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-010",
+    "volunteer_id": "VOL-PROFILES-010",
+    "assignment_id": "VOL-ASSIGNMENTS-010",
+    "check_in": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 010",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-011",
+    "volunteer_id": "VOL-PROFILES-011",
+    "assignment_id": "VOL-ASSIGNMENTS-011",
+    "check_in": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 011",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-012",
+    "volunteer_id": "VOL-PROFILES-012",
+    "assignment_id": "VOL-ASSIGNMENTS-012",
+    "check_in": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 012",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-013",
+    "volunteer_id": "VOL-PROFILES-013",
+    "assignment_id": "VOL-ASSIGNMENTS-013",
+    "check_in": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 013",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-014",
+    "volunteer_id": "VOL-PROFILES-014",
+    "assignment_id": "VOL-ASSIGNMENTS-014",
+    "check_in": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 014",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-015",
+    "volunteer_id": "VOL-PROFILES-015",
+    "assignment_id": "VOL-ASSIGNMENTS-015",
+    "check_in": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 015",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-016",
+    "volunteer_id": "VOL-PROFILES-016",
+    "assignment_id": "VOL-ASSIGNMENTS-016",
+    "check_in": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 016",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-017",
+    "volunteer_id": "VOL-PROFILES-017",
+    "assignment_id": "VOL-ASSIGNMENTS-017",
+    "check_in": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 017",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-018",
+    "volunteer_id": "VOL-PROFILES-018",
+    "assignment_id": "VOL-ASSIGNMENTS-018",
+    "check_in": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 018",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-019",
+    "volunteer_id": "VOL-PROFILES-019",
+    "assignment_id": "VOL-ASSIGNMENTS-019",
+    "check_in": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 019",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-020",
+    "volunteer_id": "VOL-PROFILES-020",
+    "assignment_id": "VOL-ASSIGNMENTS-020",
+    "check_in": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 020",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-021",
+    "volunteer_id": "VOL-PROFILES-021",
+    "assignment_id": "VOL-ASSIGNMENTS-021",
+    "check_in": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 021",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-022",
+    "volunteer_id": "VOL-PROFILES-022",
+    "assignment_id": "VOL-ASSIGNMENTS-022",
+    "check_in": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 022",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-023",
+    "volunteer_id": "VOL-PROFILES-023",
+    "assignment_id": "VOL-ASSIGNMENTS-023",
+    "check_in": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 023",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-024",
+    "volunteer_id": "VOL-PROFILES-024",
+    "assignment_id": "VOL-ASSIGNMENTS-024",
+    "check_in": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 024",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-025",
+    "volunteer_id": "VOL-PROFILES-025",
+    "assignment_id": "VOL-ASSIGNMENTS-025",
+    "check_in": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 025",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-026",
+    "volunteer_id": "VOL-PROFILES-026",
+    "assignment_id": "VOL-ASSIGNMENTS-026",
+    "check_in": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 026",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-027",
+    "volunteer_id": "VOL-PROFILES-027",
+    "assignment_id": "VOL-ASSIGNMENTS-027",
+    "check_in": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 027",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-028",
+    "volunteer_id": "VOL-PROFILES-028",
+    "assignment_id": "VOL-ASSIGNMENTS-028",
+    "check_in": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 028",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-029",
+    "volunteer_id": "VOL-PROFILES-029",
+    "assignment_id": "VOL-ASSIGNMENTS-029",
+    "check_in": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 029",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-030",
+    "volunteer_id": "VOL-PROFILES-030",
+    "assignment_id": "VOL-ASSIGNMENTS-030",
+    "check_in": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 030",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-031",
+    "volunteer_id": "VOL-PROFILES-031",
+    "assignment_id": "VOL-ASSIGNMENTS-031",
+    "check_in": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 031",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-032",
+    "volunteer_id": "VOL-PROFILES-032",
+    "assignment_id": "VOL-ASSIGNMENTS-032",
+    "check_in": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 032",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-033",
+    "volunteer_id": "VOL-PROFILES-033",
+    "assignment_id": "VOL-ASSIGNMENTS-033",
+    "check_in": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 033",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-034",
+    "volunteer_id": "VOL-PROFILES-034",
+    "assignment_id": "VOL-ASSIGNMENTS-034",
+    "check_in": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 034",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-035",
+    "volunteer_id": "VOL-PROFILES-035",
+    "assignment_id": "VOL-ASSIGNMENTS-035",
+    "check_in": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 035",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-036",
+    "volunteer_id": "VOL-PROFILES-036",
+    "assignment_id": "VOL-ASSIGNMENTS-036",
+    "check_in": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 036",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-037",
+    "volunteer_id": "VOL-PROFILES-037",
+    "assignment_id": "VOL-ASSIGNMENTS-037",
+    "check_in": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 037",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-038",
+    "volunteer_id": "VOL-PROFILES-038",
+    "assignment_id": "VOL-ASSIGNMENTS-038",
+    "check_in": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 038",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-039",
+    "volunteer_id": "VOL-PROFILES-039",
+    "assignment_id": "VOL-ASSIGNMENTS-039",
+    "check_in": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 039",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-040",
+    "volunteer_id": "VOL-PROFILES-040",
+    "assignment_id": "VOL-ASSIGNMENTS-040",
+    "check_in": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 040",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-041",
+    "volunteer_id": "VOL-PROFILES-041",
+    "assignment_id": "VOL-ASSIGNMENTS-041",
+    "check_in": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 041",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-042",
+    "volunteer_id": "VOL-PROFILES-042",
+    "assignment_id": "VOL-ASSIGNMENTS-042",
+    "check_in": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 042",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-043",
+    "volunteer_id": "VOL-PROFILES-043",
+    "assignment_id": "VOL-ASSIGNMENTS-043",
+    "check_in": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 043",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-044",
+    "volunteer_id": "VOL-PROFILES-044",
+    "assignment_id": "VOL-ASSIGNMENTS-044",
+    "check_in": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 044",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-045",
+    "volunteer_id": "VOL-PROFILES-045",
+    "assignment_id": "VOL-ASSIGNMENTS-045",
+    "check_in": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 045",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-046",
+    "volunteer_id": "VOL-PROFILES-046",
+    "assignment_id": "VOL-ASSIGNMENTS-046",
+    "check_in": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 046",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-047",
+    "volunteer_id": "VOL-PROFILES-047",
+    "assignment_id": "VOL-ASSIGNMENTS-047",
+    "check_in": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 047",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-048",
+    "volunteer_id": "VOL-PROFILES-048",
+    "assignment_id": "VOL-ASSIGNMENTS-048",
+    "check_in": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 048",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-049",
+    "volunteer_id": "VOL-PROFILES-049",
+    "assignment_id": "VOL-ASSIGNMENTS-049",
+    "check_in": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 049",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ATTENDANCE-050",
+    "volunteer_id": "VOL-PROFILES-050",
+    "assignment_id": "VOL-ASSIGNMENTS-050",
+    "check_in": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "check_out": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "hours_worked": 24,
+    "attendance_state": "present",
+    "verified_by": "Coordinator 050",
+    "break_minutes": 0,
+    "site_type": "shelter",
+    "remarks": "Exercise shift record 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

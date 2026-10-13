@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "INC-EVENTS-001",
+    "area_id": "INC-AREAS-001",
+    "event_name": "Simulation Event 001",
+    "disaster_type": "flood",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-01-04T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "affected_people": 501,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 001",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-002",
+    "area_id": "INC-AREAS-002",
+    "event_name": "Simulation Event 002",
+    "disaster_type": "cyclone",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "affected_people": 502,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 002",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-003",
+    "area_id": "INC-AREAS-003",
+    "event_name": "Simulation Event 003",
+    "disaster_type": "landslide",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "affected_people": 503,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 003",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-004",
+    "area_id": "INC-AREAS-004",
+    "event_name": "Simulation Event 004",
+    "disaster_type": "earthquake",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "affected_people": 504,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 004",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-005",
+    "area_id": "INC-AREAS-005",
+    "event_name": "Simulation Event 005",
+    "disaster_type": "storm",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "affected_people": 500,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 005",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-006",
+    "area_id": "INC-AREAS-006",
+    "event_name": "Simulation Event 006",
+    "disaster_type": "flood",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "affected_people": 501,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 006",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-007",
+    "area_id": "INC-AREAS-007",
+    "event_name": "Simulation Event 007",
+    "disaster_type": "cyclone",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "affected_people": 502,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 007",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-008",
+    "area_id": "INC-AREAS-008",
+    "event_name": "Simulation Event 008",
+    "disaster_type": "landslide",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "affected_people": 503,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 008",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-009",
+    "area_id": "INC-AREAS-009",
+    "event_name": "Simulation Event 009",
+    "disaster_type": "earthquake",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "affected_people": 504,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 009",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-010",
+    "area_id": "INC-AREAS-010",
+    "event_name": "Simulation Event 010",
+    "disaster_type": "storm",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "affected_people": 500,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 010",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-011",
+    "area_id": "INC-AREAS-011",
+    "event_name": "Simulation Event 011",
+    "disaster_type": "flood",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "affected_people": 501,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 011",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-012",
+    "area_id": "INC-AREAS-012",
+    "event_name": "Simulation Event 012",
+    "disaster_type": "cyclone",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "affected_people": 502,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 012",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-013",
+    "area_id": "INC-AREAS-013",
+    "event_name": "Simulation Event 013",
+    "disaster_type": "landslide",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "affected_people": 503,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 013",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-014",
+    "area_id": "INC-AREAS-014",
+    "event_name": "Simulation Event 014",
+    "disaster_type": "earthquake",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "affected_people": 504,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 014",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-015",
+    "area_id": "INC-AREAS-015",
+    "event_name": "Simulation Event 015",
+    "disaster_type": "storm",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "affected_people": 500,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 015",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-016",
+    "area_id": "INC-AREAS-016",
+    "event_name": "Simulation Event 016",
+    "disaster_type": "flood",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "affected_people": 501,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 016",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-017",
+    "area_id": "INC-AREAS-017",
+    "event_name": "Simulation Event 017",
+    "disaster_type": "cyclone",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "affected_people": 502,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 017",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-018",
+    "area_id": "INC-AREAS-018",
+    "event_name": "Simulation Event 018",
+    "disaster_type": "landslide",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "affected_people": 503,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 018",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-019",
+    "area_id": "INC-AREAS-019",
+    "event_name": "Simulation Event 019",
+    "disaster_type": "earthquake",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "affected_people": 504,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 019",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-020",
+    "area_id": "INC-AREAS-020",
+    "event_name": "Simulation Event 020",
+    "disaster_type": "storm",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "affected_people": 500,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 020",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-021",
+    "area_id": "INC-AREAS-021",
+    "event_name": "Simulation Event 021",
+    "disaster_type": "flood",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "affected_people": 501,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 021",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-022",
+    "area_id": "INC-AREAS-022",
+    "event_name": "Simulation Event 022",
+    "disaster_type": "cyclone",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "affected_people": 502,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 022",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-023",
+    "area_id": "INC-AREAS-023",
+    "event_name": "Simulation Event 023",
+    "disaster_type": "landslide",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "affected_people": 503,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 023",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-024",
+    "area_id": "INC-AREAS-024",
+    "event_name": "Simulation Event 024",
+    "disaster_type": "earthquake",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "affected_people": 504,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 024",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-025",
+    "area_id": "INC-AREAS-025",
+    "event_name": "Simulation Event 025",
+    "disaster_type": "storm",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "affected_people": 500,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 025",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-026",
+    "area_id": "INC-AREAS-026",
+    "event_name": "Simulation Event 026",
+    "disaster_type": "flood",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "affected_people": 501,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 026",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-027",
+    "area_id": "INC-AREAS-027",
+    "event_name": "Simulation Event 027",
+    "disaster_type": "cyclone",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "affected_people": 502,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 027",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-028",
+    "area_id": "INC-AREAS-028",
+    "event_name": "Simulation Event 028",
+    "disaster_type": "landslide",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "affected_people": 503,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 028",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-029",
+    "area_id": "INC-AREAS-029",
+    "event_name": "Simulation Event 029",
+    "disaster_type": "earthquake",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "affected_people": 504,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 029",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-030",
+    "area_id": "INC-AREAS-030",
+    "event_name": "Simulation Event 030",
+    "disaster_type": "storm",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "affected_people": 500,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 030",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-031",
+    "area_id": "INC-AREAS-031",
+    "event_name": "Simulation Event 031",
+    "disaster_type": "flood",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "affected_people": 501,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 031",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-032",
+    "area_id": "INC-AREAS-032",
+    "event_name": "Simulation Event 032",
+    "disaster_type": "cyclone",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "affected_people": 502,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 032",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-033",
+    "area_id": "INC-AREAS-033",
+    "event_name": "Simulation Event 033",
+    "disaster_type": "landslide",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "affected_people": 503,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 033",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-034",
+    "area_id": "INC-AREAS-034",
+    "event_name": "Simulation Event 034",
+    "disaster_type": "earthquake",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "affected_people": 504,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 034",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-035",
+    "area_id": "INC-AREAS-035",
+    "event_name": "Simulation Event 035",
+    "disaster_type": "storm",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "affected_people": 500,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 035",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-036",
+    "area_id": "INC-AREAS-036",
+    "event_name": "Simulation Event 036",
+    "disaster_type": "flood",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "affected_people": 501,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 036",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-037",
+    "area_id": "INC-AREAS-037",
+    "event_name": "Simulation Event 037",
+    "disaster_type": "cyclone",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "affected_people": 502,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 037",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-038",
+    "area_id": "INC-AREAS-038",
+    "event_name": "Simulation Event 038",
+    "disaster_type": "landslide",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "affected_people": 503,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 038",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-039",
+    "area_id": "INC-AREAS-039",
+    "event_name": "Simulation Event 039",
+    "disaster_type": "earthquake",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "affected_people": 504,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 039",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-040",
+    "area_id": "INC-AREAS-040",
+    "event_name": "Simulation Event 040",
+    "disaster_type": "storm",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "affected_people": 500,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 040",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-041",
+    "area_id": "INC-AREAS-041",
+    "event_name": "Simulation Event 041",
+    "disaster_type": "flood",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "affected_people": 501,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 041",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-042",
+    "area_id": "INC-AREAS-042",
+    "event_name": "Simulation Event 042",
+    "disaster_type": "cyclone",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "affected_people": 502,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 042",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-043",
+    "area_id": "INC-AREAS-043",
+    "event_name": "Simulation Event 043",
+    "disaster_type": "landslide",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "affected_people": 503,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 043",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-044",
+    "area_id": "INC-AREAS-044",
+    "event_name": "Simulation Event 044",
+    "disaster_type": "earthquake",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "affected_people": 504,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 044",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-045",
+    "area_id": "INC-AREAS-045",
+    "event_name": "Simulation Event 045",
+    "disaster_type": "storm",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "affected_people": 500,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 045",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-046",
+    "area_id": "INC-AREAS-046",
+    "event_name": "Simulation Event 046",
+    "disaster_type": "flood",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "affected_people": 501,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 046",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-047",
+    "area_id": "INC-AREAS-047",
+    "event_name": "Simulation Event 047",
+    "disaster_type": "cyclone",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "affected_people": 502,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 047",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-048",
+    "area_id": "INC-AREAS-048",
+    "event_name": "Simulation Event 048",
+    "disaster_type": "landslide",
+    "severity": "low",
+    "started_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "affected_people": 503,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 048",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-049",
+    "area_id": "INC-AREAS-049",
+    "event_name": "Simulation Event 049",
+    "disaster_type": "earthquake",
+    "severity": "high",
+    "started_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "affected_people": 504,
+    "response_phase": "response",
+    "lead_agency": "Demo Relief Authority 049",
+    "alert_level": "orange",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-EVENTS-050",
+    "area_id": "INC-AREAS-050",
+    "event_name": "Simulation Event 050",
+    "disaster_type": "storm",
+    "severity": "medium",
+    "started_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "ended_at": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "affected_people": 500,
+    "response_phase": "recovery",
+    "lead_agency": "Demo Relief Authority 050",
+    "alert_level": "red",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

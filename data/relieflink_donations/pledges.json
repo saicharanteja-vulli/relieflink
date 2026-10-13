@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "DON-PLEDGES-001",
+    "donor_id": "DON-DONORS-001",
+    "campaign_id": "DON-CAMPAIGNS-001",
+    "pledged_at": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "amount_inr": 10001,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 001",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-002",
+    "donor_id": "DON-DONORS-002",
+    "campaign_id": "DON-CAMPAIGNS-002",
+    "pledged_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "amount_inr": 10002,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 002",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-003",
+    "donor_id": "DON-DONORS-003",
+    "campaign_id": "DON-CAMPAIGNS-003",
+    "pledged_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "amount_inr": 10003,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 003",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-004",
+    "donor_id": "DON-DONORS-004",
+    "campaign_id": "DON-CAMPAIGNS-004",
+    "pledged_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "amount_inr": 10004,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 004",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-005",
+    "donor_id": "DON-DONORS-005",
+    "campaign_id": "DON-CAMPAIGNS-005",
+    "pledged_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "amount_inr": 10000,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 005",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-006",
+    "donor_id": "DON-DONORS-006",
+    "campaign_id": "DON-CAMPAIGNS-006",
+    "pledged_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "amount_inr": 10001,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 006",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-007",
+    "donor_id": "DON-DONORS-007",
+    "campaign_id": "DON-CAMPAIGNS-007",
+    "pledged_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "amount_inr": 10002,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 007",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-008",
+    "donor_id": "DON-DONORS-008",
+    "campaign_id": "DON-CAMPAIGNS-008",
+    "pledged_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "amount_inr": 10003,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 008",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-009",
+    "donor_id": "DON-DONORS-009",
+    "campaign_id": "DON-CAMPAIGNS-009",
+    "pledged_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "amount_inr": 10004,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 009",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-010",
+    "donor_id": "DON-DONORS-010",
+    "campaign_id": "DON-CAMPAIGNS-010",
+    "pledged_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "amount_inr": 10000,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 010",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-011",
+    "donor_id": "DON-DONORS-011",
+    "campaign_id": "DON-CAMPAIGNS-011",
+    "pledged_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "amount_inr": 10001,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 011",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-012",
+    "donor_id": "DON-DONORS-012",
+    "campaign_id": "DON-CAMPAIGNS-012",
+    "pledged_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "amount_inr": 10002,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 012",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-013",
+    "donor_id": "DON-DONORS-013",
+    "campaign_id": "DON-CAMPAIGNS-013",
+    "pledged_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "amount_inr": 10003,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 013",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-014",
+    "donor_id": "DON-DONORS-014",
+    "campaign_id": "DON-CAMPAIGNS-014",
+    "pledged_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "amount_inr": 10004,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 014",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-015",
+    "donor_id": "DON-DONORS-015",
+    "campaign_id": "DON-CAMPAIGNS-015",
+    "pledged_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "amount_inr": 10000,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 015",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-016",
+    "donor_id": "DON-DONORS-016",
+    "campaign_id": "DON-CAMPAIGNS-016",
+    "pledged_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "amount_inr": 10001,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 016",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-017",
+    "donor_id": "DON-DONORS-017",
+    "campaign_id": "DON-CAMPAIGNS-017",
+    "pledged_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "amount_inr": 10002,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 017",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-018",
+    "donor_id": "DON-DONORS-018",
+    "campaign_id": "DON-CAMPAIGNS-018",
+    "pledged_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "amount_inr": 10003,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 018",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-019",
+    "donor_id": "DON-DONORS-019",
+    "campaign_id": "DON-CAMPAIGNS-019",
+    "pledged_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "amount_inr": 10004,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 019",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-020",
+    "donor_id": "DON-DONORS-020",
+    "campaign_id": "DON-CAMPAIGNS-020",
+    "pledged_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "amount_inr": 10000,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 020",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-021",
+    "donor_id": "DON-DONORS-021",
+    "campaign_id": "DON-CAMPAIGNS-021",
+    "pledged_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "amount_inr": 10001,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 021",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-022",
+    "donor_id": "DON-DONORS-022",
+    "campaign_id": "DON-CAMPAIGNS-022",
+    "pledged_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "amount_inr": 10002,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 022",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-023",
+    "donor_id": "DON-DONORS-023",
+    "campaign_id": "DON-CAMPAIGNS-023",
+    "pledged_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "amount_inr": 10003,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 023",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-024",
+    "donor_id": "DON-DONORS-024",
+    "campaign_id": "DON-CAMPAIGNS-024",
+    "pledged_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "amount_inr": 10004,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 024",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-025",
+    "donor_id": "DON-DONORS-025",
+    "campaign_id": "DON-CAMPAIGNS-025",
+    "pledged_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "amount_inr": 10000,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 025",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-026",
+    "donor_id": "DON-DONORS-026",
+    "campaign_id": "DON-CAMPAIGNS-026",
+    "pledged_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "amount_inr": 10001,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 026",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-027",
+    "donor_id": "DON-DONORS-027",
+    "campaign_id": "DON-CAMPAIGNS-027",
+    "pledged_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "amount_inr": 10002,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 027",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-028",
+    "donor_id": "DON-DONORS-028",
+    "campaign_id": "DON-CAMPAIGNS-028",
+    "pledged_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "amount_inr": 10003,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 028",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-029",
+    "donor_id": "DON-DONORS-029",
+    "campaign_id": "DON-CAMPAIGNS-029",
+    "pledged_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "amount_inr": 10004,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 029",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-030",
+    "donor_id": "DON-DONORS-030",
+    "campaign_id": "DON-CAMPAIGNS-030",
+    "pledged_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "amount_inr": 10000,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 030",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-031",
+    "donor_id": "DON-DONORS-031",
+    "campaign_id": "DON-CAMPAIGNS-031",
+    "pledged_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "amount_inr": 10001,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 031",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-032",
+    "donor_id": "DON-DONORS-032",
+    "campaign_id": "DON-CAMPAIGNS-032",
+    "pledged_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "amount_inr": 10002,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 032",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-033",
+    "donor_id": "DON-DONORS-033",
+    "campaign_id": "DON-CAMPAIGNS-033",
+    "pledged_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "amount_inr": 10003,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 033",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-034",
+    "donor_id": "DON-DONORS-034",
+    "campaign_id": "DON-CAMPAIGNS-034",
+    "pledged_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "amount_inr": 10004,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 034",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-035",
+    "donor_id": "DON-DONORS-035",
+    "campaign_id": "DON-CAMPAIGNS-035",
+    "pledged_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "amount_inr": 10000,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 035",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-036",
+    "donor_id": "DON-DONORS-036",
+    "campaign_id": "DON-CAMPAIGNS-036",
+    "pledged_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "amount_inr": 10001,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 036",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-037",
+    "donor_id": "DON-DONORS-037",
+    "campaign_id": "DON-CAMPAIGNS-037",
+    "pledged_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "amount_inr": 10002,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 037",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-038",
+    "donor_id": "DON-DONORS-038",
+    "campaign_id": "DON-CAMPAIGNS-038",
+    "pledged_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "amount_inr": 10003,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 038",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-039",
+    "donor_id": "DON-DONORS-039",
+    "campaign_id": "DON-CAMPAIGNS-039",
+    "pledged_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "amount_inr": 10004,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 039",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-040",
+    "donor_id": "DON-DONORS-040",
+    "campaign_id": "DON-CAMPAIGNS-040",
+    "pledged_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "amount_inr": 10000,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 040",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-041",
+    "donor_id": "DON-DONORS-041",
+    "campaign_id": "DON-CAMPAIGNS-041",
+    "pledged_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "amount_inr": 10001,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 041",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-042",
+    "donor_id": "DON-DONORS-042",
+    "campaign_id": "DON-CAMPAIGNS-042",
+    "pledged_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "amount_inr": 10002,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 042",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-043",
+    "donor_id": "DON-DONORS-043",
+    "campaign_id": "DON-CAMPAIGNS-043",
+    "pledged_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "amount_inr": 10003,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 043",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-044",
+    "donor_id": "DON-DONORS-044",
+    "campaign_id": "DON-CAMPAIGNS-044",
+    "pledged_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "amount_inr": 10004,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 044",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-045",
+    "donor_id": "DON-DONORS-045",
+    "campaign_id": "DON-CAMPAIGNS-045",
+    "pledged_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "amount_inr": 10000,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 045",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-046",
+    "donor_id": "DON-DONORS-046",
+    "campaign_id": "DON-CAMPAIGNS-046",
+    "pledged_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "amount_inr": 10001,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 046",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-047",
+    "donor_id": "DON-DONORS-047",
+    "campaign_id": "DON-CAMPAIGNS-047",
+    "pledged_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "amount_inr": 10002,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 047",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-048",
+    "donor_id": "DON-DONORS-048",
+    "campaign_id": "DON-CAMPAIGNS-048",
+    "pledged_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "amount_inr": 10003,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 048",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-049",
+    "donor_id": "DON-DONORS-049",
+    "campaign_id": "DON-CAMPAIGNS-049",
+    "pledged_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "amount_inr": 10004,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 049",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-PLEDGES-050",
+    "donor_id": "DON-DONORS-050",
+    "campaign_id": "DON-CAMPAIGNS-050",
+    "pledged_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "amount_inr": 10000,
+    "currency": "INR",
+    "due_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "pledge_state": "fulfilled",
+    "payment_method": "bank_transfer",
+    "reference_code": "Pledge 050",
+    "restricted_purpose": "relief_supplies",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

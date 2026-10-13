@@ -1,0 +1,1052 @@
+[
+  {
+    "_id": "RES-TEAMS-001",
+    "team_name": "Rescue team 001",
+    "base_area_id": "INC-AREAS-001",
+    "specialization": "water",
+    "member_count": 7,
+    "leader_code": "Leader 001",
+    "contact_code": "Radio 001",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 13,
+    "agency": "Demo rescue service 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-002",
+    "team_name": "Rescue team 002",
+    "base_area_id": "INC-AREAS-002",
+    "specialization": "medical",
+    "member_count": 8,
+    "leader_code": "Leader 002",
+    "contact_code": "Radio 002",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 14,
+    "agency": "Demo rescue service 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-003",
+    "team_name": "Rescue team 003",
+    "base_area_id": "INC-AREAS-003",
+    "specialization": "urban",
+    "member_count": 9,
+    "leader_code": "Leader 003",
+    "contact_code": "Radio 003",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 15,
+    "agency": "Demo rescue service 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-004",
+    "team_name": "Rescue team 004",
+    "base_area_id": "INC-AREAS-004",
+    "specialization": "water",
+    "member_count": 10,
+    "leader_code": "Leader 004",
+    "contact_code": "Radio 004",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 16,
+    "agency": "Demo rescue service 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-005",
+    "team_name": "Rescue team 005",
+    "base_area_id": "INC-AREAS-005",
+    "specialization": "medical",
+    "member_count": 6,
+    "leader_code": "Leader 005",
+    "contact_code": "Radio 005",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 12,
+    "agency": "Demo rescue service 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-006",
+    "team_name": "Rescue team 006",
+    "base_area_id": "INC-AREAS-006",
+    "specialization": "urban",
+    "member_count": 7,
+    "leader_code": "Leader 006",
+    "contact_code": "Radio 006",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 13,
+    "agency": "Demo rescue service 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-007",
+    "team_name": "Rescue team 007",
+    "base_area_id": "INC-AREAS-007",
+    "specialization": "water",
+    "member_count": 8,
+    "leader_code": "Leader 007",
+    "contact_code": "Radio 007",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 14,
+    "agency": "Demo rescue service 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-008",
+    "team_name": "Rescue team 008",
+    "base_area_id": "INC-AREAS-008",
+    "specialization": "medical",
+    "member_count": 9,
+    "leader_code": "Leader 008",
+    "contact_code": "Radio 008",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 15,
+    "agency": "Demo rescue service 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-009",
+    "team_name": "Rescue team 009",
+    "base_area_id": "INC-AREAS-009",
+    "specialization": "urban",
+    "member_count": 10,
+    "leader_code": "Leader 009",
+    "contact_code": "Radio 009",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 16,
+    "agency": "Demo rescue service 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-010",
+    "team_name": "Rescue team 010",
+    "base_area_id": "INC-AREAS-010",
+    "specialization": "water",
+    "member_count": 6,
+    "leader_code": "Leader 010",
+    "contact_code": "Radio 010",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 12,
+    "agency": "Demo rescue service 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-011",
+    "team_name": "Rescue team 011",
+    "base_area_id": "INC-AREAS-011",
+    "specialization": "medical",
+    "member_count": 7,
+    "leader_code": "Leader 011",
+    "contact_code": "Radio 011",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 13,
+    "agency": "Demo rescue service 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-012",
+    "team_name": "Rescue team 012",
+    "base_area_id": "INC-AREAS-012",
+    "specialization": "urban",
+    "member_count": 8,
+    "leader_code": "Leader 012",
+    "contact_code": "Radio 012",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 14,
+    "agency": "Demo rescue service 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-013",
+    "team_name": "Rescue team 013",
+    "base_area_id": "INC-AREAS-013",
+    "specialization": "water",
+    "member_count": 9,
+    "leader_code": "Leader 013",
+    "contact_code": "Radio 013",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 15,
+    "agency": "Demo rescue service 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-014",
+    "team_name": "Rescue team 014",
+    "base_area_id": "INC-AREAS-014",
+    "specialization": "medical",
+    "member_count": 10,
+    "leader_code": "Leader 014",
+    "contact_code": "Radio 014",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 16,
+    "agency": "Demo rescue service 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-015",
+    "team_name": "Rescue team 015",
+    "base_area_id": "INC-AREAS-015",
+    "specialization": "urban",
+    "member_count": 6,
+    "leader_code": "Leader 015",
+    "contact_code": "Radio 015",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 12,
+    "agency": "Demo rescue service 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-016",
+    "team_name": "Rescue team 016",
+    "base_area_id": "INC-AREAS-016",
+    "specialization": "water",
+    "member_count": 7,
+    "leader_code": "Leader 016",
+    "contact_code": "Radio 016",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 13,
+    "agency": "Demo rescue service 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-017",
+    "team_name": "Rescue team 017",
+    "base_area_id": "INC-AREAS-017",
+    "specialization": "medical",
+    "member_count": 8,
+    "leader_code": "Leader 017",
+    "contact_code": "Radio 017",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 14,
+    "agency": "Demo rescue service 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-018",
+    "team_name": "Rescue team 018",
+    "base_area_id": "INC-AREAS-018",
+    "specialization": "urban",
+    "member_count": 9,
+    "leader_code": "Leader 018",
+    "contact_code": "Radio 018",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 15,
+    "agency": "Demo rescue service 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-019",
+    "team_name": "Rescue team 019",
+    "base_area_id": "INC-AREAS-019",
+    "specialization": "water",
+    "member_count": 10,
+    "leader_code": "Leader 019",
+    "contact_code": "Radio 019",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 16,
+    "agency": "Demo rescue service 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-020",
+    "team_name": "Rescue team 020",
+    "base_area_id": "INC-AREAS-020",
+    "specialization": "medical",
+    "member_count": 6,
+    "leader_code": "Leader 020",
+    "contact_code": "Radio 020",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 12,
+    "agency": "Demo rescue service 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-021",
+    "team_name": "Rescue team 021",
+    "base_area_id": "INC-AREAS-021",
+    "specialization": "urban",
+    "member_count": 7,
+    "leader_code": "Leader 021",
+    "contact_code": "Radio 021",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 13,
+    "agency": "Demo rescue service 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-022",
+    "team_name": "Rescue team 022",
+    "base_area_id": "INC-AREAS-022",
+    "specialization": "water",
+    "member_count": 8,
+    "leader_code": "Leader 022",
+    "contact_code": "Radio 022",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 14,
+    "agency": "Demo rescue service 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-023",
+    "team_name": "Rescue team 023",
+    "base_area_id": "INC-AREAS-023",
+    "specialization": "medical",
+    "member_count": 9,
+    "leader_code": "Leader 023",
+    "contact_code": "Radio 023",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 15,
+    "agency": "Demo rescue service 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-024",
+    "team_name": "Rescue team 024",
+    "base_area_id": "INC-AREAS-024",
+    "specialization": "urban",
+    "member_count": 10,
+    "leader_code": "Leader 024",
+    "contact_code": "Radio 024",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 16,
+    "agency": "Demo rescue service 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-025",
+    "team_name": "Rescue team 025",
+    "base_area_id": "INC-AREAS-025",
+    "specialization": "water",
+    "member_count": 6,
+    "leader_code": "Leader 025",
+    "contact_code": "Radio 025",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 12,
+    "agency": "Demo rescue service 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-026",
+    "team_name": "Rescue team 026",
+    "base_area_id": "INC-AREAS-026",
+    "specialization": "medical",
+    "member_count": 7,
+    "leader_code": "Leader 026",
+    "contact_code": "Radio 026",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 13,
+    "agency": "Demo rescue service 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-027",
+    "team_name": "Rescue team 027",
+    "base_area_id": "INC-AREAS-027",
+    "specialization": "urban",
+    "member_count": 8,
+    "leader_code": "Leader 027",
+    "contact_code": "Radio 027",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 14,
+    "agency": "Demo rescue service 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-028",
+    "team_name": "Rescue team 028",
+    "base_area_id": "INC-AREAS-028",
+    "specialization": "water",
+    "member_count": 9,
+    "leader_code": "Leader 028",
+    "contact_code": "Radio 028",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 15,
+    "agency": "Demo rescue service 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-029",
+    "team_name": "Rescue team 029",
+    "base_area_id": "INC-AREAS-029",
+    "specialization": "medical",
+    "member_count": 10,
+    "leader_code": "Leader 029",
+    "contact_code": "Radio 029",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 16,
+    "agency": "Demo rescue service 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-030",
+    "team_name": "Rescue team 030",
+    "base_area_id": "INC-AREAS-030",
+    "specialization": "urban",
+    "member_count": 6,
+    "leader_code": "Leader 030",
+    "contact_code": "Radio 030",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 12,
+    "agency": "Demo rescue service 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-031",
+    "team_name": "Rescue team 031",
+    "base_area_id": "INC-AREAS-031",
+    "specialization": "water",
+    "member_count": 7,
+    "leader_code": "Leader 031",
+    "contact_code": "Radio 031",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 13,
+    "agency": "Demo rescue service 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-032",
+    "team_name": "Rescue team 032",
+    "base_area_id": "INC-AREAS-032",
+    "specialization": "medical",
+    "member_count": 8,
+    "leader_code": "Leader 032",
+    "contact_code": "Radio 032",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 14,
+    "agency": "Demo rescue service 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-033",
+    "team_name": "Rescue team 033",
+    "base_area_id": "INC-AREAS-033",
+    "specialization": "urban",
+    "member_count": 9,
+    "leader_code": "Leader 033",
+    "contact_code": "Radio 033",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 15,
+    "agency": "Demo rescue service 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-034",
+    "team_name": "Rescue team 034",
+    "base_area_id": "INC-AREAS-034",
+    "specialization": "water",
+    "member_count": 10,
+    "leader_code": "Leader 034",
+    "contact_code": "Radio 034",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 16,
+    "agency": "Demo rescue service 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-035",
+    "team_name": "Rescue team 035",
+    "base_area_id": "INC-AREAS-035",
+    "specialization": "medical",
+    "member_count": 6,
+    "leader_code": "Leader 035",
+    "contact_code": "Radio 035",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 12,
+    "agency": "Demo rescue service 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-036",
+    "team_name": "Rescue team 036",
+    "base_area_id": "INC-AREAS-036",
+    "specialization": "urban",
+    "member_count": 7,
+    "leader_code": "Leader 036",
+    "contact_code": "Radio 036",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 13,
+    "agency": "Demo rescue service 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-037",
+    "team_name": "Rescue team 037",
+    "base_area_id": "INC-AREAS-037",
+    "specialization": "water",
+    "member_count": 8,
+    "leader_code": "Leader 037",
+    "contact_code": "Radio 037",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 14,
+    "agency": "Demo rescue service 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-038",
+    "team_name": "Rescue team 038",
+    "base_area_id": "INC-AREAS-038",
+    "specialization": "medical",
+    "member_count": 9,
+    "leader_code": "Leader 038",
+    "contact_code": "Radio 038",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 15,
+    "agency": "Demo rescue service 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-039",
+    "team_name": "Rescue team 039",
+    "base_area_id": "INC-AREAS-039",
+    "specialization": "urban",
+    "member_count": 10,
+    "leader_code": "Leader 039",
+    "contact_code": "Radio 039",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 16,
+    "agency": "Demo rescue service 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-040",
+    "team_name": "Rescue team 040",
+    "base_area_id": "INC-AREAS-040",
+    "specialization": "water",
+    "member_count": 6,
+    "leader_code": "Leader 040",
+    "contact_code": "Radio 040",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 12,
+    "agency": "Demo rescue service 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-041",
+    "team_name": "Rescue team 041",
+    "base_area_id": "INC-AREAS-041",
+    "specialization": "medical",
+    "member_count": 7,
+    "leader_code": "Leader 041",
+    "contact_code": "Radio 041",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 13,
+    "agency": "Demo rescue service 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-042",
+    "team_name": "Rescue team 042",
+    "base_area_id": "INC-AREAS-042",
+    "specialization": "urban",
+    "member_count": 8,
+    "leader_code": "Leader 042",
+    "contact_code": "Radio 042",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 14,
+    "agency": "Demo rescue service 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-043",
+    "team_name": "Rescue team 043",
+    "base_area_id": "INC-AREAS-043",
+    "specialization": "water",
+    "member_count": 9,
+    "leader_code": "Leader 043",
+    "contact_code": "Radio 043",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 15,
+    "agency": "Demo rescue service 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-044",
+    "team_name": "Rescue team 044",
+    "base_area_id": "INC-AREAS-044",
+    "specialization": "medical",
+    "member_count": 10,
+    "leader_code": "Leader 044",
+    "contact_code": "Radio 044",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 16,
+    "agency": "Demo rescue service 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-045",
+    "team_name": "Rescue team 045",
+    "base_area_id": "INC-AREAS-045",
+    "specialization": "urban",
+    "member_count": 6,
+    "leader_code": "Leader 045",
+    "contact_code": "Radio 045",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 12,
+    "agency": "Demo rescue service 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-046",
+    "team_name": "Rescue team 046",
+    "base_area_id": "INC-AREAS-046",
+    "specialization": "water",
+    "member_count": 7,
+    "leader_code": "Leader 046",
+    "contact_code": "Radio 046",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 13,
+    "agency": "Demo rescue service 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-047",
+    "team_name": "Rescue team 047",
+    "base_area_id": "INC-AREAS-047",
+    "specialization": "medical",
+    "member_count": 8,
+    "leader_code": "Leader 047",
+    "contact_code": "Radio 047",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 14,
+    "agency": "Demo rescue service 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-048",
+    "team_name": "Rescue team 048",
+    "base_area_id": "INC-AREAS-048",
+    "specialization": "urban",
+    "member_count": 9,
+    "leader_code": "Leader 048",
+    "contact_code": "Radio 048",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 15,
+    "agency": "Demo rescue service 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-049",
+    "team_name": "Rescue team 049",
+    "base_area_id": "INC-AREAS-049",
+    "specialization": "water",
+    "member_count": 10,
+    "leader_code": "Leader 049",
+    "contact_code": "Radio 049",
+    "availability": "available",
+    "equipment_ready": false,
+    "max_people_per_trip": 16,
+    "agency": "Demo rescue service 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-TEAMS-050",
+    "team_name": "Rescue team 050",
+    "base_area_id": "INC-AREAS-050",
+    "specialization": "medical",
+    "member_count": 6,
+    "leader_code": "Leader 050",
+    "contact_code": "Radio 050",
+    "availability": "available",
+    "equipment_ready": true,
+    "max_people_per_trip": 12,
+    "agency": "Demo rescue service 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

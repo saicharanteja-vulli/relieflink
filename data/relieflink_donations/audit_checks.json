@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "DON-AUDIT_CHECKS-001",
+    "donation_id": "DON-DONATIONS-001",
+    "allocation_id": "DON-ALLOCATIONS-001",
+    "expense_id": "DON-EXPENSES-001",
+    "checked_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 001",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-002",
+    "donation_id": "DON-DONATIONS-002",
+    "allocation_id": "DON-ALLOCATIONS-002",
+    "expense_id": "DON-EXPENSES-002",
+    "checked_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 002",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-003",
+    "donation_id": "DON-DONATIONS-003",
+    "allocation_id": "DON-ALLOCATIONS-003",
+    "expense_id": "DON-EXPENSES-003",
+    "checked_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 003",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-004",
+    "donation_id": "DON-DONATIONS-004",
+    "allocation_id": "DON-ALLOCATIONS-004",
+    "expense_id": "DON-EXPENSES-004",
+    "checked_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 004",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-005",
+    "donation_id": "DON-DONATIONS-005",
+    "allocation_id": "DON-ALLOCATIONS-005",
+    "expense_id": "DON-EXPENSES-005",
+    "checked_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 005",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-006",
+    "donation_id": "DON-DONATIONS-006",
+    "allocation_id": "DON-ALLOCATIONS-006",
+    "expense_id": "DON-EXPENSES-006",
+    "checked_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 006",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-007",
+    "donation_id": "DON-DONATIONS-007",
+    "allocation_id": "DON-ALLOCATIONS-007",
+    "expense_id": "DON-EXPENSES-007",
+    "checked_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 007",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-008",
+    "donation_id": "DON-DONATIONS-008",
+    "allocation_id": "DON-ALLOCATIONS-008",
+    "expense_id": "DON-EXPENSES-008",
+    "checked_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 008",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-009",
+    "donation_id": "DON-DONATIONS-009",
+    "allocation_id": "DON-ALLOCATIONS-009",
+    "expense_id": "DON-EXPENSES-009",
+    "checked_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 009",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-010",
+    "donation_id": "DON-DONATIONS-010",
+    "allocation_id": "DON-ALLOCATIONS-010",
+    "expense_id": "DON-EXPENSES-010",
+    "checked_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 010",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-011",
+    "donation_id": "DON-DONATIONS-011",
+    "allocation_id": "DON-ALLOCATIONS-011",
+    "expense_id": "DON-EXPENSES-011",
+    "checked_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 011",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-012",
+    "donation_id": "DON-DONATIONS-012",
+    "allocation_id": "DON-ALLOCATIONS-012",
+    "expense_id": "DON-EXPENSES-012",
+    "checked_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 012",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-013",
+    "donation_id": "DON-DONATIONS-013",
+    "allocation_id": "DON-ALLOCATIONS-013",
+    "expense_id": "DON-EXPENSES-013",
+    "checked_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 013",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-014",
+    "donation_id": "DON-DONATIONS-014",
+    "allocation_id": "DON-ALLOCATIONS-014",
+    "expense_id": "DON-EXPENSES-014",
+    "checked_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 014",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-015",
+    "donation_id": "DON-DONATIONS-015",
+    "allocation_id": "DON-ALLOCATIONS-015",
+    "expense_id": "DON-EXPENSES-015",
+    "checked_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 015",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-016",
+    "donation_id": "DON-DONATIONS-016",
+    "allocation_id": "DON-ALLOCATIONS-016",
+    "expense_id": "DON-EXPENSES-016",
+    "checked_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 016",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-017",
+    "donation_id": "DON-DONATIONS-017",
+    "allocation_id": "DON-ALLOCATIONS-017",
+    "expense_id": "DON-EXPENSES-017",
+    "checked_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 017",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-018",
+    "donation_id": "DON-DONATIONS-018",
+    "allocation_id": "DON-ALLOCATIONS-018",
+    "expense_id": "DON-EXPENSES-018",
+    "checked_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 018",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-019",
+    "donation_id": "DON-DONATIONS-019",
+    "allocation_id": "DON-ALLOCATIONS-019",
+    "expense_id": "DON-EXPENSES-019",
+    "checked_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 019",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-020",
+    "donation_id": "DON-DONATIONS-020",
+    "allocation_id": "DON-ALLOCATIONS-020",
+    "expense_id": "DON-EXPENSES-020",
+    "checked_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 020",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-021",
+    "donation_id": "DON-DONATIONS-021",
+    "allocation_id": "DON-ALLOCATIONS-021",
+    "expense_id": "DON-EXPENSES-021",
+    "checked_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 021",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-022",
+    "donation_id": "DON-DONATIONS-022",
+    "allocation_id": "DON-ALLOCATIONS-022",
+    "expense_id": "DON-EXPENSES-022",
+    "checked_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 022",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-023",
+    "donation_id": "DON-DONATIONS-023",
+    "allocation_id": "DON-ALLOCATIONS-023",
+    "expense_id": "DON-EXPENSES-023",
+    "checked_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 023",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-024",
+    "donation_id": "DON-DONATIONS-024",
+    "allocation_id": "DON-ALLOCATIONS-024",
+    "expense_id": "DON-EXPENSES-024",
+    "checked_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 024",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-025",
+    "donation_id": "DON-DONATIONS-025",
+    "allocation_id": "DON-ALLOCATIONS-025",
+    "expense_id": "DON-EXPENSES-025",
+    "checked_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 025",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-026",
+    "donation_id": "DON-DONATIONS-026",
+    "allocation_id": "DON-ALLOCATIONS-026",
+    "expense_id": "DON-EXPENSES-026",
+    "checked_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 026",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-027",
+    "donation_id": "DON-DONATIONS-027",
+    "allocation_id": "DON-ALLOCATIONS-027",
+    "expense_id": "DON-EXPENSES-027",
+    "checked_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 027",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-028",
+    "donation_id": "DON-DONATIONS-028",
+    "allocation_id": "DON-ALLOCATIONS-028",
+    "expense_id": "DON-EXPENSES-028",
+    "checked_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 028",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-029",
+    "donation_id": "DON-DONATIONS-029",
+    "allocation_id": "DON-ALLOCATIONS-029",
+    "expense_id": "DON-EXPENSES-029",
+    "checked_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 029",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-030",
+    "donation_id": "DON-DONATIONS-030",
+    "allocation_id": "DON-ALLOCATIONS-030",
+    "expense_id": "DON-EXPENSES-030",
+    "checked_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 030",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-031",
+    "donation_id": "DON-DONATIONS-031",
+    "allocation_id": "DON-ALLOCATIONS-031",
+    "expense_id": "DON-EXPENSES-031",
+    "checked_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 031",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-032",
+    "donation_id": "DON-DONATIONS-032",
+    "allocation_id": "DON-ALLOCATIONS-032",
+    "expense_id": "DON-EXPENSES-032",
+    "checked_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 032",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-033",
+    "donation_id": "DON-DONATIONS-033",
+    "allocation_id": "DON-ALLOCATIONS-033",
+    "expense_id": "DON-EXPENSES-033",
+    "checked_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 033",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-034",
+    "donation_id": "DON-DONATIONS-034",
+    "allocation_id": "DON-ALLOCATIONS-034",
+    "expense_id": "DON-EXPENSES-034",
+    "checked_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 034",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-035",
+    "donation_id": "DON-DONATIONS-035",
+    "allocation_id": "DON-ALLOCATIONS-035",
+    "expense_id": "DON-EXPENSES-035",
+    "checked_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 035",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-036",
+    "donation_id": "DON-DONATIONS-036",
+    "allocation_id": "DON-ALLOCATIONS-036",
+    "expense_id": "DON-EXPENSES-036",
+    "checked_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 036",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-037",
+    "donation_id": "DON-DONATIONS-037",
+    "allocation_id": "DON-ALLOCATIONS-037",
+    "expense_id": "DON-EXPENSES-037",
+    "checked_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 037",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-038",
+    "donation_id": "DON-DONATIONS-038",
+    "allocation_id": "DON-ALLOCATIONS-038",
+    "expense_id": "DON-EXPENSES-038",
+    "checked_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 038",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-039",
+    "donation_id": "DON-DONATIONS-039",
+    "allocation_id": "DON-ALLOCATIONS-039",
+    "expense_id": "DON-EXPENSES-039",
+    "checked_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 039",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-040",
+    "donation_id": "DON-DONATIONS-040",
+    "allocation_id": "DON-ALLOCATIONS-040",
+    "expense_id": "DON-EXPENSES-040",
+    "checked_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 040",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-041",
+    "donation_id": "DON-DONATIONS-041",
+    "allocation_id": "DON-ALLOCATIONS-041",
+    "expense_id": "DON-EXPENSES-041",
+    "checked_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 041",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-042",
+    "donation_id": "DON-DONATIONS-042",
+    "allocation_id": "DON-ALLOCATIONS-042",
+    "expense_id": "DON-EXPENSES-042",
+    "checked_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 042",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-043",
+    "donation_id": "DON-DONATIONS-043",
+    "allocation_id": "DON-ALLOCATIONS-043",
+    "expense_id": "DON-EXPENSES-043",
+    "checked_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 043",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-044",
+    "donation_id": "DON-DONATIONS-044",
+    "allocation_id": "DON-ALLOCATIONS-044",
+    "expense_id": "DON-EXPENSES-044",
+    "checked_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 044",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-045",
+    "donation_id": "DON-DONATIONS-045",
+    "allocation_id": "DON-ALLOCATIONS-045",
+    "expense_id": "DON-EXPENSES-045",
+    "checked_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 045",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-046",
+    "donation_id": "DON-DONATIONS-046",
+    "allocation_id": "DON-ALLOCATIONS-046",
+    "expense_id": "DON-EXPENSES-046",
+    "checked_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 046",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-047",
+    "donation_id": "DON-DONATIONS-047",
+    "allocation_id": "DON-ALLOCATIONS-047",
+    "expense_id": "DON-EXPENSES-047",
+    "checked_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 047",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-048",
+    "donation_id": "DON-DONATIONS-048",
+    "allocation_id": "DON-ALLOCATIONS-048",
+    "expense_id": "DON-EXPENSES-048",
+    "checked_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 048",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-049",
+    "donation_id": "DON-DONATIONS-049",
+    "allocation_id": "DON-ALLOCATIONS-049",
+    "expense_id": "DON-EXPENSES-049",
+    "checked_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 049",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-AUDIT_CHECKS-050",
+    "donation_id": "DON-DONATIONS-050",
+    "allocation_id": "DON-ALLOCATIONS-050",
+    "expense_id": "DON-EXPENSES-050",
+    "checked_at": {
+      "$date": "2026-06-06T00:00:00Z"
+    },
+    "auditor_code": "Demo auditor 050",
+    "receipt_verified": true,
+    "allocation_verified": true,
+    "expense_verified": true,
+    "check_result": "pass",
+    "notes": "Exercise traceability check 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

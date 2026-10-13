@@ -1,0 +1,370 @@
+{
+  "passed": true,
+  "databases": 6,
+  "collections": 60,
+  "documents": 3000,
+  "referenceChecks": 5300,
+  "rows": [
+    {
+      "database": "relieflink_incidents",
+      "collection": "areas",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_incidents",
+      "collection": "events",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_incidents",
+      "collection": "alerts",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_incidents",
+      "collection": "damage_assessments",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_incidents",
+      "collection": "situation_reports",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_incidents",
+      "collection": "weather_observations",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_incidents",
+      "collection": "hazard_observations",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_incidents",
+      "collection": "road_assessments",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_incidents",
+      "collection": "agency_updates",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_incidents",
+      "collection": "recovery_tasks",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_rescue",
+      "collection": "teams",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_rescue",
+      "collection": "vehicles",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_rescue",
+      "collection": "requests",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_rescue",
+      "collection": "dispatches",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_rescue",
+      "collection": "evacuations",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_rescue",
+      "collection": "search_operations",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_rescue",
+      "collection": "equipment",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_rescue",
+      "collection": "medical_transfers",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_rescue",
+      "collection": "mission_logs",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_rescue",
+      "collection": "safety_checks",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_shelters",
+      "collection": "shelters",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_shelters",
+      "collection": "households",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_shelters",
+      "collection": "admissions",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_shelters",
+      "collection": "bed_allocations",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_shelters",
+      "collection": "meal_services",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_shelters",
+      "collection": "supply_requests",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_shelters",
+      "collection": "health_visits",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_shelters",
+      "collection": "sanitation_checks",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_shelters",
+      "collection": "occupancy_snapshots",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_shelters",
+      "collection": "feedback_cases",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_logistics",
+      "collection": "warehouses",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_logistics",
+      "collection": "items",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_logistics",
+      "collection": "stock_batches",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_logistics",
+      "collection": "suppliers",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_logistics",
+      "collection": "purchase_orders",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_logistics",
+      "collection": "shipments",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_logistics",
+      "collection": "delivery_receipts",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_logistics",
+      "collection": "stock_movements",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_logistics",
+      "collection": "quality_inspections",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_logistics",
+      "collection": "transport_runs",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_volunteers",
+      "collection": "profiles",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_volunteers",
+      "collection": "skill_records",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_volunteers",
+      "collection": "training_sessions",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_volunteers",
+      "collection": "training_enrollments",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_volunteers",
+      "collection": "availability_slots",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_volunteers",
+      "collection": "assignments",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_volunteers",
+      "collection": "attendance",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_volunteers",
+      "collection": "certifications",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_volunteers",
+      "collection": "reimbursements",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_volunteers",
+      "collection": "performance_reviews",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_donations",
+      "collection": "donors",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_donations",
+      "collection": "campaigns",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_donations",
+      "collection": "pledges",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_donations",
+      "collection": "donations",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_donations",
+      "collection": "receipts",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_donations",
+      "collection": "allocations",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_donations",
+      "collection": "expenses",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_donations",
+      "collection": "beneficiary_groups",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_donations",
+      "collection": "distributions",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    },
+    {
+      "database": "relieflink_donations",
+      "collection": "audit_checks",
+      "documents": 50,
+      "minFieldsExcludingId": 14
+    }
+  ],
+  "failures": []
+}

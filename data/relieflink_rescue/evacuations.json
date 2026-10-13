@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "RES-EVACUATIONS-001",
+    "request_id": "RES-REQUESTS-001",
+    "vehicle_id": "RES-VEHICLES-001",
+    "shelter_id": "SHE-SHELTERS-001",
+    "departure_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "people_moved": 3,
+    "route_label": "Safe route 001",
+    "trip_state": "completed",
+    "escort_code": "Escort 001",
+    "distance_km": 4,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-002",
+    "request_id": "RES-REQUESTS-002",
+    "vehicle_id": "RES-VEHICLES-002",
+    "shelter_id": "SHE-SHELTERS-002",
+    "departure_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "people_moved": 4,
+    "route_label": "Safe route 002",
+    "trip_state": "completed",
+    "escort_code": "Escort 002",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-003",
+    "request_id": "RES-REQUESTS-003",
+    "vehicle_id": "RES-VEHICLES-003",
+    "shelter_id": "SHE-SHELTERS-003",
+    "departure_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "people_moved": 5,
+    "route_label": "Safe route 003",
+    "trip_state": "completed",
+    "escort_code": "Escort 003",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-004",
+    "request_id": "RES-REQUESTS-004",
+    "vehicle_id": "RES-VEHICLES-004",
+    "shelter_id": "SHE-SHELTERS-004",
+    "departure_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "people_moved": 6,
+    "route_label": "Safe route 004",
+    "trip_state": "completed",
+    "escort_code": "Escort 004",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-005",
+    "request_id": "RES-REQUESTS-005",
+    "vehicle_id": "RES-VEHICLES-005",
+    "shelter_id": "SHE-SHELTERS-005",
+    "departure_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "people_moved": 2,
+    "route_label": "Safe route 005",
+    "trip_state": "completed",
+    "escort_code": "Escort 005",
+    "distance_km": 3,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-006",
+    "request_id": "RES-REQUESTS-006",
+    "vehicle_id": "RES-VEHICLES-006",
+    "shelter_id": "SHE-SHELTERS-006",
+    "departure_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "people_moved": 3,
+    "route_label": "Safe route 006",
+    "trip_state": "completed",
+    "escort_code": "Escort 006",
+    "distance_km": 4,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-007",
+    "request_id": "RES-REQUESTS-007",
+    "vehicle_id": "RES-VEHICLES-007",
+    "shelter_id": "SHE-SHELTERS-007",
+    "departure_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "people_moved": 4,
+    "route_label": "Safe route 007",
+    "trip_state": "completed",
+    "escort_code": "Escort 007",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-008",
+    "request_id": "RES-REQUESTS-008",
+    "vehicle_id": "RES-VEHICLES-008",
+    "shelter_id": "SHE-SHELTERS-008",
+    "departure_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "people_moved": 5,
+    "route_label": "Safe route 008",
+    "trip_state": "completed",
+    "escort_code": "Escort 008",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-009",
+    "request_id": "RES-REQUESTS-009",
+    "vehicle_id": "RES-VEHICLES-009",
+    "shelter_id": "SHE-SHELTERS-009",
+    "departure_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "people_moved": 6,
+    "route_label": "Safe route 009",
+    "trip_state": "completed",
+    "escort_code": "Escort 009",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-010",
+    "request_id": "RES-REQUESTS-010",
+    "vehicle_id": "RES-VEHICLES-010",
+    "shelter_id": "SHE-SHELTERS-010",
+    "departure_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "people_moved": 2,
+    "route_label": "Safe route 010",
+    "trip_state": "completed",
+    "escort_code": "Escort 010",
+    "distance_km": 3,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-011",
+    "request_id": "RES-REQUESTS-011",
+    "vehicle_id": "RES-VEHICLES-011",
+    "shelter_id": "SHE-SHELTERS-011",
+    "departure_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "people_moved": 3,
+    "route_label": "Safe route 011",
+    "trip_state": "completed",
+    "escort_code": "Escort 011",
+    "distance_km": 4,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-012",
+    "request_id": "RES-REQUESTS-012",
+    "vehicle_id": "RES-VEHICLES-012",
+    "shelter_id": "SHE-SHELTERS-012",
+    "departure_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "people_moved": 4,
+    "route_label": "Safe route 012",
+    "trip_state": "completed",
+    "escort_code": "Escort 012",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-013",
+    "request_id": "RES-REQUESTS-013",
+    "vehicle_id": "RES-VEHICLES-013",
+    "shelter_id": "SHE-SHELTERS-013",
+    "departure_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "people_moved": 5,
+    "route_label": "Safe route 013",
+    "trip_state": "completed",
+    "escort_code": "Escort 013",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-014",
+    "request_id": "RES-REQUESTS-014",
+    "vehicle_id": "RES-VEHICLES-014",
+    "shelter_id": "SHE-SHELTERS-014",
+    "departure_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "people_moved": 6,
+    "route_label": "Safe route 014",
+    "trip_state": "completed",
+    "escort_code": "Escort 014",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-015",
+    "request_id": "RES-REQUESTS-015",
+    "vehicle_id": "RES-VEHICLES-015",
+    "shelter_id": "SHE-SHELTERS-015",
+    "departure_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "people_moved": 2,
+    "route_label": "Safe route 015",
+    "trip_state": "completed",
+    "escort_code": "Escort 015",
+    "distance_km": 3,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-016",
+    "request_id": "RES-REQUESTS-016",
+    "vehicle_id": "RES-VEHICLES-016",
+    "shelter_id": "SHE-SHELTERS-016",
+    "departure_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "people_moved": 3,
+    "route_label": "Safe route 016",
+    "trip_state": "completed",
+    "escort_code": "Escort 016",
+    "distance_km": 4,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-017",
+    "request_id": "RES-REQUESTS-017",
+    "vehicle_id": "RES-VEHICLES-017",
+    "shelter_id": "SHE-SHELTERS-017",
+    "departure_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "people_moved": 4,
+    "route_label": "Safe route 017",
+    "trip_state": "completed",
+    "escort_code": "Escort 017",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-018",
+    "request_id": "RES-REQUESTS-018",
+    "vehicle_id": "RES-VEHICLES-018",
+    "shelter_id": "SHE-SHELTERS-018",
+    "departure_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "people_moved": 5,
+    "route_label": "Safe route 018",
+    "trip_state": "completed",
+    "escort_code": "Escort 018",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-019",
+    "request_id": "RES-REQUESTS-019",
+    "vehicle_id": "RES-VEHICLES-019",
+    "shelter_id": "SHE-SHELTERS-019",
+    "departure_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "people_moved": 6,
+    "route_label": "Safe route 019",
+    "trip_state": "completed",
+    "escort_code": "Escort 019",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-020",
+    "request_id": "RES-REQUESTS-020",
+    "vehicle_id": "RES-VEHICLES-020",
+    "shelter_id": "SHE-SHELTERS-020",
+    "departure_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "people_moved": 2,
+    "route_label": "Safe route 020",
+    "trip_state": "completed",
+    "escort_code": "Escort 020",
+    "distance_km": 3,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-021",
+    "request_id": "RES-REQUESTS-021",
+    "vehicle_id": "RES-VEHICLES-021",
+    "shelter_id": "SHE-SHELTERS-021",
+    "departure_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "people_moved": 3,
+    "route_label": "Safe route 021",
+    "trip_state": "completed",
+    "escort_code": "Escort 021",
+    "distance_km": 4,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-022",
+    "request_id": "RES-REQUESTS-022",
+    "vehicle_id": "RES-VEHICLES-022",
+    "shelter_id": "SHE-SHELTERS-022",
+    "departure_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "people_moved": 4,
+    "route_label": "Safe route 022",
+    "trip_state": "completed",
+    "escort_code": "Escort 022",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-023",
+    "request_id": "RES-REQUESTS-023",
+    "vehicle_id": "RES-VEHICLES-023",
+    "shelter_id": "SHE-SHELTERS-023",
+    "departure_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "people_moved": 5,
+    "route_label": "Safe route 023",
+    "trip_state": "completed",
+    "escort_code": "Escort 023",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-024",
+    "request_id": "RES-REQUESTS-024",
+    "vehicle_id": "RES-VEHICLES-024",
+    "shelter_id": "SHE-SHELTERS-024",
+    "departure_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "people_moved": 6,
+    "route_label": "Safe route 024",
+    "trip_state": "completed",
+    "escort_code": "Escort 024",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-025",
+    "request_id": "RES-REQUESTS-025",
+    "vehicle_id": "RES-VEHICLES-025",
+    "shelter_id": "SHE-SHELTERS-025",
+    "departure_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "people_moved": 2,
+    "route_label": "Safe route 025",
+    "trip_state": "completed",
+    "escort_code": "Escort 025",
+    "distance_km": 3,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-026",
+    "request_id": "RES-REQUESTS-026",
+    "vehicle_id": "RES-VEHICLES-026",
+    "shelter_id": "SHE-SHELTERS-026",
+    "departure_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "people_moved": 3,
+    "route_label": "Safe route 026",
+    "trip_state": "completed",
+    "escort_code": "Escort 026",
+    "distance_km": 4,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-027",
+    "request_id": "RES-REQUESTS-027",
+    "vehicle_id": "RES-VEHICLES-027",
+    "shelter_id": "SHE-SHELTERS-027",
+    "departure_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "people_moved": 4,
+    "route_label": "Safe route 027",
+    "trip_state": "completed",
+    "escort_code": "Escort 027",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-028",
+    "request_id": "RES-REQUESTS-028",
+    "vehicle_id": "RES-VEHICLES-028",
+    "shelter_id": "SHE-SHELTERS-028",
+    "departure_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "people_moved": 5,
+    "route_label": "Safe route 028",
+    "trip_state": "completed",
+    "escort_code": "Escort 028",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-029",
+    "request_id": "RES-REQUESTS-029",
+    "vehicle_id": "RES-VEHICLES-029",
+    "shelter_id": "SHE-SHELTERS-029",
+    "departure_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "people_moved": 6,
+    "route_label": "Safe route 029",
+    "trip_state": "completed",
+    "escort_code": "Escort 029",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-030",
+    "request_id": "RES-REQUESTS-030",
+    "vehicle_id": "RES-VEHICLES-030",
+    "shelter_id": "SHE-SHELTERS-030",
+    "departure_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "people_moved": 2,
+    "route_label": "Safe route 030",
+    "trip_state": "completed",
+    "escort_code": "Escort 030",
+    "distance_km": 3,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-031",
+    "request_id": "RES-REQUESTS-031",
+    "vehicle_id": "RES-VEHICLES-031",
+    "shelter_id": "SHE-SHELTERS-031",
+    "departure_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "people_moved": 3,
+    "route_label": "Safe route 031",
+    "trip_state": "completed",
+    "escort_code": "Escort 031",
+    "distance_km": 4,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-032",
+    "request_id": "RES-REQUESTS-032",
+    "vehicle_id": "RES-VEHICLES-032",
+    "shelter_id": "SHE-SHELTERS-032",
+    "departure_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "people_moved": 4,
+    "route_label": "Safe route 032",
+    "trip_state": "completed",
+    "escort_code": "Escort 032",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-033",
+    "request_id": "RES-REQUESTS-033",
+    "vehicle_id": "RES-VEHICLES-033",
+    "shelter_id": "SHE-SHELTERS-033",
+    "departure_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "people_moved": 5,
+    "route_label": "Safe route 033",
+    "trip_state": "completed",
+    "escort_code": "Escort 033",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-034",
+    "request_id": "RES-REQUESTS-034",
+    "vehicle_id": "RES-VEHICLES-034",
+    "shelter_id": "SHE-SHELTERS-034",
+    "departure_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "people_moved": 6,
+    "route_label": "Safe route 034",
+    "trip_state": "completed",
+    "escort_code": "Escort 034",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-035",
+    "request_id": "RES-REQUESTS-035",
+    "vehicle_id": "RES-VEHICLES-035",
+    "shelter_id": "SHE-SHELTERS-035",
+    "departure_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "people_moved": 2,
+    "route_label": "Safe route 035",
+    "trip_state": "completed",
+    "escort_code": "Escort 035",
+    "distance_km": 3,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-036",
+    "request_id": "RES-REQUESTS-036",
+    "vehicle_id": "RES-VEHICLES-036",
+    "shelter_id": "SHE-SHELTERS-036",
+    "departure_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "people_moved": 3,
+    "route_label": "Safe route 036",
+    "trip_state": "completed",
+    "escort_code": "Escort 036",
+    "distance_km": 4,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-037",
+    "request_id": "RES-REQUESTS-037",
+    "vehicle_id": "RES-VEHICLES-037",
+    "shelter_id": "SHE-SHELTERS-037",
+    "departure_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "people_moved": 4,
+    "route_label": "Safe route 037",
+    "trip_state": "completed",
+    "escort_code": "Escort 037",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-038",
+    "request_id": "RES-REQUESTS-038",
+    "vehicle_id": "RES-VEHICLES-038",
+    "shelter_id": "SHE-SHELTERS-038",
+    "departure_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "people_moved": 5,
+    "route_label": "Safe route 038",
+    "trip_state": "completed",
+    "escort_code": "Escort 038",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-039",
+    "request_id": "RES-REQUESTS-039",
+    "vehicle_id": "RES-VEHICLES-039",
+    "shelter_id": "SHE-SHELTERS-039",
+    "departure_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "people_moved": 6,
+    "route_label": "Safe route 039",
+    "trip_state": "completed",
+    "escort_code": "Escort 039",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-040",
+    "request_id": "RES-REQUESTS-040",
+    "vehicle_id": "RES-VEHICLES-040",
+    "shelter_id": "SHE-SHELTERS-040",
+    "departure_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "people_moved": 2,
+    "route_label": "Safe route 040",
+    "trip_state": "completed",
+    "escort_code": "Escort 040",
+    "distance_km": 3,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-041",
+    "request_id": "RES-REQUESTS-041",
+    "vehicle_id": "RES-VEHICLES-041",
+    "shelter_id": "SHE-SHELTERS-041",
+    "departure_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "people_moved": 3,
+    "route_label": "Safe route 041",
+    "trip_state": "completed",
+    "escort_code": "Escort 041",
+    "distance_km": 4,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-042",
+    "request_id": "RES-REQUESTS-042",
+    "vehicle_id": "RES-VEHICLES-042",
+    "shelter_id": "SHE-SHELTERS-042",
+    "departure_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "people_moved": 4,
+    "route_label": "Safe route 042",
+    "trip_state": "completed",
+    "escort_code": "Escort 042",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-043",
+    "request_id": "RES-REQUESTS-043",
+    "vehicle_id": "RES-VEHICLES-043",
+    "shelter_id": "SHE-SHELTERS-043",
+    "departure_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "people_moved": 5,
+    "route_label": "Safe route 043",
+    "trip_state": "completed",
+    "escort_code": "Escort 043",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-044",
+    "request_id": "RES-REQUESTS-044",
+    "vehicle_id": "RES-VEHICLES-044",
+    "shelter_id": "SHE-SHELTERS-044",
+    "departure_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "people_moved": 6,
+    "route_label": "Safe route 044",
+    "trip_state": "completed",
+    "escort_code": "Escort 044",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-045",
+    "request_id": "RES-REQUESTS-045",
+    "vehicle_id": "RES-VEHICLES-045",
+    "shelter_id": "SHE-SHELTERS-045",
+    "departure_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "people_moved": 2,
+    "route_label": "Safe route 045",
+    "trip_state": "completed",
+    "escort_code": "Escort 045",
+    "distance_km": 3,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-046",
+    "request_id": "RES-REQUESTS-046",
+    "vehicle_id": "RES-VEHICLES-046",
+    "shelter_id": "SHE-SHELTERS-046",
+    "departure_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "people_moved": 3,
+    "route_label": "Safe route 046",
+    "trip_state": "completed",
+    "escort_code": "Escort 046",
+    "distance_km": 4,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-047",
+    "request_id": "RES-REQUESTS-047",
+    "vehicle_id": "RES-VEHICLES-047",
+    "shelter_id": "SHE-SHELTERS-047",
+    "departure_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "people_moved": 4,
+    "route_label": "Safe route 047",
+    "trip_state": "completed",
+    "escort_code": "Escort 047",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-048",
+    "request_id": "RES-REQUESTS-048",
+    "vehicle_id": "RES-VEHICLES-048",
+    "shelter_id": "SHE-SHELTERS-048",
+    "departure_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "people_moved": 5,
+    "route_label": "Safe route 048",
+    "trip_state": "completed",
+    "escort_code": "Escort 048",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-049",
+    "request_id": "RES-REQUESTS-049",
+    "vehicle_id": "RES-VEHICLES-049",
+    "shelter_id": "SHE-SHELTERS-049",
+    "departure_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "people_moved": 6,
+    "route_label": "Safe route 049",
+    "trip_state": "completed",
+    "escort_code": "Escort 049",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EVACUATIONS-050",
+    "request_id": "RES-REQUESTS-050",
+    "vehicle_id": "RES-VEHICLES-050",
+    "shelter_id": "SHE-SHELTERS-050",
+    "departure_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "people_moved": 2,
+    "route_label": "Safe route 050",
+    "trip_state": "completed",
+    "escort_code": "Escort 050",
+    "distance_km": 3,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

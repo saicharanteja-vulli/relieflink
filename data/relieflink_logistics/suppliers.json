@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "LOG-SUPPLIERS-001",
+    "supplier_name": "Demo supplier 001",
+    "area_id": "INC-AREAS-001",
+    "category": "food",
+    "contact_token": "Supplier desk 001",
+    "lead_time_days": 2,
+    "rating": 2,
+    "active": true,
+    "payment_terms": "30 days 001",
+    "registered_at": {
+      "$date": "2025-12-15T00:00:00Z"
+    },
+    "delivery_radius_km": 51,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-002",
+    "supplier_name": "Demo supplier 002",
+    "area_id": "INC-AREAS-002",
+    "category": "water",
+    "contact_token": "Supplier desk 002",
+    "lead_time_days": 3,
+    "rating": 3,
+    "active": true,
+    "payment_terms": "30 days 002",
+    "registered_at": {
+      "$date": "2025-12-18T00:00:00Z"
+    },
+    "delivery_radius_km": 52,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-003",
+    "supplier_name": "Demo supplier 003",
+    "area_id": "INC-AREAS-003",
+    "category": "hygiene",
+    "contact_token": "Supplier desk 003",
+    "lead_time_days": 4,
+    "rating": 4,
+    "active": true,
+    "payment_terms": "30 days 003",
+    "registered_at": {
+      "$date": "2025-12-21T00:00:00Z"
+    },
+    "delivery_radius_km": 53,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-004",
+    "supplier_name": "Demo supplier 004",
+    "area_id": "INC-AREAS-004",
+    "category": "bedding",
+    "contact_token": "Supplier desk 004",
+    "lead_time_days": 5,
+    "rating": 5,
+    "active": true,
+    "payment_terms": "30 days 004",
+    "registered_at": {
+      "$date": "2025-12-24T00:00:00Z"
+    },
+    "delivery_radius_km": 54,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-005",
+    "supplier_name": "Demo supplier 005",
+    "area_id": "INC-AREAS-005",
+    "category": "medical",
+    "contact_token": "Supplier desk 005",
+    "lead_time_days": 1,
+    "rating": 1,
+    "active": true,
+    "payment_terms": "30 days 005",
+    "registered_at": {
+      "$date": "2025-12-27T00:00:00Z"
+    },
+    "delivery_radius_km": 50,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-006",
+    "supplier_name": "Demo supplier 006",
+    "area_id": "INC-AREAS-006",
+    "category": "food",
+    "contact_token": "Supplier desk 006",
+    "lead_time_days": 2,
+    "rating": 2,
+    "active": true,
+    "payment_terms": "30 days 006",
+    "registered_at": {
+      "$date": "2025-12-30T00:00:00Z"
+    },
+    "delivery_radius_km": 51,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-007",
+    "supplier_name": "Demo supplier 007",
+    "area_id": "INC-AREAS-007",
+    "category": "water",
+    "contact_token": "Supplier desk 007",
+    "lead_time_days": 3,
+    "rating": 3,
+    "active": true,
+    "payment_terms": "30 days 007",
+    "registered_at": {
+      "$date": "2026-01-02T00:00:00Z"
+    },
+    "delivery_radius_km": 52,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-008",
+    "supplier_name": "Demo supplier 008",
+    "area_id": "INC-AREAS-008",
+    "category": "hygiene",
+    "contact_token": "Supplier desk 008",
+    "lead_time_days": 4,
+    "rating": 4,
+    "active": true,
+    "payment_terms": "30 days 008",
+    "registered_at": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "delivery_radius_km": 53,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-009",
+    "supplier_name": "Demo supplier 009",
+    "area_id": "INC-AREAS-009",
+    "category": "bedding",
+    "contact_token": "Supplier desk 009",
+    "lead_time_days": 5,
+    "rating": 5,
+    "active": true,
+    "payment_terms": "30 days 009",
+    "registered_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "delivery_radius_km": 54,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-010",
+    "supplier_name": "Demo supplier 010",
+    "area_id": "INC-AREAS-010",
+    "category": "medical",
+    "contact_token": "Supplier desk 010",
+    "lead_time_days": 1,
+    "rating": 1,
+    "active": true,
+    "payment_terms": "30 days 010",
+    "registered_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "delivery_radius_km": 50,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-011",
+    "supplier_name": "Demo supplier 011",
+    "area_id": "INC-AREAS-011",
+    "category": "food",
+    "contact_token": "Supplier desk 011",
+    "lead_time_days": 2,
+    "rating": 2,
+    "active": true,
+    "payment_terms": "30 days 011",
+    "registered_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "delivery_radius_km": 51,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-012",
+    "supplier_name": "Demo supplier 012",
+    "area_id": "INC-AREAS-012",
+    "category": "water",
+    "contact_token": "Supplier desk 012",
+    "lead_time_days": 3,
+    "rating": 3,
+    "active": true,
+    "payment_terms": "30 days 012",
+    "registered_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "delivery_radius_km": 52,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-013",
+    "supplier_name": "Demo supplier 013",
+    "area_id": "INC-AREAS-013",
+    "category": "hygiene",
+    "contact_token": "Supplier desk 013",
+    "lead_time_days": 4,
+    "rating": 4,
+    "active": true,
+    "payment_terms": "30 days 013",
+    "registered_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "delivery_radius_km": 53,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-014",
+    "supplier_name": "Demo supplier 014",
+    "area_id": "INC-AREAS-014",
+    "category": "bedding",
+    "contact_token": "Supplier desk 014",
+    "lead_time_days": 5,
+    "rating": 5,
+    "active": true,
+    "payment_terms": "30 days 014",
+    "registered_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "delivery_radius_km": 54,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-015",
+    "supplier_name": "Demo supplier 015",
+    "area_id": "INC-AREAS-015",
+    "category": "medical",
+    "contact_token": "Supplier desk 015",
+    "lead_time_days": 1,
+    "rating": 1,
+    "active": true,
+    "payment_terms": "30 days 015",
+    "registered_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "delivery_radius_km": 50,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-016",
+    "supplier_name": "Demo supplier 016",
+    "area_id": "INC-AREAS-016",
+    "category": "food",
+    "contact_token": "Supplier desk 016",
+    "lead_time_days": 2,
+    "rating": 2,
+    "active": true,
+    "payment_terms": "30 days 016",
+    "registered_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "delivery_radius_km": 51,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-017",
+    "supplier_name": "Demo supplier 017",
+    "area_id": "INC-AREAS-017",
+    "category": "water",
+    "contact_token": "Supplier desk 017",
+    "lead_time_days": 3,
+    "rating": 3,
+    "active": true,
+    "payment_terms": "30 days 017",
+    "registered_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "delivery_radius_km": 52,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-018",
+    "supplier_name": "Demo supplier 018",
+    "area_id": "INC-AREAS-018",
+    "category": "hygiene",
+    "contact_token": "Supplier desk 018",
+    "lead_time_days": 4,
+    "rating": 4,
+    "active": true,
+    "payment_terms": "30 days 018",
+    "registered_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "delivery_radius_km": 53,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-019",
+    "supplier_name": "Demo supplier 019",
+    "area_id": "INC-AREAS-019",
+    "category": "bedding",
+    "contact_token": "Supplier desk 019",
+    "lead_time_days": 5,
+    "rating": 5,
+    "active": true,
+    "payment_terms": "30 days 019",
+    "registered_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "delivery_radius_km": 54,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-020",
+    "supplier_name": "Demo supplier 020",
+    "area_id": "INC-AREAS-020",
+    "category": "medical",
+    "contact_token": "Supplier desk 020",
+    "lead_time_days": 1,
+    "rating": 1,
+    "active": true,
+    "payment_terms": "30 days 020",
+    "registered_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "delivery_radius_km": 50,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-021",
+    "supplier_name": "Demo supplier 021",
+    "area_id": "INC-AREAS-021",
+    "category": "food",
+    "contact_token": "Supplier desk 021",
+    "lead_time_days": 2,
+    "rating": 2,
+    "active": true,
+    "payment_terms": "30 days 021",
+    "registered_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "delivery_radius_km": 51,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-022",
+    "supplier_name": "Demo supplier 022",
+    "area_id": "INC-AREAS-022",
+    "category": "water",
+    "contact_token": "Supplier desk 022",
+    "lead_time_days": 3,
+    "rating": 3,
+    "active": true,
+    "payment_terms": "30 days 022",
+    "registered_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "delivery_radius_km": 52,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-023",
+    "supplier_name": "Demo supplier 023",
+    "area_id": "INC-AREAS-023",
+    "category": "hygiene",
+    "contact_token": "Supplier desk 023",
+    "lead_time_days": 4,
+    "rating": 4,
+    "active": true,
+    "payment_terms": "30 days 023",
+    "registered_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "delivery_radius_km": 53,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-024",
+    "supplier_name": "Demo supplier 024",
+    "area_id": "INC-AREAS-024",
+    "category": "bedding",
+    "contact_token": "Supplier desk 024",
+    "lead_time_days": 5,
+    "rating": 5,
+    "active": true,
+    "payment_terms": "30 days 024",
+    "registered_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "delivery_radius_km": 54,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-025",
+    "supplier_name": "Demo supplier 025",
+    "area_id": "INC-AREAS-025",
+    "category": "medical",
+    "contact_token": "Supplier desk 025",
+    "lead_time_days": 1,
+    "rating": 1,
+    "active": true,
+    "payment_terms": "30 days 025",
+    "registered_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "delivery_radius_km": 50,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-026",
+    "supplier_name": "Demo supplier 026",
+    "area_id": "INC-AREAS-026",
+    "category": "food",
+    "contact_token": "Supplier desk 026",
+    "lead_time_days": 2,
+    "rating": 2,
+    "active": true,
+    "payment_terms": "30 days 026",
+    "registered_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "delivery_radius_km": 51,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-027",
+    "supplier_name": "Demo supplier 027",
+    "area_id": "INC-AREAS-027",
+    "category": "water",
+    "contact_token": "Supplier desk 027",
+    "lead_time_days": 3,
+    "rating": 3,
+    "active": true,
+    "payment_terms": "30 days 027",
+    "registered_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "delivery_radius_km": 52,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-028",
+    "supplier_name": "Demo supplier 028",
+    "area_id": "INC-AREAS-028",
+    "category": "hygiene",
+    "contact_token": "Supplier desk 028",
+    "lead_time_days": 4,
+    "rating": 4,
+    "active": true,
+    "payment_terms": "30 days 028",
+    "registered_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "delivery_radius_km": 53,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-029",
+    "supplier_name": "Demo supplier 029",
+    "area_id": "INC-AREAS-029",
+    "category": "bedding",
+    "contact_token": "Supplier desk 029",
+    "lead_time_days": 5,
+    "rating": 5,
+    "active": true,
+    "payment_terms": "30 days 029",
+    "registered_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "delivery_radius_km": 54,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-030",
+    "supplier_name": "Demo supplier 030",
+    "area_id": "INC-AREAS-030",
+    "category": "medical",
+    "contact_token": "Supplier desk 030",
+    "lead_time_days": 1,
+    "rating": 1,
+    "active": true,
+    "payment_terms": "30 days 030",
+    "registered_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "delivery_radius_km": 50,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-031",
+    "supplier_name": "Demo supplier 031",
+    "area_id": "INC-AREAS-031",
+    "category": "food",
+    "contact_token": "Supplier desk 031",
+    "lead_time_days": 2,
+    "rating": 2,
+    "active": true,
+    "payment_terms": "30 days 031",
+    "registered_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "delivery_radius_km": 51,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-032",
+    "supplier_name": "Demo supplier 032",
+    "area_id": "INC-AREAS-032",
+    "category": "water",
+    "contact_token": "Supplier desk 032",
+    "lead_time_days": 3,
+    "rating": 3,
+    "active": true,
+    "payment_terms": "30 days 032",
+    "registered_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "delivery_radius_km": 52,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-033",
+    "supplier_name": "Demo supplier 033",
+    "area_id": "INC-AREAS-033",
+    "category": "hygiene",
+    "contact_token": "Supplier desk 033",
+    "lead_time_days": 4,
+    "rating": 4,
+    "active": true,
+    "payment_terms": "30 days 033",
+    "registered_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "delivery_radius_km": 53,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-034",
+    "supplier_name": "Demo supplier 034",
+    "area_id": "INC-AREAS-034",
+    "category": "bedding",
+    "contact_token": "Supplier desk 034",
+    "lead_time_days": 5,
+    "rating": 5,
+    "active": true,
+    "payment_terms": "30 days 034",
+    "registered_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "delivery_radius_km": 54,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-035",
+    "supplier_name": "Demo supplier 035",
+    "area_id": "INC-AREAS-035",
+    "category": "medical",
+    "contact_token": "Supplier desk 035",
+    "lead_time_days": 1,
+    "rating": 1,
+    "active": true,
+    "payment_terms": "30 days 035",
+    "registered_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "delivery_radius_km": 50,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-036",
+    "supplier_name": "Demo supplier 036",
+    "area_id": "INC-AREAS-036",
+    "category": "food",
+    "contact_token": "Supplier desk 036",
+    "lead_time_days": 2,
+    "rating": 2,
+    "active": true,
+    "payment_terms": "30 days 036",
+    "registered_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "delivery_radius_km": 51,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-037",
+    "supplier_name": "Demo supplier 037",
+    "area_id": "INC-AREAS-037",
+    "category": "water",
+    "contact_token": "Supplier desk 037",
+    "lead_time_days": 3,
+    "rating": 3,
+    "active": true,
+    "payment_terms": "30 days 037",
+    "registered_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "delivery_radius_km": 52,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-038",
+    "supplier_name": "Demo supplier 038",
+    "area_id": "INC-AREAS-038",
+    "category": "hygiene",
+    "contact_token": "Supplier desk 038",
+    "lead_time_days": 4,
+    "rating": 4,
+    "active": true,
+    "payment_terms": "30 days 038",
+    "registered_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "delivery_radius_km": 53,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-039",
+    "supplier_name": "Demo supplier 039",
+    "area_id": "INC-AREAS-039",
+    "category": "bedding",
+    "contact_token": "Supplier desk 039",
+    "lead_time_days": 5,
+    "rating": 5,
+    "active": true,
+    "payment_terms": "30 days 039",
+    "registered_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "delivery_radius_km": 54,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-040",
+    "supplier_name": "Demo supplier 040",
+    "area_id": "INC-AREAS-040",
+    "category": "medical",
+    "contact_token": "Supplier desk 040",
+    "lead_time_days": 1,
+    "rating": 1,
+    "active": true,
+    "payment_terms": "30 days 040",
+    "registered_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "delivery_radius_km": 50,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-041",
+    "supplier_name": "Demo supplier 041",
+    "area_id": "INC-AREAS-041",
+    "category": "food",
+    "contact_token": "Supplier desk 041",
+    "lead_time_days": 2,
+    "rating": 2,
+    "active": true,
+    "payment_terms": "30 days 041",
+    "registered_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "delivery_radius_km": 51,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-042",
+    "supplier_name": "Demo supplier 042",
+    "area_id": "INC-AREAS-042",
+    "category": "water",
+    "contact_token": "Supplier desk 042",
+    "lead_time_days": 3,
+    "rating": 3,
+    "active": true,
+    "payment_terms": "30 days 042",
+    "registered_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "delivery_radius_km": 52,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-043",
+    "supplier_name": "Demo supplier 043",
+    "area_id": "INC-AREAS-043",
+    "category": "hygiene",
+    "contact_token": "Supplier desk 043",
+    "lead_time_days": 4,
+    "rating": 4,
+    "active": true,
+    "payment_terms": "30 days 043",
+    "registered_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "delivery_radius_km": 53,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-044",
+    "supplier_name": "Demo supplier 044",
+    "area_id": "INC-AREAS-044",
+    "category": "bedding",
+    "contact_token": "Supplier desk 044",
+    "lead_time_days": 5,
+    "rating": 5,
+    "active": true,
+    "payment_terms": "30 days 044",
+    "registered_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "delivery_radius_km": 54,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-045",
+    "supplier_name": "Demo supplier 045",
+    "area_id": "INC-AREAS-045",
+    "category": "medical",
+    "contact_token": "Supplier desk 045",
+    "lead_time_days": 1,
+    "rating": 1,
+    "active": true,
+    "payment_terms": "30 days 045",
+    "registered_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "delivery_radius_km": 50,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-046",
+    "supplier_name": "Demo supplier 046",
+    "area_id": "INC-AREAS-046",
+    "category": "food",
+    "contact_token": "Supplier desk 046",
+    "lead_time_days": 2,
+    "rating": 2,
+    "active": true,
+    "payment_terms": "30 days 046",
+    "registered_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "delivery_radius_km": 51,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-047",
+    "supplier_name": "Demo supplier 047",
+    "area_id": "INC-AREAS-047",
+    "category": "water",
+    "contact_token": "Supplier desk 047",
+    "lead_time_days": 3,
+    "rating": 3,
+    "active": true,
+    "payment_terms": "30 days 047",
+    "registered_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "delivery_radius_km": 52,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-048",
+    "supplier_name": "Demo supplier 048",
+    "area_id": "INC-AREAS-048",
+    "category": "hygiene",
+    "contact_token": "Supplier desk 048",
+    "lead_time_days": 4,
+    "rating": 4,
+    "active": true,
+    "payment_terms": "30 days 048",
+    "registered_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "delivery_radius_km": 53,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-049",
+    "supplier_name": "Demo supplier 049",
+    "area_id": "INC-AREAS-049",
+    "category": "bedding",
+    "contact_token": "Supplier desk 049",
+    "lead_time_days": 5,
+    "rating": 5,
+    "active": true,
+    "payment_terms": "30 days 049",
+    "registered_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "delivery_radius_km": 54,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-SUPPLIERS-050",
+    "supplier_name": "Demo supplier 050",
+    "area_id": "INC-AREAS-050",
+    "category": "medical",
+    "contact_token": "Supplier desk 050",
+    "lead_time_days": 1,
+    "rating": 1,
+    "active": true,
+    "payment_terms": "30 days 050",
+    "registered_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "delivery_radius_km": 50,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

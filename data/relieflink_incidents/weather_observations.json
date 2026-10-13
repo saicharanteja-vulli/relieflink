@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-001",
+    "event_id": "INC-EVENTS-001",
+    "area_id": "INC-AREAS-001",
+    "observed_at": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "rainfall_mm": 11,
+    "wind_kmh": 21,
+    "temperature_c": 26,
+    "humidity_pct": 41,
+    "station_name": "Demo station 001",
+    "visibility_km": 2,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-002",
+    "event_id": "INC-EVENTS-002",
+    "area_id": "INC-AREAS-002",
+    "observed_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "rainfall_mm": 12,
+    "wind_kmh": 22,
+    "temperature_c": 27,
+    "humidity_pct": 42,
+    "station_name": "Demo station 002",
+    "visibility_km": 3,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-003",
+    "event_id": "INC-EVENTS-003",
+    "area_id": "INC-AREAS-003",
+    "observed_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "rainfall_mm": 13,
+    "wind_kmh": 23,
+    "temperature_c": 28,
+    "humidity_pct": 43,
+    "station_name": "Demo station 003",
+    "visibility_km": 4,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-004",
+    "event_id": "INC-EVENTS-004",
+    "area_id": "INC-AREAS-004",
+    "observed_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "rainfall_mm": 14,
+    "wind_kmh": 24,
+    "temperature_c": 29,
+    "humidity_pct": 44,
+    "station_name": "Demo station 004",
+    "visibility_km": 5,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-005",
+    "event_id": "INC-EVENTS-005",
+    "area_id": "INC-AREAS-005",
+    "observed_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "rainfall_mm": 10,
+    "wind_kmh": 20,
+    "temperature_c": 25,
+    "humidity_pct": 40,
+    "station_name": "Demo station 005",
+    "visibility_km": 1,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-006",
+    "event_id": "INC-EVENTS-006",
+    "area_id": "INC-AREAS-006",
+    "observed_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "rainfall_mm": 11,
+    "wind_kmh": 21,
+    "temperature_c": 26,
+    "humidity_pct": 41,
+    "station_name": "Demo station 006",
+    "visibility_km": 2,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-007",
+    "event_id": "INC-EVENTS-007",
+    "area_id": "INC-AREAS-007",
+    "observed_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "rainfall_mm": 12,
+    "wind_kmh": 22,
+    "temperature_c": 27,
+    "humidity_pct": 42,
+    "station_name": "Demo station 007",
+    "visibility_km": 3,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-008",
+    "event_id": "INC-EVENTS-008",
+    "area_id": "INC-AREAS-008",
+    "observed_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "rainfall_mm": 13,
+    "wind_kmh": 23,
+    "temperature_c": 28,
+    "humidity_pct": 43,
+    "station_name": "Demo station 008",
+    "visibility_km": 4,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-009",
+    "event_id": "INC-EVENTS-009",
+    "area_id": "INC-AREAS-009",
+    "observed_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "rainfall_mm": 14,
+    "wind_kmh": 24,
+    "temperature_c": 29,
+    "humidity_pct": 44,
+    "station_name": "Demo station 009",
+    "visibility_km": 5,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-010",
+    "event_id": "INC-EVENTS-010",
+    "area_id": "INC-AREAS-010",
+    "observed_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "rainfall_mm": 10,
+    "wind_kmh": 20,
+    "temperature_c": 25,
+    "humidity_pct": 40,
+    "station_name": "Demo station 010",
+    "visibility_km": 1,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-011",
+    "event_id": "INC-EVENTS-011",
+    "area_id": "INC-AREAS-011",
+    "observed_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "rainfall_mm": 11,
+    "wind_kmh": 21,
+    "temperature_c": 26,
+    "humidity_pct": 41,
+    "station_name": "Demo station 011",
+    "visibility_km": 2,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-012",
+    "event_id": "INC-EVENTS-012",
+    "area_id": "INC-AREAS-012",
+    "observed_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "rainfall_mm": 12,
+    "wind_kmh": 22,
+    "temperature_c": 27,
+    "humidity_pct": 42,
+    "station_name": "Demo station 012",
+    "visibility_km": 3,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-013",
+    "event_id": "INC-EVENTS-013",
+    "area_id": "INC-AREAS-013",
+    "observed_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "rainfall_mm": 13,
+    "wind_kmh": 23,
+    "temperature_c": 28,
+    "humidity_pct": 43,
+    "station_name": "Demo station 013",
+    "visibility_km": 4,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-014",
+    "event_id": "INC-EVENTS-014",
+    "area_id": "INC-AREAS-014",
+    "observed_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "rainfall_mm": 14,
+    "wind_kmh": 24,
+    "temperature_c": 29,
+    "humidity_pct": 44,
+    "station_name": "Demo station 014",
+    "visibility_km": 5,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-015",
+    "event_id": "INC-EVENTS-015",
+    "area_id": "INC-AREAS-015",
+    "observed_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "rainfall_mm": 10,
+    "wind_kmh": 20,
+    "temperature_c": 25,
+    "humidity_pct": 40,
+    "station_name": "Demo station 015",
+    "visibility_km": 1,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-016",
+    "event_id": "INC-EVENTS-016",
+    "area_id": "INC-AREAS-016",
+    "observed_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "rainfall_mm": 11,
+    "wind_kmh": 21,
+    "temperature_c": 26,
+    "humidity_pct": 41,
+    "station_name": "Demo station 016",
+    "visibility_km": 2,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-017",
+    "event_id": "INC-EVENTS-017",
+    "area_id": "INC-AREAS-017",
+    "observed_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "rainfall_mm": 12,
+    "wind_kmh": 22,
+    "temperature_c": 27,
+    "humidity_pct": 42,
+    "station_name": "Demo station 017",
+    "visibility_km": 3,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-018",
+    "event_id": "INC-EVENTS-018",
+    "area_id": "INC-AREAS-018",
+    "observed_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "rainfall_mm": 13,
+    "wind_kmh": 23,
+    "temperature_c": 28,
+    "humidity_pct": 43,
+    "station_name": "Demo station 018",
+    "visibility_km": 4,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-019",
+    "event_id": "INC-EVENTS-019",
+    "area_id": "INC-AREAS-019",
+    "observed_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "rainfall_mm": 14,
+    "wind_kmh": 24,
+    "temperature_c": 29,
+    "humidity_pct": 44,
+    "station_name": "Demo station 019",
+    "visibility_km": 5,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-020",
+    "event_id": "INC-EVENTS-020",
+    "area_id": "INC-AREAS-020",
+    "observed_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "rainfall_mm": 10,
+    "wind_kmh": 20,
+    "temperature_c": 25,
+    "humidity_pct": 40,
+    "station_name": "Demo station 020",
+    "visibility_km": 1,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-021",
+    "event_id": "INC-EVENTS-021",
+    "area_id": "INC-AREAS-021",
+    "observed_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "rainfall_mm": 11,
+    "wind_kmh": 21,
+    "temperature_c": 26,
+    "humidity_pct": 41,
+    "station_name": "Demo station 021",
+    "visibility_km": 2,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-022",
+    "event_id": "INC-EVENTS-022",
+    "area_id": "INC-AREAS-022",
+    "observed_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "rainfall_mm": 12,
+    "wind_kmh": 22,
+    "temperature_c": 27,
+    "humidity_pct": 42,
+    "station_name": "Demo station 022",
+    "visibility_km": 3,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-023",
+    "event_id": "INC-EVENTS-023",
+    "area_id": "INC-AREAS-023",
+    "observed_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "rainfall_mm": 13,
+    "wind_kmh": 23,
+    "temperature_c": 28,
+    "humidity_pct": 43,
+    "station_name": "Demo station 023",
+    "visibility_km": 4,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-024",
+    "event_id": "INC-EVENTS-024",
+    "area_id": "INC-AREAS-024",
+    "observed_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "rainfall_mm": 14,
+    "wind_kmh": 24,
+    "temperature_c": 29,
+    "humidity_pct": 44,
+    "station_name": "Demo station 024",
+    "visibility_km": 5,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-025",
+    "event_id": "INC-EVENTS-025",
+    "area_id": "INC-AREAS-025",
+    "observed_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "rainfall_mm": 10,
+    "wind_kmh": 20,
+    "temperature_c": 25,
+    "humidity_pct": 40,
+    "station_name": "Demo station 025",
+    "visibility_km": 1,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-026",
+    "event_id": "INC-EVENTS-026",
+    "area_id": "INC-AREAS-026",
+    "observed_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "rainfall_mm": 11,
+    "wind_kmh": 21,
+    "temperature_c": 26,
+    "humidity_pct": 41,
+    "station_name": "Demo station 026",
+    "visibility_km": 2,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-027",
+    "event_id": "INC-EVENTS-027",
+    "area_id": "INC-AREAS-027",
+    "observed_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "rainfall_mm": 12,
+    "wind_kmh": 22,
+    "temperature_c": 27,
+    "humidity_pct": 42,
+    "station_name": "Demo station 027",
+    "visibility_km": 3,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-028",
+    "event_id": "INC-EVENTS-028",
+    "area_id": "INC-AREAS-028",
+    "observed_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "rainfall_mm": 13,
+    "wind_kmh": 23,
+    "temperature_c": 28,
+    "humidity_pct": 43,
+    "station_name": "Demo station 028",
+    "visibility_km": 4,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-029",
+    "event_id": "INC-EVENTS-029",
+    "area_id": "INC-AREAS-029",
+    "observed_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "rainfall_mm": 14,
+    "wind_kmh": 24,
+    "temperature_c": 29,
+    "humidity_pct": 44,
+    "station_name": "Demo station 029",
+    "visibility_km": 5,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-030",
+    "event_id": "INC-EVENTS-030",
+    "area_id": "INC-AREAS-030",
+    "observed_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "rainfall_mm": 10,
+    "wind_kmh": 20,
+    "temperature_c": 25,
+    "humidity_pct": 40,
+    "station_name": "Demo station 030",
+    "visibility_km": 1,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-031",
+    "event_id": "INC-EVENTS-031",
+    "area_id": "INC-AREAS-031",
+    "observed_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "rainfall_mm": 11,
+    "wind_kmh": 21,
+    "temperature_c": 26,
+    "humidity_pct": 41,
+    "station_name": "Demo station 031",
+    "visibility_km": 2,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-032",
+    "event_id": "INC-EVENTS-032",
+    "area_id": "INC-AREAS-032",
+    "observed_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "rainfall_mm": 12,
+    "wind_kmh": 22,
+    "temperature_c": 27,
+    "humidity_pct": 42,
+    "station_name": "Demo station 032",
+    "visibility_km": 3,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-033",
+    "event_id": "INC-EVENTS-033",
+    "area_id": "INC-AREAS-033",
+    "observed_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "rainfall_mm": 13,
+    "wind_kmh": 23,
+    "temperature_c": 28,
+    "humidity_pct": 43,
+    "station_name": "Demo station 033",
+    "visibility_km": 4,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-034",
+    "event_id": "INC-EVENTS-034",
+    "area_id": "INC-AREAS-034",
+    "observed_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "rainfall_mm": 14,
+    "wind_kmh": 24,
+    "temperature_c": 29,
+    "humidity_pct": 44,
+    "station_name": "Demo station 034",
+    "visibility_km": 5,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-035",
+    "event_id": "INC-EVENTS-035",
+    "area_id": "INC-AREAS-035",
+    "observed_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "rainfall_mm": 10,
+    "wind_kmh": 20,
+    "temperature_c": 25,
+    "humidity_pct": 40,
+    "station_name": "Demo station 035",
+    "visibility_km": 1,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-036",
+    "event_id": "INC-EVENTS-036",
+    "area_id": "INC-AREAS-036",
+    "observed_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "rainfall_mm": 11,
+    "wind_kmh": 21,
+    "temperature_c": 26,
+    "humidity_pct": 41,
+    "station_name": "Demo station 036",
+    "visibility_km": 2,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-037",
+    "event_id": "INC-EVENTS-037",
+    "area_id": "INC-AREAS-037",
+    "observed_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "rainfall_mm": 12,
+    "wind_kmh": 22,
+    "temperature_c": 27,
+    "humidity_pct": 42,
+    "station_name": "Demo station 037",
+    "visibility_km": 3,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-038",
+    "event_id": "INC-EVENTS-038",
+    "area_id": "INC-AREAS-038",
+    "observed_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "rainfall_mm": 13,
+    "wind_kmh": 23,
+    "temperature_c": 28,
+    "humidity_pct": 43,
+    "station_name": "Demo station 038",
+    "visibility_km": 4,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-039",
+    "event_id": "INC-EVENTS-039",
+    "area_id": "INC-AREAS-039",
+    "observed_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "rainfall_mm": 14,
+    "wind_kmh": 24,
+    "temperature_c": 29,
+    "humidity_pct": 44,
+    "station_name": "Demo station 039",
+    "visibility_km": 5,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-040",
+    "event_id": "INC-EVENTS-040",
+    "area_id": "INC-AREAS-040",
+    "observed_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "rainfall_mm": 10,
+    "wind_kmh": 20,
+    "temperature_c": 25,
+    "humidity_pct": 40,
+    "station_name": "Demo station 040",
+    "visibility_km": 1,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-041",
+    "event_id": "INC-EVENTS-041",
+    "area_id": "INC-AREAS-041",
+    "observed_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "rainfall_mm": 11,
+    "wind_kmh": 21,
+    "temperature_c": 26,
+    "humidity_pct": 41,
+    "station_name": "Demo station 041",
+    "visibility_km": 2,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-042",
+    "event_id": "INC-EVENTS-042",
+    "area_id": "INC-AREAS-042",
+    "observed_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "rainfall_mm": 12,
+    "wind_kmh": 22,
+    "temperature_c": 27,
+    "humidity_pct": 42,
+    "station_name": "Demo station 042",
+    "visibility_km": 3,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-043",
+    "event_id": "INC-EVENTS-043",
+    "area_id": "INC-AREAS-043",
+    "observed_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "rainfall_mm": 13,
+    "wind_kmh": 23,
+    "temperature_c": 28,
+    "humidity_pct": 43,
+    "station_name": "Demo station 043",
+    "visibility_km": 4,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-044",
+    "event_id": "INC-EVENTS-044",
+    "area_id": "INC-AREAS-044",
+    "observed_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "rainfall_mm": 14,
+    "wind_kmh": 24,
+    "temperature_c": 29,
+    "humidity_pct": 44,
+    "station_name": "Demo station 044",
+    "visibility_km": 5,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-045",
+    "event_id": "INC-EVENTS-045",
+    "area_id": "INC-AREAS-045",
+    "observed_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "rainfall_mm": 10,
+    "wind_kmh": 20,
+    "temperature_c": 25,
+    "humidity_pct": 40,
+    "station_name": "Demo station 045",
+    "visibility_km": 1,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-046",
+    "event_id": "INC-EVENTS-046",
+    "area_id": "INC-AREAS-046",
+    "observed_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "rainfall_mm": 11,
+    "wind_kmh": 21,
+    "temperature_c": 26,
+    "humidity_pct": 41,
+    "station_name": "Demo station 046",
+    "visibility_km": 2,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-047",
+    "event_id": "INC-EVENTS-047",
+    "area_id": "INC-AREAS-047",
+    "observed_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "rainfall_mm": 12,
+    "wind_kmh": 22,
+    "temperature_c": 27,
+    "humidity_pct": 42,
+    "station_name": "Demo station 047",
+    "visibility_km": 3,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-048",
+    "event_id": "INC-EVENTS-048",
+    "area_id": "INC-AREAS-048",
+    "observed_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "rainfall_mm": 13,
+    "wind_kmh": 23,
+    "temperature_c": 28,
+    "humidity_pct": 43,
+    "station_name": "Demo station 048",
+    "visibility_km": 4,
+    "warning_level": "low",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-049",
+    "event_id": "INC-EVENTS-049",
+    "area_id": "INC-AREAS-049",
+    "observed_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "rainfall_mm": 14,
+    "wind_kmh": 24,
+    "temperature_c": 29,
+    "humidity_pct": 44,
+    "station_name": "Demo station 049",
+    "visibility_km": 5,
+    "warning_level": "high",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-WEATHER_OBSERVATIONS-050",
+    "event_id": "INC-EVENTS-050",
+    "area_id": "INC-AREAS-050",
+    "observed_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "rainfall_mm": 10,
+    "wind_kmh": 20,
+    "temperature_c": 25,
+    "humidity_pct": 40,
+    "station_name": "Demo station 050",
+    "visibility_km": 1,
+    "warning_level": "medium",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "DON-RECEIPTS-001",
+    "donation_id": "DON-DONATIONS-001",
+    "donor_id": "DON-DONORS-001",
+    "issued_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 001",
+    "amount_inr": 10001,
+    "currency": "INR",
+    "issued_by": "Finance officer 001",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-002",
+    "donation_id": "DON-DONATIONS-002",
+    "donor_id": "DON-DONORS-002",
+    "issued_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 002",
+    "amount_inr": 10002,
+    "currency": "INR",
+    "issued_by": "Finance officer 002",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-003",
+    "donation_id": "DON-DONATIONS-003",
+    "donor_id": "DON-DONORS-003",
+    "issued_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 003",
+    "amount_inr": 10003,
+    "currency": "INR",
+    "issued_by": "Finance officer 003",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-004",
+    "donation_id": "DON-DONATIONS-004",
+    "donor_id": "DON-DONORS-004",
+    "issued_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 004",
+    "amount_inr": 10004,
+    "currency": "INR",
+    "issued_by": "Finance officer 004",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-005",
+    "donation_id": "DON-DONATIONS-005",
+    "donor_id": "DON-DONORS-005",
+    "issued_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 005",
+    "amount_inr": 10000,
+    "currency": "INR",
+    "issued_by": "Finance officer 005",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-006",
+    "donation_id": "DON-DONATIONS-006",
+    "donor_id": "DON-DONORS-006",
+    "issued_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 006",
+    "amount_inr": 10001,
+    "currency": "INR",
+    "issued_by": "Finance officer 006",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-007",
+    "donation_id": "DON-DONATIONS-007",
+    "donor_id": "DON-DONORS-007",
+    "issued_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 007",
+    "amount_inr": 10002,
+    "currency": "INR",
+    "issued_by": "Finance officer 007",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-008",
+    "donation_id": "DON-DONATIONS-008",
+    "donor_id": "DON-DONORS-008",
+    "issued_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 008",
+    "amount_inr": 10003,
+    "currency": "INR",
+    "issued_by": "Finance officer 008",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-009",
+    "donation_id": "DON-DONATIONS-009",
+    "donor_id": "DON-DONORS-009",
+    "issued_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 009",
+    "amount_inr": 10004,
+    "currency": "INR",
+    "issued_by": "Finance officer 009",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-010",
+    "donation_id": "DON-DONATIONS-010",
+    "donor_id": "DON-DONORS-010",
+    "issued_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 010",
+    "amount_inr": 10000,
+    "currency": "INR",
+    "issued_by": "Finance officer 010",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-011",
+    "donation_id": "DON-DONATIONS-011",
+    "donor_id": "DON-DONORS-011",
+    "issued_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 011",
+    "amount_inr": 10001,
+    "currency": "INR",
+    "issued_by": "Finance officer 011",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-012",
+    "donation_id": "DON-DONATIONS-012",
+    "donor_id": "DON-DONORS-012",
+    "issued_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 012",
+    "amount_inr": 10002,
+    "currency": "INR",
+    "issued_by": "Finance officer 012",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-013",
+    "donation_id": "DON-DONATIONS-013",
+    "donor_id": "DON-DONORS-013",
+    "issued_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 013",
+    "amount_inr": 10003,
+    "currency": "INR",
+    "issued_by": "Finance officer 013",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-014",
+    "donation_id": "DON-DONATIONS-014",
+    "donor_id": "DON-DONORS-014",
+    "issued_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 014",
+    "amount_inr": 10004,
+    "currency": "INR",
+    "issued_by": "Finance officer 014",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-015",
+    "donation_id": "DON-DONATIONS-015",
+    "donor_id": "DON-DONORS-015",
+    "issued_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 015",
+    "amount_inr": 10000,
+    "currency": "INR",
+    "issued_by": "Finance officer 015",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-016",
+    "donation_id": "DON-DONATIONS-016",
+    "donor_id": "DON-DONORS-016",
+    "issued_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 016",
+    "amount_inr": 10001,
+    "currency": "INR",
+    "issued_by": "Finance officer 016",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-017",
+    "donation_id": "DON-DONATIONS-017",
+    "donor_id": "DON-DONORS-017",
+    "issued_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 017",
+    "amount_inr": 10002,
+    "currency": "INR",
+    "issued_by": "Finance officer 017",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-018",
+    "donation_id": "DON-DONATIONS-018",
+    "donor_id": "DON-DONORS-018",
+    "issued_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 018",
+    "amount_inr": 10003,
+    "currency": "INR",
+    "issued_by": "Finance officer 018",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-019",
+    "donation_id": "DON-DONATIONS-019",
+    "donor_id": "DON-DONORS-019",
+    "issued_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 019",
+    "amount_inr": 10004,
+    "currency": "INR",
+    "issued_by": "Finance officer 019",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-020",
+    "donation_id": "DON-DONATIONS-020",
+    "donor_id": "DON-DONORS-020",
+    "issued_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 020",
+    "amount_inr": 10000,
+    "currency": "INR",
+    "issued_by": "Finance officer 020",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-021",
+    "donation_id": "DON-DONATIONS-021",
+    "donor_id": "DON-DONORS-021",
+    "issued_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 021",
+    "amount_inr": 10001,
+    "currency": "INR",
+    "issued_by": "Finance officer 021",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-022",
+    "donation_id": "DON-DONATIONS-022",
+    "donor_id": "DON-DONORS-022",
+    "issued_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 022",
+    "amount_inr": 10002,
+    "currency": "INR",
+    "issued_by": "Finance officer 022",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-023",
+    "donation_id": "DON-DONATIONS-023",
+    "donor_id": "DON-DONORS-023",
+    "issued_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 023",
+    "amount_inr": 10003,
+    "currency": "INR",
+    "issued_by": "Finance officer 023",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-024",
+    "donation_id": "DON-DONATIONS-024",
+    "donor_id": "DON-DONORS-024",
+    "issued_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 024",
+    "amount_inr": 10004,
+    "currency": "INR",
+    "issued_by": "Finance officer 024",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-025",
+    "donation_id": "DON-DONATIONS-025",
+    "donor_id": "DON-DONORS-025",
+    "issued_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 025",
+    "amount_inr": 10000,
+    "currency": "INR",
+    "issued_by": "Finance officer 025",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-026",
+    "donation_id": "DON-DONATIONS-026",
+    "donor_id": "DON-DONORS-026",
+    "issued_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 026",
+    "amount_inr": 10001,
+    "currency": "INR",
+    "issued_by": "Finance officer 026",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-027",
+    "donation_id": "DON-DONATIONS-027",
+    "donor_id": "DON-DONORS-027",
+    "issued_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 027",
+    "amount_inr": 10002,
+    "currency": "INR",
+    "issued_by": "Finance officer 027",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-028",
+    "donation_id": "DON-DONATIONS-028",
+    "donor_id": "DON-DONORS-028",
+    "issued_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 028",
+    "amount_inr": 10003,
+    "currency": "INR",
+    "issued_by": "Finance officer 028",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-029",
+    "donation_id": "DON-DONATIONS-029",
+    "donor_id": "DON-DONORS-029",
+    "issued_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 029",
+    "amount_inr": 10004,
+    "currency": "INR",
+    "issued_by": "Finance officer 029",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-030",
+    "donation_id": "DON-DONATIONS-030",
+    "donor_id": "DON-DONORS-030",
+    "issued_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 030",
+    "amount_inr": 10000,
+    "currency": "INR",
+    "issued_by": "Finance officer 030",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-031",
+    "donation_id": "DON-DONATIONS-031",
+    "donor_id": "DON-DONORS-031",
+    "issued_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 031",
+    "amount_inr": 10001,
+    "currency": "INR",
+    "issued_by": "Finance officer 031",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-032",
+    "donation_id": "DON-DONATIONS-032",
+    "donor_id": "DON-DONORS-032",
+    "issued_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 032",
+    "amount_inr": 10002,
+    "currency": "INR",
+    "issued_by": "Finance officer 032",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-033",
+    "donation_id": "DON-DONATIONS-033",
+    "donor_id": "DON-DONORS-033",
+    "issued_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 033",
+    "amount_inr": 10003,
+    "currency": "INR",
+    "issued_by": "Finance officer 033",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-034",
+    "donation_id": "DON-DONATIONS-034",
+    "donor_id": "DON-DONORS-034",
+    "issued_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 034",
+    "amount_inr": 10004,
+    "currency": "INR",
+    "issued_by": "Finance officer 034",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-035",
+    "donation_id": "DON-DONATIONS-035",
+    "donor_id": "DON-DONORS-035",
+    "issued_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 035",
+    "amount_inr": 10000,
+    "currency": "INR",
+    "issued_by": "Finance officer 035",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-036",
+    "donation_id": "DON-DONATIONS-036",
+    "donor_id": "DON-DONORS-036",
+    "issued_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 036",
+    "amount_inr": 10001,
+    "currency": "INR",
+    "issued_by": "Finance officer 036",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-037",
+    "donation_id": "DON-DONATIONS-037",
+    "donor_id": "DON-DONORS-037",
+    "issued_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 037",
+    "amount_inr": 10002,
+    "currency": "INR",
+    "issued_by": "Finance officer 037",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-038",
+    "donation_id": "DON-DONATIONS-038",
+    "donor_id": "DON-DONORS-038",
+    "issued_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 038",
+    "amount_inr": 10003,
+    "currency": "INR",
+    "issued_by": "Finance officer 038",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-039",
+    "donation_id": "DON-DONATIONS-039",
+    "donor_id": "DON-DONORS-039",
+    "issued_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 039",
+    "amount_inr": 10004,
+    "currency": "INR",
+    "issued_by": "Finance officer 039",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-040",
+    "donation_id": "DON-DONATIONS-040",
+    "donor_id": "DON-DONORS-040",
+    "issued_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 040",
+    "amount_inr": 10000,
+    "currency": "INR",
+    "issued_by": "Finance officer 040",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-041",
+    "donation_id": "DON-DONATIONS-041",
+    "donor_id": "DON-DONORS-041",
+    "issued_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 041",
+    "amount_inr": 10001,
+    "currency": "INR",
+    "issued_by": "Finance officer 041",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-042",
+    "donation_id": "DON-DONATIONS-042",
+    "donor_id": "DON-DONORS-042",
+    "issued_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 042",
+    "amount_inr": 10002,
+    "currency": "INR",
+    "issued_by": "Finance officer 042",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-043",
+    "donation_id": "DON-DONATIONS-043",
+    "donor_id": "DON-DONORS-043",
+    "issued_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 043",
+    "amount_inr": 10003,
+    "currency": "INR",
+    "issued_by": "Finance officer 043",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-044",
+    "donation_id": "DON-DONATIONS-044",
+    "donor_id": "DON-DONORS-044",
+    "issued_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 044",
+    "amount_inr": 10004,
+    "currency": "INR",
+    "issued_by": "Finance officer 044",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-045",
+    "donation_id": "DON-DONATIONS-045",
+    "donor_id": "DON-DONORS-045",
+    "issued_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 045",
+    "amount_inr": 10000,
+    "currency": "INR",
+    "issued_by": "Finance officer 045",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-046",
+    "donation_id": "DON-DONATIONS-046",
+    "donor_id": "DON-DONORS-046",
+    "issued_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 046",
+    "amount_inr": 10001,
+    "currency": "INR",
+    "issued_by": "Finance officer 046",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-047",
+    "donation_id": "DON-DONATIONS-047",
+    "donor_id": "DON-DONORS-047",
+    "issued_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 047",
+    "amount_inr": 10002,
+    "currency": "INR",
+    "issued_by": "Finance officer 047",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-048",
+    "donation_id": "DON-DONATIONS-048",
+    "donor_id": "DON-DONORS-048",
+    "issued_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 048",
+    "amount_inr": 10003,
+    "currency": "INR",
+    "issued_by": "Finance officer 048",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-049",
+    "donation_id": "DON-DONATIONS-049",
+    "donor_id": "DON-DONORS-049",
+    "issued_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 049",
+    "amount_inr": 10004,
+    "currency": "INR",
+    "issued_by": "Finance officer 049",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-RECEIPTS-050",
+    "donation_id": "DON-DONATIONS-050",
+    "donor_id": "DON-DONORS-050",
+    "issued_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "receipt_number": "Donation receipt 050",
+    "amount_inr": 10000,
+    "currency": "INR",
+    "issued_by": "Finance officer 050",
+    "delivery_method": "digital",
+    "receipt_state": "issued",
+    "acknowledgment": "Exercise donation acknowledgment 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

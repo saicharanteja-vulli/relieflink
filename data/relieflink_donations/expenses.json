@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "DON-EXPENSES-001",
+    "allocation_id": "DON-ALLOCATIONS-001",
+    "spent_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "amount_inr": 3001,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 001",
+    "invoice_code": "Invoice 001",
+    "approved_by": "Finance lead 001",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-002",
+    "allocation_id": "DON-ALLOCATIONS-002",
+    "spent_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "amount_inr": 3002,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 002",
+    "invoice_code": "Invoice 002",
+    "approved_by": "Finance lead 002",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-003",
+    "allocation_id": "DON-ALLOCATIONS-003",
+    "spent_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "amount_inr": 3003,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 003",
+    "invoice_code": "Invoice 003",
+    "approved_by": "Finance lead 003",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-004",
+    "allocation_id": "DON-ALLOCATIONS-004",
+    "spent_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "amount_inr": 3004,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 004",
+    "invoice_code": "Invoice 004",
+    "approved_by": "Finance lead 004",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-005",
+    "allocation_id": "DON-ALLOCATIONS-005",
+    "spent_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "amount_inr": 3000,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 005",
+    "invoice_code": "Invoice 005",
+    "approved_by": "Finance lead 005",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-006",
+    "allocation_id": "DON-ALLOCATIONS-006",
+    "spent_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "amount_inr": 3001,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 006",
+    "invoice_code": "Invoice 006",
+    "approved_by": "Finance lead 006",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-007",
+    "allocation_id": "DON-ALLOCATIONS-007",
+    "spent_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "amount_inr": 3002,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 007",
+    "invoice_code": "Invoice 007",
+    "approved_by": "Finance lead 007",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-008",
+    "allocation_id": "DON-ALLOCATIONS-008",
+    "spent_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "amount_inr": 3003,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 008",
+    "invoice_code": "Invoice 008",
+    "approved_by": "Finance lead 008",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-009",
+    "allocation_id": "DON-ALLOCATIONS-009",
+    "spent_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "amount_inr": 3004,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 009",
+    "invoice_code": "Invoice 009",
+    "approved_by": "Finance lead 009",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-010",
+    "allocation_id": "DON-ALLOCATIONS-010",
+    "spent_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "amount_inr": 3000,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 010",
+    "invoice_code": "Invoice 010",
+    "approved_by": "Finance lead 010",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-011",
+    "allocation_id": "DON-ALLOCATIONS-011",
+    "spent_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "amount_inr": 3001,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 011",
+    "invoice_code": "Invoice 011",
+    "approved_by": "Finance lead 011",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-012",
+    "allocation_id": "DON-ALLOCATIONS-012",
+    "spent_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "amount_inr": 3002,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 012",
+    "invoice_code": "Invoice 012",
+    "approved_by": "Finance lead 012",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-013",
+    "allocation_id": "DON-ALLOCATIONS-013",
+    "spent_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "amount_inr": 3003,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 013",
+    "invoice_code": "Invoice 013",
+    "approved_by": "Finance lead 013",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-014",
+    "allocation_id": "DON-ALLOCATIONS-014",
+    "spent_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "amount_inr": 3004,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 014",
+    "invoice_code": "Invoice 014",
+    "approved_by": "Finance lead 014",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-015",
+    "allocation_id": "DON-ALLOCATIONS-015",
+    "spent_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "amount_inr": 3000,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 015",
+    "invoice_code": "Invoice 015",
+    "approved_by": "Finance lead 015",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-016",
+    "allocation_id": "DON-ALLOCATIONS-016",
+    "spent_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "amount_inr": 3001,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 016",
+    "invoice_code": "Invoice 016",
+    "approved_by": "Finance lead 016",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-017",
+    "allocation_id": "DON-ALLOCATIONS-017",
+    "spent_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "amount_inr": 3002,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 017",
+    "invoice_code": "Invoice 017",
+    "approved_by": "Finance lead 017",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-018",
+    "allocation_id": "DON-ALLOCATIONS-018",
+    "spent_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "amount_inr": 3003,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 018",
+    "invoice_code": "Invoice 018",
+    "approved_by": "Finance lead 018",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-019",
+    "allocation_id": "DON-ALLOCATIONS-019",
+    "spent_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "amount_inr": 3004,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 019",
+    "invoice_code": "Invoice 019",
+    "approved_by": "Finance lead 019",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-020",
+    "allocation_id": "DON-ALLOCATIONS-020",
+    "spent_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "amount_inr": 3000,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 020",
+    "invoice_code": "Invoice 020",
+    "approved_by": "Finance lead 020",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-021",
+    "allocation_id": "DON-ALLOCATIONS-021",
+    "spent_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "amount_inr": 3001,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 021",
+    "invoice_code": "Invoice 021",
+    "approved_by": "Finance lead 021",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-022",
+    "allocation_id": "DON-ALLOCATIONS-022",
+    "spent_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "amount_inr": 3002,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 022",
+    "invoice_code": "Invoice 022",
+    "approved_by": "Finance lead 022",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-023",
+    "allocation_id": "DON-ALLOCATIONS-023",
+    "spent_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "amount_inr": 3003,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 023",
+    "invoice_code": "Invoice 023",
+    "approved_by": "Finance lead 023",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-024",
+    "allocation_id": "DON-ALLOCATIONS-024",
+    "spent_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "amount_inr": 3004,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 024",
+    "invoice_code": "Invoice 024",
+    "approved_by": "Finance lead 024",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-025",
+    "allocation_id": "DON-ALLOCATIONS-025",
+    "spent_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "amount_inr": 3000,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 025",
+    "invoice_code": "Invoice 025",
+    "approved_by": "Finance lead 025",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-026",
+    "allocation_id": "DON-ALLOCATIONS-026",
+    "spent_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "amount_inr": 3001,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 026",
+    "invoice_code": "Invoice 026",
+    "approved_by": "Finance lead 026",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-027",
+    "allocation_id": "DON-ALLOCATIONS-027",
+    "spent_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "amount_inr": 3002,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 027",
+    "invoice_code": "Invoice 027",
+    "approved_by": "Finance lead 027",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-028",
+    "allocation_id": "DON-ALLOCATIONS-028",
+    "spent_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "amount_inr": 3003,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 028",
+    "invoice_code": "Invoice 028",
+    "approved_by": "Finance lead 028",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-029",
+    "allocation_id": "DON-ALLOCATIONS-029",
+    "spent_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "amount_inr": 3004,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 029",
+    "invoice_code": "Invoice 029",
+    "approved_by": "Finance lead 029",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-030",
+    "allocation_id": "DON-ALLOCATIONS-030",
+    "spent_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "amount_inr": 3000,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 030",
+    "invoice_code": "Invoice 030",
+    "approved_by": "Finance lead 030",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-031",
+    "allocation_id": "DON-ALLOCATIONS-031",
+    "spent_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "amount_inr": 3001,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 031",
+    "invoice_code": "Invoice 031",
+    "approved_by": "Finance lead 031",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-032",
+    "allocation_id": "DON-ALLOCATIONS-032",
+    "spent_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "amount_inr": 3002,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 032",
+    "invoice_code": "Invoice 032",
+    "approved_by": "Finance lead 032",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-033",
+    "allocation_id": "DON-ALLOCATIONS-033",
+    "spent_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "amount_inr": 3003,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 033",
+    "invoice_code": "Invoice 033",
+    "approved_by": "Finance lead 033",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-034",
+    "allocation_id": "DON-ALLOCATIONS-034",
+    "spent_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "amount_inr": 3004,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 034",
+    "invoice_code": "Invoice 034",
+    "approved_by": "Finance lead 034",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-035",
+    "allocation_id": "DON-ALLOCATIONS-035",
+    "spent_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "amount_inr": 3000,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 035",
+    "invoice_code": "Invoice 035",
+    "approved_by": "Finance lead 035",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-036",
+    "allocation_id": "DON-ALLOCATIONS-036",
+    "spent_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "amount_inr": 3001,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 036",
+    "invoice_code": "Invoice 036",
+    "approved_by": "Finance lead 036",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-037",
+    "allocation_id": "DON-ALLOCATIONS-037",
+    "spent_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "amount_inr": 3002,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 037",
+    "invoice_code": "Invoice 037",
+    "approved_by": "Finance lead 037",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-038",
+    "allocation_id": "DON-ALLOCATIONS-038",
+    "spent_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "amount_inr": 3003,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 038",
+    "invoice_code": "Invoice 038",
+    "approved_by": "Finance lead 038",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-039",
+    "allocation_id": "DON-ALLOCATIONS-039",
+    "spent_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "amount_inr": 3004,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 039",
+    "invoice_code": "Invoice 039",
+    "approved_by": "Finance lead 039",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-040",
+    "allocation_id": "DON-ALLOCATIONS-040",
+    "spent_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "amount_inr": 3000,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 040",
+    "invoice_code": "Invoice 040",
+    "approved_by": "Finance lead 040",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-041",
+    "allocation_id": "DON-ALLOCATIONS-041",
+    "spent_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "amount_inr": 3001,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 041",
+    "invoice_code": "Invoice 041",
+    "approved_by": "Finance lead 041",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-042",
+    "allocation_id": "DON-ALLOCATIONS-042",
+    "spent_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "amount_inr": 3002,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 042",
+    "invoice_code": "Invoice 042",
+    "approved_by": "Finance lead 042",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-043",
+    "allocation_id": "DON-ALLOCATIONS-043",
+    "spent_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "amount_inr": 3003,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 043",
+    "invoice_code": "Invoice 043",
+    "approved_by": "Finance lead 043",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-044",
+    "allocation_id": "DON-ALLOCATIONS-044",
+    "spent_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "amount_inr": 3004,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 044",
+    "invoice_code": "Invoice 044",
+    "approved_by": "Finance lead 044",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-045",
+    "allocation_id": "DON-ALLOCATIONS-045",
+    "spent_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "amount_inr": 3000,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 045",
+    "invoice_code": "Invoice 045",
+    "approved_by": "Finance lead 045",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-046",
+    "allocation_id": "DON-ALLOCATIONS-046",
+    "spent_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "amount_inr": 3001,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 046",
+    "invoice_code": "Invoice 046",
+    "approved_by": "Finance lead 046",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-047",
+    "allocation_id": "DON-ALLOCATIONS-047",
+    "spent_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "amount_inr": 3002,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 047",
+    "invoice_code": "Invoice 047",
+    "approved_by": "Finance lead 047",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-048",
+    "allocation_id": "DON-ALLOCATIONS-048",
+    "spent_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "amount_inr": 3003,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 048",
+    "invoice_code": "Invoice 048",
+    "approved_by": "Finance lead 048",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-049",
+    "allocation_id": "DON-ALLOCATIONS-049",
+    "spent_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "amount_inr": 3004,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 049",
+    "invoice_code": "Invoice 049",
+    "approved_by": "Finance lead 049",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-EXPENSES-050",
+    "allocation_id": "DON-ALLOCATIONS-050",
+    "spent_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "amount_inr": 3000,
+    "currency": "INR",
+    "category": "relief_supplies",
+    "vendor": "Demo relief vendor 050",
+    "invoice_code": "Invoice 050",
+    "approved_by": "Finance lead 050",
+    "expense_state": "paid",
+    "description": "Exercise relief kits 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

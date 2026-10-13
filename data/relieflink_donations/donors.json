@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "DON-DONORS-001",
+    "donor_name": "Demo donor 001",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-001",
+    "contact_token": "Donor desk 001",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2025-12-15T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-002",
+    "donor_name": "Demo donor 002",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-002",
+    "contact_token": "Donor desk 002",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2025-12-18T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-003",
+    "donor_name": "Demo donor 003",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-003",
+    "contact_token": "Donor desk 003",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2025-12-21T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-004",
+    "donor_name": "Demo donor 004",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-004",
+    "contact_token": "Donor desk 004",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2025-12-24T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-005",
+    "donor_name": "Demo donor 005",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-005",
+    "contact_token": "Donor desk 005",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2025-12-27T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-006",
+    "donor_name": "Demo donor 006",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-006",
+    "contact_token": "Donor desk 006",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2025-12-30T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-007",
+    "donor_name": "Demo donor 007",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-007",
+    "contact_token": "Donor desk 007",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-01-02T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-008",
+    "donor_name": "Demo donor 008",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-008",
+    "contact_token": "Donor desk 008",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-009",
+    "donor_name": "Demo donor 009",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-009",
+    "contact_token": "Donor desk 009",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-010",
+    "donor_name": "Demo donor 010",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-010",
+    "contact_token": "Donor desk 010",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-011",
+    "donor_name": "Demo donor 011",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-011",
+    "contact_token": "Donor desk 011",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-012",
+    "donor_name": "Demo donor 012",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-012",
+    "contact_token": "Donor desk 012",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-013",
+    "donor_name": "Demo donor 013",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-013",
+    "contact_token": "Donor desk 013",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-014",
+    "donor_name": "Demo donor 014",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-014",
+    "contact_token": "Donor desk 014",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-015",
+    "donor_name": "Demo donor 015",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-015",
+    "contact_token": "Donor desk 015",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-016",
+    "donor_name": "Demo donor 016",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-016",
+    "contact_token": "Donor desk 016",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-017",
+    "donor_name": "Demo donor 017",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-017",
+    "contact_token": "Donor desk 017",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-018",
+    "donor_name": "Demo donor 018",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-018",
+    "contact_token": "Donor desk 018",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-019",
+    "donor_name": "Demo donor 019",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-019",
+    "contact_token": "Donor desk 019",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-020",
+    "donor_name": "Demo donor 020",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-020",
+    "contact_token": "Donor desk 020",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-021",
+    "donor_name": "Demo donor 021",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-021",
+    "contact_token": "Donor desk 021",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-022",
+    "donor_name": "Demo donor 022",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-022",
+    "contact_token": "Donor desk 022",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-023",
+    "donor_name": "Demo donor 023",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-023",
+    "contact_token": "Donor desk 023",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-024",
+    "donor_name": "Demo donor 024",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-024",
+    "contact_token": "Donor desk 024",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-025",
+    "donor_name": "Demo donor 025",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-025",
+    "contact_token": "Donor desk 025",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-026",
+    "donor_name": "Demo donor 026",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-026",
+    "contact_token": "Donor desk 026",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-027",
+    "donor_name": "Demo donor 027",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-027",
+    "contact_token": "Donor desk 027",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-028",
+    "donor_name": "Demo donor 028",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-028",
+    "contact_token": "Donor desk 028",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-029",
+    "donor_name": "Demo donor 029",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-029",
+    "contact_token": "Donor desk 029",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-030",
+    "donor_name": "Demo donor 030",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-030",
+    "contact_token": "Donor desk 030",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-031",
+    "donor_name": "Demo donor 031",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-031",
+    "contact_token": "Donor desk 031",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-032",
+    "donor_name": "Demo donor 032",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-032",
+    "contact_token": "Donor desk 032",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-033",
+    "donor_name": "Demo donor 033",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-033",
+    "contact_token": "Donor desk 033",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-034",
+    "donor_name": "Demo donor 034",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-034",
+    "contact_token": "Donor desk 034",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-035",
+    "donor_name": "Demo donor 035",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-035",
+    "contact_token": "Donor desk 035",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-036",
+    "donor_name": "Demo donor 036",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-036",
+    "contact_token": "Donor desk 036",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-037",
+    "donor_name": "Demo donor 037",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-037",
+    "contact_token": "Donor desk 037",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-038",
+    "donor_name": "Demo donor 038",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-038",
+    "contact_token": "Donor desk 038",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-039",
+    "donor_name": "Demo donor 039",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-039",
+    "contact_token": "Donor desk 039",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-040",
+    "donor_name": "Demo donor 040",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-040",
+    "contact_token": "Donor desk 040",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-041",
+    "donor_name": "Demo donor 041",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-041",
+    "contact_token": "Donor desk 041",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-042",
+    "donor_name": "Demo donor 042",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-042",
+    "contact_token": "Donor desk 042",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-043",
+    "donor_name": "Demo donor 043",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-043",
+    "contact_token": "Donor desk 043",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-044",
+    "donor_name": "Demo donor 044",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-044",
+    "contact_token": "Donor desk 044",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-045",
+    "donor_name": "Demo donor 045",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-045",
+    "contact_token": "Donor desk 045",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-046",
+    "donor_name": "Demo donor 046",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-046",
+    "contact_token": "Donor desk 046",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-047",
+    "donor_name": "Demo donor 047",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-047",
+    "contact_token": "Donor desk 047",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-048",
+    "donor_name": "Demo donor 048",
+    "donor_type": "foundation",
+    "area_id": "INC-AREAS-048",
+    "contact_token": "Donor desk 048",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-049",
+    "donor_name": "Demo donor 049",
+    "donor_type": "individual",
+    "area_id": "INC-AREAS-049",
+    "contact_token": "Donor desk 049",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "anonymous": false,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-DONORS-050",
+    "donor_name": "Demo donor 050",
+    "donor_type": "company",
+    "area_id": "INC-AREAS-050",
+    "contact_token": "Donor desk 050",
+    "preferred_cause": "disaster_relief",
+    "registered_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "anonymous": true,
+    "receipt_preference": "digital",
+    "active": true,
+    "consent_recorded": true,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

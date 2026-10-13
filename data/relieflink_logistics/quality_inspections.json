@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-001",
+    "batch_id": "LOG-STOCK_BATCHES-001",
+    "inspected_at": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 001",
+    "sample_units": 3,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-002",
+    "batch_id": "LOG-STOCK_BATCHES-002",
+    "inspected_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 002",
+    "sample_units": 4,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-003",
+    "batch_id": "LOG-STOCK_BATCHES-003",
+    "inspected_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 003",
+    "sample_units": 5,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-004",
+    "batch_id": "LOG-STOCK_BATCHES-004",
+    "inspected_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 004",
+    "sample_units": 6,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-005",
+    "batch_id": "LOG-STOCK_BATCHES-005",
+    "inspected_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 005",
+    "sample_units": 2,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-006",
+    "batch_id": "LOG-STOCK_BATCHES-006",
+    "inspected_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 006",
+    "sample_units": 3,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-007",
+    "batch_id": "LOG-STOCK_BATCHES-007",
+    "inspected_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 007",
+    "sample_units": 4,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-008",
+    "batch_id": "LOG-STOCK_BATCHES-008",
+    "inspected_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 008",
+    "sample_units": 5,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-009",
+    "batch_id": "LOG-STOCK_BATCHES-009",
+    "inspected_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 009",
+    "sample_units": 6,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-010",
+    "batch_id": "LOG-STOCK_BATCHES-010",
+    "inspected_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 010",
+    "sample_units": 2,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-011",
+    "batch_id": "LOG-STOCK_BATCHES-011",
+    "inspected_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 011",
+    "sample_units": 3,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-012",
+    "batch_id": "LOG-STOCK_BATCHES-012",
+    "inspected_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 012",
+    "sample_units": 4,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-013",
+    "batch_id": "LOG-STOCK_BATCHES-013",
+    "inspected_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 013",
+    "sample_units": 5,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-014",
+    "batch_id": "LOG-STOCK_BATCHES-014",
+    "inspected_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 014",
+    "sample_units": 6,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-015",
+    "batch_id": "LOG-STOCK_BATCHES-015",
+    "inspected_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 015",
+    "sample_units": 2,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-016",
+    "batch_id": "LOG-STOCK_BATCHES-016",
+    "inspected_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 016",
+    "sample_units": 3,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-017",
+    "batch_id": "LOG-STOCK_BATCHES-017",
+    "inspected_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 017",
+    "sample_units": 4,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-018",
+    "batch_id": "LOG-STOCK_BATCHES-018",
+    "inspected_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 018",
+    "sample_units": 5,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-019",
+    "batch_id": "LOG-STOCK_BATCHES-019",
+    "inspected_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 019",
+    "sample_units": 6,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-020",
+    "batch_id": "LOG-STOCK_BATCHES-020",
+    "inspected_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 020",
+    "sample_units": 2,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-021",
+    "batch_id": "LOG-STOCK_BATCHES-021",
+    "inspected_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 021",
+    "sample_units": 3,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-022",
+    "batch_id": "LOG-STOCK_BATCHES-022",
+    "inspected_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 022",
+    "sample_units": 4,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-023",
+    "batch_id": "LOG-STOCK_BATCHES-023",
+    "inspected_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 023",
+    "sample_units": 5,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-024",
+    "batch_id": "LOG-STOCK_BATCHES-024",
+    "inspected_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 024",
+    "sample_units": 6,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-025",
+    "batch_id": "LOG-STOCK_BATCHES-025",
+    "inspected_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 025",
+    "sample_units": 2,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-026",
+    "batch_id": "LOG-STOCK_BATCHES-026",
+    "inspected_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 026",
+    "sample_units": 3,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-027",
+    "batch_id": "LOG-STOCK_BATCHES-027",
+    "inspected_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 027",
+    "sample_units": 4,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-028",
+    "batch_id": "LOG-STOCK_BATCHES-028",
+    "inspected_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 028",
+    "sample_units": 5,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-029",
+    "batch_id": "LOG-STOCK_BATCHES-029",
+    "inspected_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 029",
+    "sample_units": 6,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-030",
+    "batch_id": "LOG-STOCK_BATCHES-030",
+    "inspected_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 030",
+    "sample_units": 2,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-031",
+    "batch_id": "LOG-STOCK_BATCHES-031",
+    "inspected_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 031",
+    "sample_units": 3,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-032",
+    "batch_id": "LOG-STOCK_BATCHES-032",
+    "inspected_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 032",
+    "sample_units": 4,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-033",
+    "batch_id": "LOG-STOCK_BATCHES-033",
+    "inspected_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 033",
+    "sample_units": 5,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-034",
+    "batch_id": "LOG-STOCK_BATCHES-034",
+    "inspected_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 034",
+    "sample_units": 6,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-035",
+    "batch_id": "LOG-STOCK_BATCHES-035",
+    "inspected_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 035",
+    "sample_units": 2,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-036",
+    "batch_id": "LOG-STOCK_BATCHES-036",
+    "inspected_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 036",
+    "sample_units": 3,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-037",
+    "batch_id": "LOG-STOCK_BATCHES-037",
+    "inspected_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 037",
+    "sample_units": 4,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-038",
+    "batch_id": "LOG-STOCK_BATCHES-038",
+    "inspected_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 038",
+    "sample_units": 5,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-039",
+    "batch_id": "LOG-STOCK_BATCHES-039",
+    "inspected_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 039",
+    "sample_units": 6,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-040",
+    "batch_id": "LOG-STOCK_BATCHES-040",
+    "inspected_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 040",
+    "sample_units": 2,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-041",
+    "batch_id": "LOG-STOCK_BATCHES-041",
+    "inspected_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 041",
+    "sample_units": 3,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-042",
+    "batch_id": "LOG-STOCK_BATCHES-042",
+    "inspected_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 042",
+    "sample_units": 4,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-043",
+    "batch_id": "LOG-STOCK_BATCHES-043",
+    "inspected_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 043",
+    "sample_units": 5,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-044",
+    "batch_id": "LOG-STOCK_BATCHES-044",
+    "inspected_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 044",
+    "sample_units": 6,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-045",
+    "batch_id": "LOG-STOCK_BATCHES-045",
+    "inspected_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 045",
+    "sample_units": 2,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-046",
+    "batch_id": "LOG-STOCK_BATCHES-046",
+    "inspected_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 046",
+    "sample_units": 3,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-047",
+    "batch_id": "LOG-STOCK_BATCHES-047",
+    "inspected_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 047",
+    "sample_units": 4,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-048",
+    "batch_id": "LOG-STOCK_BATCHES-048",
+    "inspected_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 048",
+    "sample_units": 5,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-049",
+    "batch_id": "LOG-STOCK_BATCHES-049",
+    "inspected_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 049",
+    "sample_units": 6,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-QUALITY_INSPECTIONS-050",
+    "batch_id": "LOG-STOCK_BATCHES-050",
+    "inspected_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "inspector_code": "Quality inspector 050",
+    "sample_units": 2,
+    "packaging_ok": true,
+    "expiry_ok": true,
+    "contamination_found": false,
+    "inspection_result": "pass",
+    "action": "release",
+    "notes": "Exercise quality check 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

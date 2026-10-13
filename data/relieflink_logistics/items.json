@@ -1,0 +1,1052 @@
+[
+  {
+    "_id": "LOG-ITEMS-001",
+    "item_name": "Relief item 001",
+    "category": "food",
+    "unit": "units",
+    "unit_weight_kg": 2,
+    "reorder_level": 21,
+    "shelf_life_days": 181,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 001",
+    "pack_size": 2,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-002",
+    "item_name": "Relief item 002",
+    "category": "water",
+    "unit": "units",
+    "unit_weight_kg": 3,
+    "reorder_level": 22,
+    "shelf_life_days": 182,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 002",
+    "pack_size": 3,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-003",
+    "item_name": "Relief item 003",
+    "category": "hygiene",
+    "unit": "units",
+    "unit_weight_kg": 4,
+    "reorder_level": 23,
+    "shelf_life_days": 183,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 003",
+    "pack_size": 4,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-004",
+    "item_name": "Relief item 004",
+    "category": "bedding",
+    "unit": "units",
+    "unit_weight_kg": 5,
+    "reorder_level": 24,
+    "shelf_life_days": 184,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 004",
+    "pack_size": 5,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-005",
+    "item_name": "Relief item 005",
+    "category": "medical",
+    "unit": "units",
+    "unit_weight_kg": 1,
+    "reorder_level": 20,
+    "shelf_life_days": 180,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 005",
+    "pack_size": 1,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-006",
+    "item_name": "Relief item 006",
+    "category": "food",
+    "unit": "units",
+    "unit_weight_kg": 2,
+    "reorder_level": 21,
+    "shelf_life_days": 181,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 006",
+    "pack_size": 2,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-007",
+    "item_name": "Relief item 007",
+    "category": "water",
+    "unit": "units",
+    "unit_weight_kg": 3,
+    "reorder_level": 22,
+    "shelf_life_days": 182,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 007",
+    "pack_size": 3,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-008",
+    "item_name": "Relief item 008",
+    "category": "hygiene",
+    "unit": "units",
+    "unit_weight_kg": 4,
+    "reorder_level": 23,
+    "shelf_life_days": 183,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 008",
+    "pack_size": 4,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-009",
+    "item_name": "Relief item 009",
+    "category": "bedding",
+    "unit": "units",
+    "unit_weight_kg": 5,
+    "reorder_level": 24,
+    "shelf_life_days": 184,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 009",
+    "pack_size": 5,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-010",
+    "item_name": "Relief item 010",
+    "category": "medical",
+    "unit": "units",
+    "unit_weight_kg": 1,
+    "reorder_level": 20,
+    "shelf_life_days": 180,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 010",
+    "pack_size": 1,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-011",
+    "item_name": "Relief item 011",
+    "category": "food",
+    "unit": "units",
+    "unit_weight_kg": 2,
+    "reorder_level": 21,
+    "shelf_life_days": 181,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 011",
+    "pack_size": 2,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-012",
+    "item_name": "Relief item 012",
+    "category": "water",
+    "unit": "units",
+    "unit_weight_kg": 3,
+    "reorder_level": 22,
+    "shelf_life_days": 182,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 012",
+    "pack_size": 3,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-013",
+    "item_name": "Relief item 013",
+    "category": "hygiene",
+    "unit": "units",
+    "unit_weight_kg": 4,
+    "reorder_level": 23,
+    "shelf_life_days": 183,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 013",
+    "pack_size": 4,
+    "essential": true,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-014",
+    "item_name": "Relief item 014",
+    "category": "bedding",
+    "unit": "units",
+    "unit_weight_kg": 5,
+    "reorder_level": 24,
+    "shelf_life_days": 184,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 014",
+    "pack_size": 5,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-015",
+    "item_name": "Relief item 015",
+    "category": "medical",
+    "unit": "units",
+    "unit_weight_kg": 1,
+    "reorder_level": 20,
+    "shelf_life_days": 180,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 015",
+    "pack_size": 1,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-016",
+    "item_name": "Relief item 016",
+    "category": "food",
+    "unit": "units",
+    "unit_weight_kg": 2,
+    "reorder_level": 21,
+    "shelf_life_days": 181,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 016",
+    "pack_size": 2,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-017",
+    "item_name": "Relief item 017",
+    "category": "water",
+    "unit": "units",
+    "unit_weight_kg": 3,
+    "reorder_level": 22,
+    "shelf_life_days": 182,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 017",
+    "pack_size": 3,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-018",
+    "item_name": "Relief item 018",
+    "category": "hygiene",
+    "unit": "units",
+    "unit_weight_kg": 4,
+    "reorder_level": 23,
+    "shelf_life_days": 183,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 018",
+    "pack_size": 4,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-019",
+    "item_name": "Relief item 019",
+    "category": "bedding",
+    "unit": "units",
+    "unit_weight_kg": 5,
+    "reorder_level": 24,
+    "shelf_life_days": 184,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 019",
+    "pack_size": 5,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-020",
+    "item_name": "Relief item 020",
+    "category": "medical",
+    "unit": "units",
+    "unit_weight_kg": 1,
+    "reorder_level": 20,
+    "shelf_life_days": 180,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 020",
+    "pack_size": 1,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-021",
+    "item_name": "Relief item 021",
+    "category": "food",
+    "unit": "units",
+    "unit_weight_kg": 2,
+    "reorder_level": 21,
+    "shelf_life_days": 181,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 021",
+    "pack_size": 2,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-022",
+    "item_name": "Relief item 022",
+    "category": "water",
+    "unit": "units",
+    "unit_weight_kg": 3,
+    "reorder_level": 22,
+    "shelf_life_days": 182,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 022",
+    "pack_size": 3,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-023",
+    "item_name": "Relief item 023",
+    "category": "hygiene",
+    "unit": "units",
+    "unit_weight_kg": 4,
+    "reorder_level": 23,
+    "shelf_life_days": 183,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 023",
+    "pack_size": 4,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-024",
+    "item_name": "Relief item 024",
+    "category": "bedding",
+    "unit": "units",
+    "unit_weight_kg": 5,
+    "reorder_level": 24,
+    "shelf_life_days": 184,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 024",
+    "pack_size": 5,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-025",
+    "item_name": "Relief item 025",
+    "category": "medical",
+    "unit": "units",
+    "unit_weight_kg": 1,
+    "reorder_level": 20,
+    "shelf_life_days": 180,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 025",
+    "pack_size": 1,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-026",
+    "item_name": "Relief item 026",
+    "category": "food",
+    "unit": "units",
+    "unit_weight_kg": 2,
+    "reorder_level": 21,
+    "shelf_life_days": 181,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 026",
+    "pack_size": 2,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-027",
+    "item_name": "Relief item 027",
+    "category": "water",
+    "unit": "units",
+    "unit_weight_kg": 3,
+    "reorder_level": 22,
+    "shelf_life_days": 182,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 027",
+    "pack_size": 3,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-028",
+    "item_name": "Relief item 028",
+    "category": "hygiene",
+    "unit": "units",
+    "unit_weight_kg": 4,
+    "reorder_level": 23,
+    "shelf_life_days": 183,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 028",
+    "pack_size": 4,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-029",
+    "item_name": "Relief item 029",
+    "category": "bedding",
+    "unit": "units",
+    "unit_weight_kg": 5,
+    "reorder_level": 24,
+    "shelf_life_days": 184,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 029",
+    "pack_size": 5,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-030",
+    "item_name": "Relief item 030",
+    "category": "medical",
+    "unit": "units",
+    "unit_weight_kg": 1,
+    "reorder_level": 20,
+    "shelf_life_days": 180,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 030",
+    "pack_size": 1,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-031",
+    "item_name": "Relief item 031",
+    "category": "food",
+    "unit": "units",
+    "unit_weight_kg": 2,
+    "reorder_level": 21,
+    "shelf_life_days": 181,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 031",
+    "pack_size": 2,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-032",
+    "item_name": "Relief item 032",
+    "category": "water",
+    "unit": "units",
+    "unit_weight_kg": 3,
+    "reorder_level": 22,
+    "shelf_life_days": 182,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 032",
+    "pack_size": 3,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-033",
+    "item_name": "Relief item 033",
+    "category": "hygiene",
+    "unit": "units",
+    "unit_weight_kg": 4,
+    "reorder_level": 23,
+    "shelf_life_days": 183,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 033",
+    "pack_size": 4,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-034",
+    "item_name": "Relief item 034",
+    "category": "bedding",
+    "unit": "units",
+    "unit_weight_kg": 5,
+    "reorder_level": 24,
+    "shelf_life_days": 184,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 034",
+    "pack_size": 5,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-035",
+    "item_name": "Relief item 035",
+    "category": "medical",
+    "unit": "units",
+    "unit_weight_kg": 1,
+    "reorder_level": 20,
+    "shelf_life_days": 180,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 035",
+    "pack_size": 1,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-036",
+    "item_name": "Relief item 036",
+    "category": "food",
+    "unit": "units",
+    "unit_weight_kg": 2,
+    "reorder_level": 21,
+    "shelf_life_days": 181,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 036",
+    "pack_size": 2,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-037",
+    "item_name": "Relief item 037",
+    "category": "water",
+    "unit": "units",
+    "unit_weight_kg": 3,
+    "reorder_level": 22,
+    "shelf_life_days": 182,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 037",
+    "pack_size": 3,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-038",
+    "item_name": "Relief item 038",
+    "category": "hygiene",
+    "unit": "units",
+    "unit_weight_kg": 4,
+    "reorder_level": 23,
+    "shelf_life_days": 183,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 038",
+    "pack_size": 4,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-039",
+    "item_name": "Relief item 039",
+    "category": "bedding",
+    "unit": "units",
+    "unit_weight_kg": 5,
+    "reorder_level": 24,
+    "shelf_life_days": 184,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 039",
+    "pack_size": 5,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-040",
+    "item_name": "Relief item 040",
+    "category": "medical",
+    "unit": "units",
+    "unit_weight_kg": 1,
+    "reorder_level": 20,
+    "shelf_life_days": 180,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 040",
+    "pack_size": 1,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-041",
+    "item_name": "Relief item 041",
+    "category": "food",
+    "unit": "units",
+    "unit_weight_kg": 2,
+    "reorder_level": 21,
+    "shelf_life_days": 181,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 041",
+    "pack_size": 2,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-042",
+    "item_name": "Relief item 042",
+    "category": "water",
+    "unit": "units",
+    "unit_weight_kg": 3,
+    "reorder_level": 22,
+    "shelf_life_days": 182,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 042",
+    "pack_size": 3,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-043",
+    "item_name": "Relief item 043",
+    "category": "hygiene",
+    "unit": "units",
+    "unit_weight_kg": 4,
+    "reorder_level": 23,
+    "shelf_life_days": 183,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 043",
+    "pack_size": 4,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-044",
+    "item_name": "Relief item 044",
+    "category": "bedding",
+    "unit": "units",
+    "unit_weight_kg": 5,
+    "reorder_level": 24,
+    "shelf_life_days": 184,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 044",
+    "pack_size": 5,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-045",
+    "item_name": "Relief item 045",
+    "category": "medical",
+    "unit": "units",
+    "unit_weight_kg": 1,
+    "reorder_level": 20,
+    "shelf_life_days": 180,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 045",
+    "pack_size": 1,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-046",
+    "item_name": "Relief item 046",
+    "category": "food",
+    "unit": "units",
+    "unit_weight_kg": 2,
+    "reorder_level": 21,
+    "shelf_life_days": 181,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 046",
+    "pack_size": 2,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-047",
+    "item_name": "Relief item 047",
+    "category": "water",
+    "unit": "units",
+    "unit_weight_kg": 3,
+    "reorder_level": 22,
+    "shelf_life_days": 182,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 047",
+    "pack_size": 3,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-048",
+    "item_name": "Relief item 048",
+    "category": "hygiene",
+    "unit": "units",
+    "unit_weight_kg": 4,
+    "reorder_level": 23,
+    "shelf_life_days": 183,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 048",
+    "pack_size": 4,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-049",
+    "item_name": "Relief item 049",
+    "category": "bedding",
+    "unit": "units",
+    "unit_weight_kg": 5,
+    "reorder_level": 24,
+    "shelf_life_days": 184,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 049",
+    "pack_size": 5,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-ITEMS-050",
+    "item_name": "Relief item 050",
+    "category": "medical",
+    "unit": "units",
+    "unit_weight_kg": 1,
+    "reorder_level": 20,
+    "shelf_life_days": 180,
+    "storage_condition": "dry",
+    "supplier_code": "Demo supplier 050",
+    "pack_size": 1,
+    "essential": true,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

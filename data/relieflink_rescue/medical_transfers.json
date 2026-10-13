@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-001",
+    "request_id": "RES-REQUESTS-001",
+    "vehicle_id": "RES-VEHICLES-001",
+    "patient_code": "Fictional patient 001",
+    "departure_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "destination": "Demo care centre 001",
+    "urgency": "urgent",
+    "escort_code": "Medic 001",
+    "transfer_state": "completed",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-002",
+    "request_id": "RES-REQUESTS-002",
+    "vehicle_id": "RES-VEHICLES-002",
+    "patient_code": "Fictional patient 002",
+    "departure_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "destination": "Demo care centre 002",
+    "urgency": "routine",
+    "escort_code": "Medic 002",
+    "transfer_state": "completed",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-003",
+    "request_id": "RES-REQUESTS-003",
+    "vehicle_id": "RES-VEHICLES-003",
+    "patient_code": "Fictional patient 003",
+    "departure_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "destination": "Demo care centre 003",
+    "urgency": "urgent",
+    "escort_code": "Medic 003",
+    "transfer_state": "completed",
+    "distance_km": 8,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-004",
+    "request_id": "RES-REQUESTS-004",
+    "vehicle_id": "RES-VEHICLES-004",
+    "patient_code": "Fictional patient 004",
+    "departure_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "destination": "Demo care centre 004",
+    "urgency": "routine",
+    "escort_code": "Medic 004",
+    "transfer_state": "completed",
+    "distance_km": 9,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-005",
+    "request_id": "RES-REQUESTS-005",
+    "vehicle_id": "RES-VEHICLES-005",
+    "patient_code": "Fictional patient 005",
+    "departure_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "destination": "Demo care centre 005",
+    "urgency": "urgent",
+    "escort_code": "Medic 005",
+    "transfer_state": "completed",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-006",
+    "request_id": "RES-REQUESTS-006",
+    "vehicle_id": "RES-VEHICLES-006",
+    "patient_code": "Fictional patient 006",
+    "departure_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "destination": "Demo care centre 006",
+    "urgency": "routine",
+    "escort_code": "Medic 006",
+    "transfer_state": "completed",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-007",
+    "request_id": "RES-REQUESTS-007",
+    "vehicle_id": "RES-VEHICLES-007",
+    "patient_code": "Fictional patient 007",
+    "departure_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "destination": "Demo care centre 007",
+    "urgency": "urgent",
+    "escort_code": "Medic 007",
+    "transfer_state": "completed",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-008",
+    "request_id": "RES-REQUESTS-008",
+    "vehicle_id": "RES-VEHICLES-008",
+    "patient_code": "Fictional patient 008",
+    "departure_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "destination": "Demo care centre 008",
+    "urgency": "routine",
+    "escort_code": "Medic 008",
+    "transfer_state": "completed",
+    "distance_km": 8,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-009",
+    "request_id": "RES-REQUESTS-009",
+    "vehicle_id": "RES-VEHICLES-009",
+    "patient_code": "Fictional patient 009",
+    "departure_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "destination": "Demo care centre 009",
+    "urgency": "urgent",
+    "escort_code": "Medic 009",
+    "transfer_state": "completed",
+    "distance_km": 9,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-010",
+    "request_id": "RES-REQUESTS-010",
+    "vehicle_id": "RES-VEHICLES-010",
+    "patient_code": "Fictional patient 010",
+    "departure_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "destination": "Demo care centre 010",
+    "urgency": "routine",
+    "escort_code": "Medic 010",
+    "transfer_state": "completed",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-011",
+    "request_id": "RES-REQUESTS-011",
+    "vehicle_id": "RES-VEHICLES-011",
+    "patient_code": "Fictional patient 011",
+    "departure_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "destination": "Demo care centre 011",
+    "urgency": "urgent",
+    "escort_code": "Medic 011",
+    "transfer_state": "completed",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-012",
+    "request_id": "RES-REQUESTS-012",
+    "vehicle_id": "RES-VEHICLES-012",
+    "patient_code": "Fictional patient 012",
+    "departure_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "destination": "Demo care centre 012",
+    "urgency": "routine",
+    "escort_code": "Medic 012",
+    "transfer_state": "completed",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-013",
+    "request_id": "RES-REQUESTS-013",
+    "vehicle_id": "RES-VEHICLES-013",
+    "patient_code": "Fictional patient 013",
+    "departure_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "destination": "Demo care centre 013",
+    "urgency": "urgent",
+    "escort_code": "Medic 013",
+    "transfer_state": "completed",
+    "distance_km": 8,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-014",
+    "request_id": "RES-REQUESTS-014",
+    "vehicle_id": "RES-VEHICLES-014",
+    "patient_code": "Fictional patient 014",
+    "departure_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "destination": "Demo care centre 014",
+    "urgency": "routine",
+    "escort_code": "Medic 014",
+    "transfer_state": "completed",
+    "distance_km": 9,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-015",
+    "request_id": "RES-REQUESTS-015",
+    "vehicle_id": "RES-VEHICLES-015",
+    "patient_code": "Fictional patient 015",
+    "departure_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "destination": "Demo care centre 015",
+    "urgency": "urgent",
+    "escort_code": "Medic 015",
+    "transfer_state": "completed",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-016",
+    "request_id": "RES-REQUESTS-016",
+    "vehicle_id": "RES-VEHICLES-016",
+    "patient_code": "Fictional patient 016",
+    "departure_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "destination": "Demo care centre 016",
+    "urgency": "routine",
+    "escort_code": "Medic 016",
+    "transfer_state": "completed",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-017",
+    "request_id": "RES-REQUESTS-017",
+    "vehicle_id": "RES-VEHICLES-017",
+    "patient_code": "Fictional patient 017",
+    "departure_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "destination": "Demo care centre 017",
+    "urgency": "urgent",
+    "escort_code": "Medic 017",
+    "transfer_state": "completed",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-018",
+    "request_id": "RES-REQUESTS-018",
+    "vehicle_id": "RES-VEHICLES-018",
+    "patient_code": "Fictional patient 018",
+    "departure_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "destination": "Demo care centre 018",
+    "urgency": "routine",
+    "escort_code": "Medic 018",
+    "transfer_state": "completed",
+    "distance_km": 8,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-019",
+    "request_id": "RES-REQUESTS-019",
+    "vehicle_id": "RES-VEHICLES-019",
+    "patient_code": "Fictional patient 019",
+    "departure_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "destination": "Demo care centre 019",
+    "urgency": "urgent",
+    "escort_code": "Medic 019",
+    "transfer_state": "completed",
+    "distance_km": 9,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-020",
+    "request_id": "RES-REQUESTS-020",
+    "vehicle_id": "RES-VEHICLES-020",
+    "patient_code": "Fictional patient 020",
+    "departure_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "destination": "Demo care centre 020",
+    "urgency": "routine",
+    "escort_code": "Medic 020",
+    "transfer_state": "completed",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-021",
+    "request_id": "RES-REQUESTS-021",
+    "vehicle_id": "RES-VEHICLES-021",
+    "patient_code": "Fictional patient 021",
+    "departure_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "destination": "Demo care centre 021",
+    "urgency": "urgent",
+    "escort_code": "Medic 021",
+    "transfer_state": "completed",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-022",
+    "request_id": "RES-REQUESTS-022",
+    "vehicle_id": "RES-VEHICLES-022",
+    "patient_code": "Fictional patient 022",
+    "departure_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "destination": "Demo care centre 022",
+    "urgency": "routine",
+    "escort_code": "Medic 022",
+    "transfer_state": "completed",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-023",
+    "request_id": "RES-REQUESTS-023",
+    "vehicle_id": "RES-VEHICLES-023",
+    "patient_code": "Fictional patient 023",
+    "departure_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "destination": "Demo care centre 023",
+    "urgency": "urgent",
+    "escort_code": "Medic 023",
+    "transfer_state": "completed",
+    "distance_km": 8,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-024",
+    "request_id": "RES-REQUESTS-024",
+    "vehicle_id": "RES-VEHICLES-024",
+    "patient_code": "Fictional patient 024",
+    "departure_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "destination": "Demo care centre 024",
+    "urgency": "routine",
+    "escort_code": "Medic 024",
+    "transfer_state": "completed",
+    "distance_km": 9,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-025",
+    "request_id": "RES-REQUESTS-025",
+    "vehicle_id": "RES-VEHICLES-025",
+    "patient_code": "Fictional patient 025",
+    "departure_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "destination": "Demo care centre 025",
+    "urgency": "urgent",
+    "escort_code": "Medic 025",
+    "transfer_state": "completed",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-026",
+    "request_id": "RES-REQUESTS-026",
+    "vehicle_id": "RES-VEHICLES-026",
+    "patient_code": "Fictional patient 026",
+    "departure_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "destination": "Demo care centre 026",
+    "urgency": "routine",
+    "escort_code": "Medic 026",
+    "transfer_state": "completed",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-027",
+    "request_id": "RES-REQUESTS-027",
+    "vehicle_id": "RES-VEHICLES-027",
+    "patient_code": "Fictional patient 027",
+    "departure_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "destination": "Demo care centre 027",
+    "urgency": "urgent",
+    "escort_code": "Medic 027",
+    "transfer_state": "completed",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-028",
+    "request_id": "RES-REQUESTS-028",
+    "vehicle_id": "RES-VEHICLES-028",
+    "patient_code": "Fictional patient 028",
+    "departure_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "destination": "Demo care centre 028",
+    "urgency": "routine",
+    "escort_code": "Medic 028",
+    "transfer_state": "completed",
+    "distance_km": 8,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-029",
+    "request_id": "RES-REQUESTS-029",
+    "vehicle_id": "RES-VEHICLES-029",
+    "patient_code": "Fictional patient 029",
+    "departure_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "destination": "Demo care centre 029",
+    "urgency": "urgent",
+    "escort_code": "Medic 029",
+    "transfer_state": "completed",
+    "distance_km": 9,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-030",
+    "request_id": "RES-REQUESTS-030",
+    "vehicle_id": "RES-VEHICLES-030",
+    "patient_code": "Fictional patient 030",
+    "departure_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "destination": "Demo care centre 030",
+    "urgency": "routine",
+    "escort_code": "Medic 030",
+    "transfer_state": "completed",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-031",
+    "request_id": "RES-REQUESTS-031",
+    "vehicle_id": "RES-VEHICLES-031",
+    "patient_code": "Fictional patient 031",
+    "departure_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "destination": "Demo care centre 031",
+    "urgency": "urgent",
+    "escort_code": "Medic 031",
+    "transfer_state": "completed",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-032",
+    "request_id": "RES-REQUESTS-032",
+    "vehicle_id": "RES-VEHICLES-032",
+    "patient_code": "Fictional patient 032",
+    "departure_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "destination": "Demo care centre 032",
+    "urgency": "routine",
+    "escort_code": "Medic 032",
+    "transfer_state": "completed",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-033",
+    "request_id": "RES-REQUESTS-033",
+    "vehicle_id": "RES-VEHICLES-033",
+    "patient_code": "Fictional patient 033",
+    "departure_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "destination": "Demo care centre 033",
+    "urgency": "urgent",
+    "escort_code": "Medic 033",
+    "transfer_state": "completed",
+    "distance_km": 8,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-034",
+    "request_id": "RES-REQUESTS-034",
+    "vehicle_id": "RES-VEHICLES-034",
+    "patient_code": "Fictional patient 034",
+    "departure_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "destination": "Demo care centre 034",
+    "urgency": "routine",
+    "escort_code": "Medic 034",
+    "transfer_state": "completed",
+    "distance_km": 9,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-035",
+    "request_id": "RES-REQUESTS-035",
+    "vehicle_id": "RES-VEHICLES-035",
+    "patient_code": "Fictional patient 035",
+    "departure_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "destination": "Demo care centre 035",
+    "urgency": "urgent",
+    "escort_code": "Medic 035",
+    "transfer_state": "completed",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-036",
+    "request_id": "RES-REQUESTS-036",
+    "vehicle_id": "RES-VEHICLES-036",
+    "patient_code": "Fictional patient 036",
+    "departure_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "destination": "Demo care centre 036",
+    "urgency": "routine",
+    "escort_code": "Medic 036",
+    "transfer_state": "completed",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-037",
+    "request_id": "RES-REQUESTS-037",
+    "vehicle_id": "RES-VEHICLES-037",
+    "patient_code": "Fictional patient 037",
+    "departure_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "destination": "Demo care centre 037",
+    "urgency": "urgent",
+    "escort_code": "Medic 037",
+    "transfer_state": "completed",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-038",
+    "request_id": "RES-REQUESTS-038",
+    "vehicle_id": "RES-VEHICLES-038",
+    "patient_code": "Fictional patient 038",
+    "departure_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "destination": "Demo care centre 038",
+    "urgency": "routine",
+    "escort_code": "Medic 038",
+    "transfer_state": "completed",
+    "distance_km": 8,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-039",
+    "request_id": "RES-REQUESTS-039",
+    "vehicle_id": "RES-VEHICLES-039",
+    "patient_code": "Fictional patient 039",
+    "departure_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "destination": "Demo care centre 039",
+    "urgency": "urgent",
+    "escort_code": "Medic 039",
+    "transfer_state": "completed",
+    "distance_km": 9,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-040",
+    "request_id": "RES-REQUESTS-040",
+    "vehicle_id": "RES-VEHICLES-040",
+    "patient_code": "Fictional patient 040",
+    "departure_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "destination": "Demo care centre 040",
+    "urgency": "routine",
+    "escort_code": "Medic 040",
+    "transfer_state": "completed",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-041",
+    "request_id": "RES-REQUESTS-041",
+    "vehicle_id": "RES-VEHICLES-041",
+    "patient_code": "Fictional patient 041",
+    "departure_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "destination": "Demo care centre 041",
+    "urgency": "urgent",
+    "escort_code": "Medic 041",
+    "transfer_state": "completed",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-042",
+    "request_id": "RES-REQUESTS-042",
+    "vehicle_id": "RES-VEHICLES-042",
+    "patient_code": "Fictional patient 042",
+    "departure_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "destination": "Demo care centre 042",
+    "urgency": "routine",
+    "escort_code": "Medic 042",
+    "transfer_state": "completed",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-043",
+    "request_id": "RES-REQUESTS-043",
+    "vehicle_id": "RES-VEHICLES-043",
+    "patient_code": "Fictional patient 043",
+    "departure_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "destination": "Demo care centre 043",
+    "urgency": "urgent",
+    "escort_code": "Medic 043",
+    "transfer_state": "completed",
+    "distance_km": 8,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-044",
+    "request_id": "RES-REQUESTS-044",
+    "vehicle_id": "RES-VEHICLES-044",
+    "patient_code": "Fictional patient 044",
+    "departure_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "destination": "Demo care centre 044",
+    "urgency": "routine",
+    "escort_code": "Medic 044",
+    "transfer_state": "completed",
+    "distance_km": 9,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-045",
+    "request_id": "RES-REQUESTS-045",
+    "vehicle_id": "RES-VEHICLES-045",
+    "patient_code": "Fictional patient 045",
+    "departure_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "destination": "Demo care centre 045",
+    "urgency": "urgent",
+    "escort_code": "Medic 045",
+    "transfer_state": "completed",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-046",
+    "request_id": "RES-REQUESTS-046",
+    "vehicle_id": "RES-VEHICLES-046",
+    "patient_code": "Fictional patient 046",
+    "departure_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "destination": "Demo care centre 046",
+    "urgency": "routine",
+    "escort_code": "Medic 046",
+    "transfer_state": "completed",
+    "distance_km": 6,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-047",
+    "request_id": "RES-REQUESTS-047",
+    "vehicle_id": "RES-VEHICLES-047",
+    "patient_code": "Fictional patient 047",
+    "departure_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "destination": "Demo care centre 047",
+    "urgency": "urgent",
+    "escort_code": "Medic 047",
+    "transfer_state": "completed",
+    "distance_km": 7,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-048",
+    "request_id": "RES-REQUESTS-048",
+    "vehicle_id": "RES-VEHICLES-048",
+    "patient_code": "Fictional patient 048",
+    "departure_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "destination": "Demo care centre 048",
+    "urgency": "routine",
+    "escort_code": "Medic 048",
+    "transfer_state": "completed",
+    "distance_km": 8,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-049",
+    "request_id": "RES-REQUESTS-049",
+    "vehicle_id": "RES-VEHICLES-049",
+    "patient_code": "Fictional patient 049",
+    "departure_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "destination": "Demo care centre 049",
+    "urgency": "urgent",
+    "escort_code": "Medic 049",
+    "transfer_state": "completed",
+    "distance_km": 9,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-MEDICAL_TRANSFERS-050",
+    "request_id": "RES-REQUESTS-050",
+    "vehicle_id": "RES-VEHICLES-050",
+    "patient_code": "Fictional patient 050",
+    "departure_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "destination": "Demo care centre 050",
+    "urgency": "routine",
+    "escort_code": "Medic 050",
+    "transfer_state": "completed",
+    "distance_km": 5,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "SHE-MEAL_SERVICES-001",
+    "shelter_id": "SHE-SHELTERS-001",
+    "served_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 51,
+    "portions_served": 41,
+    "menu": "Rice and vegetables 001",
+    "provider": "Demo kitchen 001",
+    "allergen_note": "Check ingredients 001",
+    "supervisor_code": "Kitchen lead 001",
+    "food_check": "passed 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-002",
+    "shelter_id": "SHE-SHELTERS-002",
+    "served_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 52,
+    "portions_served": 42,
+    "menu": "Rice and vegetables 002",
+    "provider": "Demo kitchen 002",
+    "allergen_note": "Check ingredients 002",
+    "supervisor_code": "Kitchen lead 002",
+    "food_check": "passed 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-003",
+    "shelter_id": "SHE-SHELTERS-003",
+    "served_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 53,
+    "portions_served": 43,
+    "menu": "Rice and vegetables 003",
+    "provider": "Demo kitchen 003",
+    "allergen_note": "Check ingredients 003",
+    "supervisor_code": "Kitchen lead 003",
+    "food_check": "passed 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-004",
+    "shelter_id": "SHE-SHELTERS-004",
+    "served_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 54,
+    "portions_served": 44,
+    "menu": "Rice and vegetables 004",
+    "provider": "Demo kitchen 004",
+    "allergen_note": "Check ingredients 004",
+    "supervisor_code": "Kitchen lead 004",
+    "food_check": "passed 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-005",
+    "shelter_id": "SHE-SHELTERS-005",
+    "served_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 50,
+    "portions_served": 40,
+    "menu": "Rice and vegetables 005",
+    "provider": "Demo kitchen 005",
+    "allergen_note": "Check ingredients 005",
+    "supervisor_code": "Kitchen lead 005",
+    "food_check": "passed 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-006",
+    "shelter_id": "SHE-SHELTERS-006",
+    "served_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 51,
+    "portions_served": 41,
+    "menu": "Rice and vegetables 006",
+    "provider": "Demo kitchen 006",
+    "allergen_note": "Check ingredients 006",
+    "supervisor_code": "Kitchen lead 006",
+    "food_check": "passed 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-007",
+    "shelter_id": "SHE-SHELTERS-007",
+    "served_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 52,
+    "portions_served": 42,
+    "menu": "Rice and vegetables 007",
+    "provider": "Demo kitchen 007",
+    "allergen_note": "Check ingredients 007",
+    "supervisor_code": "Kitchen lead 007",
+    "food_check": "passed 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-008",
+    "shelter_id": "SHE-SHELTERS-008",
+    "served_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 53,
+    "portions_served": 43,
+    "menu": "Rice and vegetables 008",
+    "provider": "Demo kitchen 008",
+    "allergen_note": "Check ingredients 008",
+    "supervisor_code": "Kitchen lead 008",
+    "food_check": "passed 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-009",
+    "shelter_id": "SHE-SHELTERS-009",
+    "served_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 54,
+    "portions_served": 44,
+    "menu": "Rice and vegetables 009",
+    "provider": "Demo kitchen 009",
+    "allergen_note": "Check ingredients 009",
+    "supervisor_code": "Kitchen lead 009",
+    "food_check": "passed 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-010",
+    "shelter_id": "SHE-SHELTERS-010",
+    "served_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 50,
+    "portions_served": 40,
+    "menu": "Rice and vegetables 010",
+    "provider": "Demo kitchen 010",
+    "allergen_note": "Check ingredients 010",
+    "supervisor_code": "Kitchen lead 010",
+    "food_check": "passed 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-011",
+    "shelter_id": "SHE-SHELTERS-011",
+    "served_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 51,
+    "portions_served": 41,
+    "menu": "Rice and vegetables 011",
+    "provider": "Demo kitchen 011",
+    "allergen_note": "Check ingredients 011",
+    "supervisor_code": "Kitchen lead 011",
+    "food_check": "passed 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-012",
+    "shelter_id": "SHE-SHELTERS-012",
+    "served_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 52,
+    "portions_served": 42,
+    "menu": "Rice and vegetables 012",
+    "provider": "Demo kitchen 012",
+    "allergen_note": "Check ingredients 012",
+    "supervisor_code": "Kitchen lead 012",
+    "food_check": "passed 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-013",
+    "shelter_id": "SHE-SHELTERS-013",
+    "served_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 53,
+    "portions_served": 43,
+    "menu": "Rice and vegetables 013",
+    "provider": "Demo kitchen 013",
+    "allergen_note": "Check ingredients 013",
+    "supervisor_code": "Kitchen lead 013",
+    "food_check": "passed 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-014",
+    "shelter_id": "SHE-SHELTERS-014",
+    "served_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 54,
+    "portions_served": 44,
+    "menu": "Rice and vegetables 014",
+    "provider": "Demo kitchen 014",
+    "allergen_note": "Check ingredients 014",
+    "supervisor_code": "Kitchen lead 014",
+    "food_check": "passed 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-015",
+    "shelter_id": "SHE-SHELTERS-015",
+    "served_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 50,
+    "portions_served": 40,
+    "menu": "Rice and vegetables 015",
+    "provider": "Demo kitchen 015",
+    "allergen_note": "Check ingredients 015",
+    "supervisor_code": "Kitchen lead 015",
+    "food_check": "passed 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-016",
+    "shelter_id": "SHE-SHELTERS-016",
+    "served_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 51,
+    "portions_served": 41,
+    "menu": "Rice and vegetables 016",
+    "provider": "Demo kitchen 016",
+    "allergen_note": "Check ingredients 016",
+    "supervisor_code": "Kitchen lead 016",
+    "food_check": "passed 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-017",
+    "shelter_id": "SHE-SHELTERS-017",
+    "served_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 52,
+    "portions_served": 42,
+    "menu": "Rice and vegetables 017",
+    "provider": "Demo kitchen 017",
+    "allergen_note": "Check ingredients 017",
+    "supervisor_code": "Kitchen lead 017",
+    "food_check": "passed 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-018",
+    "shelter_id": "SHE-SHELTERS-018",
+    "served_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 53,
+    "portions_served": 43,
+    "menu": "Rice and vegetables 018",
+    "provider": "Demo kitchen 018",
+    "allergen_note": "Check ingredients 018",
+    "supervisor_code": "Kitchen lead 018",
+    "food_check": "passed 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-019",
+    "shelter_id": "SHE-SHELTERS-019",
+    "served_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 54,
+    "portions_served": 44,
+    "menu": "Rice and vegetables 019",
+    "provider": "Demo kitchen 019",
+    "allergen_note": "Check ingredients 019",
+    "supervisor_code": "Kitchen lead 019",
+    "food_check": "passed 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-020",
+    "shelter_id": "SHE-SHELTERS-020",
+    "served_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 50,
+    "portions_served": 40,
+    "menu": "Rice and vegetables 020",
+    "provider": "Demo kitchen 020",
+    "allergen_note": "Check ingredients 020",
+    "supervisor_code": "Kitchen lead 020",
+    "food_check": "passed 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-021",
+    "shelter_id": "SHE-SHELTERS-021",
+    "served_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 51,
+    "portions_served": 41,
+    "menu": "Rice and vegetables 021",
+    "provider": "Demo kitchen 021",
+    "allergen_note": "Check ingredients 021",
+    "supervisor_code": "Kitchen lead 021",
+    "food_check": "passed 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-022",
+    "shelter_id": "SHE-SHELTERS-022",
+    "served_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 52,
+    "portions_served": 42,
+    "menu": "Rice and vegetables 022",
+    "provider": "Demo kitchen 022",
+    "allergen_note": "Check ingredients 022",
+    "supervisor_code": "Kitchen lead 022",
+    "food_check": "passed 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-023",
+    "shelter_id": "SHE-SHELTERS-023",
+    "served_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 53,
+    "portions_served": 43,
+    "menu": "Rice and vegetables 023",
+    "provider": "Demo kitchen 023",
+    "allergen_note": "Check ingredients 023",
+    "supervisor_code": "Kitchen lead 023",
+    "food_check": "passed 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-024",
+    "shelter_id": "SHE-SHELTERS-024",
+    "served_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 54,
+    "portions_served": 44,
+    "menu": "Rice and vegetables 024",
+    "provider": "Demo kitchen 024",
+    "allergen_note": "Check ingredients 024",
+    "supervisor_code": "Kitchen lead 024",
+    "food_check": "passed 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-025",
+    "shelter_id": "SHE-SHELTERS-025",
+    "served_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 50,
+    "portions_served": 40,
+    "menu": "Rice and vegetables 025",
+    "provider": "Demo kitchen 025",
+    "allergen_note": "Check ingredients 025",
+    "supervisor_code": "Kitchen lead 025",
+    "food_check": "passed 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-026",
+    "shelter_id": "SHE-SHELTERS-026",
+    "served_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 51,
+    "portions_served": 41,
+    "menu": "Rice and vegetables 026",
+    "provider": "Demo kitchen 026",
+    "allergen_note": "Check ingredients 026",
+    "supervisor_code": "Kitchen lead 026",
+    "food_check": "passed 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-027",
+    "shelter_id": "SHE-SHELTERS-027",
+    "served_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 52,
+    "portions_served": 42,
+    "menu": "Rice and vegetables 027",
+    "provider": "Demo kitchen 027",
+    "allergen_note": "Check ingredients 027",
+    "supervisor_code": "Kitchen lead 027",
+    "food_check": "passed 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-028",
+    "shelter_id": "SHE-SHELTERS-028",
+    "served_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 53,
+    "portions_served": 43,
+    "menu": "Rice and vegetables 028",
+    "provider": "Demo kitchen 028",
+    "allergen_note": "Check ingredients 028",
+    "supervisor_code": "Kitchen lead 028",
+    "food_check": "passed 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-029",
+    "shelter_id": "SHE-SHELTERS-029",
+    "served_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 54,
+    "portions_served": 44,
+    "menu": "Rice and vegetables 029",
+    "provider": "Demo kitchen 029",
+    "allergen_note": "Check ingredients 029",
+    "supervisor_code": "Kitchen lead 029",
+    "food_check": "passed 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-030",
+    "shelter_id": "SHE-SHELTERS-030",
+    "served_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 50,
+    "portions_served": 40,
+    "menu": "Rice and vegetables 030",
+    "provider": "Demo kitchen 030",
+    "allergen_note": "Check ingredients 030",
+    "supervisor_code": "Kitchen lead 030",
+    "food_check": "passed 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-031",
+    "shelter_id": "SHE-SHELTERS-031",
+    "served_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 51,
+    "portions_served": 41,
+    "menu": "Rice and vegetables 031",
+    "provider": "Demo kitchen 031",
+    "allergen_note": "Check ingredients 031",
+    "supervisor_code": "Kitchen lead 031",
+    "food_check": "passed 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-032",
+    "shelter_id": "SHE-SHELTERS-032",
+    "served_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 52,
+    "portions_served": 42,
+    "menu": "Rice and vegetables 032",
+    "provider": "Demo kitchen 032",
+    "allergen_note": "Check ingredients 032",
+    "supervisor_code": "Kitchen lead 032",
+    "food_check": "passed 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-033",
+    "shelter_id": "SHE-SHELTERS-033",
+    "served_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 53,
+    "portions_served": 43,
+    "menu": "Rice and vegetables 033",
+    "provider": "Demo kitchen 033",
+    "allergen_note": "Check ingredients 033",
+    "supervisor_code": "Kitchen lead 033",
+    "food_check": "passed 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-034",
+    "shelter_id": "SHE-SHELTERS-034",
+    "served_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 54,
+    "portions_served": 44,
+    "menu": "Rice and vegetables 034",
+    "provider": "Demo kitchen 034",
+    "allergen_note": "Check ingredients 034",
+    "supervisor_code": "Kitchen lead 034",
+    "food_check": "passed 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-035",
+    "shelter_id": "SHE-SHELTERS-035",
+    "served_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 50,
+    "portions_served": 40,
+    "menu": "Rice and vegetables 035",
+    "provider": "Demo kitchen 035",
+    "allergen_note": "Check ingredients 035",
+    "supervisor_code": "Kitchen lead 035",
+    "food_check": "passed 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-036",
+    "shelter_id": "SHE-SHELTERS-036",
+    "served_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 51,
+    "portions_served": 41,
+    "menu": "Rice and vegetables 036",
+    "provider": "Demo kitchen 036",
+    "allergen_note": "Check ingredients 036",
+    "supervisor_code": "Kitchen lead 036",
+    "food_check": "passed 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-037",
+    "shelter_id": "SHE-SHELTERS-037",
+    "served_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 52,
+    "portions_served": 42,
+    "menu": "Rice and vegetables 037",
+    "provider": "Demo kitchen 037",
+    "allergen_note": "Check ingredients 037",
+    "supervisor_code": "Kitchen lead 037",
+    "food_check": "passed 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-038",
+    "shelter_id": "SHE-SHELTERS-038",
+    "served_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 53,
+    "portions_served": 43,
+    "menu": "Rice and vegetables 038",
+    "provider": "Demo kitchen 038",
+    "allergen_note": "Check ingredients 038",
+    "supervisor_code": "Kitchen lead 038",
+    "food_check": "passed 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-039",
+    "shelter_id": "SHE-SHELTERS-039",
+    "served_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 54,
+    "portions_served": 44,
+    "menu": "Rice and vegetables 039",
+    "provider": "Demo kitchen 039",
+    "allergen_note": "Check ingredients 039",
+    "supervisor_code": "Kitchen lead 039",
+    "food_check": "passed 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-040",
+    "shelter_id": "SHE-SHELTERS-040",
+    "served_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 50,
+    "portions_served": 40,
+    "menu": "Rice and vegetables 040",
+    "provider": "Demo kitchen 040",
+    "allergen_note": "Check ingredients 040",
+    "supervisor_code": "Kitchen lead 040",
+    "food_check": "passed 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-041",
+    "shelter_id": "SHE-SHELTERS-041",
+    "served_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 51,
+    "portions_served": 41,
+    "menu": "Rice and vegetables 041",
+    "provider": "Demo kitchen 041",
+    "allergen_note": "Check ingredients 041",
+    "supervisor_code": "Kitchen lead 041",
+    "food_check": "passed 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-042",
+    "shelter_id": "SHE-SHELTERS-042",
+    "served_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 52,
+    "portions_served": 42,
+    "menu": "Rice and vegetables 042",
+    "provider": "Demo kitchen 042",
+    "allergen_note": "Check ingredients 042",
+    "supervisor_code": "Kitchen lead 042",
+    "food_check": "passed 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-043",
+    "shelter_id": "SHE-SHELTERS-043",
+    "served_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 53,
+    "portions_served": 43,
+    "menu": "Rice and vegetables 043",
+    "provider": "Demo kitchen 043",
+    "allergen_note": "Check ingredients 043",
+    "supervisor_code": "Kitchen lead 043",
+    "food_check": "passed 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-044",
+    "shelter_id": "SHE-SHELTERS-044",
+    "served_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 54,
+    "portions_served": 44,
+    "menu": "Rice and vegetables 044",
+    "provider": "Demo kitchen 044",
+    "allergen_note": "Check ingredients 044",
+    "supervisor_code": "Kitchen lead 044",
+    "food_check": "passed 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-045",
+    "shelter_id": "SHE-SHELTERS-045",
+    "served_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 50,
+    "portions_served": 40,
+    "menu": "Rice and vegetables 045",
+    "provider": "Demo kitchen 045",
+    "allergen_note": "Check ingredients 045",
+    "supervisor_code": "Kitchen lead 045",
+    "food_check": "passed 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-046",
+    "shelter_id": "SHE-SHELTERS-046",
+    "served_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 51,
+    "portions_served": 41,
+    "menu": "Rice and vegetables 046",
+    "provider": "Demo kitchen 046",
+    "allergen_note": "Check ingredients 046",
+    "supervisor_code": "Kitchen lead 046",
+    "food_check": "passed 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-047",
+    "shelter_id": "SHE-SHELTERS-047",
+    "served_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 52,
+    "portions_served": 42,
+    "menu": "Rice and vegetables 047",
+    "provider": "Demo kitchen 047",
+    "allergen_note": "Check ingredients 047",
+    "supervisor_code": "Kitchen lead 047",
+    "food_check": "passed 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-048",
+    "shelter_id": "SHE-SHELTERS-048",
+    "served_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "meal_type": "dinner",
+    "portions_prepared": 53,
+    "portions_served": 43,
+    "menu": "Rice and vegetables 048",
+    "provider": "Demo kitchen 048",
+    "allergen_note": "Check ingredients 048",
+    "supervisor_code": "Kitchen lead 048",
+    "food_check": "passed 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-049",
+    "shelter_id": "SHE-SHELTERS-049",
+    "served_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "meal_type": "breakfast",
+    "portions_prepared": 54,
+    "portions_served": 44,
+    "menu": "Rice and vegetables 049",
+    "provider": "Demo kitchen 049",
+    "allergen_note": "Check ingredients 049",
+    "supervisor_code": "Kitchen lead 049",
+    "food_check": "passed 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-MEAL_SERVICES-050",
+    "shelter_id": "SHE-SHELTERS-050",
+    "served_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "meal_type": "lunch",
+    "portions_prepared": 50,
+    "portions_served": 40,
+    "menu": "Rice and vegetables 050",
+    "provider": "Demo kitchen 050",
+    "allergen_note": "Check ingredients 050",
+    "supervisor_code": "Kitchen lead 050",
+    "food_check": "passed 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

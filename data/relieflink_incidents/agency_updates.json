@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "INC-AGENCY_UPDATES-001",
+    "event_id": "INC-EVENTS-001",
+    "area_id": "INC-AREAS-001",
+    "agency_name": "Demo response agency 001",
+    "update_time": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 3,
+    "personnel_available": 9,
+    "contact_code": "Desk 001",
+    "operational_area": "Response sector 001",
+    "update_text": "Resources ready 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-002",
+    "event_id": "INC-EVENTS-002",
+    "area_id": "INC-AREAS-002",
+    "agency_name": "Demo response agency 002",
+    "update_time": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 4,
+    "personnel_available": 10,
+    "contact_code": "Desk 002",
+    "operational_area": "Response sector 002",
+    "update_text": "Resources ready 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-003",
+    "event_id": "INC-EVENTS-003",
+    "area_id": "INC-AREAS-003",
+    "agency_name": "Demo response agency 003",
+    "update_time": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 5,
+    "personnel_available": 11,
+    "contact_code": "Desk 003",
+    "operational_area": "Response sector 003",
+    "update_text": "Resources ready 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-004",
+    "event_id": "INC-EVENTS-004",
+    "area_id": "INC-AREAS-004",
+    "agency_name": "Demo response agency 004",
+    "update_time": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 6,
+    "personnel_available": 12,
+    "contact_code": "Desk 004",
+    "operational_area": "Response sector 004",
+    "update_text": "Resources ready 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-005",
+    "event_id": "INC-EVENTS-005",
+    "area_id": "INC-AREAS-005",
+    "agency_name": "Demo response agency 005",
+    "update_time": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 2,
+    "personnel_available": 8,
+    "contact_code": "Desk 005",
+    "operational_area": "Response sector 005",
+    "update_text": "Resources ready 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-006",
+    "event_id": "INC-EVENTS-006",
+    "area_id": "INC-AREAS-006",
+    "agency_name": "Demo response agency 006",
+    "update_time": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 3,
+    "personnel_available": 9,
+    "contact_code": "Desk 006",
+    "operational_area": "Response sector 006",
+    "update_text": "Resources ready 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-007",
+    "event_id": "INC-EVENTS-007",
+    "area_id": "INC-AREAS-007",
+    "agency_name": "Demo response agency 007",
+    "update_time": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 4,
+    "personnel_available": 10,
+    "contact_code": "Desk 007",
+    "operational_area": "Response sector 007",
+    "update_text": "Resources ready 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-008",
+    "event_id": "INC-EVENTS-008",
+    "area_id": "INC-AREAS-008",
+    "agency_name": "Demo response agency 008",
+    "update_time": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 5,
+    "personnel_available": 11,
+    "contact_code": "Desk 008",
+    "operational_area": "Response sector 008",
+    "update_text": "Resources ready 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-009",
+    "event_id": "INC-EVENTS-009",
+    "area_id": "INC-AREAS-009",
+    "agency_name": "Demo response agency 009",
+    "update_time": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 6,
+    "personnel_available": 12,
+    "contact_code": "Desk 009",
+    "operational_area": "Response sector 009",
+    "update_text": "Resources ready 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-010",
+    "event_id": "INC-EVENTS-010",
+    "area_id": "INC-AREAS-010",
+    "agency_name": "Demo response agency 010",
+    "update_time": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 2,
+    "personnel_available": 8,
+    "contact_code": "Desk 010",
+    "operational_area": "Response sector 010",
+    "update_text": "Resources ready 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-011",
+    "event_id": "INC-EVENTS-011",
+    "area_id": "INC-AREAS-011",
+    "agency_name": "Demo response agency 011",
+    "update_time": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 3,
+    "personnel_available": 9,
+    "contact_code": "Desk 011",
+    "operational_area": "Response sector 011",
+    "update_text": "Resources ready 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-012",
+    "event_id": "INC-EVENTS-012",
+    "area_id": "INC-AREAS-012",
+    "agency_name": "Demo response agency 012",
+    "update_time": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 4,
+    "personnel_available": 10,
+    "contact_code": "Desk 012",
+    "operational_area": "Response sector 012",
+    "update_text": "Resources ready 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-013",
+    "event_id": "INC-EVENTS-013",
+    "area_id": "INC-AREAS-013",
+    "agency_name": "Demo response agency 013",
+    "update_time": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 5,
+    "personnel_available": 11,
+    "contact_code": "Desk 013",
+    "operational_area": "Response sector 013",
+    "update_text": "Resources ready 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-014",
+    "event_id": "INC-EVENTS-014",
+    "area_id": "INC-AREAS-014",
+    "agency_name": "Demo response agency 014",
+    "update_time": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 6,
+    "personnel_available": 12,
+    "contact_code": "Desk 014",
+    "operational_area": "Response sector 014",
+    "update_text": "Resources ready 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-015",
+    "event_id": "INC-EVENTS-015",
+    "area_id": "INC-AREAS-015",
+    "agency_name": "Demo response agency 015",
+    "update_time": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 2,
+    "personnel_available": 8,
+    "contact_code": "Desk 015",
+    "operational_area": "Response sector 015",
+    "update_text": "Resources ready 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-016",
+    "event_id": "INC-EVENTS-016",
+    "area_id": "INC-AREAS-016",
+    "agency_name": "Demo response agency 016",
+    "update_time": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 3,
+    "personnel_available": 9,
+    "contact_code": "Desk 016",
+    "operational_area": "Response sector 016",
+    "update_text": "Resources ready 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-017",
+    "event_id": "INC-EVENTS-017",
+    "area_id": "INC-AREAS-017",
+    "agency_name": "Demo response agency 017",
+    "update_time": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 4,
+    "personnel_available": 10,
+    "contact_code": "Desk 017",
+    "operational_area": "Response sector 017",
+    "update_text": "Resources ready 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-018",
+    "event_id": "INC-EVENTS-018",
+    "area_id": "INC-AREAS-018",
+    "agency_name": "Demo response agency 018",
+    "update_time": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 5,
+    "personnel_available": 11,
+    "contact_code": "Desk 018",
+    "operational_area": "Response sector 018",
+    "update_text": "Resources ready 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-019",
+    "event_id": "INC-EVENTS-019",
+    "area_id": "INC-AREAS-019",
+    "agency_name": "Demo response agency 019",
+    "update_time": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 6,
+    "personnel_available": 12,
+    "contact_code": "Desk 019",
+    "operational_area": "Response sector 019",
+    "update_text": "Resources ready 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-020",
+    "event_id": "INC-EVENTS-020",
+    "area_id": "INC-AREAS-020",
+    "agency_name": "Demo response agency 020",
+    "update_time": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 2,
+    "personnel_available": 8,
+    "contact_code": "Desk 020",
+    "operational_area": "Response sector 020",
+    "update_text": "Resources ready 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-021",
+    "event_id": "INC-EVENTS-021",
+    "area_id": "INC-AREAS-021",
+    "agency_name": "Demo response agency 021",
+    "update_time": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 3,
+    "personnel_available": 9,
+    "contact_code": "Desk 021",
+    "operational_area": "Response sector 021",
+    "update_text": "Resources ready 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-022",
+    "event_id": "INC-EVENTS-022",
+    "area_id": "INC-AREAS-022",
+    "agency_name": "Demo response agency 022",
+    "update_time": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 4,
+    "personnel_available": 10,
+    "contact_code": "Desk 022",
+    "operational_area": "Response sector 022",
+    "update_text": "Resources ready 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-023",
+    "event_id": "INC-EVENTS-023",
+    "area_id": "INC-AREAS-023",
+    "agency_name": "Demo response agency 023",
+    "update_time": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 5,
+    "personnel_available": 11,
+    "contact_code": "Desk 023",
+    "operational_area": "Response sector 023",
+    "update_text": "Resources ready 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-024",
+    "event_id": "INC-EVENTS-024",
+    "area_id": "INC-AREAS-024",
+    "agency_name": "Demo response agency 024",
+    "update_time": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 6,
+    "personnel_available": 12,
+    "contact_code": "Desk 024",
+    "operational_area": "Response sector 024",
+    "update_text": "Resources ready 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-025",
+    "event_id": "INC-EVENTS-025",
+    "area_id": "INC-AREAS-025",
+    "agency_name": "Demo response agency 025",
+    "update_time": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 2,
+    "personnel_available": 8,
+    "contact_code": "Desk 025",
+    "operational_area": "Response sector 025",
+    "update_text": "Resources ready 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-026",
+    "event_id": "INC-EVENTS-026",
+    "area_id": "INC-AREAS-026",
+    "agency_name": "Demo response agency 026",
+    "update_time": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 3,
+    "personnel_available": 9,
+    "contact_code": "Desk 026",
+    "operational_area": "Response sector 026",
+    "update_text": "Resources ready 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-027",
+    "event_id": "INC-EVENTS-027",
+    "area_id": "INC-AREAS-027",
+    "agency_name": "Demo response agency 027",
+    "update_time": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 4,
+    "personnel_available": 10,
+    "contact_code": "Desk 027",
+    "operational_area": "Response sector 027",
+    "update_text": "Resources ready 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-028",
+    "event_id": "INC-EVENTS-028",
+    "area_id": "INC-AREAS-028",
+    "agency_name": "Demo response agency 028",
+    "update_time": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 5,
+    "personnel_available": 11,
+    "contact_code": "Desk 028",
+    "operational_area": "Response sector 028",
+    "update_text": "Resources ready 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-029",
+    "event_id": "INC-EVENTS-029",
+    "area_id": "INC-AREAS-029",
+    "agency_name": "Demo response agency 029",
+    "update_time": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 6,
+    "personnel_available": 12,
+    "contact_code": "Desk 029",
+    "operational_area": "Response sector 029",
+    "update_text": "Resources ready 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-030",
+    "event_id": "INC-EVENTS-030",
+    "area_id": "INC-AREAS-030",
+    "agency_name": "Demo response agency 030",
+    "update_time": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 2,
+    "personnel_available": 8,
+    "contact_code": "Desk 030",
+    "operational_area": "Response sector 030",
+    "update_text": "Resources ready 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-031",
+    "event_id": "INC-EVENTS-031",
+    "area_id": "INC-AREAS-031",
+    "agency_name": "Demo response agency 031",
+    "update_time": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 3,
+    "personnel_available": 9,
+    "contact_code": "Desk 031",
+    "operational_area": "Response sector 031",
+    "update_text": "Resources ready 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-032",
+    "event_id": "INC-EVENTS-032",
+    "area_id": "INC-AREAS-032",
+    "agency_name": "Demo response agency 032",
+    "update_time": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 4,
+    "personnel_available": 10,
+    "contact_code": "Desk 032",
+    "operational_area": "Response sector 032",
+    "update_text": "Resources ready 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-033",
+    "event_id": "INC-EVENTS-033",
+    "area_id": "INC-AREAS-033",
+    "agency_name": "Demo response agency 033",
+    "update_time": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 5,
+    "personnel_available": 11,
+    "contact_code": "Desk 033",
+    "operational_area": "Response sector 033",
+    "update_text": "Resources ready 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-034",
+    "event_id": "INC-EVENTS-034",
+    "area_id": "INC-AREAS-034",
+    "agency_name": "Demo response agency 034",
+    "update_time": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 6,
+    "personnel_available": 12,
+    "contact_code": "Desk 034",
+    "operational_area": "Response sector 034",
+    "update_text": "Resources ready 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-035",
+    "event_id": "INC-EVENTS-035",
+    "area_id": "INC-AREAS-035",
+    "agency_name": "Demo response agency 035",
+    "update_time": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 2,
+    "personnel_available": 8,
+    "contact_code": "Desk 035",
+    "operational_area": "Response sector 035",
+    "update_text": "Resources ready 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-036",
+    "event_id": "INC-EVENTS-036",
+    "area_id": "INC-AREAS-036",
+    "agency_name": "Demo response agency 036",
+    "update_time": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 3,
+    "personnel_available": 9,
+    "contact_code": "Desk 036",
+    "operational_area": "Response sector 036",
+    "update_text": "Resources ready 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-037",
+    "event_id": "INC-EVENTS-037",
+    "area_id": "INC-AREAS-037",
+    "agency_name": "Demo response agency 037",
+    "update_time": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 4,
+    "personnel_available": 10,
+    "contact_code": "Desk 037",
+    "operational_area": "Response sector 037",
+    "update_text": "Resources ready 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-038",
+    "event_id": "INC-EVENTS-038",
+    "area_id": "INC-AREAS-038",
+    "agency_name": "Demo response agency 038",
+    "update_time": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 5,
+    "personnel_available": 11,
+    "contact_code": "Desk 038",
+    "operational_area": "Response sector 038",
+    "update_text": "Resources ready 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-039",
+    "event_id": "INC-EVENTS-039",
+    "area_id": "INC-AREAS-039",
+    "agency_name": "Demo response agency 039",
+    "update_time": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 6,
+    "personnel_available": 12,
+    "contact_code": "Desk 039",
+    "operational_area": "Response sector 039",
+    "update_text": "Resources ready 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-040",
+    "event_id": "INC-EVENTS-040",
+    "area_id": "INC-AREAS-040",
+    "agency_name": "Demo response agency 040",
+    "update_time": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 2,
+    "personnel_available": 8,
+    "contact_code": "Desk 040",
+    "operational_area": "Response sector 040",
+    "update_text": "Resources ready 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-041",
+    "event_id": "INC-EVENTS-041",
+    "area_id": "INC-AREAS-041",
+    "agency_name": "Demo response agency 041",
+    "update_time": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 3,
+    "personnel_available": 9,
+    "contact_code": "Desk 041",
+    "operational_area": "Response sector 041",
+    "update_text": "Resources ready 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-042",
+    "event_id": "INC-EVENTS-042",
+    "area_id": "INC-AREAS-042",
+    "agency_name": "Demo response agency 042",
+    "update_time": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 4,
+    "personnel_available": 10,
+    "contact_code": "Desk 042",
+    "operational_area": "Response sector 042",
+    "update_text": "Resources ready 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-043",
+    "event_id": "INC-EVENTS-043",
+    "area_id": "INC-AREAS-043",
+    "agency_name": "Demo response agency 043",
+    "update_time": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 5,
+    "personnel_available": 11,
+    "contact_code": "Desk 043",
+    "operational_area": "Response sector 043",
+    "update_text": "Resources ready 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-044",
+    "event_id": "INC-EVENTS-044",
+    "area_id": "INC-AREAS-044",
+    "agency_name": "Demo response agency 044",
+    "update_time": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 6,
+    "personnel_available": 12,
+    "contact_code": "Desk 044",
+    "operational_area": "Response sector 044",
+    "update_text": "Resources ready 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-045",
+    "event_id": "INC-EVENTS-045",
+    "area_id": "INC-AREAS-045",
+    "agency_name": "Demo response agency 045",
+    "update_time": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 2,
+    "personnel_available": 8,
+    "contact_code": "Desk 045",
+    "operational_area": "Response sector 045",
+    "update_text": "Resources ready 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-046",
+    "event_id": "INC-EVENTS-046",
+    "area_id": "INC-AREAS-046",
+    "agency_name": "Demo response agency 046",
+    "update_time": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 3,
+    "personnel_available": 9,
+    "contact_code": "Desk 046",
+    "operational_area": "Response sector 046",
+    "update_text": "Resources ready 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-047",
+    "event_id": "INC-EVENTS-047",
+    "area_id": "INC-AREAS-047",
+    "agency_name": "Demo response agency 047",
+    "update_time": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 4,
+    "personnel_available": 10,
+    "contact_code": "Desk 047",
+    "operational_area": "Response sector 047",
+    "update_text": "Resources ready 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-048",
+    "event_id": "INC-EVENTS-048",
+    "area_id": "INC-AREAS-048",
+    "agency_name": "Demo response agency 048",
+    "update_time": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "resource_type": "truck",
+    "resources_available": 5,
+    "personnel_available": 11,
+    "contact_code": "Desk 048",
+    "operational_area": "Response sector 048",
+    "update_text": "Resources ready 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-049",
+    "event_id": "INC-EVENTS-049",
+    "area_id": "INC-AREAS-049",
+    "agency_name": "Demo response agency 049",
+    "update_time": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "resource_type": "boat",
+    "resources_available": 6,
+    "personnel_available": 12,
+    "contact_code": "Desk 049",
+    "operational_area": "Response sector 049",
+    "update_text": "Resources ready 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-AGENCY_UPDATES-050",
+    "event_id": "INC-EVENTS-050",
+    "area_id": "INC-AREAS-050",
+    "agency_name": "Demo response agency 050",
+    "update_time": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "resource_type": "ambulance",
+    "resources_available": 2,
+    "personnel_available": 8,
+    "contact_code": "Desk 050",
+    "operational_area": "Response sector 050",
+    "update_text": "Resources ready 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

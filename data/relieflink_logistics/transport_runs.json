@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "LOG-TRANSPORT_RUNS-001",
+    "shipment_id": "LOG-SHIPMENTS-001",
+    "vehicle_code": "Logistics truck 001",
+    "driver_code": "Demo driver 001",
+    "departed_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "distance_km": 21,
+    "fuel_litres": 6,
+    "route_label": "Relief corridor 001",
+    "run_state": "completed",
+    "load_units": 21,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-002",
+    "shipment_id": "LOG-SHIPMENTS-002",
+    "vehicle_code": "Logistics truck 002",
+    "driver_code": "Demo driver 002",
+    "departed_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "distance_km": 22,
+    "fuel_litres": 7,
+    "route_label": "Relief corridor 002",
+    "run_state": "completed",
+    "load_units": 22,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-003",
+    "shipment_id": "LOG-SHIPMENTS-003",
+    "vehicle_code": "Logistics truck 003",
+    "driver_code": "Demo driver 003",
+    "departed_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "distance_km": 23,
+    "fuel_litres": 8,
+    "route_label": "Relief corridor 003",
+    "run_state": "completed",
+    "load_units": 23,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-004",
+    "shipment_id": "LOG-SHIPMENTS-004",
+    "vehicle_code": "Logistics truck 004",
+    "driver_code": "Demo driver 004",
+    "departed_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "distance_km": 24,
+    "fuel_litres": 9,
+    "route_label": "Relief corridor 004",
+    "run_state": "completed",
+    "load_units": 24,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-005",
+    "shipment_id": "LOG-SHIPMENTS-005",
+    "vehicle_code": "Logistics truck 005",
+    "driver_code": "Demo driver 005",
+    "departed_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "distance_km": 20,
+    "fuel_litres": 5,
+    "route_label": "Relief corridor 005",
+    "run_state": "completed",
+    "load_units": 20,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-006",
+    "shipment_id": "LOG-SHIPMENTS-006",
+    "vehicle_code": "Logistics truck 006",
+    "driver_code": "Demo driver 006",
+    "departed_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "distance_km": 21,
+    "fuel_litres": 6,
+    "route_label": "Relief corridor 006",
+    "run_state": "completed",
+    "load_units": 21,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-007",
+    "shipment_id": "LOG-SHIPMENTS-007",
+    "vehicle_code": "Logistics truck 007",
+    "driver_code": "Demo driver 007",
+    "departed_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "distance_km": 22,
+    "fuel_litres": 7,
+    "route_label": "Relief corridor 007",
+    "run_state": "completed",
+    "load_units": 22,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-008",
+    "shipment_id": "LOG-SHIPMENTS-008",
+    "vehicle_code": "Logistics truck 008",
+    "driver_code": "Demo driver 008",
+    "departed_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "distance_km": 23,
+    "fuel_litres": 8,
+    "route_label": "Relief corridor 008",
+    "run_state": "completed",
+    "load_units": 23,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-009",
+    "shipment_id": "LOG-SHIPMENTS-009",
+    "vehicle_code": "Logistics truck 009",
+    "driver_code": "Demo driver 009",
+    "departed_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "distance_km": 24,
+    "fuel_litres": 9,
+    "route_label": "Relief corridor 009",
+    "run_state": "completed",
+    "load_units": 24,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-010",
+    "shipment_id": "LOG-SHIPMENTS-010",
+    "vehicle_code": "Logistics truck 010",
+    "driver_code": "Demo driver 010",
+    "departed_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "distance_km": 20,
+    "fuel_litres": 5,
+    "route_label": "Relief corridor 010",
+    "run_state": "completed",
+    "load_units": 20,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-011",
+    "shipment_id": "LOG-SHIPMENTS-011",
+    "vehicle_code": "Logistics truck 011",
+    "driver_code": "Demo driver 011",
+    "departed_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "distance_km": 21,
+    "fuel_litres": 6,
+    "route_label": "Relief corridor 011",
+    "run_state": "completed",
+    "load_units": 21,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-012",
+    "shipment_id": "LOG-SHIPMENTS-012",
+    "vehicle_code": "Logistics truck 012",
+    "driver_code": "Demo driver 012",
+    "departed_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "distance_km": 22,
+    "fuel_litres": 7,
+    "route_label": "Relief corridor 012",
+    "run_state": "completed",
+    "load_units": 22,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-013",
+    "shipment_id": "LOG-SHIPMENTS-013",
+    "vehicle_code": "Logistics truck 013",
+    "driver_code": "Demo driver 013",
+    "departed_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "distance_km": 23,
+    "fuel_litres": 8,
+    "route_label": "Relief corridor 013",
+    "run_state": "completed",
+    "load_units": 23,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-014",
+    "shipment_id": "LOG-SHIPMENTS-014",
+    "vehicle_code": "Logistics truck 014",
+    "driver_code": "Demo driver 014",
+    "departed_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "distance_km": 24,
+    "fuel_litres": 9,
+    "route_label": "Relief corridor 014",
+    "run_state": "completed",
+    "load_units": 24,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-015",
+    "shipment_id": "LOG-SHIPMENTS-015",
+    "vehicle_code": "Logistics truck 015",
+    "driver_code": "Demo driver 015",
+    "departed_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "distance_km": 20,
+    "fuel_litres": 5,
+    "route_label": "Relief corridor 015",
+    "run_state": "completed",
+    "load_units": 20,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-016",
+    "shipment_id": "LOG-SHIPMENTS-016",
+    "vehicle_code": "Logistics truck 016",
+    "driver_code": "Demo driver 016",
+    "departed_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "distance_km": 21,
+    "fuel_litres": 6,
+    "route_label": "Relief corridor 016",
+    "run_state": "completed",
+    "load_units": 21,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-017",
+    "shipment_id": "LOG-SHIPMENTS-017",
+    "vehicle_code": "Logistics truck 017",
+    "driver_code": "Demo driver 017",
+    "departed_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "distance_km": 22,
+    "fuel_litres": 7,
+    "route_label": "Relief corridor 017",
+    "run_state": "completed",
+    "load_units": 22,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-018",
+    "shipment_id": "LOG-SHIPMENTS-018",
+    "vehicle_code": "Logistics truck 018",
+    "driver_code": "Demo driver 018",
+    "departed_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "distance_km": 23,
+    "fuel_litres": 8,
+    "route_label": "Relief corridor 018",
+    "run_state": "completed",
+    "load_units": 23,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-019",
+    "shipment_id": "LOG-SHIPMENTS-019",
+    "vehicle_code": "Logistics truck 019",
+    "driver_code": "Demo driver 019",
+    "departed_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "distance_km": 24,
+    "fuel_litres": 9,
+    "route_label": "Relief corridor 019",
+    "run_state": "completed",
+    "load_units": 24,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-020",
+    "shipment_id": "LOG-SHIPMENTS-020",
+    "vehicle_code": "Logistics truck 020",
+    "driver_code": "Demo driver 020",
+    "departed_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "distance_km": 20,
+    "fuel_litres": 5,
+    "route_label": "Relief corridor 020",
+    "run_state": "completed",
+    "load_units": 20,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-021",
+    "shipment_id": "LOG-SHIPMENTS-021",
+    "vehicle_code": "Logistics truck 021",
+    "driver_code": "Demo driver 021",
+    "departed_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "distance_km": 21,
+    "fuel_litres": 6,
+    "route_label": "Relief corridor 021",
+    "run_state": "completed",
+    "load_units": 21,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-022",
+    "shipment_id": "LOG-SHIPMENTS-022",
+    "vehicle_code": "Logistics truck 022",
+    "driver_code": "Demo driver 022",
+    "departed_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "distance_km": 22,
+    "fuel_litres": 7,
+    "route_label": "Relief corridor 022",
+    "run_state": "completed",
+    "load_units": 22,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-023",
+    "shipment_id": "LOG-SHIPMENTS-023",
+    "vehicle_code": "Logistics truck 023",
+    "driver_code": "Demo driver 023",
+    "departed_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "distance_km": 23,
+    "fuel_litres": 8,
+    "route_label": "Relief corridor 023",
+    "run_state": "completed",
+    "load_units": 23,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-024",
+    "shipment_id": "LOG-SHIPMENTS-024",
+    "vehicle_code": "Logistics truck 024",
+    "driver_code": "Demo driver 024",
+    "departed_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "distance_km": 24,
+    "fuel_litres": 9,
+    "route_label": "Relief corridor 024",
+    "run_state": "completed",
+    "load_units": 24,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-025",
+    "shipment_id": "LOG-SHIPMENTS-025",
+    "vehicle_code": "Logistics truck 025",
+    "driver_code": "Demo driver 025",
+    "departed_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "distance_km": 20,
+    "fuel_litres": 5,
+    "route_label": "Relief corridor 025",
+    "run_state": "completed",
+    "load_units": 20,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-026",
+    "shipment_id": "LOG-SHIPMENTS-026",
+    "vehicle_code": "Logistics truck 026",
+    "driver_code": "Demo driver 026",
+    "departed_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "distance_km": 21,
+    "fuel_litres": 6,
+    "route_label": "Relief corridor 026",
+    "run_state": "completed",
+    "load_units": 21,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-027",
+    "shipment_id": "LOG-SHIPMENTS-027",
+    "vehicle_code": "Logistics truck 027",
+    "driver_code": "Demo driver 027",
+    "departed_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "distance_km": 22,
+    "fuel_litres": 7,
+    "route_label": "Relief corridor 027",
+    "run_state": "completed",
+    "load_units": 22,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-028",
+    "shipment_id": "LOG-SHIPMENTS-028",
+    "vehicle_code": "Logistics truck 028",
+    "driver_code": "Demo driver 028",
+    "departed_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "distance_km": 23,
+    "fuel_litres": 8,
+    "route_label": "Relief corridor 028",
+    "run_state": "completed",
+    "load_units": 23,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-029",
+    "shipment_id": "LOG-SHIPMENTS-029",
+    "vehicle_code": "Logistics truck 029",
+    "driver_code": "Demo driver 029",
+    "departed_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "distance_km": 24,
+    "fuel_litres": 9,
+    "route_label": "Relief corridor 029",
+    "run_state": "completed",
+    "load_units": 24,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-030",
+    "shipment_id": "LOG-SHIPMENTS-030",
+    "vehicle_code": "Logistics truck 030",
+    "driver_code": "Demo driver 030",
+    "departed_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "distance_km": 20,
+    "fuel_litres": 5,
+    "route_label": "Relief corridor 030",
+    "run_state": "completed",
+    "load_units": 20,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-031",
+    "shipment_id": "LOG-SHIPMENTS-031",
+    "vehicle_code": "Logistics truck 031",
+    "driver_code": "Demo driver 031",
+    "departed_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "distance_km": 21,
+    "fuel_litres": 6,
+    "route_label": "Relief corridor 031",
+    "run_state": "completed",
+    "load_units": 21,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-032",
+    "shipment_id": "LOG-SHIPMENTS-032",
+    "vehicle_code": "Logistics truck 032",
+    "driver_code": "Demo driver 032",
+    "departed_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "distance_km": 22,
+    "fuel_litres": 7,
+    "route_label": "Relief corridor 032",
+    "run_state": "completed",
+    "load_units": 22,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-033",
+    "shipment_id": "LOG-SHIPMENTS-033",
+    "vehicle_code": "Logistics truck 033",
+    "driver_code": "Demo driver 033",
+    "departed_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "distance_km": 23,
+    "fuel_litres": 8,
+    "route_label": "Relief corridor 033",
+    "run_state": "completed",
+    "load_units": 23,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-034",
+    "shipment_id": "LOG-SHIPMENTS-034",
+    "vehicle_code": "Logistics truck 034",
+    "driver_code": "Demo driver 034",
+    "departed_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "distance_km": 24,
+    "fuel_litres": 9,
+    "route_label": "Relief corridor 034",
+    "run_state": "completed",
+    "load_units": 24,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-035",
+    "shipment_id": "LOG-SHIPMENTS-035",
+    "vehicle_code": "Logistics truck 035",
+    "driver_code": "Demo driver 035",
+    "departed_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "distance_km": 20,
+    "fuel_litres": 5,
+    "route_label": "Relief corridor 035",
+    "run_state": "completed",
+    "load_units": 20,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-036",
+    "shipment_id": "LOG-SHIPMENTS-036",
+    "vehicle_code": "Logistics truck 036",
+    "driver_code": "Demo driver 036",
+    "departed_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "distance_km": 21,
+    "fuel_litres": 6,
+    "route_label": "Relief corridor 036",
+    "run_state": "completed",
+    "load_units": 21,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-037",
+    "shipment_id": "LOG-SHIPMENTS-037",
+    "vehicle_code": "Logistics truck 037",
+    "driver_code": "Demo driver 037",
+    "departed_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "distance_km": 22,
+    "fuel_litres": 7,
+    "route_label": "Relief corridor 037",
+    "run_state": "completed",
+    "load_units": 22,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-038",
+    "shipment_id": "LOG-SHIPMENTS-038",
+    "vehicle_code": "Logistics truck 038",
+    "driver_code": "Demo driver 038",
+    "departed_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "distance_km": 23,
+    "fuel_litres": 8,
+    "route_label": "Relief corridor 038",
+    "run_state": "completed",
+    "load_units": 23,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-039",
+    "shipment_id": "LOG-SHIPMENTS-039",
+    "vehicle_code": "Logistics truck 039",
+    "driver_code": "Demo driver 039",
+    "departed_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "distance_km": 24,
+    "fuel_litres": 9,
+    "route_label": "Relief corridor 039",
+    "run_state": "completed",
+    "load_units": 24,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-040",
+    "shipment_id": "LOG-SHIPMENTS-040",
+    "vehicle_code": "Logistics truck 040",
+    "driver_code": "Demo driver 040",
+    "departed_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "distance_km": 20,
+    "fuel_litres": 5,
+    "route_label": "Relief corridor 040",
+    "run_state": "completed",
+    "load_units": 20,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-041",
+    "shipment_id": "LOG-SHIPMENTS-041",
+    "vehicle_code": "Logistics truck 041",
+    "driver_code": "Demo driver 041",
+    "departed_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "distance_km": 21,
+    "fuel_litres": 6,
+    "route_label": "Relief corridor 041",
+    "run_state": "completed",
+    "load_units": 21,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-042",
+    "shipment_id": "LOG-SHIPMENTS-042",
+    "vehicle_code": "Logistics truck 042",
+    "driver_code": "Demo driver 042",
+    "departed_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "distance_km": 22,
+    "fuel_litres": 7,
+    "route_label": "Relief corridor 042",
+    "run_state": "completed",
+    "load_units": 22,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-043",
+    "shipment_id": "LOG-SHIPMENTS-043",
+    "vehicle_code": "Logistics truck 043",
+    "driver_code": "Demo driver 043",
+    "departed_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "distance_km": 23,
+    "fuel_litres": 8,
+    "route_label": "Relief corridor 043",
+    "run_state": "completed",
+    "load_units": 23,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-044",
+    "shipment_id": "LOG-SHIPMENTS-044",
+    "vehicle_code": "Logistics truck 044",
+    "driver_code": "Demo driver 044",
+    "departed_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "distance_km": 24,
+    "fuel_litres": 9,
+    "route_label": "Relief corridor 044",
+    "run_state": "completed",
+    "load_units": 24,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-045",
+    "shipment_id": "LOG-SHIPMENTS-045",
+    "vehicle_code": "Logistics truck 045",
+    "driver_code": "Demo driver 045",
+    "departed_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "distance_km": 20,
+    "fuel_litres": 5,
+    "route_label": "Relief corridor 045",
+    "run_state": "completed",
+    "load_units": 20,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-046",
+    "shipment_id": "LOG-SHIPMENTS-046",
+    "vehicle_code": "Logistics truck 046",
+    "driver_code": "Demo driver 046",
+    "departed_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "distance_km": 21,
+    "fuel_litres": 6,
+    "route_label": "Relief corridor 046",
+    "run_state": "completed",
+    "load_units": 21,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-047",
+    "shipment_id": "LOG-SHIPMENTS-047",
+    "vehicle_code": "Logistics truck 047",
+    "driver_code": "Demo driver 047",
+    "departed_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "distance_km": 22,
+    "fuel_litres": 7,
+    "route_label": "Relief corridor 047",
+    "run_state": "completed",
+    "load_units": 22,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-048",
+    "shipment_id": "LOG-SHIPMENTS-048",
+    "vehicle_code": "Logistics truck 048",
+    "driver_code": "Demo driver 048",
+    "departed_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "distance_km": 23,
+    "fuel_litres": 8,
+    "route_label": "Relief corridor 048",
+    "run_state": "completed",
+    "load_units": 23,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-049",
+    "shipment_id": "LOG-SHIPMENTS-049",
+    "vehicle_code": "Logistics truck 049",
+    "driver_code": "Demo driver 049",
+    "departed_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "distance_km": 24,
+    "fuel_litres": 9,
+    "route_label": "Relief corridor 049",
+    "run_state": "completed",
+    "load_units": 24,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-TRANSPORT_RUNS-050",
+    "shipment_id": "LOG-SHIPMENTS-050",
+    "vehicle_code": "Logistics truck 050",
+    "driver_code": "Demo driver 050",
+    "departed_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "arrived_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "distance_km": 20,
+    "fuel_litres": 5,
+    "route_label": "Relief corridor 050",
+    "run_state": "completed",
+    "load_units": 20,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

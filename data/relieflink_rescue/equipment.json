@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "RES-EQUIPMENT-001",
+    "team_id": "RES-TEAMS-001",
+    "equipment_name": "Rescue equipment 001",
+    "equipment_type": "rope",
+    "serial_code": "RES 001",
+    "quantity": 3,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "storage_label": "Team store 001",
+    "supplier": "Demo safety supplier 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-002",
+    "team_id": "RES-TEAMS-002",
+    "equipment_name": "Rescue equipment 002",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 002",
+    "quantity": 4,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "storage_label": "Team store 002",
+    "supplier": "Demo safety supplier 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-003",
+    "team_id": "RES-TEAMS-003",
+    "equipment_name": "Rescue equipment 003",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 003",
+    "quantity": 5,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "storage_label": "Team store 003",
+    "supplier": "Demo safety supplier 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-004",
+    "team_id": "RES-TEAMS-004",
+    "equipment_name": "Rescue equipment 004",
+    "equipment_type": "radio",
+    "serial_code": "RES 004",
+    "quantity": 6,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "storage_label": "Team store 004",
+    "supplier": "Demo safety supplier 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-005",
+    "team_id": "RES-TEAMS-005",
+    "equipment_name": "Rescue equipment 005",
+    "equipment_type": "rope",
+    "serial_code": "RES 005",
+    "quantity": 2,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "storage_label": "Team store 005",
+    "supplier": "Demo safety supplier 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-006",
+    "team_id": "RES-TEAMS-006",
+    "equipment_name": "Rescue equipment 006",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 006",
+    "quantity": 3,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "storage_label": "Team store 006",
+    "supplier": "Demo safety supplier 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-007",
+    "team_id": "RES-TEAMS-007",
+    "equipment_name": "Rescue equipment 007",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 007",
+    "quantity": 4,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "storage_label": "Team store 007",
+    "supplier": "Demo safety supplier 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-008",
+    "team_id": "RES-TEAMS-008",
+    "equipment_name": "Rescue equipment 008",
+    "equipment_type": "radio",
+    "serial_code": "RES 008",
+    "quantity": 5,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "storage_label": "Team store 008",
+    "supplier": "Demo safety supplier 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-009",
+    "team_id": "RES-TEAMS-009",
+    "equipment_name": "Rescue equipment 009",
+    "equipment_type": "rope",
+    "serial_code": "RES 009",
+    "quantity": 6,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "storage_label": "Team store 009",
+    "supplier": "Demo safety supplier 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-010",
+    "team_id": "RES-TEAMS-010",
+    "equipment_name": "Rescue equipment 010",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 010",
+    "quantity": 2,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "storage_label": "Team store 010",
+    "supplier": "Demo safety supplier 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-011",
+    "team_id": "RES-TEAMS-011",
+    "equipment_name": "Rescue equipment 011",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 011",
+    "quantity": 3,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "storage_label": "Team store 011",
+    "supplier": "Demo safety supplier 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-012",
+    "team_id": "RES-TEAMS-012",
+    "equipment_name": "Rescue equipment 012",
+    "equipment_type": "radio",
+    "serial_code": "RES 012",
+    "quantity": 4,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "storage_label": "Team store 012",
+    "supplier": "Demo safety supplier 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-013",
+    "team_id": "RES-TEAMS-013",
+    "equipment_name": "Rescue equipment 013",
+    "equipment_type": "rope",
+    "serial_code": "RES 013",
+    "quantity": 5,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "storage_label": "Team store 013",
+    "supplier": "Demo safety supplier 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-014",
+    "team_id": "RES-TEAMS-014",
+    "equipment_name": "Rescue equipment 014",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 014",
+    "quantity": 6,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "storage_label": "Team store 014",
+    "supplier": "Demo safety supplier 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-015",
+    "team_id": "RES-TEAMS-015",
+    "equipment_name": "Rescue equipment 015",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 015",
+    "quantity": 2,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "storage_label": "Team store 015",
+    "supplier": "Demo safety supplier 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-016",
+    "team_id": "RES-TEAMS-016",
+    "equipment_name": "Rescue equipment 016",
+    "equipment_type": "radio",
+    "serial_code": "RES 016",
+    "quantity": 3,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "storage_label": "Team store 016",
+    "supplier": "Demo safety supplier 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-017",
+    "team_id": "RES-TEAMS-017",
+    "equipment_name": "Rescue equipment 017",
+    "equipment_type": "rope",
+    "serial_code": "RES 017",
+    "quantity": 4,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "storage_label": "Team store 017",
+    "supplier": "Demo safety supplier 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-018",
+    "team_id": "RES-TEAMS-018",
+    "equipment_name": "Rescue equipment 018",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 018",
+    "quantity": 5,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "storage_label": "Team store 018",
+    "supplier": "Demo safety supplier 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-019",
+    "team_id": "RES-TEAMS-019",
+    "equipment_name": "Rescue equipment 019",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 019",
+    "quantity": 6,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "storage_label": "Team store 019",
+    "supplier": "Demo safety supplier 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-020",
+    "team_id": "RES-TEAMS-020",
+    "equipment_name": "Rescue equipment 020",
+    "equipment_type": "radio",
+    "serial_code": "RES 020",
+    "quantity": 2,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "storage_label": "Team store 020",
+    "supplier": "Demo safety supplier 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-021",
+    "team_id": "RES-TEAMS-021",
+    "equipment_name": "Rescue equipment 021",
+    "equipment_type": "rope",
+    "serial_code": "RES 021",
+    "quantity": 3,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "storage_label": "Team store 021",
+    "supplier": "Demo safety supplier 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-022",
+    "team_id": "RES-TEAMS-022",
+    "equipment_name": "Rescue equipment 022",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 022",
+    "quantity": 4,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "storage_label": "Team store 022",
+    "supplier": "Demo safety supplier 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-023",
+    "team_id": "RES-TEAMS-023",
+    "equipment_name": "Rescue equipment 023",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 023",
+    "quantity": 5,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "storage_label": "Team store 023",
+    "supplier": "Demo safety supplier 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-024",
+    "team_id": "RES-TEAMS-024",
+    "equipment_name": "Rescue equipment 024",
+    "equipment_type": "radio",
+    "serial_code": "RES 024",
+    "quantity": 6,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "storage_label": "Team store 024",
+    "supplier": "Demo safety supplier 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-025",
+    "team_id": "RES-TEAMS-025",
+    "equipment_name": "Rescue equipment 025",
+    "equipment_type": "rope",
+    "serial_code": "RES 025",
+    "quantity": 2,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "storage_label": "Team store 025",
+    "supplier": "Demo safety supplier 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-026",
+    "team_id": "RES-TEAMS-026",
+    "equipment_name": "Rescue equipment 026",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 026",
+    "quantity": 3,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "storage_label": "Team store 026",
+    "supplier": "Demo safety supplier 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-027",
+    "team_id": "RES-TEAMS-027",
+    "equipment_name": "Rescue equipment 027",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 027",
+    "quantity": 4,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "storage_label": "Team store 027",
+    "supplier": "Demo safety supplier 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-028",
+    "team_id": "RES-TEAMS-028",
+    "equipment_name": "Rescue equipment 028",
+    "equipment_type": "radio",
+    "serial_code": "RES 028",
+    "quantity": 5,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "storage_label": "Team store 028",
+    "supplier": "Demo safety supplier 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-029",
+    "team_id": "RES-TEAMS-029",
+    "equipment_name": "Rescue equipment 029",
+    "equipment_type": "rope",
+    "serial_code": "RES 029",
+    "quantity": 6,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "storage_label": "Team store 029",
+    "supplier": "Demo safety supplier 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-030",
+    "team_id": "RES-TEAMS-030",
+    "equipment_name": "Rescue equipment 030",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 030",
+    "quantity": 2,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "storage_label": "Team store 030",
+    "supplier": "Demo safety supplier 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-031",
+    "team_id": "RES-TEAMS-031",
+    "equipment_name": "Rescue equipment 031",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 031",
+    "quantity": 3,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "storage_label": "Team store 031",
+    "supplier": "Demo safety supplier 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-032",
+    "team_id": "RES-TEAMS-032",
+    "equipment_name": "Rescue equipment 032",
+    "equipment_type": "radio",
+    "serial_code": "RES 032",
+    "quantity": 4,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "storage_label": "Team store 032",
+    "supplier": "Demo safety supplier 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-033",
+    "team_id": "RES-TEAMS-033",
+    "equipment_name": "Rescue equipment 033",
+    "equipment_type": "rope",
+    "serial_code": "RES 033",
+    "quantity": 5,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "storage_label": "Team store 033",
+    "supplier": "Demo safety supplier 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-034",
+    "team_id": "RES-TEAMS-034",
+    "equipment_name": "Rescue equipment 034",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 034",
+    "quantity": 6,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "storage_label": "Team store 034",
+    "supplier": "Demo safety supplier 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-035",
+    "team_id": "RES-TEAMS-035",
+    "equipment_name": "Rescue equipment 035",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 035",
+    "quantity": 2,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "storage_label": "Team store 035",
+    "supplier": "Demo safety supplier 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-036",
+    "team_id": "RES-TEAMS-036",
+    "equipment_name": "Rescue equipment 036",
+    "equipment_type": "radio",
+    "serial_code": "RES 036",
+    "quantity": 3,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "storage_label": "Team store 036",
+    "supplier": "Demo safety supplier 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-037",
+    "team_id": "RES-TEAMS-037",
+    "equipment_name": "Rescue equipment 037",
+    "equipment_type": "rope",
+    "serial_code": "RES 037",
+    "quantity": 4,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "storage_label": "Team store 037",
+    "supplier": "Demo safety supplier 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-038",
+    "team_id": "RES-TEAMS-038",
+    "equipment_name": "Rescue equipment 038",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 038",
+    "quantity": 5,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "storage_label": "Team store 038",
+    "supplier": "Demo safety supplier 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-039",
+    "team_id": "RES-TEAMS-039",
+    "equipment_name": "Rescue equipment 039",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 039",
+    "quantity": 6,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "storage_label": "Team store 039",
+    "supplier": "Demo safety supplier 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-040",
+    "team_id": "RES-TEAMS-040",
+    "equipment_name": "Rescue equipment 040",
+    "equipment_type": "radio",
+    "serial_code": "RES 040",
+    "quantity": 2,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "storage_label": "Team store 040",
+    "supplier": "Demo safety supplier 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-041",
+    "team_id": "RES-TEAMS-041",
+    "equipment_name": "Rescue equipment 041",
+    "equipment_type": "rope",
+    "serial_code": "RES 041",
+    "quantity": 3,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "storage_label": "Team store 041",
+    "supplier": "Demo safety supplier 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-042",
+    "team_id": "RES-TEAMS-042",
+    "equipment_name": "Rescue equipment 042",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 042",
+    "quantity": 4,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "storage_label": "Team store 042",
+    "supplier": "Demo safety supplier 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-043",
+    "team_id": "RES-TEAMS-043",
+    "equipment_name": "Rescue equipment 043",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 043",
+    "quantity": 5,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "storage_label": "Team store 043",
+    "supplier": "Demo safety supplier 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-044",
+    "team_id": "RES-TEAMS-044",
+    "equipment_name": "Rescue equipment 044",
+    "equipment_type": "radio",
+    "serial_code": "RES 044",
+    "quantity": 6,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "storage_label": "Team store 044",
+    "supplier": "Demo safety supplier 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-045",
+    "team_id": "RES-TEAMS-045",
+    "equipment_name": "Rescue equipment 045",
+    "equipment_type": "rope",
+    "serial_code": "RES 045",
+    "quantity": 2,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "storage_label": "Team store 045",
+    "supplier": "Demo safety supplier 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-046",
+    "team_id": "RES-TEAMS-046",
+    "equipment_name": "Rescue equipment 046",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 046",
+    "quantity": 3,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-06-08T00:00:00Z"
+    },
+    "storage_label": "Team store 046",
+    "supplier": "Demo safety supplier 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-047",
+    "team_id": "RES-TEAMS-047",
+    "equipment_name": "Rescue equipment 047",
+    "equipment_type": "stretcher",
+    "serial_code": "RES 047",
+    "quantity": 4,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-06-11T00:00:00Z"
+    },
+    "storage_label": "Team store 047",
+    "supplier": "Demo safety supplier 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-048",
+    "team_id": "RES-TEAMS-048",
+    "equipment_name": "Rescue equipment 048",
+    "equipment_type": "radio",
+    "serial_code": "RES 048",
+    "quantity": 5,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-06-14T00:00:00Z"
+    },
+    "storage_label": "Team store 048",
+    "supplier": "Demo safety supplier 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-049",
+    "team_id": "RES-TEAMS-049",
+    "equipment_name": "Rescue equipment 049",
+    "equipment_type": "rope",
+    "serial_code": "RES 049",
+    "quantity": 6,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-06-17T00:00:00Z"
+    },
+    "storage_label": "Team store 049",
+    "supplier": "Demo safety supplier 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-EQUIPMENT-050",
+    "team_id": "RES-TEAMS-050",
+    "equipment_name": "Rescue equipment 050",
+    "equipment_type": "life_jacket",
+    "serial_code": "RES 050",
+    "quantity": 2,
+    "condition": "serviceable",
+    "last_checked_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "next_check_at": {
+      "$date": "2026-06-20T00:00:00Z"
+    },
+    "storage_label": "Team store 050",
+    "supplier": "Demo safety supplier 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

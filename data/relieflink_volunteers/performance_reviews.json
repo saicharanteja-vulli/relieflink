@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-001",
+    "volunteer_id": "VOL-PROFILES-001",
+    "assignment_id": "VOL-ASSIGNMENTS-001",
+    "reviewed_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 001",
+    "punctuality_score": 2,
+    "teamwork_score": 2,
+    "safety_score": 2,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 001",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-002",
+    "volunteer_id": "VOL-PROFILES-002",
+    "assignment_id": "VOL-ASSIGNMENTS-002",
+    "reviewed_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 002",
+    "punctuality_score": 3,
+    "teamwork_score": 3,
+    "safety_score": 3,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 002",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-003",
+    "volunteer_id": "VOL-PROFILES-003",
+    "assignment_id": "VOL-ASSIGNMENTS-003",
+    "reviewed_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 003",
+    "punctuality_score": 4,
+    "teamwork_score": 4,
+    "safety_score": 4,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 003",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-004",
+    "volunteer_id": "VOL-PROFILES-004",
+    "assignment_id": "VOL-ASSIGNMENTS-004",
+    "reviewed_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 004",
+    "punctuality_score": 5,
+    "teamwork_score": 5,
+    "safety_score": 5,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 004",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-005",
+    "volunteer_id": "VOL-PROFILES-005",
+    "assignment_id": "VOL-ASSIGNMENTS-005",
+    "reviewed_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 005",
+    "punctuality_score": 1,
+    "teamwork_score": 1,
+    "safety_score": 1,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 005",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-006",
+    "volunteer_id": "VOL-PROFILES-006",
+    "assignment_id": "VOL-ASSIGNMENTS-006",
+    "reviewed_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 006",
+    "punctuality_score": 2,
+    "teamwork_score": 2,
+    "safety_score": 2,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 006",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-007",
+    "volunteer_id": "VOL-PROFILES-007",
+    "assignment_id": "VOL-ASSIGNMENTS-007",
+    "reviewed_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 007",
+    "punctuality_score": 3,
+    "teamwork_score": 3,
+    "safety_score": 3,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 007",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-008",
+    "volunteer_id": "VOL-PROFILES-008",
+    "assignment_id": "VOL-ASSIGNMENTS-008",
+    "reviewed_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 008",
+    "punctuality_score": 4,
+    "teamwork_score": 4,
+    "safety_score": 4,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 008",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-009",
+    "volunteer_id": "VOL-PROFILES-009",
+    "assignment_id": "VOL-ASSIGNMENTS-009",
+    "reviewed_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 009",
+    "punctuality_score": 5,
+    "teamwork_score": 5,
+    "safety_score": 5,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 009",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-010",
+    "volunteer_id": "VOL-PROFILES-010",
+    "assignment_id": "VOL-ASSIGNMENTS-010",
+    "reviewed_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 010",
+    "punctuality_score": 1,
+    "teamwork_score": 1,
+    "safety_score": 1,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 010",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-011",
+    "volunteer_id": "VOL-PROFILES-011",
+    "assignment_id": "VOL-ASSIGNMENTS-011",
+    "reviewed_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 011",
+    "punctuality_score": 2,
+    "teamwork_score": 2,
+    "safety_score": 2,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 011",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-012",
+    "volunteer_id": "VOL-PROFILES-012",
+    "assignment_id": "VOL-ASSIGNMENTS-012",
+    "reviewed_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 012",
+    "punctuality_score": 3,
+    "teamwork_score": 3,
+    "safety_score": 3,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 012",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-013",
+    "volunteer_id": "VOL-PROFILES-013",
+    "assignment_id": "VOL-ASSIGNMENTS-013",
+    "reviewed_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 013",
+    "punctuality_score": 4,
+    "teamwork_score": 4,
+    "safety_score": 4,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 013",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-014",
+    "volunteer_id": "VOL-PROFILES-014",
+    "assignment_id": "VOL-ASSIGNMENTS-014",
+    "reviewed_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 014",
+    "punctuality_score": 5,
+    "teamwork_score": 5,
+    "safety_score": 5,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 014",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-015",
+    "volunteer_id": "VOL-PROFILES-015",
+    "assignment_id": "VOL-ASSIGNMENTS-015",
+    "reviewed_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 015",
+    "punctuality_score": 1,
+    "teamwork_score": 1,
+    "safety_score": 1,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 015",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-016",
+    "volunteer_id": "VOL-PROFILES-016",
+    "assignment_id": "VOL-ASSIGNMENTS-016",
+    "reviewed_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 016",
+    "punctuality_score": 2,
+    "teamwork_score": 2,
+    "safety_score": 2,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 016",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-017",
+    "volunteer_id": "VOL-PROFILES-017",
+    "assignment_id": "VOL-ASSIGNMENTS-017",
+    "reviewed_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 017",
+    "punctuality_score": 3,
+    "teamwork_score": 3,
+    "safety_score": 3,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 017",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-018",
+    "volunteer_id": "VOL-PROFILES-018",
+    "assignment_id": "VOL-ASSIGNMENTS-018",
+    "reviewed_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 018",
+    "punctuality_score": 4,
+    "teamwork_score": 4,
+    "safety_score": 4,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 018",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-019",
+    "volunteer_id": "VOL-PROFILES-019",
+    "assignment_id": "VOL-ASSIGNMENTS-019",
+    "reviewed_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 019",
+    "punctuality_score": 5,
+    "teamwork_score": 5,
+    "safety_score": 5,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 019",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-020",
+    "volunteer_id": "VOL-PROFILES-020",
+    "assignment_id": "VOL-ASSIGNMENTS-020",
+    "reviewed_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 020",
+    "punctuality_score": 1,
+    "teamwork_score": 1,
+    "safety_score": 1,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 020",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-021",
+    "volunteer_id": "VOL-PROFILES-021",
+    "assignment_id": "VOL-ASSIGNMENTS-021",
+    "reviewed_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 021",
+    "punctuality_score": 2,
+    "teamwork_score": 2,
+    "safety_score": 2,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 021",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-022",
+    "volunteer_id": "VOL-PROFILES-022",
+    "assignment_id": "VOL-ASSIGNMENTS-022",
+    "reviewed_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 022",
+    "punctuality_score": 3,
+    "teamwork_score": 3,
+    "safety_score": 3,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 022",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-023",
+    "volunteer_id": "VOL-PROFILES-023",
+    "assignment_id": "VOL-ASSIGNMENTS-023",
+    "reviewed_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 023",
+    "punctuality_score": 4,
+    "teamwork_score": 4,
+    "safety_score": 4,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 023",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-024",
+    "volunteer_id": "VOL-PROFILES-024",
+    "assignment_id": "VOL-ASSIGNMENTS-024",
+    "reviewed_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 024",
+    "punctuality_score": 5,
+    "teamwork_score": 5,
+    "safety_score": 5,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 024",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-025",
+    "volunteer_id": "VOL-PROFILES-025",
+    "assignment_id": "VOL-ASSIGNMENTS-025",
+    "reviewed_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 025",
+    "punctuality_score": 1,
+    "teamwork_score": 1,
+    "safety_score": 1,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 025",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-026",
+    "volunteer_id": "VOL-PROFILES-026",
+    "assignment_id": "VOL-ASSIGNMENTS-026",
+    "reviewed_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 026",
+    "punctuality_score": 2,
+    "teamwork_score": 2,
+    "safety_score": 2,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 026",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-027",
+    "volunteer_id": "VOL-PROFILES-027",
+    "assignment_id": "VOL-ASSIGNMENTS-027",
+    "reviewed_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 027",
+    "punctuality_score": 3,
+    "teamwork_score": 3,
+    "safety_score": 3,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 027",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-028",
+    "volunteer_id": "VOL-PROFILES-028",
+    "assignment_id": "VOL-ASSIGNMENTS-028",
+    "reviewed_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 028",
+    "punctuality_score": 4,
+    "teamwork_score": 4,
+    "safety_score": 4,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 028",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-029",
+    "volunteer_id": "VOL-PROFILES-029",
+    "assignment_id": "VOL-ASSIGNMENTS-029",
+    "reviewed_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 029",
+    "punctuality_score": 5,
+    "teamwork_score": 5,
+    "safety_score": 5,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 029",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-030",
+    "volunteer_id": "VOL-PROFILES-030",
+    "assignment_id": "VOL-ASSIGNMENTS-030",
+    "reviewed_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 030",
+    "punctuality_score": 1,
+    "teamwork_score": 1,
+    "safety_score": 1,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 030",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-031",
+    "volunteer_id": "VOL-PROFILES-031",
+    "assignment_id": "VOL-ASSIGNMENTS-031",
+    "reviewed_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 031",
+    "punctuality_score": 2,
+    "teamwork_score": 2,
+    "safety_score": 2,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 031",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-032",
+    "volunteer_id": "VOL-PROFILES-032",
+    "assignment_id": "VOL-ASSIGNMENTS-032",
+    "reviewed_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 032",
+    "punctuality_score": 3,
+    "teamwork_score": 3,
+    "safety_score": 3,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 032",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-033",
+    "volunteer_id": "VOL-PROFILES-033",
+    "assignment_id": "VOL-ASSIGNMENTS-033",
+    "reviewed_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 033",
+    "punctuality_score": 4,
+    "teamwork_score": 4,
+    "safety_score": 4,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 033",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-034",
+    "volunteer_id": "VOL-PROFILES-034",
+    "assignment_id": "VOL-ASSIGNMENTS-034",
+    "reviewed_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 034",
+    "punctuality_score": 5,
+    "teamwork_score": 5,
+    "safety_score": 5,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 034",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-035",
+    "volunteer_id": "VOL-PROFILES-035",
+    "assignment_id": "VOL-ASSIGNMENTS-035",
+    "reviewed_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 035",
+    "punctuality_score": 1,
+    "teamwork_score": 1,
+    "safety_score": 1,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 035",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-036",
+    "volunteer_id": "VOL-PROFILES-036",
+    "assignment_id": "VOL-ASSIGNMENTS-036",
+    "reviewed_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 036",
+    "punctuality_score": 2,
+    "teamwork_score": 2,
+    "safety_score": 2,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 036",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-037",
+    "volunteer_id": "VOL-PROFILES-037",
+    "assignment_id": "VOL-ASSIGNMENTS-037",
+    "reviewed_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 037",
+    "punctuality_score": 3,
+    "teamwork_score": 3,
+    "safety_score": 3,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 037",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-038",
+    "volunteer_id": "VOL-PROFILES-038",
+    "assignment_id": "VOL-ASSIGNMENTS-038",
+    "reviewed_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 038",
+    "punctuality_score": 4,
+    "teamwork_score": 4,
+    "safety_score": 4,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 038",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-039",
+    "volunteer_id": "VOL-PROFILES-039",
+    "assignment_id": "VOL-ASSIGNMENTS-039",
+    "reviewed_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 039",
+    "punctuality_score": 5,
+    "teamwork_score": 5,
+    "safety_score": 5,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 039",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-040",
+    "volunteer_id": "VOL-PROFILES-040",
+    "assignment_id": "VOL-ASSIGNMENTS-040",
+    "reviewed_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 040",
+    "punctuality_score": 1,
+    "teamwork_score": 1,
+    "safety_score": 1,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 040",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-041",
+    "volunteer_id": "VOL-PROFILES-041",
+    "assignment_id": "VOL-ASSIGNMENTS-041",
+    "reviewed_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 041",
+    "punctuality_score": 2,
+    "teamwork_score": 2,
+    "safety_score": 2,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 041",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-042",
+    "volunteer_id": "VOL-PROFILES-042",
+    "assignment_id": "VOL-ASSIGNMENTS-042",
+    "reviewed_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 042",
+    "punctuality_score": 3,
+    "teamwork_score": 3,
+    "safety_score": 3,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 042",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-043",
+    "volunteer_id": "VOL-PROFILES-043",
+    "assignment_id": "VOL-ASSIGNMENTS-043",
+    "reviewed_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 043",
+    "punctuality_score": 4,
+    "teamwork_score": 4,
+    "safety_score": 4,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 043",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-044",
+    "volunteer_id": "VOL-PROFILES-044",
+    "assignment_id": "VOL-ASSIGNMENTS-044",
+    "reviewed_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 044",
+    "punctuality_score": 5,
+    "teamwork_score": 5,
+    "safety_score": 5,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 044",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-045",
+    "volunteer_id": "VOL-PROFILES-045",
+    "assignment_id": "VOL-ASSIGNMENTS-045",
+    "reviewed_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 045",
+    "punctuality_score": 1,
+    "teamwork_score": 1,
+    "safety_score": 1,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 045",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-046",
+    "volunteer_id": "VOL-PROFILES-046",
+    "assignment_id": "VOL-ASSIGNMENTS-046",
+    "reviewed_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 046",
+    "punctuality_score": 2,
+    "teamwork_score": 2,
+    "safety_score": 2,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 046",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-047",
+    "volunteer_id": "VOL-PROFILES-047",
+    "assignment_id": "VOL-ASSIGNMENTS-047",
+    "reviewed_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 047",
+    "punctuality_score": 3,
+    "teamwork_score": 3,
+    "safety_score": 3,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 047",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-048",
+    "volunteer_id": "VOL-PROFILES-048",
+    "assignment_id": "VOL-ASSIGNMENTS-048",
+    "reviewed_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 048",
+    "punctuality_score": 4,
+    "teamwork_score": 4,
+    "safety_score": 4,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 048",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-049",
+    "volunteer_id": "VOL-PROFILES-049",
+    "assignment_id": "VOL-ASSIGNMENTS-049",
+    "reviewed_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 049",
+    "punctuality_score": 5,
+    "teamwork_score": 5,
+    "safety_score": 5,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 049",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-PERFORMANCE_REVIEWS-050",
+    "volunteer_id": "VOL-PROFILES-050",
+    "assignment_id": "VOL-ASSIGNMENTS-050",
+    "reviewed_at": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "reviewer_code": "Coordinator 050",
+    "punctuality_score": 1,
+    "teamwork_score": 1,
+    "safety_score": 1,
+    "hours_confirmed": 24,
+    "feedback": "Exercise completed safely 050",
+    "eligible_for_reassignment": true,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

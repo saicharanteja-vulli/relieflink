@@ -1,0 +1,1352 @@
+[
+  {
+    "_id": "VOL-ASSIGNMENTS-001",
+    "volunteer_id": "VOL-PROFILES-001",
+    "event_id": "INC-EVENTS-001",
+    "shelter_id": "SHE-SHELTERS-001",
+    "assigned_at": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 001",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-002",
+    "volunteer_id": "VOL-PROFILES-002",
+    "event_id": "INC-EVENTS-002",
+    "shelter_id": "SHE-SHELTERS-002",
+    "assigned_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 002",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-003",
+    "volunteer_id": "VOL-PROFILES-003",
+    "event_id": "INC-EVENTS-003",
+    "shelter_id": "SHE-SHELTERS-003",
+    "assigned_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 003",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-004",
+    "volunteer_id": "VOL-PROFILES-004",
+    "event_id": "INC-EVENTS-004",
+    "shelter_id": "SHE-SHELTERS-004",
+    "assigned_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 004",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-005",
+    "volunteer_id": "VOL-PROFILES-005",
+    "event_id": "INC-EVENTS-005",
+    "shelter_id": "SHE-SHELTERS-005",
+    "assigned_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 005",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-006",
+    "volunteer_id": "VOL-PROFILES-006",
+    "event_id": "INC-EVENTS-006",
+    "shelter_id": "SHE-SHELTERS-006",
+    "assigned_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 006",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-007",
+    "volunteer_id": "VOL-PROFILES-007",
+    "event_id": "INC-EVENTS-007",
+    "shelter_id": "SHE-SHELTERS-007",
+    "assigned_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 007",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-008",
+    "volunteer_id": "VOL-PROFILES-008",
+    "event_id": "INC-EVENTS-008",
+    "shelter_id": "SHE-SHELTERS-008",
+    "assigned_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 008",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-009",
+    "volunteer_id": "VOL-PROFILES-009",
+    "event_id": "INC-EVENTS-009",
+    "shelter_id": "SHE-SHELTERS-009",
+    "assigned_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 009",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-010",
+    "volunteer_id": "VOL-PROFILES-010",
+    "event_id": "INC-EVENTS-010",
+    "shelter_id": "SHE-SHELTERS-010",
+    "assigned_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 010",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-011",
+    "volunteer_id": "VOL-PROFILES-011",
+    "event_id": "INC-EVENTS-011",
+    "shelter_id": "SHE-SHELTERS-011",
+    "assigned_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 011",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-012",
+    "volunteer_id": "VOL-PROFILES-012",
+    "event_id": "INC-EVENTS-012",
+    "shelter_id": "SHE-SHELTERS-012",
+    "assigned_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 012",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-013",
+    "volunteer_id": "VOL-PROFILES-013",
+    "event_id": "INC-EVENTS-013",
+    "shelter_id": "SHE-SHELTERS-013",
+    "assigned_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 013",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-014",
+    "volunteer_id": "VOL-PROFILES-014",
+    "event_id": "INC-EVENTS-014",
+    "shelter_id": "SHE-SHELTERS-014",
+    "assigned_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 014",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-015",
+    "volunteer_id": "VOL-PROFILES-015",
+    "event_id": "INC-EVENTS-015",
+    "shelter_id": "SHE-SHELTERS-015",
+    "assigned_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 015",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-016",
+    "volunteer_id": "VOL-PROFILES-016",
+    "event_id": "INC-EVENTS-016",
+    "shelter_id": "SHE-SHELTERS-016",
+    "assigned_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 016",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-017",
+    "volunteer_id": "VOL-PROFILES-017",
+    "event_id": "INC-EVENTS-017",
+    "shelter_id": "SHE-SHELTERS-017",
+    "assigned_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 017",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-018",
+    "volunteer_id": "VOL-PROFILES-018",
+    "event_id": "INC-EVENTS-018",
+    "shelter_id": "SHE-SHELTERS-018",
+    "assigned_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 018",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-019",
+    "volunteer_id": "VOL-PROFILES-019",
+    "event_id": "INC-EVENTS-019",
+    "shelter_id": "SHE-SHELTERS-019",
+    "assigned_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 019",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-020",
+    "volunteer_id": "VOL-PROFILES-020",
+    "event_id": "INC-EVENTS-020",
+    "shelter_id": "SHE-SHELTERS-020",
+    "assigned_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 020",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-021",
+    "volunteer_id": "VOL-PROFILES-021",
+    "event_id": "INC-EVENTS-021",
+    "shelter_id": "SHE-SHELTERS-021",
+    "assigned_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 021",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-022",
+    "volunteer_id": "VOL-PROFILES-022",
+    "event_id": "INC-EVENTS-022",
+    "shelter_id": "SHE-SHELTERS-022",
+    "assigned_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 022",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-023",
+    "volunteer_id": "VOL-PROFILES-023",
+    "event_id": "INC-EVENTS-023",
+    "shelter_id": "SHE-SHELTERS-023",
+    "assigned_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 023",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-024",
+    "volunteer_id": "VOL-PROFILES-024",
+    "event_id": "INC-EVENTS-024",
+    "shelter_id": "SHE-SHELTERS-024",
+    "assigned_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 024",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-025",
+    "volunteer_id": "VOL-PROFILES-025",
+    "event_id": "INC-EVENTS-025",
+    "shelter_id": "SHE-SHELTERS-025",
+    "assigned_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 025",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-026",
+    "volunteer_id": "VOL-PROFILES-026",
+    "event_id": "INC-EVENTS-026",
+    "shelter_id": "SHE-SHELTERS-026",
+    "assigned_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 026",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-027",
+    "volunteer_id": "VOL-PROFILES-027",
+    "event_id": "INC-EVENTS-027",
+    "shelter_id": "SHE-SHELTERS-027",
+    "assigned_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 027",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-028",
+    "volunteer_id": "VOL-PROFILES-028",
+    "event_id": "INC-EVENTS-028",
+    "shelter_id": "SHE-SHELTERS-028",
+    "assigned_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 028",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-029",
+    "volunteer_id": "VOL-PROFILES-029",
+    "event_id": "INC-EVENTS-029",
+    "shelter_id": "SHE-SHELTERS-029",
+    "assigned_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 029",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-030",
+    "volunteer_id": "VOL-PROFILES-030",
+    "event_id": "INC-EVENTS-030",
+    "shelter_id": "SHE-SHELTERS-030",
+    "assigned_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 030",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-031",
+    "volunteer_id": "VOL-PROFILES-031",
+    "event_id": "INC-EVENTS-031",
+    "shelter_id": "SHE-SHELTERS-031",
+    "assigned_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 031",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-032",
+    "volunteer_id": "VOL-PROFILES-032",
+    "event_id": "INC-EVENTS-032",
+    "shelter_id": "SHE-SHELTERS-032",
+    "assigned_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 032",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-033",
+    "volunteer_id": "VOL-PROFILES-033",
+    "event_id": "INC-EVENTS-033",
+    "shelter_id": "SHE-SHELTERS-033",
+    "assigned_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 033",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-034",
+    "volunteer_id": "VOL-PROFILES-034",
+    "event_id": "INC-EVENTS-034",
+    "shelter_id": "SHE-SHELTERS-034",
+    "assigned_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 034",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-035",
+    "volunteer_id": "VOL-PROFILES-035",
+    "event_id": "INC-EVENTS-035",
+    "shelter_id": "SHE-SHELTERS-035",
+    "assigned_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 035",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-036",
+    "volunteer_id": "VOL-PROFILES-036",
+    "event_id": "INC-EVENTS-036",
+    "shelter_id": "SHE-SHELTERS-036",
+    "assigned_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 036",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-037",
+    "volunteer_id": "VOL-PROFILES-037",
+    "event_id": "INC-EVENTS-037",
+    "shelter_id": "SHE-SHELTERS-037",
+    "assigned_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 037",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-038",
+    "volunteer_id": "VOL-PROFILES-038",
+    "event_id": "INC-EVENTS-038",
+    "shelter_id": "SHE-SHELTERS-038",
+    "assigned_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 038",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-039",
+    "volunteer_id": "VOL-PROFILES-039",
+    "event_id": "INC-EVENTS-039",
+    "shelter_id": "SHE-SHELTERS-039",
+    "assigned_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 039",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-040",
+    "volunteer_id": "VOL-PROFILES-040",
+    "event_id": "INC-EVENTS-040",
+    "shelter_id": "SHE-SHELTERS-040",
+    "assigned_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 040",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-041",
+    "volunteer_id": "VOL-PROFILES-041",
+    "event_id": "INC-EVENTS-041",
+    "shelter_id": "SHE-SHELTERS-041",
+    "assigned_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 041",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-042",
+    "volunteer_id": "VOL-PROFILES-042",
+    "event_id": "INC-EVENTS-042",
+    "shelter_id": "SHE-SHELTERS-042",
+    "assigned_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 042",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-043",
+    "volunteer_id": "VOL-PROFILES-043",
+    "event_id": "INC-EVENTS-043",
+    "shelter_id": "SHE-SHELTERS-043",
+    "assigned_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 043",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-044",
+    "volunteer_id": "VOL-PROFILES-044",
+    "event_id": "INC-EVENTS-044",
+    "shelter_id": "SHE-SHELTERS-044",
+    "assigned_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 044",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-045",
+    "volunteer_id": "VOL-PROFILES-045",
+    "event_id": "INC-EVENTS-045",
+    "shelter_id": "SHE-SHELTERS-045",
+    "assigned_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 045",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-046",
+    "volunteer_id": "VOL-PROFILES-046",
+    "event_id": "INC-EVENTS-046",
+    "shelter_id": "SHE-SHELTERS-046",
+    "assigned_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 046",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-047",
+    "volunteer_id": "VOL-PROFILES-047",
+    "event_id": "INC-EVENTS-047",
+    "shelter_id": "SHE-SHELTERS-047",
+    "assigned_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 047",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-048",
+    "volunteer_id": "VOL-PROFILES-048",
+    "event_id": "INC-EVENTS-048",
+    "shelter_id": "SHE-SHELTERS-048",
+    "assigned_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "role": "sanitation",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 048",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-049",
+    "volunteer_id": "VOL-PROFILES-049",
+    "event_id": "INC-EVENTS-049",
+    "shelter_id": "SHE-SHELTERS-049",
+    "assigned_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "role": "registration",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 049",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "VOL-ASSIGNMENTS-050",
+    "volunteer_id": "VOL-PROFILES-050",
+    "event_id": "INC-EVENTS-050",
+    "shelter_id": "SHE-SHELTERS-050",
+    "assigned_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "starts_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "role": "distribution",
+    "assignment_state": "completed",
+    "supervisor_code": "Coordinator 050",
+    "hours_planned": 24,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

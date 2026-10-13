@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "DON-CAMPAIGNS-001",
+    "event_id": "INC-EVENTS-001",
+    "campaign_name": "Relief appeal 001",
+    "started_at": {
+      "$date": "2026-01-04T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "target_inr": 100001,
+    "currency": "INR",
+    "organizer": "Demo relief trust 001",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 001",
+    "public_code": "Appeal 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-002",
+    "event_id": "INC-EVENTS-002",
+    "campaign_name": "Relief appeal 002",
+    "started_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "target_inr": 100002,
+    "currency": "INR",
+    "organizer": "Demo relief trust 002",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 002",
+    "public_code": "Appeal 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-003",
+    "event_id": "INC-EVENTS-003",
+    "campaign_name": "Relief appeal 003",
+    "started_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "target_inr": 100003,
+    "currency": "INR",
+    "organizer": "Demo relief trust 003",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 003",
+    "public_code": "Appeal 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-004",
+    "event_id": "INC-EVENTS-004",
+    "campaign_name": "Relief appeal 004",
+    "started_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "target_inr": 100004,
+    "currency": "INR",
+    "organizer": "Demo relief trust 004",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 004",
+    "public_code": "Appeal 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-005",
+    "event_id": "INC-EVENTS-005",
+    "campaign_name": "Relief appeal 005",
+    "started_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "target_inr": 100000,
+    "currency": "INR",
+    "organizer": "Demo relief trust 005",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 005",
+    "public_code": "Appeal 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-006",
+    "event_id": "INC-EVENTS-006",
+    "campaign_name": "Relief appeal 006",
+    "started_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "target_inr": 100001,
+    "currency": "INR",
+    "organizer": "Demo relief trust 006",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 006",
+    "public_code": "Appeal 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-007",
+    "event_id": "INC-EVENTS-007",
+    "campaign_name": "Relief appeal 007",
+    "started_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "target_inr": 100002,
+    "currency": "INR",
+    "organizer": "Demo relief trust 007",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 007",
+    "public_code": "Appeal 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-008",
+    "event_id": "INC-EVENTS-008",
+    "campaign_name": "Relief appeal 008",
+    "started_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "target_inr": 100003,
+    "currency": "INR",
+    "organizer": "Demo relief trust 008",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 008",
+    "public_code": "Appeal 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-009",
+    "event_id": "INC-EVENTS-009",
+    "campaign_name": "Relief appeal 009",
+    "started_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "target_inr": 100004,
+    "currency": "INR",
+    "organizer": "Demo relief trust 009",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 009",
+    "public_code": "Appeal 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-010",
+    "event_id": "INC-EVENTS-010",
+    "campaign_name": "Relief appeal 010",
+    "started_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "target_inr": 100000,
+    "currency": "INR",
+    "organizer": "Demo relief trust 010",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 010",
+    "public_code": "Appeal 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-011",
+    "event_id": "INC-EVENTS-011",
+    "campaign_name": "Relief appeal 011",
+    "started_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "target_inr": 100001,
+    "currency": "INR",
+    "organizer": "Demo relief trust 011",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 011",
+    "public_code": "Appeal 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-012",
+    "event_id": "INC-EVENTS-012",
+    "campaign_name": "Relief appeal 012",
+    "started_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "target_inr": 100002,
+    "currency": "INR",
+    "organizer": "Demo relief trust 012",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 012",
+    "public_code": "Appeal 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-013",
+    "event_id": "INC-EVENTS-013",
+    "campaign_name": "Relief appeal 013",
+    "started_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "target_inr": 100003,
+    "currency": "INR",
+    "organizer": "Demo relief trust 013",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 013",
+    "public_code": "Appeal 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-014",
+    "event_id": "INC-EVENTS-014",
+    "campaign_name": "Relief appeal 014",
+    "started_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "target_inr": 100004,
+    "currency": "INR",
+    "organizer": "Demo relief trust 014",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 014",
+    "public_code": "Appeal 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-015",
+    "event_id": "INC-EVENTS-015",
+    "campaign_name": "Relief appeal 015",
+    "started_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "target_inr": 100000,
+    "currency": "INR",
+    "organizer": "Demo relief trust 015",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 015",
+    "public_code": "Appeal 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-016",
+    "event_id": "INC-EVENTS-016",
+    "campaign_name": "Relief appeal 016",
+    "started_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "target_inr": 100001,
+    "currency": "INR",
+    "organizer": "Demo relief trust 016",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 016",
+    "public_code": "Appeal 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-017",
+    "event_id": "INC-EVENTS-017",
+    "campaign_name": "Relief appeal 017",
+    "started_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "target_inr": 100002,
+    "currency": "INR",
+    "organizer": "Demo relief trust 017",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 017",
+    "public_code": "Appeal 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-018",
+    "event_id": "INC-EVENTS-018",
+    "campaign_name": "Relief appeal 018",
+    "started_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "target_inr": 100003,
+    "currency": "INR",
+    "organizer": "Demo relief trust 018",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 018",
+    "public_code": "Appeal 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-019",
+    "event_id": "INC-EVENTS-019",
+    "campaign_name": "Relief appeal 019",
+    "started_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "target_inr": 100004,
+    "currency": "INR",
+    "organizer": "Demo relief trust 019",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 019",
+    "public_code": "Appeal 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-020",
+    "event_id": "INC-EVENTS-020",
+    "campaign_name": "Relief appeal 020",
+    "started_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "target_inr": 100000,
+    "currency": "INR",
+    "organizer": "Demo relief trust 020",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 020",
+    "public_code": "Appeal 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-021",
+    "event_id": "INC-EVENTS-021",
+    "campaign_name": "Relief appeal 021",
+    "started_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "target_inr": 100001,
+    "currency": "INR",
+    "organizer": "Demo relief trust 021",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 021",
+    "public_code": "Appeal 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-022",
+    "event_id": "INC-EVENTS-022",
+    "campaign_name": "Relief appeal 022",
+    "started_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "target_inr": 100002,
+    "currency": "INR",
+    "organizer": "Demo relief trust 022",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 022",
+    "public_code": "Appeal 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-023",
+    "event_id": "INC-EVENTS-023",
+    "campaign_name": "Relief appeal 023",
+    "started_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "target_inr": 100003,
+    "currency": "INR",
+    "organizer": "Demo relief trust 023",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 023",
+    "public_code": "Appeal 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-024",
+    "event_id": "INC-EVENTS-024",
+    "campaign_name": "Relief appeal 024",
+    "started_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "target_inr": 100004,
+    "currency": "INR",
+    "organizer": "Demo relief trust 024",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 024",
+    "public_code": "Appeal 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-025",
+    "event_id": "INC-EVENTS-025",
+    "campaign_name": "Relief appeal 025",
+    "started_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "target_inr": 100000,
+    "currency": "INR",
+    "organizer": "Demo relief trust 025",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 025",
+    "public_code": "Appeal 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-026",
+    "event_id": "INC-EVENTS-026",
+    "campaign_name": "Relief appeal 026",
+    "started_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "target_inr": 100001,
+    "currency": "INR",
+    "organizer": "Demo relief trust 026",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 026",
+    "public_code": "Appeal 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-027",
+    "event_id": "INC-EVENTS-027",
+    "campaign_name": "Relief appeal 027",
+    "started_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "target_inr": 100002,
+    "currency": "INR",
+    "organizer": "Demo relief trust 027",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 027",
+    "public_code": "Appeal 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-028",
+    "event_id": "INC-EVENTS-028",
+    "campaign_name": "Relief appeal 028",
+    "started_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "target_inr": 100003,
+    "currency": "INR",
+    "organizer": "Demo relief trust 028",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 028",
+    "public_code": "Appeal 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-029",
+    "event_id": "INC-EVENTS-029",
+    "campaign_name": "Relief appeal 029",
+    "started_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "target_inr": 100004,
+    "currency": "INR",
+    "organizer": "Demo relief trust 029",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 029",
+    "public_code": "Appeal 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-030",
+    "event_id": "INC-EVENTS-030",
+    "campaign_name": "Relief appeal 030",
+    "started_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "target_inr": 100000,
+    "currency": "INR",
+    "organizer": "Demo relief trust 030",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 030",
+    "public_code": "Appeal 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-031",
+    "event_id": "INC-EVENTS-031",
+    "campaign_name": "Relief appeal 031",
+    "started_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "target_inr": 100001,
+    "currency": "INR",
+    "organizer": "Demo relief trust 031",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 031",
+    "public_code": "Appeal 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-032",
+    "event_id": "INC-EVENTS-032",
+    "campaign_name": "Relief appeal 032",
+    "started_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "target_inr": 100002,
+    "currency": "INR",
+    "organizer": "Demo relief trust 032",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 032",
+    "public_code": "Appeal 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-033",
+    "event_id": "INC-EVENTS-033",
+    "campaign_name": "Relief appeal 033",
+    "started_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "target_inr": 100003,
+    "currency": "INR",
+    "organizer": "Demo relief trust 033",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 033",
+    "public_code": "Appeal 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-034",
+    "event_id": "INC-EVENTS-034",
+    "campaign_name": "Relief appeal 034",
+    "started_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "target_inr": 100004,
+    "currency": "INR",
+    "organizer": "Demo relief trust 034",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 034",
+    "public_code": "Appeal 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-035",
+    "event_id": "INC-EVENTS-035",
+    "campaign_name": "Relief appeal 035",
+    "started_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "target_inr": 100000,
+    "currency": "INR",
+    "organizer": "Demo relief trust 035",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 035",
+    "public_code": "Appeal 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-036",
+    "event_id": "INC-EVENTS-036",
+    "campaign_name": "Relief appeal 036",
+    "started_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "target_inr": 100001,
+    "currency": "INR",
+    "organizer": "Demo relief trust 036",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 036",
+    "public_code": "Appeal 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-037",
+    "event_id": "INC-EVENTS-037",
+    "campaign_name": "Relief appeal 037",
+    "started_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "target_inr": 100002,
+    "currency": "INR",
+    "organizer": "Demo relief trust 037",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 037",
+    "public_code": "Appeal 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-038",
+    "event_id": "INC-EVENTS-038",
+    "campaign_name": "Relief appeal 038",
+    "started_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "target_inr": 100003,
+    "currency": "INR",
+    "organizer": "Demo relief trust 038",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 038",
+    "public_code": "Appeal 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-039",
+    "event_id": "INC-EVENTS-039",
+    "campaign_name": "Relief appeal 039",
+    "started_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "target_inr": 100004,
+    "currency": "INR",
+    "organizer": "Demo relief trust 039",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 039",
+    "public_code": "Appeal 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-040",
+    "event_id": "INC-EVENTS-040",
+    "campaign_name": "Relief appeal 040",
+    "started_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "target_inr": 100000,
+    "currency": "INR",
+    "organizer": "Demo relief trust 040",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 040",
+    "public_code": "Appeal 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-041",
+    "event_id": "INC-EVENTS-041",
+    "campaign_name": "Relief appeal 041",
+    "started_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "target_inr": 100001,
+    "currency": "INR",
+    "organizer": "Demo relief trust 041",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 041",
+    "public_code": "Appeal 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-042",
+    "event_id": "INC-EVENTS-042",
+    "campaign_name": "Relief appeal 042",
+    "started_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "target_inr": 100002,
+    "currency": "INR",
+    "organizer": "Demo relief trust 042",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 042",
+    "public_code": "Appeal 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-043",
+    "event_id": "INC-EVENTS-043",
+    "campaign_name": "Relief appeal 043",
+    "started_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "target_inr": 100003,
+    "currency": "INR",
+    "organizer": "Demo relief trust 043",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 043",
+    "public_code": "Appeal 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-044",
+    "event_id": "INC-EVENTS-044",
+    "campaign_name": "Relief appeal 044",
+    "started_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "target_inr": 100004,
+    "currency": "INR",
+    "organizer": "Demo relief trust 044",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 044",
+    "public_code": "Appeal 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-045",
+    "event_id": "INC-EVENTS-045",
+    "campaign_name": "Relief appeal 045",
+    "started_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "target_inr": 100000,
+    "currency": "INR",
+    "organizer": "Demo relief trust 045",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 045",
+    "public_code": "Appeal 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-046",
+    "event_id": "INC-EVENTS-046",
+    "campaign_name": "Relief appeal 046",
+    "started_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-06-08T00:00:00Z"
+    },
+    "target_inr": 100001,
+    "currency": "INR",
+    "organizer": "Demo relief trust 046",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 046",
+    "public_code": "Appeal 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-047",
+    "event_id": "INC-EVENTS-047",
+    "campaign_name": "Relief appeal 047",
+    "started_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-06-11T00:00:00Z"
+    },
+    "target_inr": 100002,
+    "currency": "INR",
+    "organizer": "Demo relief trust 047",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 047",
+    "public_code": "Appeal 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-048",
+    "event_id": "INC-EVENTS-048",
+    "campaign_name": "Relief appeal 048",
+    "started_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-06-14T00:00:00Z"
+    },
+    "target_inr": 100003,
+    "currency": "INR",
+    "organizer": "Demo relief trust 048",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 048",
+    "public_code": "Appeal 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-049",
+    "event_id": "INC-EVENTS-049",
+    "campaign_name": "Relief appeal 049",
+    "started_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-06-17T00:00:00Z"
+    },
+    "target_inr": 100004,
+    "currency": "INR",
+    "organizer": "Demo relief trust 049",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 049",
+    "public_code": "Appeal 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "DON-CAMPAIGNS-050",
+    "event_id": "INC-EVENTS-050",
+    "campaign_name": "Relief appeal 050",
+    "started_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "ends_at": {
+      "$date": "2026-06-20T00:00:00Z"
+    },
+    "target_inr": 100000,
+    "currency": "INR",
+    "organizer": "Demo relief trust 050",
+    "campaign_state": "active",
+    "purpose": "Shelter supplies 050",
+    "public_code": "Appeal 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

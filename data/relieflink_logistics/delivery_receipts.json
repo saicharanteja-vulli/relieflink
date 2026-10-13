@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-001",
+    "shipment_id": "LOG-SHIPMENTS-001",
+    "received_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "received_by": "Shelter manager 001",
+    "quantity_received": 21,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 001",
+    "condition": "dry",
+    "checked_by": "Store assistant 001",
+    "remarks": "Exercise delivery accepted 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-002",
+    "shipment_id": "LOG-SHIPMENTS-002",
+    "received_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "received_by": "Shelter manager 002",
+    "quantity_received": 22,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 002",
+    "condition": "dry",
+    "checked_by": "Store assistant 002",
+    "remarks": "Exercise delivery accepted 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-003",
+    "shipment_id": "LOG-SHIPMENTS-003",
+    "received_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "received_by": "Shelter manager 003",
+    "quantity_received": 23,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 003",
+    "condition": "dry",
+    "checked_by": "Store assistant 003",
+    "remarks": "Exercise delivery accepted 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-004",
+    "shipment_id": "LOG-SHIPMENTS-004",
+    "received_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "received_by": "Shelter manager 004",
+    "quantity_received": 24,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 004",
+    "condition": "dry",
+    "checked_by": "Store assistant 004",
+    "remarks": "Exercise delivery accepted 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-005",
+    "shipment_id": "LOG-SHIPMENTS-005",
+    "received_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "received_by": "Shelter manager 005",
+    "quantity_received": 20,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 005",
+    "condition": "dry",
+    "checked_by": "Store assistant 005",
+    "remarks": "Exercise delivery accepted 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-006",
+    "shipment_id": "LOG-SHIPMENTS-006",
+    "received_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "received_by": "Shelter manager 006",
+    "quantity_received": 21,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 006",
+    "condition": "dry",
+    "checked_by": "Store assistant 006",
+    "remarks": "Exercise delivery accepted 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-007",
+    "shipment_id": "LOG-SHIPMENTS-007",
+    "received_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "received_by": "Shelter manager 007",
+    "quantity_received": 22,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 007",
+    "condition": "dry",
+    "checked_by": "Store assistant 007",
+    "remarks": "Exercise delivery accepted 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-008",
+    "shipment_id": "LOG-SHIPMENTS-008",
+    "received_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "received_by": "Shelter manager 008",
+    "quantity_received": 23,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 008",
+    "condition": "dry",
+    "checked_by": "Store assistant 008",
+    "remarks": "Exercise delivery accepted 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-009",
+    "shipment_id": "LOG-SHIPMENTS-009",
+    "received_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "received_by": "Shelter manager 009",
+    "quantity_received": 24,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 009",
+    "condition": "dry",
+    "checked_by": "Store assistant 009",
+    "remarks": "Exercise delivery accepted 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-010",
+    "shipment_id": "LOG-SHIPMENTS-010",
+    "received_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "received_by": "Shelter manager 010",
+    "quantity_received": 20,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 010",
+    "condition": "dry",
+    "checked_by": "Store assistant 010",
+    "remarks": "Exercise delivery accepted 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-011",
+    "shipment_id": "LOG-SHIPMENTS-011",
+    "received_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "received_by": "Shelter manager 011",
+    "quantity_received": 21,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 011",
+    "condition": "dry",
+    "checked_by": "Store assistant 011",
+    "remarks": "Exercise delivery accepted 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-012",
+    "shipment_id": "LOG-SHIPMENTS-012",
+    "received_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "received_by": "Shelter manager 012",
+    "quantity_received": 22,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 012",
+    "condition": "dry",
+    "checked_by": "Store assistant 012",
+    "remarks": "Exercise delivery accepted 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-013",
+    "shipment_id": "LOG-SHIPMENTS-013",
+    "received_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "received_by": "Shelter manager 013",
+    "quantity_received": 23,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 013",
+    "condition": "dry",
+    "checked_by": "Store assistant 013",
+    "remarks": "Exercise delivery accepted 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-014",
+    "shipment_id": "LOG-SHIPMENTS-014",
+    "received_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "received_by": "Shelter manager 014",
+    "quantity_received": 24,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 014",
+    "condition": "dry",
+    "checked_by": "Store assistant 014",
+    "remarks": "Exercise delivery accepted 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-015",
+    "shipment_id": "LOG-SHIPMENTS-015",
+    "received_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "received_by": "Shelter manager 015",
+    "quantity_received": 20,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 015",
+    "condition": "dry",
+    "checked_by": "Store assistant 015",
+    "remarks": "Exercise delivery accepted 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-016",
+    "shipment_id": "LOG-SHIPMENTS-016",
+    "received_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "received_by": "Shelter manager 016",
+    "quantity_received": 21,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 016",
+    "condition": "dry",
+    "checked_by": "Store assistant 016",
+    "remarks": "Exercise delivery accepted 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-017",
+    "shipment_id": "LOG-SHIPMENTS-017",
+    "received_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "received_by": "Shelter manager 017",
+    "quantity_received": 22,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 017",
+    "condition": "dry",
+    "checked_by": "Store assistant 017",
+    "remarks": "Exercise delivery accepted 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-018",
+    "shipment_id": "LOG-SHIPMENTS-018",
+    "received_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "received_by": "Shelter manager 018",
+    "quantity_received": 23,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 018",
+    "condition": "dry",
+    "checked_by": "Store assistant 018",
+    "remarks": "Exercise delivery accepted 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-019",
+    "shipment_id": "LOG-SHIPMENTS-019",
+    "received_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "received_by": "Shelter manager 019",
+    "quantity_received": 24,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 019",
+    "condition": "dry",
+    "checked_by": "Store assistant 019",
+    "remarks": "Exercise delivery accepted 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-020",
+    "shipment_id": "LOG-SHIPMENTS-020",
+    "received_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "received_by": "Shelter manager 020",
+    "quantity_received": 20,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 020",
+    "condition": "dry",
+    "checked_by": "Store assistant 020",
+    "remarks": "Exercise delivery accepted 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-021",
+    "shipment_id": "LOG-SHIPMENTS-021",
+    "received_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "received_by": "Shelter manager 021",
+    "quantity_received": 21,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 021",
+    "condition": "dry",
+    "checked_by": "Store assistant 021",
+    "remarks": "Exercise delivery accepted 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-022",
+    "shipment_id": "LOG-SHIPMENTS-022",
+    "received_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "received_by": "Shelter manager 022",
+    "quantity_received": 22,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 022",
+    "condition": "dry",
+    "checked_by": "Store assistant 022",
+    "remarks": "Exercise delivery accepted 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-023",
+    "shipment_id": "LOG-SHIPMENTS-023",
+    "received_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "received_by": "Shelter manager 023",
+    "quantity_received": 23,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 023",
+    "condition": "dry",
+    "checked_by": "Store assistant 023",
+    "remarks": "Exercise delivery accepted 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-024",
+    "shipment_id": "LOG-SHIPMENTS-024",
+    "received_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "received_by": "Shelter manager 024",
+    "quantity_received": 24,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 024",
+    "condition": "dry",
+    "checked_by": "Store assistant 024",
+    "remarks": "Exercise delivery accepted 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-025",
+    "shipment_id": "LOG-SHIPMENTS-025",
+    "received_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "received_by": "Shelter manager 025",
+    "quantity_received": 20,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 025",
+    "condition": "dry",
+    "checked_by": "Store assistant 025",
+    "remarks": "Exercise delivery accepted 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-026",
+    "shipment_id": "LOG-SHIPMENTS-026",
+    "received_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "received_by": "Shelter manager 026",
+    "quantity_received": 21,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 026",
+    "condition": "dry",
+    "checked_by": "Store assistant 026",
+    "remarks": "Exercise delivery accepted 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-027",
+    "shipment_id": "LOG-SHIPMENTS-027",
+    "received_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "received_by": "Shelter manager 027",
+    "quantity_received": 22,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 027",
+    "condition": "dry",
+    "checked_by": "Store assistant 027",
+    "remarks": "Exercise delivery accepted 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-028",
+    "shipment_id": "LOG-SHIPMENTS-028",
+    "received_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "received_by": "Shelter manager 028",
+    "quantity_received": 23,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 028",
+    "condition": "dry",
+    "checked_by": "Store assistant 028",
+    "remarks": "Exercise delivery accepted 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-029",
+    "shipment_id": "LOG-SHIPMENTS-029",
+    "received_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "received_by": "Shelter manager 029",
+    "quantity_received": 24,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 029",
+    "condition": "dry",
+    "checked_by": "Store assistant 029",
+    "remarks": "Exercise delivery accepted 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-030",
+    "shipment_id": "LOG-SHIPMENTS-030",
+    "received_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "received_by": "Shelter manager 030",
+    "quantity_received": 20,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 030",
+    "condition": "dry",
+    "checked_by": "Store assistant 030",
+    "remarks": "Exercise delivery accepted 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-031",
+    "shipment_id": "LOG-SHIPMENTS-031",
+    "received_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "received_by": "Shelter manager 031",
+    "quantity_received": 21,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 031",
+    "condition": "dry",
+    "checked_by": "Store assistant 031",
+    "remarks": "Exercise delivery accepted 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-032",
+    "shipment_id": "LOG-SHIPMENTS-032",
+    "received_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "received_by": "Shelter manager 032",
+    "quantity_received": 22,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 032",
+    "condition": "dry",
+    "checked_by": "Store assistant 032",
+    "remarks": "Exercise delivery accepted 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-033",
+    "shipment_id": "LOG-SHIPMENTS-033",
+    "received_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "received_by": "Shelter manager 033",
+    "quantity_received": 23,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 033",
+    "condition": "dry",
+    "checked_by": "Store assistant 033",
+    "remarks": "Exercise delivery accepted 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-034",
+    "shipment_id": "LOG-SHIPMENTS-034",
+    "received_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "received_by": "Shelter manager 034",
+    "quantity_received": 24,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 034",
+    "condition": "dry",
+    "checked_by": "Store assistant 034",
+    "remarks": "Exercise delivery accepted 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-035",
+    "shipment_id": "LOG-SHIPMENTS-035",
+    "received_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "received_by": "Shelter manager 035",
+    "quantity_received": 20,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 035",
+    "condition": "dry",
+    "checked_by": "Store assistant 035",
+    "remarks": "Exercise delivery accepted 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-036",
+    "shipment_id": "LOG-SHIPMENTS-036",
+    "received_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "received_by": "Shelter manager 036",
+    "quantity_received": 21,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 036",
+    "condition": "dry",
+    "checked_by": "Store assistant 036",
+    "remarks": "Exercise delivery accepted 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-037",
+    "shipment_id": "LOG-SHIPMENTS-037",
+    "received_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "received_by": "Shelter manager 037",
+    "quantity_received": 22,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 037",
+    "condition": "dry",
+    "checked_by": "Store assistant 037",
+    "remarks": "Exercise delivery accepted 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-038",
+    "shipment_id": "LOG-SHIPMENTS-038",
+    "received_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "received_by": "Shelter manager 038",
+    "quantity_received": 23,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 038",
+    "condition": "dry",
+    "checked_by": "Store assistant 038",
+    "remarks": "Exercise delivery accepted 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-039",
+    "shipment_id": "LOG-SHIPMENTS-039",
+    "received_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "received_by": "Shelter manager 039",
+    "quantity_received": 24,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 039",
+    "condition": "dry",
+    "checked_by": "Store assistant 039",
+    "remarks": "Exercise delivery accepted 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-040",
+    "shipment_id": "LOG-SHIPMENTS-040",
+    "received_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "received_by": "Shelter manager 040",
+    "quantity_received": 20,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 040",
+    "condition": "dry",
+    "checked_by": "Store assistant 040",
+    "remarks": "Exercise delivery accepted 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-041",
+    "shipment_id": "LOG-SHIPMENTS-041",
+    "received_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "received_by": "Shelter manager 041",
+    "quantity_received": 21,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 041",
+    "condition": "dry",
+    "checked_by": "Store assistant 041",
+    "remarks": "Exercise delivery accepted 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-042",
+    "shipment_id": "LOG-SHIPMENTS-042",
+    "received_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "received_by": "Shelter manager 042",
+    "quantity_received": 22,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 042",
+    "condition": "dry",
+    "checked_by": "Store assistant 042",
+    "remarks": "Exercise delivery accepted 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-043",
+    "shipment_id": "LOG-SHIPMENTS-043",
+    "received_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "received_by": "Shelter manager 043",
+    "quantity_received": 23,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 043",
+    "condition": "dry",
+    "checked_by": "Store assistant 043",
+    "remarks": "Exercise delivery accepted 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-044",
+    "shipment_id": "LOG-SHIPMENTS-044",
+    "received_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "received_by": "Shelter manager 044",
+    "quantity_received": 24,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 044",
+    "condition": "dry",
+    "checked_by": "Store assistant 044",
+    "remarks": "Exercise delivery accepted 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-045",
+    "shipment_id": "LOG-SHIPMENTS-045",
+    "received_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "received_by": "Shelter manager 045",
+    "quantity_received": 20,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 045",
+    "condition": "dry",
+    "checked_by": "Store assistant 045",
+    "remarks": "Exercise delivery accepted 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-046",
+    "shipment_id": "LOG-SHIPMENTS-046",
+    "received_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "received_by": "Shelter manager 046",
+    "quantity_received": 21,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 046",
+    "condition": "dry",
+    "checked_by": "Store assistant 046",
+    "remarks": "Exercise delivery accepted 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-047",
+    "shipment_id": "LOG-SHIPMENTS-047",
+    "received_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "received_by": "Shelter manager 047",
+    "quantity_received": 22,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 047",
+    "condition": "dry",
+    "checked_by": "Store assistant 047",
+    "remarks": "Exercise delivery accepted 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-048",
+    "shipment_id": "LOG-SHIPMENTS-048",
+    "received_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "received_by": "Shelter manager 048",
+    "quantity_received": 23,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 048",
+    "condition": "dry",
+    "checked_by": "Store assistant 048",
+    "remarks": "Exercise delivery accepted 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-049",
+    "shipment_id": "LOG-SHIPMENTS-049",
+    "received_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "received_by": "Shelter manager 049",
+    "quantity_received": 24,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 049",
+    "condition": "dry",
+    "checked_by": "Store assistant 049",
+    "remarks": "Exercise delivery accepted 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-DELIVERY_RECEIPTS-050",
+    "shipment_id": "LOG-SHIPMENTS-050",
+    "received_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "received_by": "Shelter manager 050",
+    "quantity_received": 20,
+    "quantity_damaged": 0,
+    "receipt_state": "accepted",
+    "proof_code": "Receipt 050",
+    "condition": "dry",
+    "checked_by": "Store assistant 050",
+    "remarks": "Exercise delivery accepted 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "RES-DISPATCHES-001",
+    "request_id": "RES-REQUESTS-001",
+    "team_id": "RES-TEAMS-001",
+    "vehicle_id": "RES-VEHICLES-001",
+    "dispatched_at": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 4,
+    "dispatcher_code": "Dispatcher 001",
+    "radio_channel": "Channel 001",
+    "estimated_minutes": 16,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-002",
+    "request_id": "RES-REQUESTS-002",
+    "team_id": "RES-TEAMS-002",
+    "vehicle_id": "RES-VEHICLES-002",
+    "dispatched_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 5,
+    "dispatcher_code": "Dispatcher 002",
+    "radio_channel": "Channel 002",
+    "estimated_minutes": 17,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-003",
+    "request_id": "RES-REQUESTS-003",
+    "team_id": "RES-TEAMS-003",
+    "vehicle_id": "RES-VEHICLES-003",
+    "dispatched_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 6,
+    "dispatcher_code": "Dispatcher 003",
+    "radio_channel": "Channel 003",
+    "estimated_minutes": 18,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-004",
+    "request_id": "RES-REQUESTS-004",
+    "team_id": "RES-TEAMS-004",
+    "vehicle_id": "RES-VEHICLES-004",
+    "dispatched_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 7,
+    "dispatcher_code": "Dispatcher 004",
+    "radio_channel": "Channel 004",
+    "estimated_minutes": 19,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-005",
+    "request_id": "RES-REQUESTS-005",
+    "team_id": "RES-TEAMS-005",
+    "vehicle_id": "RES-VEHICLES-005",
+    "dispatched_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 3,
+    "dispatcher_code": "Dispatcher 005",
+    "radio_channel": "Channel 005",
+    "estimated_minutes": 15,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-006",
+    "request_id": "RES-REQUESTS-006",
+    "team_id": "RES-TEAMS-006",
+    "vehicle_id": "RES-VEHICLES-006",
+    "dispatched_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 4,
+    "dispatcher_code": "Dispatcher 006",
+    "radio_channel": "Channel 006",
+    "estimated_minutes": 16,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-007",
+    "request_id": "RES-REQUESTS-007",
+    "team_id": "RES-TEAMS-007",
+    "vehicle_id": "RES-VEHICLES-007",
+    "dispatched_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 5,
+    "dispatcher_code": "Dispatcher 007",
+    "radio_channel": "Channel 007",
+    "estimated_minutes": 17,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-008",
+    "request_id": "RES-REQUESTS-008",
+    "team_id": "RES-TEAMS-008",
+    "vehicle_id": "RES-VEHICLES-008",
+    "dispatched_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 6,
+    "dispatcher_code": "Dispatcher 008",
+    "radio_channel": "Channel 008",
+    "estimated_minutes": 18,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-009",
+    "request_id": "RES-REQUESTS-009",
+    "team_id": "RES-TEAMS-009",
+    "vehicle_id": "RES-VEHICLES-009",
+    "dispatched_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 7,
+    "dispatcher_code": "Dispatcher 009",
+    "radio_channel": "Channel 009",
+    "estimated_minutes": 19,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-010",
+    "request_id": "RES-REQUESTS-010",
+    "team_id": "RES-TEAMS-010",
+    "vehicle_id": "RES-VEHICLES-010",
+    "dispatched_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 3,
+    "dispatcher_code": "Dispatcher 010",
+    "radio_channel": "Channel 010",
+    "estimated_minutes": 15,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-011",
+    "request_id": "RES-REQUESTS-011",
+    "team_id": "RES-TEAMS-011",
+    "vehicle_id": "RES-VEHICLES-011",
+    "dispatched_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 4,
+    "dispatcher_code": "Dispatcher 011",
+    "radio_channel": "Channel 011",
+    "estimated_minutes": 16,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-012",
+    "request_id": "RES-REQUESTS-012",
+    "team_id": "RES-TEAMS-012",
+    "vehicle_id": "RES-VEHICLES-012",
+    "dispatched_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 5,
+    "dispatcher_code": "Dispatcher 012",
+    "radio_channel": "Channel 012",
+    "estimated_minutes": 17,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-013",
+    "request_id": "RES-REQUESTS-013",
+    "team_id": "RES-TEAMS-013",
+    "vehicle_id": "RES-VEHICLES-013",
+    "dispatched_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 6,
+    "dispatcher_code": "Dispatcher 013",
+    "radio_channel": "Channel 013",
+    "estimated_minutes": 18,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-014",
+    "request_id": "RES-REQUESTS-014",
+    "team_id": "RES-TEAMS-014",
+    "vehicle_id": "RES-VEHICLES-014",
+    "dispatched_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 7,
+    "dispatcher_code": "Dispatcher 014",
+    "radio_channel": "Channel 014",
+    "estimated_minutes": 19,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-015",
+    "request_id": "RES-REQUESTS-015",
+    "team_id": "RES-TEAMS-015",
+    "vehicle_id": "RES-VEHICLES-015",
+    "dispatched_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 3,
+    "dispatcher_code": "Dispatcher 015",
+    "radio_channel": "Channel 015",
+    "estimated_minutes": 15,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-016",
+    "request_id": "RES-REQUESTS-016",
+    "team_id": "RES-TEAMS-016",
+    "vehicle_id": "RES-VEHICLES-016",
+    "dispatched_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 4,
+    "dispatcher_code": "Dispatcher 016",
+    "radio_channel": "Channel 016",
+    "estimated_minutes": 16,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-017",
+    "request_id": "RES-REQUESTS-017",
+    "team_id": "RES-TEAMS-017",
+    "vehicle_id": "RES-VEHICLES-017",
+    "dispatched_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 5,
+    "dispatcher_code": "Dispatcher 017",
+    "radio_channel": "Channel 017",
+    "estimated_minutes": 17,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-018",
+    "request_id": "RES-REQUESTS-018",
+    "team_id": "RES-TEAMS-018",
+    "vehicle_id": "RES-VEHICLES-018",
+    "dispatched_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 6,
+    "dispatcher_code": "Dispatcher 018",
+    "radio_channel": "Channel 018",
+    "estimated_minutes": 18,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-019",
+    "request_id": "RES-REQUESTS-019",
+    "team_id": "RES-TEAMS-019",
+    "vehicle_id": "RES-VEHICLES-019",
+    "dispatched_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 7,
+    "dispatcher_code": "Dispatcher 019",
+    "radio_channel": "Channel 019",
+    "estimated_minutes": 19,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-020",
+    "request_id": "RES-REQUESTS-020",
+    "team_id": "RES-TEAMS-020",
+    "vehicle_id": "RES-VEHICLES-020",
+    "dispatched_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 3,
+    "dispatcher_code": "Dispatcher 020",
+    "radio_channel": "Channel 020",
+    "estimated_minutes": 15,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-021",
+    "request_id": "RES-REQUESTS-021",
+    "team_id": "RES-TEAMS-021",
+    "vehicle_id": "RES-VEHICLES-021",
+    "dispatched_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 4,
+    "dispatcher_code": "Dispatcher 021",
+    "radio_channel": "Channel 021",
+    "estimated_minutes": 16,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-022",
+    "request_id": "RES-REQUESTS-022",
+    "team_id": "RES-TEAMS-022",
+    "vehicle_id": "RES-VEHICLES-022",
+    "dispatched_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 5,
+    "dispatcher_code": "Dispatcher 022",
+    "radio_channel": "Channel 022",
+    "estimated_minutes": 17,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-023",
+    "request_id": "RES-REQUESTS-023",
+    "team_id": "RES-TEAMS-023",
+    "vehicle_id": "RES-VEHICLES-023",
+    "dispatched_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 6,
+    "dispatcher_code": "Dispatcher 023",
+    "radio_channel": "Channel 023",
+    "estimated_minutes": 18,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-024",
+    "request_id": "RES-REQUESTS-024",
+    "team_id": "RES-TEAMS-024",
+    "vehicle_id": "RES-VEHICLES-024",
+    "dispatched_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 7,
+    "dispatcher_code": "Dispatcher 024",
+    "radio_channel": "Channel 024",
+    "estimated_minutes": 19,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-025",
+    "request_id": "RES-REQUESTS-025",
+    "team_id": "RES-TEAMS-025",
+    "vehicle_id": "RES-VEHICLES-025",
+    "dispatched_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 3,
+    "dispatcher_code": "Dispatcher 025",
+    "radio_channel": "Channel 025",
+    "estimated_minutes": 15,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-026",
+    "request_id": "RES-REQUESTS-026",
+    "team_id": "RES-TEAMS-026",
+    "vehicle_id": "RES-VEHICLES-026",
+    "dispatched_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 4,
+    "dispatcher_code": "Dispatcher 026",
+    "radio_channel": "Channel 026",
+    "estimated_minutes": 16,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-027",
+    "request_id": "RES-REQUESTS-027",
+    "team_id": "RES-TEAMS-027",
+    "vehicle_id": "RES-VEHICLES-027",
+    "dispatched_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 5,
+    "dispatcher_code": "Dispatcher 027",
+    "radio_channel": "Channel 027",
+    "estimated_minutes": 17,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-028",
+    "request_id": "RES-REQUESTS-028",
+    "team_id": "RES-TEAMS-028",
+    "vehicle_id": "RES-VEHICLES-028",
+    "dispatched_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 6,
+    "dispatcher_code": "Dispatcher 028",
+    "radio_channel": "Channel 028",
+    "estimated_minutes": 18,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-029",
+    "request_id": "RES-REQUESTS-029",
+    "team_id": "RES-TEAMS-029",
+    "vehicle_id": "RES-VEHICLES-029",
+    "dispatched_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 7,
+    "dispatcher_code": "Dispatcher 029",
+    "radio_channel": "Channel 029",
+    "estimated_minutes": 19,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-030",
+    "request_id": "RES-REQUESTS-030",
+    "team_id": "RES-TEAMS-030",
+    "vehicle_id": "RES-VEHICLES-030",
+    "dispatched_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 3,
+    "dispatcher_code": "Dispatcher 030",
+    "radio_channel": "Channel 030",
+    "estimated_minutes": 15,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-031",
+    "request_id": "RES-REQUESTS-031",
+    "team_id": "RES-TEAMS-031",
+    "vehicle_id": "RES-VEHICLES-031",
+    "dispatched_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 4,
+    "dispatcher_code": "Dispatcher 031",
+    "radio_channel": "Channel 031",
+    "estimated_minutes": 16,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-032",
+    "request_id": "RES-REQUESTS-032",
+    "team_id": "RES-TEAMS-032",
+    "vehicle_id": "RES-VEHICLES-032",
+    "dispatched_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 5,
+    "dispatcher_code": "Dispatcher 032",
+    "radio_channel": "Channel 032",
+    "estimated_minutes": 17,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-033",
+    "request_id": "RES-REQUESTS-033",
+    "team_id": "RES-TEAMS-033",
+    "vehicle_id": "RES-VEHICLES-033",
+    "dispatched_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 6,
+    "dispatcher_code": "Dispatcher 033",
+    "radio_channel": "Channel 033",
+    "estimated_minutes": 18,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-034",
+    "request_id": "RES-REQUESTS-034",
+    "team_id": "RES-TEAMS-034",
+    "vehicle_id": "RES-VEHICLES-034",
+    "dispatched_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 7,
+    "dispatcher_code": "Dispatcher 034",
+    "radio_channel": "Channel 034",
+    "estimated_minutes": 19,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-035",
+    "request_id": "RES-REQUESTS-035",
+    "team_id": "RES-TEAMS-035",
+    "vehicle_id": "RES-VEHICLES-035",
+    "dispatched_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 3,
+    "dispatcher_code": "Dispatcher 035",
+    "radio_channel": "Channel 035",
+    "estimated_minutes": 15,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-036",
+    "request_id": "RES-REQUESTS-036",
+    "team_id": "RES-TEAMS-036",
+    "vehicle_id": "RES-VEHICLES-036",
+    "dispatched_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 4,
+    "dispatcher_code": "Dispatcher 036",
+    "radio_channel": "Channel 036",
+    "estimated_minutes": 16,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-037",
+    "request_id": "RES-REQUESTS-037",
+    "team_id": "RES-TEAMS-037",
+    "vehicle_id": "RES-VEHICLES-037",
+    "dispatched_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 5,
+    "dispatcher_code": "Dispatcher 037",
+    "radio_channel": "Channel 037",
+    "estimated_minutes": 17,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-038",
+    "request_id": "RES-REQUESTS-038",
+    "team_id": "RES-TEAMS-038",
+    "vehicle_id": "RES-VEHICLES-038",
+    "dispatched_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 6,
+    "dispatcher_code": "Dispatcher 038",
+    "radio_channel": "Channel 038",
+    "estimated_minutes": 18,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-039",
+    "request_id": "RES-REQUESTS-039",
+    "team_id": "RES-TEAMS-039",
+    "vehicle_id": "RES-VEHICLES-039",
+    "dispatched_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 7,
+    "dispatcher_code": "Dispatcher 039",
+    "radio_channel": "Channel 039",
+    "estimated_minutes": 19,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-040",
+    "request_id": "RES-REQUESTS-040",
+    "team_id": "RES-TEAMS-040",
+    "vehicle_id": "RES-VEHICLES-040",
+    "dispatched_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 3,
+    "dispatcher_code": "Dispatcher 040",
+    "radio_channel": "Channel 040",
+    "estimated_minutes": 15,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-041",
+    "request_id": "RES-REQUESTS-041",
+    "team_id": "RES-TEAMS-041",
+    "vehicle_id": "RES-VEHICLES-041",
+    "dispatched_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 4,
+    "dispatcher_code": "Dispatcher 041",
+    "radio_channel": "Channel 041",
+    "estimated_minutes": 16,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-042",
+    "request_id": "RES-REQUESTS-042",
+    "team_id": "RES-TEAMS-042",
+    "vehicle_id": "RES-VEHICLES-042",
+    "dispatched_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 5,
+    "dispatcher_code": "Dispatcher 042",
+    "radio_channel": "Channel 042",
+    "estimated_minutes": 17,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-043",
+    "request_id": "RES-REQUESTS-043",
+    "team_id": "RES-TEAMS-043",
+    "vehicle_id": "RES-VEHICLES-043",
+    "dispatched_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 6,
+    "dispatcher_code": "Dispatcher 043",
+    "radio_channel": "Channel 043",
+    "estimated_minutes": 18,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-044",
+    "request_id": "RES-REQUESTS-044",
+    "team_id": "RES-TEAMS-044",
+    "vehicle_id": "RES-VEHICLES-044",
+    "dispatched_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 7,
+    "dispatcher_code": "Dispatcher 044",
+    "radio_channel": "Channel 044",
+    "estimated_minutes": 19,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-045",
+    "request_id": "RES-REQUESTS-045",
+    "team_id": "RES-TEAMS-045",
+    "vehicle_id": "RES-VEHICLES-045",
+    "dispatched_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 3,
+    "dispatcher_code": "Dispatcher 045",
+    "radio_channel": "Channel 045",
+    "estimated_minutes": 15,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-046",
+    "request_id": "RES-REQUESTS-046",
+    "team_id": "RES-TEAMS-046",
+    "vehicle_id": "RES-VEHICLES-046",
+    "dispatched_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 4,
+    "dispatcher_code": "Dispatcher 046",
+    "radio_channel": "Channel 046",
+    "estimated_minutes": 16,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-047",
+    "request_id": "RES-REQUESTS-047",
+    "team_id": "RES-TEAMS-047",
+    "vehicle_id": "RES-VEHICLES-047",
+    "dispatched_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 5,
+    "dispatcher_code": "Dispatcher 047",
+    "radio_channel": "Channel 047",
+    "estimated_minutes": 17,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-048",
+    "request_id": "RES-REQUESTS-048",
+    "team_id": "RES-TEAMS-048",
+    "vehicle_id": "RES-VEHICLES-048",
+    "dispatched_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 6,
+    "dispatcher_code": "Dispatcher 048",
+    "radio_channel": "Channel 048",
+    "estimated_minutes": 18,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-049",
+    "request_id": "RES-REQUESTS-049",
+    "team_id": "RES-TEAMS-049",
+    "vehicle_id": "RES-VEHICLES-049",
+    "dispatched_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 7,
+    "dispatcher_code": "Dispatcher 049",
+    "radio_channel": "Channel 049",
+    "estimated_minutes": 19,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "RES-DISPATCHES-050",
+    "request_id": "RES-REQUESTS-050",
+    "team_id": "RES-TEAMS-050",
+    "vehicle_id": "RES-VEHICLES-050",
+    "dispatched_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "arrival_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "dispatch_state": "arrived",
+    "distance_km": 3,
+    "dispatcher_code": "Dispatcher 050",
+    "radio_channel": "Channel 050",
+    "estimated_minutes": 15,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "INC-RECOVERY_TASKS-001",
+    "event_id": "INC-EVENTS-001",
+    "area_id": "INC-AREAS-001",
+    "task_name": "Recovery task 001",
+    "task_type": "road_clearance",
+    "priority": "high",
+    "assigned_agency": "Demo public works 001",
+    "planned_start": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "budget_inr": 50001,
+    "completion_pct": 21,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-002",
+    "event_id": "INC-EVENTS-002",
+    "area_id": "INC-AREAS-002",
+    "task_name": "Recovery task 002",
+    "task_type": "water_restoration",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 002",
+    "planned_start": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "budget_inr": 50002,
+    "completion_pct": 22,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-003",
+    "event_id": "INC-EVENTS-003",
+    "area_id": "INC-AREAS-003",
+    "task_name": "Recovery task 003",
+    "task_type": "debris_removal",
+    "priority": "high",
+    "assigned_agency": "Demo public works 003",
+    "planned_start": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "budget_inr": 50003,
+    "completion_pct": 23,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-004",
+    "event_id": "INC-EVENTS-004",
+    "area_id": "INC-AREAS-004",
+    "task_name": "Recovery task 004",
+    "task_type": "road_clearance",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 004",
+    "planned_start": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "budget_inr": 50004,
+    "completion_pct": 24,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-005",
+    "event_id": "INC-EVENTS-005",
+    "area_id": "INC-AREAS-005",
+    "task_name": "Recovery task 005",
+    "task_type": "water_restoration",
+    "priority": "high",
+    "assigned_agency": "Demo public works 005",
+    "planned_start": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "budget_inr": 50000,
+    "completion_pct": 20,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-006",
+    "event_id": "INC-EVENTS-006",
+    "area_id": "INC-AREAS-006",
+    "task_name": "Recovery task 006",
+    "task_type": "debris_removal",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 006",
+    "planned_start": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "budget_inr": 50001,
+    "completion_pct": 21,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-007",
+    "event_id": "INC-EVENTS-007",
+    "area_id": "INC-AREAS-007",
+    "task_name": "Recovery task 007",
+    "task_type": "road_clearance",
+    "priority": "high",
+    "assigned_agency": "Demo public works 007",
+    "planned_start": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "budget_inr": 50002,
+    "completion_pct": 22,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-008",
+    "event_id": "INC-EVENTS-008",
+    "area_id": "INC-AREAS-008",
+    "task_name": "Recovery task 008",
+    "task_type": "water_restoration",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 008",
+    "planned_start": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "budget_inr": 50003,
+    "completion_pct": 23,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-009",
+    "event_id": "INC-EVENTS-009",
+    "area_id": "INC-AREAS-009",
+    "task_name": "Recovery task 009",
+    "task_type": "debris_removal",
+    "priority": "high",
+    "assigned_agency": "Demo public works 009",
+    "planned_start": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "budget_inr": 50004,
+    "completion_pct": 24,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-010",
+    "event_id": "INC-EVENTS-010",
+    "area_id": "INC-AREAS-010",
+    "task_name": "Recovery task 010",
+    "task_type": "road_clearance",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 010",
+    "planned_start": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "budget_inr": 50000,
+    "completion_pct": 20,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-011",
+    "event_id": "INC-EVENTS-011",
+    "area_id": "INC-AREAS-011",
+    "task_name": "Recovery task 011",
+    "task_type": "water_restoration",
+    "priority": "high",
+    "assigned_agency": "Demo public works 011",
+    "planned_start": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "budget_inr": 50001,
+    "completion_pct": 21,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-012",
+    "event_id": "INC-EVENTS-012",
+    "area_id": "INC-AREAS-012",
+    "task_name": "Recovery task 012",
+    "task_type": "debris_removal",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 012",
+    "planned_start": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "budget_inr": 50002,
+    "completion_pct": 22,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-013",
+    "event_id": "INC-EVENTS-013",
+    "area_id": "INC-AREAS-013",
+    "task_name": "Recovery task 013",
+    "task_type": "road_clearance",
+    "priority": "high",
+    "assigned_agency": "Demo public works 013",
+    "planned_start": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "budget_inr": 50003,
+    "completion_pct": 23,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-014",
+    "event_id": "INC-EVENTS-014",
+    "area_id": "INC-AREAS-014",
+    "task_name": "Recovery task 014",
+    "task_type": "water_restoration",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 014",
+    "planned_start": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "budget_inr": 50004,
+    "completion_pct": 24,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-015",
+    "event_id": "INC-EVENTS-015",
+    "area_id": "INC-AREAS-015",
+    "task_name": "Recovery task 015",
+    "task_type": "debris_removal",
+    "priority": "high",
+    "assigned_agency": "Demo public works 015",
+    "planned_start": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "budget_inr": 50000,
+    "completion_pct": 20,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-016",
+    "event_id": "INC-EVENTS-016",
+    "area_id": "INC-AREAS-016",
+    "task_name": "Recovery task 016",
+    "task_type": "road_clearance",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 016",
+    "planned_start": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "budget_inr": 50001,
+    "completion_pct": 21,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-017",
+    "event_id": "INC-EVENTS-017",
+    "area_id": "INC-AREAS-017",
+    "task_name": "Recovery task 017",
+    "task_type": "water_restoration",
+    "priority": "high",
+    "assigned_agency": "Demo public works 017",
+    "planned_start": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "budget_inr": 50002,
+    "completion_pct": 22,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-018",
+    "event_id": "INC-EVENTS-018",
+    "area_id": "INC-AREAS-018",
+    "task_name": "Recovery task 018",
+    "task_type": "debris_removal",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 018",
+    "planned_start": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "budget_inr": 50003,
+    "completion_pct": 23,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-019",
+    "event_id": "INC-EVENTS-019",
+    "area_id": "INC-AREAS-019",
+    "task_name": "Recovery task 019",
+    "task_type": "road_clearance",
+    "priority": "high",
+    "assigned_agency": "Demo public works 019",
+    "planned_start": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "budget_inr": 50004,
+    "completion_pct": 24,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-020",
+    "event_id": "INC-EVENTS-020",
+    "area_id": "INC-AREAS-020",
+    "task_name": "Recovery task 020",
+    "task_type": "water_restoration",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 020",
+    "planned_start": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "budget_inr": 50000,
+    "completion_pct": 20,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-021",
+    "event_id": "INC-EVENTS-021",
+    "area_id": "INC-AREAS-021",
+    "task_name": "Recovery task 021",
+    "task_type": "debris_removal",
+    "priority": "high",
+    "assigned_agency": "Demo public works 021",
+    "planned_start": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "budget_inr": 50001,
+    "completion_pct": 21,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-022",
+    "event_id": "INC-EVENTS-022",
+    "area_id": "INC-AREAS-022",
+    "task_name": "Recovery task 022",
+    "task_type": "road_clearance",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 022",
+    "planned_start": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "budget_inr": 50002,
+    "completion_pct": 22,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-023",
+    "event_id": "INC-EVENTS-023",
+    "area_id": "INC-AREAS-023",
+    "task_name": "Recovery task 023",
+    "task_type": "water_restoration",
+    "priority": "high",
+    "assigned_agency": "Demo public works 023",
+    "planned_start": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "budget_inr": 50003,
+    "completion_pct": 23,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-024",
+    "event_id": "INC-EVENTS-024",
+    "area_id": "INC-AREAS-024",
+    "task_name": "Recovery task 024",
+    "task_type": "debris_removal",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 024",
+    "planned_start": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "budget_inr": 50004,
+    "completion_pct": 24,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-025",
+    "event_id": "INC-EVENTS-025",
+    "area_id": "INC-AREAS-025",
+    "task_name": "Recovery task 025",
+    "task_type": "road_clearance",
+    "priority": "high",
+    "assigned_agency": "Demo public works 025",
+    "planned_start": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "budget_inr": 50000,
+    "completion_pct": 20,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-026",
+    "event_id": "INC-EVENTS-026",
+    "area_id": "INC-AREAS-026",
+    "task_name": "Recovery task 026",
+    "task_type": "water_restoration",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 026",
+    "planned_start": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "budget_inr": 50001,
+    "completion_pct": 21,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-027",
+    "event_id": "INC-EVENTS-027",
+    "area_id": "INC-AREAS-027",
+    "task_name": "Recovery task 027",
+    "task_type": "debris_removal",
+    "priority": "high",
+    "assigned_agency": "Demo public works 027",
+    "planned_start": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "budget_inr": 50002,
+    "completion_pct": 22,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-028",
+    "event_id": "INC-EVENTS-028",
+    "area_id": "INC-AREAS-028",
+    "task_name": "Recovery task 028",
+    "task_type": "road_clearance",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 028",
+    "planned_start": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "budget_inr": 50003,
+    "completion_pct": 23,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-029",
+    "event_id": "INC-EVENTS-029",
+    "area_id": "INC-AREAS-029",
+    "task_name": "Recovery task 029",
+    "task_type": "water_restoration",
+    "priority": "high",
+    "assigned_agency": "Demo public works 029",
+    "planned_start": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "budget_inr": 50004,
+    "completion_pct": 24,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-030",
+    "event_id": "INC-EVENTS-030",
+    "area_id": "INC-AREAS-030",
+    "task_name": "Recovery task 030",
+    "task_type": "debris_removal",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 030",
+    "planned_start": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "budget_inr": 50000,
+    "completion_pct": 20,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-031",
+    "event_id": "INC-EVENTS-031",
+    "area_id": "INC-AREAS-031",
+    "task_name": "Recovery task 031",
+    "task_type": "road_clearance",
+    "priority": "high",
+    "assigned_agency": "Demo public works 031",
+    "planned_start": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "budget_inr": 50001,
+    "completion_pct": 21,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-032",
+    "event_id": "INC-EVENTS-032",
+    "area_id": "INC-AREAS-032",
+    "task_name": "Recovery task 032",
+    "task_type": "water_restoration",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 032",
+    "planned_start": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "budget_inr": 50002,
+    "completion_pct": 22,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-033",
+    "event_id": "INC-EVENTS-033",
+    "area_id": "INC-AREAS-033",
+    "task_name": "Recovery task 033",
+    "task_type": "debris_removal",
+    "priority": "high",
+    "assigned_agency": "Demo public works 033",
+    "planned_start": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "budget_inr": 50003,
+    "completion_pct": 23,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-034",
+    "event_id": "INC-EVENTS-034",
+    "area_id": "INC-AREAS-034",
+    "task_name": "Recovery task 034",
+    "task_type": "road_clearance",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 034",
+    "planned_start": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "budget_inr": 50004,
+    "completion_pct": 24,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-035",
+    "event_id": "INC-EVENTS-035",
+    "area_id": "INC-AREAS-035",
+    "task_name": "Recovery task 035",
+    "task_type": "water_restoration",
+    "priority": "high",
+    "assigned_agency": "Demo public works 035",
+    "planned_start": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "budget_inr": 50000,
+    "completion_pct": 20,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-036",
+    "event_id": "INC-EVENTS-036",
+    "area_id": "INC-AREAS-036",
+    "task_name": "Recovery task 036",
+    "task_type": "debris_removal",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 036",
+    "planned_start": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "budget_inr": 50001,
+    "completion_pct": 21,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-037",
+    "event_id": "INC-EVENTS-037",
+    "area_id": "INC-AREAS-037",
+    "task_name": "Recovery task 037",
+    "task_type": "road_clearance",
+    "priority": "high",
+    "assigned_agency": "Demo public works 037",
+    "planned_start": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "budget_inr": 50002,
+    "completion_pct": 22,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-038",
+    "event_id": "INC-EVENTS-038",
+    "area_id": "INC-AREAS-038",
+    "task_name": "Recovery task 038",
+    "task_type": "water_restoration",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 038",
+    "planned_start": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "budget_inr": 50003,
+    "completion_pct": 23,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-039",
+    "event_id": "INC-EVENTS-039",
+    "area_id": "INC-AREAS-039",
+    "task_name": "Recovery task 039",
+    "task_type": "debris_removal",
+    "priority": "high",
+    "assigned_agency": "Demo public works 039",
+    "planned_start": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "budget_inr": 50004,
+    "completion_pct": 24,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-040",
+    "event_id": "INC-EVENTS-040",
+    "area_id": "INC-AREAS-040",
+    "task_name": "Recovery task 040",
+    "task_type": "road_clearance",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 040",
+    "planned_start": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "budget_inr": 50000,
+    "completion_pct": 20,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-041",
+    "event_id": "INC-EVENTS-041",
+    "area_id": "INC-AREAS-041",
+    "task_name": "Recovery task 041",
+    "task_type": "water_restoration",
+    "priority": "high",
+    "assigned_agency": "Demo public works 041",
+    "planned_start": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "budget_inr": 50001,
+    "completion_pct": 21,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-042",
+    "event_id": "INC-EVENTS-042",
+    "area_id": "INC-AREAS-042",
+    "task_name": "Recovery task 042",
+    "task_type": "debris_removal",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 042",
+    "planned_start": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "budget_inr": 50002,
+    "completion_pct": 22,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-043",
+    "event_id": "INC-EVENTS-043",
+    "area_id": "INC-AREAS-043",
+    "task_name": "Recovery task 043",
+    "task_type": "road_clearance",
+    "priority": "high",
+    "assigned_agency": "Demo public works 043",
+    "planned_start": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "budget_inr": 50003,
+    "completion_pct": 23,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-044",
+    "event_id": "INC-EVENTS-044",
+    "area_id": "INC-AREAS-044",
+    "task_name": "Recovery task 044",
+    "task_type": "water_restoration",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 044",
+    "planned_start": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "budget_inr": 50004,
+    "completion_pct": 24,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-045",
+    "event_id": "INC-EVENTS-045",
+    "area_id": "INC-AREAS-045",
+    "task_name": "Recovery task 045",
+    "task_type": "debris_removal",
+    "priority": "high",
+    "assigned_agency": "Demo public works 045",
+    "planned_start": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "budget_inr": 50000,
+    "completion_pct": 20,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-046",
+    "event_id": "INC-EVENTS-046",
+    "area_id": "INC-AREAS-046",
+    "task_name": "Recovery task 046",
+    "task_type": "road_clearance",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 046",
+    "planned_start": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "budget_inr": 50001,
+    "completion_pct": 21,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-047",
+    "event_id": "INC-EVENTS-047",
+    "area_id": "INC-AREAS-047",
+    "task_name": "Recovery task 047",
+    "task_type": "water_restoration",
+    "priority": "high",
+    "assigned_agency": "Demo public works 047",
+    "planned_start": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "budget_inr": 50002,
+    "completion_pct": 22,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-048",
+    "event_id": "INC-EVENTS-048",
+    "area_id": "INC-AREAS-048",
+    "task_name": "Recovery task 048",
+    "task_type": "debris_removal",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 048",
+    "planned_start": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "budget_inr": 50003,
+    "completion_pct": 23,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-049",
+    "event_id": "INC-EVENTS-049",
+    "area_id": "INC-AREAS-049",
+    "task_name": "Recovery task 049",
+    "task_type": "road_clearance",
+    "priority": "high",
+    "assigned_agency": "Demo public works 049",
+    "planned_start": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "budget_inr": 50004,
+    "completion_pct": 24,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "INC-RECOVERY_TASKS-050",
+    "event_id": "INC-EVENTS-050",
+    "area_id": "INC-AREAS-050",
+    "task_name": "Recovery task 050",
+    "task_type": "water_restoration",
+    "priority": "medium",
+    "assigned_agency": "Demo public works 050",
+    "planned_start": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "planned_end": {
+      "$date": "2026-06-08T00:00:00Z"
+    },
+    "budget_inr": 50000,
+    "completion_pct": 20,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

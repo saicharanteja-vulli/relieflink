@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "SHE-BED_ALLOCATIONS-001",
+    "shelter_id": "SHE-SHELTERS-001",
+    "admission_id": "SHE-ADMISSIONS-001",
+    "room_label": "Dormitory 001",
+    "bed_start": 2,
+    "beds_allocated": 3,
+    "allocated_at": {
+      "$date": "2026-01-07T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 001",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-002",
+    "shelter_id": "SHE-SHELTERS-002",
+    "admission_id": "SHE-ADMISSIONS-002",
+    "room_label": "Dormitory 002",
+    "bed_start": 3,
+    "beds_allocated": 4,
+    "allocated_at": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 002",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-003",
+    "shelter_id": "SHE-SHELTERS-003",
+    "admission_id": "SHE-ADMISSIONS-003",
+    "room_label": "Dormitory 003",
+    "bed_start": 4,
+    "beds_allocated": 5,
+    "allocated_at": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 003",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-004",
+    "shelter_id": "SHE-SHELTERS-004",
+    "admission_id": "SHE-ADMISSIONS-004",
+    "room_label": "Dormitory 004",
+    "bed_start": 5,
+    "beds_allocated": 6,
+    "allocated_at": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 004",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-005",
+    "shelter_id": "SHE-SHELTERS-005",
+    "admission_id": "SHE-ADMISSIONS-005",
+    "room_label": "Dormitory 005",
+    "bed_start": 1,
+    "beds_allocated": 2,
+    "allocated_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 005",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-006",
+    "shelter_id": "SHE-SHELTERS-006",
+    "admission_id": "SHE-ADMISSIONS-006",
+    "room_label": "Dormitory 006",
+    "bed_start": 2,
+    "beds_allocated": 3,
+    "allocated_at": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 006",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-007",
+    "shelter_id": "SHE-SHELTERS-007",
+    "admission_id": "SHE-ADMISSIONS-007",
+    "room_label": "Dormitory 007",
+    "bed_start": 3,
+    "beds_allocated": 4,
+    "allocated_at": {
+      "$date": "2026-01-25T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 007",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-008",
+    "shelter_id": "SHE-SHELTERS-008",
+    "admission_id": "SHE-ADMISSIONS-008",
+    "room_label": "Dormitory 008",
+    "bed_start": 4,
+    "beds_allocated": 5,
+    "allocated_at": {
+      "$date": "2026-01-28T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 008",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-009",
+    "shelter_id": "SHE-SHELTERS-009",
+    "admission_id": "SHE-ADMISSIONS-009",
+    "room_label": "Dormitory 009",
+    "bed_start": 5,
+    "beds_allocated": 6,
+    "allocated_at": {
+      "$date": "2026-01-31T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 009",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-010",
+    "shelter_id": "SHE-SHELTERS-010",
+    "admission_id": "SHE-ADMISSIONS-010",
+    "room_label": "Dormitory 010",
+    "bed_start": 1,
+    "beds_allocated": 2,
+    "allocated_at": {
+      "$date": "2026-02-03T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 010",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-011",
+    "shelter_id": "SHE-SHELTERS-011",
+    "admission_id": "SHE-ADMISSIONS-011",
+    "room_label": "Dormitory 011",
+    "bed_start": 2,
+    "beds_allocated": 3,
+    "allocated_at": {
+      "$date": "2026-02-06T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 011",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-012",
+    "shelter_id": "SHE-SHELTERS-012",
+    "admission_id": "SHE-ADMISSIONS-012",
+    "room_label": "Dormitory 012",
+    "bed_start": 3,
+    "beds_allocated": 4,
+    "allocated_at": {
+      "$date": "2026-02-09T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 012",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-013",
+    "shelter_id": "SHE-SHELTERS-013",
+    "admission_id": "SHE-ADMISSIONS-013",
+    "room_label": "Dormitory 013",
+    "bed_start": 4,
+    "beds_allocated": 5,
+    "allocated_at": {
+      "$date": "2026-02-12T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 013",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-014",
+    "shelter_id": "SHE-SHELTERS-014",
+    "admission_id": "SHE-ADMISSIONS-014",
+    "room_label": "Dormitory 014",
+    "bed_start": 5,
+    "beds_allocated": 6,
+    "allocated_at": {
+      "$date": "2026-02-15T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 014",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-015",
+    "shelter_id": "SHE-SHELTERS-015",
+    "admission_id": "SHE-ADMISSIONS-015",
+    "room_label": "Dormitory 015",
+    "bed_start": 1,
+    "beds_allocated": 2,
+    "allocated_at": {
+      "$date": "2026-02-18T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 015",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-016",
+    "shelter_id": "SHE-SHELTERS-016",
+    "admission_id": "SHE-ADMISSIONS-016",
+    "room_label": "Dormitory 016",
+    "bed_start": 2,
+    "beds_allocated": 3,
+    "allocated_at": {
+      "$date": "2026-02-21T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 016",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-017",
+    "shelter_id": "SHE-SHELTERS-017",
+    "admission_id": "SHE-ADMISSIONS-017",
+    "room_label": "Dormitory 017",
+    "bed_start": 3,
+    "beds_allocated": 4,
+    "allocated_at": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 017",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-018",
+    "shelter_id": "SHE-SHELTERS-018",
+    "admission_id": "SHE-ADMISSIONS-018",
+    "room_label": "Dormitory 018",
+    "bed_start": 4,
+    "beds_allocated": 5,
+    "allocated_at": {
+      "$date": "2026-02-27T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 018",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-019",
+    "shelter_id": "SHE-SHELTERS-019",
+    "admission_id": "SHE-ADMISSIONS-019",
+    "room_label": "Dormitory 019",
+    "bed_start": 5,
+    "beds_allocated": 6,
+    "allocated_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 019",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-020",
+    "shelter_id": "SHE-SHELTERS-020",
+    "admission_id": "SHE-ADMISSIONS-020",
+    "room_label": "Dormitory 020",
+    "bed_start": 1,
+    "beds_allocated": 2,
+    "allocated_at": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 020",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-021",
+    "shelter_id": "SHE-SHELTERS-021",
+    "admission_id": "SHE-ADMISSIONS-021",
+    "room_label": "Dormitory 021",
+    "bed_start": 2,
+    "beds_allocated": 3,
+    "allocated_at": {
+      "$date": "2026-03-08T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 021",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-022",
+    "shelter_id": "SHE-SHELTERS-022",
+    "admission_id": "SHE-ADMISSIONS-022",
+    "room_label": "Dormitory 022",
+    "bed_start": 3,
+    "beds_allocated": 4,
+    "allocated_at": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 022",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-023",
+    "shelter_id": "SHE-SHELTERS-023",
+    "admission_id": "SHE-ADMISSIONS-023",
+    "room_label": "Dormitory 023",
+    "bed_start": 4,
+    "beds_allocated": 5,
+    "allocated_at": {
+      "$date": "2026-03-14T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 023",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-024",
+    "shelter_id": "SHE-SHELTERS-024",
+    "admission_id": "SHE-ADMISSIONS-024",
+    "room_label": "Dormitory 024",
+    "bed_start": 5,
+    "beds_allocated": 6,
+    "allocated_at": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 024",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-025",
+    "shelter_id": "SHE-SHELTERS-025",
+    "admission_id": "SHE-ADMISSIONS-025",
+    "room_label": "Dormitory 025",
+    "bed_start": 1,
+    "beds_allocated": 2,
+    "allocated_at": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 025",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-026",
+    "shelter_id": "SHE-SHELTERS-026",
+    "admission_id": "SHE-ADMISSIONS-026",
+    "room_label": "Dormitory 026",
+    "bed_start": 2,
+    "beds_allocated": 3,
+    "allocated_at": {
+      "$date": "2026-03-23T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 026",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-027",
+    "shelter_id": "SHE-SHELTERS-027",
+    "admission_id": "SHE-ADMISSIONS-027",
+    "room_label": "Dormitory 027",
+    "bed_start": 3,
+    "beds_allocated": 4,
+    "allocated_at": {
+      "$date": "2026-03-26T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 027",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-028",
+    "shelter_id": "SHE-SHELTERS-028",
+    "admission_id": "SHE-ADMISSIONS-028",
+    "room_label": "Dormitory 028",
+    "bed_start": 4,
+    "beds_allocated": 5,
+    "allocated_at": {
+      "$date": "2026-03-29T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 028",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-029",
+    "shelter_id": "SHE-SHELTERS-029",
+    "admission_id": "SHE-ADMISSIONS-029",
+    "room_label": "Dormitory 029",
+    "bed_start": 5,
+    "beds_allocated": 6,
+    "allocated_at": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 029",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-030",
+    "shelter_id": "SHE-SHELTERS-030",
+    "admission_id": "SHE-ADMISSIONS-030",
+    "room_label": "Dormitory 030",
+    "bed_start": 1,
+    "beds_allocated": 2,
+    "allocated_at": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 030",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-031",
+    "shelter_id": "SHE-SHELTERS-031",
+    "admission_id": "SHE-ADMISSIONS-031",
+    "room_label": "Dormitory 031",
+    "bed_start": 2,
+    "beds_allocated": 3,
+    "allocated_at": {
+      "$date": "2026-04-07T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 031",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-032",
+    "shelter_id": "SHE-SHELTERS-032",
+    "admission_id": "SHE-ADMISSIONS-032",
+    "room_label": "Dormitory 032",
+    "bed_start": 3,
+    "beds_allocated": 4,
+    "allocated_at": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 032",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-033",
+    "shelter_id": "SHE-SHELTERS-033",
+    "admission_id": "SHE-ADMISSIONS-033",
+    "room_label": "Dormitory 033",
+    "bed_start": 4,
+    "beds_allocated": 5,
+    "allocated_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 033",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-034",
+    "shelter_id": "SHE-SHELTERS-034",
+    "admission_id": "SHE-ADMISSIONS-034",
+    "room_label": "Dormitory 034",
+    "bed_start": 5,
+    "beds_allocated": 6,
+    "allocated_at": {
+      "$date": "2026-04-16T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 034",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-035",
+    "shelter_id": "SHE-SHELTERS-035",
+    "admission_id": "SHE-ADMISSIONS-035",
+    "room_label": "Dormitory 035",
+    "bed_start": 1,
+    "beds_allocated": 2,
+    "allocated_at": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 035",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-036",
+    "shelter_id": "SHE-SHELTERS-036",
+    "admission_id": "SHE-ADMISSIONS-036",
+    "room_label": "Dormitory 036",
+    "bed_start": 2,
+    "beds_allocated": 3,
+    "allocated_at": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 036",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-037",
+    "shelter_id": "SHE-SHELTERS-037",
+    "admission_id": "SHE-ADMISSIONS-037",
+    "room_label": "Dormitory 037",
+    "bed_start": 3,
+    "beds_allocated": 4,
+    "allocated_at": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 037",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-038",
+    "shelter_id": "SHE-SHELTERS-038",
+    "admission_id": "SHE-ADMISSIONS-038",
+    "room_label": "Dormitory 038",
+    "bed_start": 4,
+    "beds_allocated": 5,
+    "allocated_at": {
+      "$date": "2026-04-28T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 038",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-039",
+    "shelter_id": "SHE-SHELTERS-039",
+    "admission_id": "SHE-ADMISSIONS-039",
+    "room_label": "Dormitory 039",
+    "bed_start": 5,
+    "beds_allocated": 6,
+    "allocated_at": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 039",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-040",
+    "shelter_id": "SHE-SHELTERS-040",
+    "admission_id": "SHE-ADMISSIONS-040",
+    "room_label": "Dormitory 040",
+    "bed_start": 1,
+    "beds_allocated": 2,
+    "allocated_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 040",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-041",
+    "shelter_id": "SHE-SHELTERS-041",
+    "admission_id": "SHE-ADMISSIONS-041",
+    "room_label": "Dormitory 041",
+    "bed_start": 2,
+    "beds_allocated": 3,
+    "allocated_at": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 041",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-042",
+    "shelter_id": "SHE-SHELTERS-042",
+    "admission_id": "SHE-ADMISSIONS-042",
+    "room_label": "Dormitory 042",
+    "bed_start": 3,
+    "beds_allocated": 4,
+    "allocated_at": {
+      "$date": "2026-05-10T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 042",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-043",
+    "shelter_id": "SHE-SHELTERS-043",
+    "admission_id": "SHE-ADMISSIONS-043",
+    "room_label": "Dormitory 043",
+    "bed_start": 4,
+    "beds_allocated": 5,
+    "allocated_at": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 043",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-044",
+    "shelter_id": "SHE-SHELTERS-044",
+    "admission_id": "SHE-ADMISSIONS-044",
+    "room_label": "Dormitory 044",
+    "bed_start": 5,
+    "beds_allocated": 6,
+    "allocated_at": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 044",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-045",
+    "shelter_id": "SHE-SHELTERS-045",
+    "admission_id": "SHE-ADMISSIONS-045",
+    "room_label": "Dormitory 045",
+    "bed_start": 1,
+    "beds_allocated": 2,
+    "allocated_at": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 045",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-046",
+    "shelter_id": "SHE-SHELTERS-046",
+    "admission_id": "SHE-ADMISSIONS-046",
+    "room_label": "Dormitory 046",
+    "bed_start": 2,
+    "beds_allocated": 3,
+    "allocated_at": {
+      "$date": "2026-05-22T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 046",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-047",
+    "shelter_id": "SHE-SHELTERS-047",
+    "admission_id": "SHE-ADMISSIONS-047",
+    "room_label": "Dormitory 047",
+    "bed_start": 3,
+    "beds_allocated": 4,
+    "allocated_at": {
+      "$date": "2026-05-25T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 047",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-048",
+    "shelter_id": "SHE-SHELTERS-048",
+    "admission_id": "SHE-ADMISSIONS-048",
+    "room_label": "Dormitory 048",
+    "bed_start": 4,
+    "beds_allocated": 5,
+    "allocated_at": {
+      "$date": "2026-05-28T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 048",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-049",
+    "shelter_id": "SHE-SHELTERS-049",
+    "admission_id": "SHE-ADMISSIONS-049",
+    "room_label": "Dormitory 049",
+    "bed_start": 5,
+    "beds_allocated": 6,
+    "allocated_at": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": false,
+    "allocated_by": "Registrar 049",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-BED_ALLOCATIONS-050",
+    "shelter_id": "SHE-SHELTERS-050",
+    "admission_id": "SHE-ADMISSIONS-050",
+    "room_label": "Dormitory 050",
+    "bed_start": 1,
+    "beds_allocated": 2,
+    "allocated_at": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "allocation_state": "occupied",
+    "accessible_bed": true,
+    "allocated_by": "Registrar 050",
+    "floor_number": 0,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "SHE-HEALTH_VISITS-001",
+    "shelter_id": "SHE-SHELTERS-001",
+    "household_id": "SHE-HOUSEHOLDS-001",
+    "visited_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 001",
+    "visit_type": "Routine screening 001",
+    "people_seen": 3,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-002",
+    "shelter_id": "SHE-SHELTERS-002",
+    "household_id": "SHE-HOUSEHOLDS-002",
+    "visited_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 002",
+    "visit_type": "Routine screening 002",
+    "people_seen": 4,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-003",
+    "shelter_id": "SHE-SHELTERS-003",
+    "household_id": "SHE-HOUSEHOLDS-003",
+    "visited_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 003",
+    "visit_type": "Routine screening 003",
+    "people_seen": 5,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-004",
+    "shelter_id": "SHE-SHELTERS-004",
+    "household_id": "SHE-HOUSEHOLDS-004",
+    "visited_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 004",
+    "visit_type": "Routine screening 004",
+    "people_seen": 6,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-005",
+    "shelter_id": "SHE-SHELTERS-005",
+    "household_id": "SHE-HOUSEHOLDS-005",
+    "visited_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 005",
+    "visit_type": "Routine screening 005",
+    "people_seen": 2,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-006",
+    "shelter_id": "SHE-SHELTERS-006",
+    "household_id": "SHE-HOUSEHOLDS-006",
+    "visited_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 006",
+    "visit_type": "Routine screening 006",
+    "people_seen": 3,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-007",
+    "shelter_id": "SHE-SHELTERS-007",
+    "household_id": "SHE-HOUSEHOLDS-007",
+    "visited_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 007",
+    "visit_type": "Routine screening 007",
+    "people_seen": 4,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-008",
+    "shelter_id": "SHE-SHELTERS-008",
+    "household_id": "SHE-HOUSEHOLDS-008",
+    "visited_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 008",
+    "visit_type": "Routine screening 008",
+    "people_seen": 5,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-009",
+    "shelter_id": "SHE-SHELTERS-009",
+    "household_id": "SHE-HOUSEHOLDS-009",
+    "visited_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 009",
+    "visit_type": "Routine screening 009",
+    "people_seen": 6,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-010",
+    "shelter_id": "SHE-SHELTERS-010",
+    "household_id": "SHE-HOUSEHOLDS-010",
+    "visited_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 010",
+    "visit_type": "Routine screening 010",
+    "people_seen": 2,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-011",
+    "shelter_id": "SHE-SHELTERS-011",
+    "household_id": "SHE-HOUSEHOLDS-011",
+    "visited_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 011",
+    "visit_type": "Routine screening 011",
+    "people_seen": 3,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-012",
+    "shelter_id": "SHE-SHELTERS-012",
+    "household_id": "SHE-HOUSEHOLDS-012",
+    "visited_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 012",
+    "visit_type": "Routine screening 012",
+    "people_seen": 4,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-013",
+    "shelter_id": "SHE-SHELTERS-013",
+    "household_id": "SHE-HOUSEHOLDS-013",
+    "visited_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 013",
+    "visit_type": "Routine screening 013",
+    "people_seen": 5,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-014",
+    "shelter_id": "SHE-SHELTERS-014",
+    "household_id": "SHE-HOUSEHOLDS-014",
+    "visited_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 014",
+    "visit_type": "Routine screening 014",
+    "people_seen": 6,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-015",
+    "shelter_id": "SHE-SHELTERS-015",
+    "household_id": "SHE-HOUSEHOLDS-015",
+    "visited_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 015",
+    "visit_type": "Routine screening 015",
+    "people_seen": 2,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-016",
+    "shelter_id": "SHE-SHELTERS-016",
+    "household_id": "SHE-HOUSEHOLDS-016",
+    "visited_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 016",
+    "visit_type": "Routine screening 016",
+    "people_seen": 3,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-017",
+    "shelter_id": "SHE-SHELTERS-017",
+    "household_id": "SHE-HOUSEHOLDS-017",
+    "visited_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 017",
+    "visit_type": "Routine screening 017",
+    "people_seen": 4,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-018",
+    "shelter_id": "SHE-SHELTERS-018",
+    "household_id": "SHE-HOUSEHOLDS-018",
+    "visited_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 018",
+    "visit_type": "Routine screening 018",
+    "people_seen": 5,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-019",
+    "shelter_id": "SHE-SHELTERS-019",
+    "household_id": "SHE-HOUSEHOLDS-019",
+    "visited_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 019",
+    "visit_type": "Routine screening 019",
+    "people_seen": 6,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-020",
+    "shelter_id": "SHE-SHELTERS-020",
+    "household_id": "SHE-HOUSEHOLDS-020",
+    "visited_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 020",
+    "visit_type": "Routine screening 020",
+    "people_seen": 2,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-021",
+    "shelter_id": "SHE-SHELTERS-021",
+    "household_id": "SHE-HOUSEHOLDS-021",
+    "visited_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 021",
+    "visit_type": "Routine screening 021",
+    "people_seen": 3,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-022",
+    "shelter_id": "SHE-SHELTERS-022",
+    "household_id": "SHE-HOUSEHOLDS-022",
+    "visited_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 022",
+    "visit_type": "Routine screening 022",
+    "people_seen": 4,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-023",
+    "shelter_id": "SHE-SHELTERS-023",
+    "household_id": "SHE-HOUSEHOLDS-023",
+    "visited_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 023",
+    "visit_type": "Routine screening 023",
+    "people_seen": 5,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-024",
+    "shelter_id": "SHE-SHELTERS-024",
+    "household_id": "SHE-HOUSEHOLDS-024",
+    "visited_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 024",
+    "visit_type": "Routine screening 024",
+    "people_seen": 6,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-025",
+    "shelter_id": "SHE-SHELTERS-025",
+    "household_id": "SHE-HOUSEHOLDS-025",
+    "visited_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 025",
+    "visit_type": "Routine screening 025",
+    "people_seen": 2,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-026",
+    "shelter_id": "SHE-SHELTERS-026",
+    "household_id": "SHE-HOUSEHOLDS-026",
+    "visited_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 026",
+    "visit_type": "Routine screening 026",
+    "people_seen": 3,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-027",
+    "shelter_id": "SHE-SHELTERS-027",
+    "household_id": "SHE-HOUSEHOLDS-027",
+    "visited_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 027",
+    "visit_type": "Routine screening 027",
+    "people_seen": 4,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-028",
+    "shelter_id": "SHE-SHELTERS-028",
+    "household_id": "SHE-HOUSEHOLDS-028",
+    "visited_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 028",
+    "visit_type": "Routine screening 028",
+    "people_seen": 5,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-029",
+    "shelter_id": "SHE-SHELTERS-029",
+    "household_id": "SHE-HOUSEHOLDS-029",
+    "visited_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 029",
+    "visit_type": "Routine screening 029",
+    "people_seen": 6,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-030",
+    "shelter_id": "SHE-SHELTERS-030",
+    "household_id": "SHE-HOUSEHOLDS-030",
+    "visited_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 030",
+    "visit_type": "Routine screening 030",
+    "people_seen": 2,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-031",
+    "shelter_id": "SHE-SHELTERS-031",
+    "household_id": "SHE-HOUSEHOLDS-031",
+    "visited_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 031",
+    "visit_type": "Routine screening 031",
+    "people_seen": 3,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-032",
+    "shelter_id": "SHE-SHELTERS-032",
+    "household_id": "SHE-HOUSEHOLDS-032",
+    "visited_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 032",
+    "visit_type": "Routine screening 032",
+    "people_seen": 4,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-033",
+    "shelter_id": "SHE-SHELTERS-033",
+    "household_id": "SHE-HOUSEHOLDS-033",
+    "visited_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 033",
+    "visit_type": "Routine screening 033",
+    "people_seen": 5,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-034",
+    "shelter_id": "SHE-SHELTERS-034",
+    "household_id": "SHE-HOUSEHOLDS-034",
+    "visited_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 034",
+    "visit_type": "Routine screening 034",
+    "people_seen": 6,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-035",
+    "shelter_id": "SHE-SHELTERS-035",
+    "household_id": "SHE-HOUSEHOLDS-035",
+    "visited_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 035",
+    "visit_type": "Routine screening 035",
+    "people_seen": 2,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-036",
+    "shelter_id": "SHE-SHELTERS-036",
+    "household_id": "SHE-HOUSEHOLDS-036",
+    "visited_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 036",
+    "visit_type": "Routine screening 036",
+    "people_seen": 3,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-037",
+    "shelter_id": "SHE-SHELTERS-037",
+    "household_id": "SHE-HOUSEHOLDS-037",
+    "visited_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 037",
+    "visit_type": "Routine screening 037",
+    "people_seen": 4,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-038",
+    "shelter_id": "SHE-SHELTERS-038",
+    "household_id": "SHE-HOUSEHOLDS-038",
+    "visited_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 038",
+    "visit_type": "Routine screening 038",
+    "people_seen": 5,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-039",
+    "shelter_id": "SHE-SHELTERS-039",
+    "household_id": "SHE-HOUSEHOLDS-039",
+    "visited_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 039",
+    "visit_type": "Routine screening 039",
+    "people_seen": 6,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-05-03T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-040",
+    "shelter_id": "SHE-SHELTERS-040",
+    "household_id": "SHE-HOUSEHOLDS-040",
+    "visited_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 040",
+    "visit_type": "Routine screening 040",
+    "people_seen": 2,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-041",
+    "shelter_id": "SHE-SHELTERS-041",
+    "household_id": "SHE-HOUSEHOLDS-041",
+    "visited_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 041",
+    "visit_type": "Routine screening 041",
+    "people_seen": 3,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-05-09T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-042",
+    "shelter_id": "SHE-SHELTERS-042",
+    "household_id": "SHE-HOUSEHOLDS-042",
+    "visited_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 042",
+    "visit_type": "Routine screening 042",
+    "people_seen": 4,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-05-12T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-043",
+    "shelter_id": "SHE-SHELTERS-043",
+    "household_id": "SHE-HOUSEHOLDS-043",
+    "visited_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 043",
+    "visit_type": "Routine screening 043",
+    "people_seen": 5,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-044",
+    "shelter_id": "SHE-SHELTERS-044",
+    "household_id": "SHE-HOUSEHOLDS-044",
+    "visited_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 044",
+    "visit_type": "Routine screening 044",
+    "people_seen": 6,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-045",
+    "shelter_id": "SHE-SHELTERS-045",
+    "household_id": "SHE-HOUSEHOLDS-045",
+    "visited_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 045",
+    "visit_type": "Routine screening 045",
+    "people_seen": 2,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-05-21T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-046",
+    "shelter_id": "SHE-SHELTERS-046",
+    "household_id": "SHE-HOUSEHOLDS-046",
+    "visited_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 046",
+    "visit_type": "Routine screening 046",
+    "people_seen": 3,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-047",
+    "shelter_id": "SHE-SHELTERS-047",
+    "household_id": "SHE-HOUSEHOLDS-047",
+    "visited_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 047",
+    "visit_type": "Routine screening 047",
+    "people_seen": 4,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-05-27T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-048",
+    "shelter_id": "SHE-SHELTERS-048",
+    "household_id": "SHE-HOUSEHOLDS-048",
+    "visited_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 048",
+    "visit_type": "Routine screening 048",
+    "people_seen": 5,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-05-30T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-049",
+    "shelter_id": "SHE-SHELTERS-049",
+    "household_id": "SHE-HOUSEHOLDS-049",
+    "visited_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 049",
+    "visit_type": "Routine screening 049",
+    "people_seen": 6,
+    "followup_needed": false,
+    "followup_at": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-HEALTH_VISITS-050",
+    "shelter_id": "SHE-SHELTERS-050",
+    "household_id": "SHE-HOUSEHOLDS-050",
+    "visited_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "clinician_code": "Demo clinician 050",
+    "visit_type": "Routine screening 050",
+    "people_seen": 2,
+    "followup_needed": true,
+    "followup_at": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "visit_state": "completed",
+    "notes": "Fictional wellness visit 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "_id": "LOG-STOCK_BATCHES-001",
+    "warehouse_id": "LOG-WAREHOUSES-001",
+    "item_id": "LOG-ITEMS-001",
+    "batch_code": "Batch 001",
+    "received_at": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-07-03T00:00:00Z"
+    },
+    "quantity_received": 201,
+    "quantity_available": 180,
+    "unit_cost_inr": 101,
+    "quality_state": "accepted",
+    "bin_label": "Bin 001",
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-002",
+    "warehouse_id": "LOG-WAREHOUSES-002",
+    "item_id": "LOG-ITEMS-002",
+    "batch_code": "Batch 002",
+    "received_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-07-06T00:00:00Z"
+    },
+    "quantity_received": 202,
+    "quantity_available": 180,
+    "unit_cost_inr": 102,
+    "quality_state": "accepted",
+    "bin_label": "Bin 002",
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-003",
+    "warehouse_id": "LOG-WAREHOUSES-003",
+    "item_id": "LOG-ITEMS-003",
+    "batch_code": "Batch 003",
+    "received_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-07-09T00:00:00Z"
+    },
+    "quantity_received": 203,
+    "quantity_available": 180,
+    "unit_cost_inr": 103,
+    "quality_state": "accepted",
+    "bin_label": "Bin 003",
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-004",
+    "warehouse_id": "LOG-WAREHOUSES-004",
+    "item_id": "LOG-ITEMS-004",
+    "batch_code": "Batch 004",
+    "received_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-07-12T00:00:00Z"
+    },
+    "quantity_received": 204,
+    "quantity_available": 180,
+    "unit_cost_inr": 104,
+    "quality_state": "accepted",
+    "bin_label": "Bin 004",
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-005",
+    "warehouse_id": "LOG-WAREHOUSES-005",
+    "item_id": "LOG-ITEMS-005",
+    "batch_code": "Batch 005",
+    "received_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-07-15T00:00:00Z"
+    },
+    "quantity_received": 200,
+    "quantity_available": 180,
+    "unit_cost_inr": 100,
+    "quality_state": "accepted",
+    "bin_label": "Bin 005",
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-006",
+    "warehouse_id": "LOG-WAREHOUSES-006",
+    "item_id": "LOG-ITEMS-006",
+    "batch_code": "Batch 006",
+    "received_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-07-18T00:00:00Z"
+    },
+    "quantity_received": 201,
+    "quantity_available": 180,
+    "unit_cost_inr": 101,
+    "quality_state": "accepted",
+    "bin_label": "Bin 006",
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-007",
+    "warehouse_id": "LOG-WAREHOUSES-007",
+    "item_id": "LOG-ITEMS-007",
+    "batch_code": "Batch 007",
+    "received_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-07-21T00:00:00Z"
+    },
+    "quantity_received": 202,
+    "quantity_available": 180,
+    "unit_cost_inr": 102,
+    "quality_state": "accepted",
+    "bin_label": "Bin 007",
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-008",
+    "warehouse_id": "LOG-WAREHOUSES-008",
+    "item_id": "LOG-ITEMS-008",
+    "batch_code": "Batch 008",
+    "received_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-07-24T00:00:00Z"
+    },
+    "quantity_received": 203,
+    "quantity_available": 180,
+    "unit_cost_inr": 103,
+    "quality_state": "accepted",
+    "bin_label": "Bin 008",
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-009",
+    "warehouse_id": "LOG-WAREHOUSES-009",
+    "item_id": "LOG-ITEMS-009",
+    "batch_code": "Batch 009",
+    "received_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-07-27T00:00:00Z"
+    },
+    "quantity_received": 204,
+    "quantity_available": 180,
+    "unit_cost_inr": 104,
+    "quality_state": "accepted",
+    "bin_label": "Bin 009",
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-010",
+    "warehouse_id": "LOG-WAREHOUSES-010",
+    "item_id": "LOG-ITEMS-010",
+    "batch_code": "Batch 010",
+    "received_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-07-30T00:00:00Z"
+    },
+    "quantity_received": 200,
+    "quantity_available": 180,
+    "unit_cost_inr": 100,
+    "quality_state": "accepted",
+    "bin_label": "Bin 010",
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-011",
+    "warehouse_id": "LOG-WAREHOUSES-011",
+    "item_id": "LOG-ITEMS-011",
+    "batch_code": "Batch 011",
+    "received_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-08-02T00:00:00Z"
+    },
+    "quantity_received": 201,
+    "quantity_available": 180,
+    "unit_cost_inr": 101,
+    "quality_state": "accepted",
+    "bin_label": "Bin 011",
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-012",
+    "warehouse_id": "LOG-WAREHOUSES-012",
+    "item_id": "LOG-ITEMS-012",
+    "batch_code": "Batch 012",
+    "received_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-08-05T00:00:00Z"
+    },
+    "quantity_received": 202,
+    "quantity_available": 180,
+    "unit_cost_inr": 102,
+    "quality_state": "accepted",
+    "bin_label": "Bin 012",
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-013",
+    "warehouse_id": "LOG-WAREHOUSES-013",
+    "item_id": "LOG-ITEMS-013",
+    "batch_code": "Batch 013",
+    "received_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-08-08T00:00:00Z"
+    },
+    "quantity_received": 203,
+    "quantity_available": 180,
+    "unit_cost_inr": 103,
+    "quality_state": "accepted",
+    "bin_label": "Bin 013",
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-014",
+    "warehouse_id": "LOG-WAREHOUSES-014",
+    "item_id": "LOG-ITEMS-014",
+    "batch_code": "Batch 014",
+    "received_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-08-11T00:00:00Z"
+    },
+    "quantity_received": 204,
+    "quantity_available": 180,
+    "unit_cost_inr": 104,
+    "quality_state": "accepted",
+    "bin_label": "Bin 014",
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-015",
+    "warehouse_id": "LOG-WAREHOUSES-015",
+    "item_id": "LOG-ITEMS-015",
+    "batch_code": "Batch 015",
+    "received_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-08-14T00:00:00Z"
+    },
+    "quantity_received": 200,
+    "quantity_available": 180,
+    "unit_cost_inr": 100,
+    "quality_state": "accepted",
+    "bin_label": "Bin 015",
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-016",
+    "warehouse_id": "LOG-WAREHOUSES-016",
+    "item_id": "LOG-ITEMS-016",
+    "batch_code": "Batch 016",
+    "received_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-08-17T00:00:00Z"
+    },
+    "quantity_received": 201,
+    "quantity_available": 180,
+    "unit_cost_inr": 101,
+    "quality_state": "accepted",
+    "bin_label": "Bin 016",
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-017",
+    "warehouse_id": "LOG-WAREHOUSES-017",
+    "item_id": "LOG-ITEMS-017",
+    "batch_code": "Batch 017",
+    "received_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-08-20T00:00:00Z"
+    },
+    "quantity_received": 202,
+    "quantity_available": 180,
+    "unit_cost_inr": 102,
+    "quality_state": "accepted",
+    "bin_label": "Bin 017",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-018",
+    "warehouse_id": "LOG-WAREHOUSES-018",
+    "item_id": "LOG-ITEMS-018",
+    "batch_code": "Batch 018",
+    "received_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-08-23T00:00:00Z"
+    },
+    "quantity_received": 203,
+    "quantity_available": 180,
+    "unit_cost_inr": 103,
+    "quality_state": "accepted",
+    "bin_label": "Bin 018",
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-019",
+    "warehouse_id": "LOG-WAREHOUSES-019",
+    "item_id": "LOG-ITEMS-019",
+    "batch_code": "Batch 019",
+    "received_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-08-26T00:00:00Z"
+    },
+    "quantity_received": 204,
+    "quantity_available": 180,
+    "unit_cost_inr": 104,
+    "quality_state": "accepted",
+    "bin_label": "Bin 019",
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-020",
+    "warehouse_id": "LOG-WAREHOUSES-020",
+    "item_id": "LOG-ITEMS-020",
+    "batch_code": "Batch 020",
+    "received_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-08-29T00:00:00Z"
+    },
+    "quantity_received": 200,
+    "quantity_available": 180,
+    "unit_cost_inr": 100,
+    "quality_state": "accepted",
+    "bin_label": "Bin 020",
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-021",
+    "warehouse_id": "LOG-WAREHOUSES-021",
+    "item_id": "LOG-ITEMS-021",
+    "batch_code": "Batch 021",
+    "received_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-09-01T00:00:00Z"
+    },
+    "quantity_received": 201,
+    "quantity_available": 180,
+    "unit_cost_inr": 101,
+    "quality_state": "accepted",
+    "bin_label": "Bin 021",
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-022",
+    "warehouse_id": "LOG-WAREHOUSES-022",
+    "item_id": "LOG-ITEMS-022",
+    "batch_code": "Batch 022",
+    "received_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-09-04T00:00:00Z"
+    },
+    "quantity_received": 202,
+    "quantity_available": 180,
+    "unit_cost_inr": 102,
+    "quality_state": "accepted",
+    "bin_label": "Bin 022",
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-023",
+    "warehouse_id": "LOG-WAREHOUSES-023",
+    "item_id": "LOG-ITEMS-023",
+    "batch_code": "Batch 023",
+    "received_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-09-07T00:00:00Z"
+    },
+    "quantity_received": 203,
+    "quantity_available": 180,
+    "unit_cost_inr": 103,
+    "quality_state": "accepted",
+    "bin_label": "Bin 023",
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-024",
+    "warehouse_id": "LOG-WAREHOUSES-024",
+    "item_id": "LOG-ITEMS-024",
+    "batch_code": "Batch 024",
+    "received_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-09-10T00:00:00Z"
+    },
+    "quantity_received": 204,
+    "quantity_available": 180,
+    "unit_cost_inr": 104,
+    "quality_state": "accepted",
+    "bin_label": "Bin 024",
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-025",
+    "warehouse_id": "LOG-WAREHOUSES-025",
+    "item_id": "LOG-ITEMS-025",
+    "batch_code": "Batch 025",
+    "received_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-09-13T00:00:00Z"
+    },
+    "quantity_received": 200,
+    "quantity_available": 180,
+    "unit_cost_inr": 100,
+    "quality_state": "accepted",
+    "bin_label": "Bin 025",
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-026",
+    "warehouse_id": "LOG-WAREHOUSES-026",
+    "item_id": "LOG-ITEMS-026",
+    "batch_code": "Batch 026",
+    "received_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-09-16T00:00:00Z"
+    },
+    "quantity_received": 201,
+    "quantity_available": 180,
+    "unit_cost_inr": 101,
+    "quality_state": "accepted",
+    "bin_label": "Bin 026",
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-027",
+    "warehouse_id": "LOG-WAREHOUSES-027",
+    "item_id": "LOG-ITEMS-027",
+    "batch_code": "Batch 027",
+    "received_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-09-19T00:00:00Z"
+    },
+    "quantity_received": 202,
+    "quantity_available": 180,
+    "unit_cost_inr": 102,
+    "quality_state": "accepted",
+    "bin_label": "Bin 027",
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-028",
+    "warehouse_id": "LOG-WAREHOUSES-028",
+    "item_id": "LOG-ITEMS-028",
+    "batch_code": "Batch 028",
+    "received_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-09-22T00:00:00Z"
+    },
+    "quantity_received": 203,
+    "quantity_available": 180,
+    "unit_cost_inr": 103,
+    "quality_state": "accepted",
+    "bin_label": "Bin 028",
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-029",
+    "warehouse_id": "LOG-WAREHOUSES-029",
+    "item_id": "LOG-ITEMS-029",
+    "batch_code": "Batch 029",
+    "received_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-09-25T00:00:00Z"
+    },
+    "quantity_received": 204,
+    "quantity_available": 180,
+    "unit_cost_inr": 104,
+    "quality_state": "accepted",
+    "bin_label": "Bin 029",
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-030",
+    "warehouse_id": "LOG-WAREHOUSES-030",
+    "item_id": "LOG-ITEMS-030",
+    "batch_code": "Batch 030",
+    "received_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-09-28T00:00:00Z"
+    },
+    "quantity_received": 200,
+    "quantity_available": 180,
+    "unit_cost_inr": 100,
+    "quality_state": "accepted",
+    "bin_label": "Bin 030",
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-031",
+    "warehouse_id": "LOG-WAREHOUSES-031",
+    "item_id": "LOG-ITEMS-031",
+    "batch_code": "Batch 031",
+    "received_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-01T00:00:00Z"
+    },
+    "quantity_received": 201,
+    "quantity_available": 180,
+    "unit_cost_inr": 101,
+    "quality_state": "accepted",
+    "bin_label": "Bin 031",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-032",
+    "warehouse_id": "LOG-WAREHOUSES-032",
+    "item_id": "LOG-ITEMS-032",
+    "batch_code": "Batch 032",
+    "received_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-04T00:00:00Z"
+    },
+    "quantity_received": 202,
+    "quantity_available": 180,
+    "unit_cost_inr": 102,
+    "quality_state": "accepted",
+    "bin_label": "Bin 032",
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-033",
+    "warehouse_id": "LOG-WAREHOUSES-033",
+    "item_id": "LOG-ITEMS-033",
+    "batch_code": "Batch 033",
+    "received_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-07T00:00:00Z"
+    },
+    "quantity_received": 203,
+    "quantity_available": 180,
+    "unit_cost_inr": 103,
+    "quality_state": "accepted",
+    "bin_label": "Bin 033",
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-034",
+    "warehouse_id": "LOG-WAREHOUSES-034",
+    "item_id": "LOG-ITEMS-034",
+    "batch_code": "Batch 034",
+    "received_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-10T00:00:00Z"
+    },
+    "quantity_received": 204,
+    "quantity_available": 180,
+    "unit_cost_inr": 104,
+    "quality_state": "accepted",
+    "bin_label": "Bin 034",
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-035",
+    "warehouse_id": "LOG-WAREHOUSES-035",
+    "item_id": "LOG-ITEMS-035",
+    "batch_code": "Batch 035",
+    "received_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-13T00:00:00Z"
+    },
+    "quantity_received": 200,
+    "quantity_available": 180,
+    "unit_cost_inr": 100,
+    "quality_state": "accepted",
+    "bin_label": "Bin 035",
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-036",
+    "warehouse_id": "LOG-WAREHOUSES-036",
+    "item_id": "LOG-ITEMS-036",
+    "batch_code": "Batch 036",
+    "received_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-16T00:00:00Z"
+    },
+    "quantity_received": 201,
+    "quantity_available": 180,
+    "unit_cost_inr": 101,
+    "quality_state": "accepted",
+    "bin_label": "Bin 036",
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-037",
+    "warehouse_id": "LOG-WAREHOUSES-037",
+    "item_id": "LOG-ITEMS-037",
+    "batch_code": "Batch 037",
+    "received_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-19T00:00:00Z"
+    },
+    "quantity_received": 202,
+    "quantity_available": 180,
+    "unit_cost_inr": 102,
+    "quality_state": "accepted",
+    "bin_label": "Bin 037",
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-038",
+    "warehouse_id": "LOG-WAREHOUSES-038",
+    "item_id": "LOG-ITEMS-038",
+    "batch_code": "Batch 038",
+    "received_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-22T00:00:00Z"
+    },
+    "quantity_received": 203,
+    "quantity_available": 180,
+    "unit_cost_inr": 103,
+    "quality_state": "accepted",
+    "bin_label": "Bin 038",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-039",
+    "warehouse_id": "LOG-WAREHOUSES-039",
+    "item_id": "LOG-ITEMS-039",
+    "batch_code": "Batch 039",
+    "received_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-25T00:00:00Z"
+    },
+    "quantity_received": 204,
+    "quantity_available": 180,
+    "unit_cost_inr": 104,
+    "quality_state": "accepted",
+    "bin_label": "Bin 039",
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-040",
+    "warehouse_id": "LOG-WAREHOUSES-040",
+    "item_id": "LOG-ITEMS-040",
+    "batch_code": "Batch 040",
+    "received_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-28T00:00:00Z"
+    },
+    "quantity_received": 200,
+    "quantity_available": 180,
+    "unit_cost_inr": 100,
+    "quality_state": "accepted",
+    "bin_label": "Bin 040",
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-041",
+    "warehouse_id": "LOG-WAREHOUSES-041",
+    "item_id": "LOG-ITEMS-041",
+    "batch_code": "Batch 041",
+    "received_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-10-31T00:00:00Z"
+    },
+    "quantity_received": 201,
+    "quantity_available": 180,
+    "unit_cost_inr": 101,
+    "quality_state": "accepted",
+    "bin_label": "Bin 041",
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-042",
+    "warehouse_id": "LOG-WAREHOUSES-042",
+    "item_id": "LOG-ITEMS-042",
+    "batch_code": "Batch 042",
+    "received_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-11-03T00:00:00Z"
+    },
+    "quantity_received": 202,
+    "quantity_available": 180,
+    "unit_cost_inr": 102,
+    "quality_state": "accepted",
+    "bin_label": "Bin 042",
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-043",
+    "warehouse_id": "LOG-WAREHOUSES-043",
+    "item_id": "LOG-ITEMS-043",
+    "batch_code": "Batch 043",
+    "received_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-11-06T00:00:00Z"
+    },
+    "quantity_received": 203,
+    "quantity_available": 180,
+    "unit_cost_inr": 103,
+    "quality_state": "accepted",
+    "bin_label": "Bin 043",
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-044",
+    "warehouse_id": "LOG-WAREHOUSES-044",
+    "item_id": "LOG-ITEMS-044",
+    "batch_code": "Batch 044",
+    "received_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-11-09T00:00:00Z"
+    },
+    "quantity_received": 204,
+    "quantity_available": 180,
+    "unit_cost_inr": 104,
+    "quality_state": "accepted",
+    "bin_label": "Bin 044",
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-045",
+    "warehouse_id": "LOG-WAREHOUSES-045",
+    "item_id": "LOG-ITEMS-045",
+    "batch_code": "Batch 045",
+    "received_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-11-12T00:00:00Z"
+    },
+    "quantity_received": 200,
+    "quantity_available": 180,
+    "unit_cost_inr": 100,
+    "quality_state": "accepted",
+    "bin_label": "Bin 045",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-046",
+    "warehouse_id": "LOG-WAREHOUSES-046",
+    "item_id": "LOG-ITEMS-046",
+    "batch_code": "Batch 046",
+    "received_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-11-15T00:00:00Z"
+    },
+    "quantity_received": 201,
+    "quantity_available": 180,
+    "unit_cost_inr": 101,
+    "quality_state": "accepted",
+    "bin_label": "Bin 046",
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-047",
+    "warehouse_id": "LOG-WAREHOUSES-047",
+    "item_id": "LOG-ITEMS-047",
+    "batch_code": "Batch 047",
+    "received_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-11-18T00:00:00Z"
+    },
+    "quantity_received": 202,
+    "quantity_available": 180,
+    "unit_cost_inr": 102,
+    "quality_state": "accepted",
+    "bin_label": "Bin 047",
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-048",
+    "warehouse_id": "LOG-WAREHOUSES-048",
+    "item_id": "LOG-ITEMS-048",
+    "batch_code": "Batch 048",
+    "received_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-11-21T00:00:00Z"
+    },
+    "quantity_received": 203,
+    "quantity_available": 180,
+    "unit_cost_inr": 103,
+    "quality_state": "accepted",
+    "bin_label": "Bin 048",
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-049",
+    "warehouse_id": "LOG-WAREHOUSES-049",
+    "item_id": "LOG-ITEMS-049",
+    "batch_code": "Batch 049",
+    "received_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-11-24T00:00:00Z"
+    },
+    "quantity_received": 204,
+    "quantity_available": 180,
+    "unit_cost_inr": 104,
+    "quality_state": "accepted",
+    "bin_label": "Bin 049",
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "LOG-STOCK_BATCHES-050",
+    "warehouse_id": "LOG-WAREHOUSES-050",
+    "item_id": "LOG-ITEMS-050",
+    "batch_code": "Batch 050",
+    "received_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "expires_at": {
+      "$date": "2026-11-27T00:00:00Z"
+    },
+    "quantity_received": 200,
+    "quantity_available": 180,
+    "unit_cost_inr": 100,
+    "quality_state": "accepted",
+    "bin_label": "Bin 050",
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]

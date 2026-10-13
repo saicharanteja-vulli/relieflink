@@ -1,0 +1,1152 @@
+[
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-001",
+    "shelter_id": "SHE-SHELTERS-001",
+    "recorded_at": {
+      "$date": "2026-01-08T00:00:00Z"
+    },
+    "people_present": 3,
+    "households_present": 1,
+    "beds_occupied": 3,
+    "capacity_people": 101,
+    "available_places": 98,
+    "recorded_by": "Manager 001",
+    "snapshot_type": "daily 001",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-11-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-002",
+    "shelter_id": "SHE-SHELTERS-002",
+    "recorded_at": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "people_present": 4,
+    "households_present": 1,
+    "beds_occupied": 4,
+    "capacity_people": 102,
+    "available_places": 98,
+    "recorded_by": "Manager 002",
+    "snapshot_type": "daily 002",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-11-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-003",
+    "shelter_id": "SHE-SHELTERS-003",
+    "recorded_at": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "people_present": 5,
+    "households_present": 1,
+    "beds_occupied": 5,
+    "capacity_people": 103,
+    "available_places": 98,
+    "recorded_by": "Manager 003",
+    "snapshot_type": "daily 003",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-004",
+    "shelter_id": "SHE-SHELTERS-004",
+    "recorded_at": {
+      "$date": "2026-01-17T00:00:00Z"
+    },
+    "people_present": 6,
+    "households_present": 1,
+    "beds_occupied": 6,
+    "capacity_people": 104,
+    "available_places": 98,
+    "recorded_by": "Manager 004",
+    "snapshot_type": "daily 004",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-005",
+    "shelter_id": "SHE-SHELTERS-005",
+    "recorded_at": {
+      "$date": "2026-01-20T00:00:00Z"
+    },
+    "people_present": 2,
+    "households_present": 1,
+    "beds_occupied": 2,
+    "capacity_people": 100,
+    "available_places": 98,
+    "recorded_by": "Manager 005",
+    "snapshot_type": "daily 005",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-006",
+    "shelter_id": "SHE-SHELTERS-006",
+    "recorded_at": {
+      "$date": "2026-01-23T00:00:00Z"
+    },
+    "people_present": 3,
+    "households_present": 1,
+    "beds_occupied": 3,
+    "capacity_people": 101,
+    "available_places": 98,
+    "recorded_by": "Manager 006",
+    "snapshot_type": "daily 006",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-007",
+    "shelter_id": "SHE-SHELTERS-007",
+    "recorded_at": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "people_present": 4,
+    "households_present": 1,
+    "beds_occupied": 4,
+    "capacity_people": 102,
+    "available_places": 98,
+    "recorded_by": "Manager 007",
+    "snapshot_type": "daily 007",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-008",
+    "shelter_id": "SHE-SHELTERS-008",
+    "recorded_at": {
+      "$date": "2026-01-29T00:00:00Z"
+    },
+    "people_present": 5,
+    "households_present": 1,
+    "beds_occupied": 5,
+    "capacity_people": 103,
+    "available_places": 98,
+    "recorded_by": "Manager 008",
+    "snapshot_type": "daily 008",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-009",
+    "shelter_id": "SHE-SHELTERS-009",
+    "recorded_at": {
+      "$date": "2026-02-01T00:00:00Z"
+    },
+    "people_present": 6,
+    "households_present": 1,
+    "beds_occupied": 6,
+    "capacity_people": 104,
+    "available_places": 98,
+    "recorded_by": "Manager 009",
+    "snapshot_type": "daily 009",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-010",
+    "shelter_id": "SHE-SHELTERS-010",
+    "recorded_at": {
+      "$date": "2026-02-04T00:00:00Z"
+    },
+    "people_present": 2,
+    "households_present": 1,
+    "beds_occupied": 2,
+    "capacity_people": 100,
+    "available_places": 98,
+    "recorded_by": "Manager 010",
+    "snapshot_type": "daily 010",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-011",
+    "shelter_id": "SHE-SHELTERS-011",
+    "recorded_at": {
+      "$date": "2026-02-07T00:00:00Z"
+    },
+    "people_present": 3,
+    "households_present": 1,
+    "beds_occupied": 3,
+    "capacity_people": 101,
+    "available_places": 98,
+    "recorded_by": "Manager 011",
+    "snapshot_type": "daily 011",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-012",
+    "shelter_id": "SHE-SHELTERS-012",
+    "recorded_at": {
+      "$date": "2026-02-10T00:00:00Z"
+    },
+    "people_present": 4,
+    "households_present": 1,
+    "beds_occupied": 4,
+    "capacity_people": 102,
+    "available_places": 98,
+    "recorded_by": "Manager 012",
+    "snapshot_type": "daily 012",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-013",
+    "shelter_id": "SHE-SHELTERS-013",
+    "recorded_at": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "people_present": 5,
+    "households_present": 1,
+    "beds_occupied": 5,
+    "capacity_people": 103,
+    "available_places": 98,
+    "recorded_by": "Manager 013",
+    "snapshot_type": "daily 013",
+    "verified": true,
+    "created_at": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-014",
+    "shelter_id": "SHE-SHELTERS-014",
+    "recorded_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    },
+    "people_present": 6,
+    "households_present": 1,
+    "beds_occupied": 6,
+    "capacity_people": 104,
+    "available_places": 98,
+    "recorded_by": "Manager 014",
+    "snapshot_type": "daily 014",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-015",
+    "shelter_id": "SHE-SHELTERS-015",
+    "recorded_at": {
+      "$date": "2026-02-19T00:00:00Z"
+    },
+    "people_present": 2,
+    "households_present": 1,
+    "beds_occupied": 2,
+    "capacity_people": 100,
+    "available_places": 98,
+    "recorded_by": "Manager 015",
+    "snapshot_type": "daily 015",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-016",
+    "shelter_id": "SHE-SHELTERS-016",
+    "recorded_at": {
+      "$date": "2026-02-22T00:00:00Z"
+    },
+    "people_present": 3,
+    "households_present": 1,
+    "beds_occupied": 3,
+    "capacity_people": 101,
+    "available_places": 98,
+    "recorded_by": "Manager 016",
+    "snapshot_type": "daily 016",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-017",
+    "shelter_id": "SHE-SHELTERS-017",
+    "recorded_at": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "people_present": 4,
+    "households_present": 1,
+    "beds_occupied": 4,
+    "capacity_people": 102,
+    "available_places": 98,
+    "recorded_by": "Manager 017",
+    "snapshot_type": "daily 017",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-018",
+    "shelter_id": "SHE-SHELTERS-018",
+    "recorded_at": {
+      "$date": "2026-02-28T00:00:00Z"
+    },
+    "people_present": 5,
+    "households_present": 1,
+    "beds_occupied": 5,
+    "capacity_people": 103,
+    "available_places": 98,
+    "recorded_by": "Manager 018",
+    "snapshot_type": "daily 018",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-01-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-019",
+    "shelter_id": "SHE-SHELTERS-019",
+    "recorded_at": {
+      "$date": "2026-03-03T00:00:00Z"
+    },
+    "people_present": 6,
+    "households_present": 1,
+    "beds_occupied": 6,
+    "capacity_people": 104,
+    "available_places": 98,
+    "recorded_by": "Manager 019",
+    "snapshot_type": "daily 019",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-01-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-020",
+    "shelter_id": "SHE-SHELTERS-020",
+    "recorded_at": {
+      "$date": "2026-03-06T00:00:00Z"
+    },
+    "people_present": 2,
+    "households_present": 1,
+    "beds_occupied": 2,
+    "capacity_people": 100,
+    "available_places": 98,
+    "recorded_by": "Manager 020",
+    "snapshot_type": "daily 020",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-01-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-021",
+    "shelter_id": "SHE-SHELTERS-021",
+    "recorded_at": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "people_present": 3,
+    "households_present": 1,
+    "beds_occupied": 3,
+    "capacity_people": 101,
+    "available_places": 98,
+    "recorded_by": "Manager 021",
+    "snapshot_type": "daily 021",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-01-24T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-022",
+    "shelter_id": "SHE-SHELTERS-022",
+    "recorded_at": {
+      "$date": "2026-03-12T00:00:00Z"
+    },
+    "people_present": 4,
+    "households_present": 1,
+    "beds_occupied": 4,
+    "capacity_people": 102,
+    "available_places": 98,
+    "recorded_by": "Manager 022",
+    "snapshot_type": "daily 022",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-023",
+    "shelter_id": "SHE-SHELTERS-023",
+    "recorded_at": {
+      "$date": "2026-03-15T00:00:00Z"
+    },
+    "people_present": 5,
+    "households_present": 1,
+    "beds_occupied": 5,
+    "capacity_people": 103,
+    "available_places": 98,
+    "recorded_by": "Manager 023",
+    "snapshot_type": "daily 023",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-01-30T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-024",
+    "shelter_id": "SHE-SHELTERS-024",
+    "recorded_at": {
+      "$date": "2026-03-18T00:00:00Z"
+    },
+    "people_present": 6,
+    "households_present": 1,
+    "beds_occupied": 6,
+    "capacity_people": 104,
+    "available_places": 98,
+    "recorded_by": "Manager 024",
+    "snapshot_type": "daily 024",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-02-02T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-025",
+    "shelter_id": "SHE-SHELTERS-025",
+    "recorded_at": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "people_present": 2,
+    "households_present": 1,
+    "beds_occupied": 2,
+    "capacity_people": 100,
+    "available_places": 98,
+    "recorded_by": "Manager 025",
+    "snapshot_type": "daily 025",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-02-05T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-026",
+    "shelter_id": "SHE-SHELTERS-026",
+    "recorded_at": {
+      "$date": "2026-03-24T00:00:00Z"
+    },
+    "people_present": 3,
+    "households_present": 1,
+    "beds_occupied": 3,
+    "capacity_people": 101,
+    "available_places": 98,
+    "recorded_by": "Manager 026",
+    "snapshot_type": "daily 026",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-02-08T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-027",
+    "shelter_id": "SHE-SHELTERS-027",
+    "recorded_at": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "people_present": 4,
+    "households_present": 1,
+    "beds_occupied": 4,
+    "capacity_people": 102,
+    "available_places": 98,
+    "recorded_by": "Manager 027",
+    "snapshot_type": "daily 027",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-028",
+    "shelter_id": "SHE-SHELTERS-028",
+    "recorded_at": {
+      "$date": "2026-03-30T00:00:00Z"
+    },
+    "people_present": 5,
+    "households_present": 1,
+    "beds_occupied": 5,
+    "capacity_people": 103,
+    "available_places": 98,
+    "recorded_by": "Manager 028",
+    "snapshot_type": "daily 028",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-029",
+    "shelter_id": "SHE-SHELTERS-029",
+    "recorded_at": {
+      "$date": "2026-04-02T00:00:00Z"
+    },
+    "people_present": 6,
+    "households_present": 1,
+    "beds_occupied": 6,
+    "capacity_people": 104,
+    "available_places": 98,
+    "recorded_by": "Manager 029",
+    "snapshot_type": "daily 029",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-030",
+    "shelter_id": "SHE-SHELTERS-030",
+    "recorded_at": {
+      "$date": "2026-04-05T00:00:00Z"
+    },
+    "people_present": 2,
+    "households_present": 1,
+    "beds_occupied": 2,
+    "capacity_people": 100,
+    "available_places": 98,
+    "recorded_by": "Manager 030",
+    "snapshot_type": "daily 030",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-031",
+    "shelter_id": "SHE-SHELTERS-031",
+    "recorded_at": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "people_present": 3,
+    "households_present": 1,
+    "beds_occupied": 3,
+    "capacity_people": 101,
+    "available_places": 98,
+    "recorded_by": "Manager 031",
+    "snapshot_type": "daily 031",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-032",
+    "shelter_id": "SHE-SHELTERS-032",
+    "recorded_at": {
+      "$date": "2026-04-11T00:00:00Z"
+    },
+    "people_present": 4,
+    "households_present": 1,
+    "beds_occupied": 4,
+    "capacity_people": 102,
+    "available_places": 98,
+    "recorded_by": "Manager 032",
+    "snapshot_type": "daily 032",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-02-26T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-033",
+    "shelter_id": "SHE-SHELTERS-033",
+    "recorded_at": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "people_present": 5,
+    "households_present": 1,
+    "beds_occupied": 5,
+    "capacity_people": 103,
+    "available_places": 98,
+    "recorded_by": "Manager 033",
+    "snapshot_type": "daily 033",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-034",
+    "shelter_id": "SHE-SHELTERS-034",
+    "recorded_at": {
+      "$date": "2026-04-17T00:00:00Z"
+    },
+    "people_present": 6,
+    "households_present": 1,
+    "beds_occupied": 6,
+    "capacity_people": 104,
+    "available_places": 98,
+    "recorded_by": "Manager 034",
+    "snapshot_type": "daily 034",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-035",
+    "shelter_id": "SHE-SHELTERS-035",
+    "recorded_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    },
+    "people_present": 2,
+    "households_present": 1,
+    "beds_occupied": 2,
+    "capacity_people": 100,
+    "available_places": 98,
+    "recorded_by": "Manager 035",
+    "snapshot_type": "daily 035",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-036",
+    "shelter_id": "SHE-SHELTERS-036",
+    "recorded_at": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "people_present": 3,
+    "households_present": 1,
+    "beds_occupied": 3,
+    "capacity_people": 101,
+    "available_places": 98,
+    "recorded_by": "Manager 036",
+    "snapshot_type": "daily 036",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-037",
+    "shelter_id": "SHE-SHELTERS-037",
+    "recorded_at": {
+      "$date": "2026-04-26T00:00:00Z"
+    },
+    "people_present": 4,
+    "households_present": 1,
+    "beds_occupied": 4,
+    "capacity_people": 102,
+    "available_places": 98,
+    "recorded_by": "Manager 037",
+    "snapshot_type": "daily 037",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-038",
+    "shelter_id": "SHE-SHELTERS-038",
+    "recorded_at": {
+      "$date": "2026-04-29T00:00:00Z"
+    },
+    "people_present": 5,
+    "households_present": 1,
+    "beds_occupied": 5,
+    "capacity_people": 103,
+    "available_places": 98,
+    "recorded_by": "Manager 038",
+    "snapshot_type": "daily 038",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-039",
+    "shelter_id": "SHE-SHELTERS-039",
+    "recorded_at": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "people_present": 6,
+    "households_present": 1,
+    "beds_occupied": 6,
+    "capacity_people": 104,
+    "available_places": 98,
+    "recorded_by": "Manager 039",
+    "snapshot_type": "daily 039",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-19T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-040",
+    "shelter_id": "SHE-SHELTERS-040",
+    "recorded_at": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "people_present": 2,
+    "households_present": 1,
+    "beds_occupied": 2,
+    "capacity_people": 100,
+    "available_places": 98,
+    "recorded_by": "Manager 040",
+    "snapshot_type": "daily 040",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-041",
+    "shelter_id": "SHE-SHELTERS-041",
+    "recorded_at": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "people_present": 3,
+    "households_present": 1,
+    "beds_occupied": 3,
+    "capacity_people": 101,
+    "available_places": 98,
+    "recorded_by": "Manager 041",
+    "snapshot_type": "daily 041",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-25T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-042",
+    "shelter_id": "SHE-SHELTERS-042",
+    "recorded_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "people_present": 4,
+    "households_present": 1,
+    "beds_occupied": 4,
+    "capacity_people": 102,
+    "available_places": 98,
+    "recorded_by": "Manager 042",
+    "snapshot_type": "daily 042",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-28T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-043",
+    "shelter_id": "SHE-SHELTERS-043",
+    "recorded_at": {
+      "$date": "2026-05-14T00:00:00Z"
+    },
+    "people_present": 5,
+    "households_present": 1,
+    "beds_occupied": 5,
+    "capacity_people": 103,
+    "available_places": 98,
+    "recorded_by": "Manager 043",
+    "snapshot_type": "daily 043",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-03-31T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-044",
+    "shelter_id": "SHE-SHELTERS-044",
+    "recorded_at": {
+      "$date": "2026-05-17T00:00:00Z"
+    },
+    "people_present": 6,
+    "households_present": 1,
+    "beds_occupied": 6,
+    "capacity_people": 104,
+    "available_places": 98,
+    "recorded_by": "Manager 044",
+    "snapshot_type": "daily 044",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-045",
+    "shelter_id": "SHE-SHELTERS-045",
+    "recorded_at": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "people_present": 2,
+    "households_present": 1,
+    "beds_occupied": 2,
+    "capacity_people": 100,
+    "available_places": 98,
+    "recorded_by": "Manager 045",
+    "snapshot_type": "daily 045",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-046",
+    "shelter_id": "SHE-SHELTERS-046",
+    "recorded_at": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "people_present": 3,
+    "households_present": 1,
+    "beds_occupied": 3,
+    "capacity_people": 101,
+    "available_places": 98,
+    "recorded_by": "Manager 046",
+    "snapshot_type": "daily 046",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-04-09T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-047",
+    "shelter_id": "SHE-SHELTERS-047",
+    "recorded_at": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "people_present": 4,
+    "households_present": 1,
+    "beds_occupied": 4,
+    "capacity_people": 102,
+    "available_places": 98,
+    "recorded_by": "Manager 047",
+    "snapshot_type": "daily 047",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-048",
+    "shelter_id": "SHE-SHELTERS-048",
+    "recorded_at": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "people_present": 5,
+    "households_present": 1,
+    "beds_occupied": 5,
+    "capacity_people": 103,
+    "available_places": 98,
+    "recorded_by": "Manager 048",
+    "snapshot_type": "daily 048",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-049",
+    "shelter_id": "SHE-SHELTERS-049",
+    "recorded_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "people_present": 6,
+    "households_present": 1,
+    "beds_occupied": 6,
+    "capacity_people": 104,
+    "available_places": 98,
+    "recorded_by": "Manager 049",
+    "snapshot_type": "daily 049",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  },
+  {
+    "_id": "SHE-OCCUPANCY_SNAPSHOTS-050",
+    "shelter_id": "SHE-SHELTERS-050",
+    "recorded_at": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "people_present": 2,
+    "households_present": 1,
+    "beds_occupied": 2,
+    "capacity_people": 100,
+    "available_places": 98,
+    "recorded_by": "Manager 050",
+    "snapshot_type": "daily 050",
+    "verified": true,
+    "created_at": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "data_source": "synthetic_academic",
+    "record_version": 1
+  }
+]
